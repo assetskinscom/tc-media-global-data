@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T04:17:30Z",
+  "generated_at": "2026-10-26T05:16:29Z",
   "last_full_refresh_at": "2026-10-25T06:53:38Z",
   "channels": {
     "music": {
@@ -118,6 +118,34 @@
     }
   },
   "videos": [
+    {
+      "id": "nhNBVwjK21Y",
+      "title": "Mẹ Già Giấu 3,2 Triệu Tệ Tiền Hưu, Nào Ngờ Con Trai Đuổi Bà Khỏi Nhà Khi Bà Từ Chối Cho Vay Tiền!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-26T05:00:31Z",
+      "duration_seconds": 4497,
+      "thumbnail_url": "https://i.ytimg.com/vi/nhNBVwjK21Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Zk7rm3TMXpM",
+      "title": "Pegawai Miskin Menagih Sewa, Selamatkan CEO Yang Dibius, Usai Semalam Bersama Ia Diajak Menikah!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-26T05:00:00Z",
+      "duration_seconds": 5742,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zk7rm3TMXpM/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "vYyGC9RjlyQ",
       "title": "Mantan Pasukan Khusus Dewa Perang Melihat CEO Cantik Diburu Preman, Langsung Menghabisi Mereka!",
