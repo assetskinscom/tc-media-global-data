@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T05:16:29Z",
+  "generated_at": "2026-10-26T06:15:04Z",
   "last_full_refresh_at": "2026-10-25T06:53:38Z",
   "channels": {
     "music": {
@@ -118,6 +118,90 @@
     }
   },
   "videos": [
+    {
+      "id": "DVzp5JQczio",
+      "title": "별이 말하던 밤 — 이별 후에도 남은 말, 감성 팝발라드 (Official Lyric Video)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-26T06:07:46Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/DVzp5JQczio/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "P-WQlpjD2ck",
+      "title": "별이 말하던 밤 (Official)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-26T06:07:07Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/P-WQlpjD2ck/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "cT3jIPaCuvU",
+      "title": "Bị Đuổi Khỏi Doanh Trại Tôi Thức Tỉnh Hệ Thống Sinh Tồn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-26T06:00:44Z",
+      "duration_seconds": 4924,
+      "thumbnail_url": "https://i.ytimg.com/vi/cT3jIPaCuvU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FmcK854GUaQ",
+      "title": "Adik Lelaki Bawa Makanan, Kakaknya Kelaparan Sampai Pingsan Di Rumah Suami, Ia Langsung Balas Dendam",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-26T05:50:13Z",
+      "duration_seconds": 5089,
+      "thumbnail_url": "https://i.ytimg.com/vi/FmcK854GUaQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "rYP5Fp_xwUQ",
+      "title": "Full Version l Tôi Cược Yêu Cô Gái Nghèo, Nào Ngờ Cô Là Ân Nhân Tôi Tìm Suốt 17 Năm l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-26T05:43:41Z",
+      "duration_seconds": 3101,
+      "thumbnail_url": "https://i.ytimg.com/vi/rYP5Fp_xwUQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "G06O_rzRR18",
+      "title": "Phần 3(P4):  Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-26T05:36:31Z",
+      "duration_seconds": 3363,
+      "thumbnail_url": "https://i.ytimg.com/vi/G06O_rzRR18/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "nhNBVwjK21Y",
       "title": "Mẹ Già Giấu 3,2 Triệu Tệ Tiền Hưu, Nào Ngờ Con Trai Đuổi Bà Khỏi Nhà Khi Bà Từ Chối Cho Vay Tiền!",
