@@ -1,2 +1,32 @@
 <!doctype html>
-<html lang="vi"><head><meta charset="utf-8"><title>TC Media Global V2 Data</title></head><body><h1>TC Media Global V2 – Public Catalog</h1><p>Dữ liệu công khai cho ứng dụng Android. Truy cập <a href="data/status.json">trạng thái đồng bộ</a>. · <a href="privacy.html">Chính sách quyền riêng tư</a>.</p></body></html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TC Media Global V2 — Danh mục video công khai</title>
+  <meta name="description" content="Dữ liệu video công khai và chính sách quyền riêng tư của ứng dụng TC Media Global V2.">
+  <style>
+    :root{color-scheme:dark}body{font:16px/1.65 system-ui,sans-serif;background:#101423;color:#f4f6fc;margin:0}
+    main{max-width:850px;padding:40px 24px;margin:auto}h1{font-size:clamp(24px,4vw,38px);line-height:1.2}
+    a{color:#a9caff}a:hover{text-decoration:underline}li{margin:8px 0}
+    .muted{color:#bac3d4}.panel{background:#192239;border:1px solid #354260;padding:20px 24px;border-radius:16px}
+  </style>
+</head>
+<body>
+<main>
+  <h1>TC Media Global V2</h1>
+  <p class="muted">Danh mục video công khai cho ứng dụng Android <code>com.tcmediaglobal.app</code>. Dữ liệu được đồng bộ từ YouTube Data API bằng GitHub Actions, không chứa video tải về.</p>
+  <section class="panel" aria-labelledby="catalog-title">
+    <h2 id="catalog-title">Danh mục JSON</h2>
+    <ul>
+      <li><a href="data/feed.json">feed.json — Danh mục tổng hợp</a></li>
+      <li><a href="data/status.json">status.json — Trạng thái đồng bộ</a></li>
+      <li><a href="data/music.json">Music</a> · <a href="data/edm.json">EDM</a> · <a href="data/shorts.json">Shorts</a></li>
+      <li><a href="data/cartoon.json">Phim hoạt hình</a> · <a href="data/drama.json">Phim drama</a></li>
+    </ul>
+  </section>
+  <p><a href="privacy.html">Chính sách quyền riêng tư của TC Media Global V2</a></p>
+  <p class="muted">Nội dung video được phát qua dịch vụ YouTube hoặc nguồn bên thứ ba; TC Media Global không phải sản phẩm do YouTube cung cấp hoặc bảo trợ.</p>
+</main>
+</body>
+</html>
