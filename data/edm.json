@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-26T11:20:47Z",
+  "generated_at": "2026-10-26T14:00:12Z",
   "videos": [
+    {
+      "id": "BeUtMTtZU4k",
+      "title": "Élan Néon — EP EDM énergique",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-26T13:25:12Z",
+      "duration_seconds": 1061,
+      "thumbnail_url": "https://i.ytimg.com/vi/BeUtMTtZU4k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
     {
       "id": "N3TA_UybczE",
       "title": "霓虹啟程 — 高能台灣風 EDM 七首曲連",
