@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T10:21:43Z",
+  "generated_at": "2026-10-26T11:20:47Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,132 @@
     }
   },
   "videos": [
+    {
+      "id": "FXd6qgKLEo8",
+      "title": "จดหมายฉบับไม่ลงชื่อ",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-26T11:07:32Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/FXd6qgKLEo8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "Hwg638Icwek",
+      "title": "จดหมายฉบับไม่ลงชื่อ — เพลงป็อปบัลลาดเศร้าๆ เล่าเรื่องการบอกลา (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-26T11:07:21Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/Hwg638Icwek/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "kHfnN1Gpce0",
+      "title": "CEO Cantik Tenggelam Diselamatkan Pria Asing Yang Rela Mati, Ia Serahkan Diri Sebagai Balas Budi!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-26T11:00:39Z",
+      "duration_seconds": 9199,
+      "thumbnail_url": "https://i.ytimg.com/vi/kHfnN1Gpce0/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "hdKDfiKD858",
+      "title": "Mạt Thế Trọng Sinh: Thức Tỉnh Hệ Thống Từ Khóa Thu Phục Nữ Hoàng Tang Thi | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-26T11:00:26Z",
+      "duration_seconds": 9115,
+      "thumbnail_url": "https://i.ytimg.com/vi/hdKDfiKD858/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zHsXD3dvbl0",
+      "title": "Mang Thai Ở Tuổi 43 Bị Con Nuôi Khinh Rẻ, Nào Ngờ Cha Đứa Bé Là Chủ Tịch Hào Môn Giàu Có Bậc Nhất",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-26T11:00:20Z",
+      "duration_seconds": 10755,
+      "thumbnail_url": "https://i.ytimg.com/vi/zHsXD3dvbl0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "HbtOHkwnoto",
+      "title": "Một tay chơi có vẻ lập dị đã bí mật thao túng triều đình và vô tình chinh phục thế giới",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-26T11:00:12Z",
+      "duration_seconds": 13822,
+      "thumbnail_url": "https://i.ytimg.com/vi/HbtOHkwnoto/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "C5vf1kVD6tQ",
+      "title": "CEO Wanita Ditatap Pria Asing, Dikira Mesum, Ternyata Ia Dewa Perang Yang Menyelamatkan Nyawanya",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-26T10:45:01Z",
+      "duration_seconds": 3767,
+      "thumbnail_url": "https://i.ytimg.com/vi/C5vf1kVD6tQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "aEfbgZTtREY",
+      "title": "Hai Cô Bạn Thân Xuyên Về Thập Niên, Giả Vờ Bất Hòa Để Hợp Sức Trị Mẹ Chồng Ác!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-10-26T10:37:24Z",
+      "duration_seconds": 7301,
+      "thumbnail_url": "https://i.ytimg.com/vi/aEfbgZTtREY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Svy4X4mUf_4",
+      "title": "6 GIỜ | Xuyên Làm Tử Tù - Tăng Gấp Vạn Lần Thể Chất - Hệ Thống Luân Hồi Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-26T10:29:09Z",
+      "duration_seconds": 22018,
+      "thumbnail_url": "https://i.ytimg.com/vi/Svy4X4mUf_4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "3tpEa4OBc2w",
       "title": "Bị Vị Hôn Thê Lừa Sạch Gia Sản: Tuyệt Cảnh Thu Phục Vạn Độc Đỉnh, Ta Luyện Độc Dược Báo Thù Thành Đế",
