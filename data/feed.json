@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T09:36:16Z",
+  "generated_at": "2026-10-26T09:49:49Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,34 @@
     }
   },
   "videos": [
+    {
+      "id": "X_DdSr8WETw",
+      "title": "4,5 GIỜ | Xuyên Làm Tạp Dịch - Hệ Thống Võ Thần - Âm Thầm Leo Lên Top 1 Bảng Xếp Hạng Chiến Lực",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-26T09:41:39Z",
+      "duration_seconds": 15611,
+      "thumbnail_url": "https://i.ytimg.com/vi/X_DdSr8WETw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "EzWExgBRd2c",
+      "title": "Phần 33 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-26T09:40:28Z",
+      "duration_seconds": 7553,
+      "thumbnail_url": "https://i.ytimg.com/vi/EzWExgBRd2c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "TLLlPq53U9M",
       "title": "Full Version l Em Trai Bạn Thân Quá Biết Dỗ Dành, Tôi Chẳng Thể Giấu Nổi Rung Động l Sora Dub",
