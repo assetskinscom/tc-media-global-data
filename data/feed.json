@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T21:12:58Z",
+  "generated_at": "2026-10-26T22:12:23Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,20 @@
     }
   },
   "videos": [
+    {
+      "id": "7v6ww4q1Ens",
+      "title": "Nhà Giàu Khinh Cô Lấy Vệ Sĩ Nghèo, Nào Ngờ Chồng Mở Công Ty Giao Hàng Còn Cô Thành Bà Chủ Shop Lớn",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-26T22:00:11Z",
+      "duration_seconds": 9410,
+      "thumbnail_url": "https://i.ytimg.com/vi/7v6ww4q1Ens/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "An1slxIJ49Q",
       "title": "Người Lái Xe Buổi Đêm Mộng Mơ (Bolero)",
