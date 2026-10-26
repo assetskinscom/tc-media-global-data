@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T00:58:59Z",
+  "generated_at": "2026-10-26T01:37:26Z",
   "last_full_refresh_at": "2026-10-25T06:53:38Z",
   "channels": {
     "music": {
@@ -118,6 +118,34 @@
     }
   },
   "videos": [
+    {
+      "id": "3lILX9WtmUs",
+      "title": "Thiếu Gia Phế Vật Đã Bất Bại Từ Lâu - Hệ Thống Nạp Tiền Vô Địch - Một Bước Ta Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-26T01:22:56Z",
+      "duration_seconds": 9809,
+      "thumbnail_url": "https://i.ytimg.com/vi/3lILX9WtmUs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "CICqbwe717w",
+      "title": "Phần 1: Từ Thần Làng Nhỏ Bé, Ta Diệt Yêu Trừ Ma, Nhờ Hương Hỏa Thành Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-26T01:13:42Z",
+      "duration_seconds": 15194,
+      "thumbnail_url": "https://i.ytimg.com/vi/CICqbwe717w/hqdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "mzcMsidhZPk",
       "title": "Cô Dâu Tưởng Cô Ruột Chú Rể Là Tiểu Tam, Nào Ngờ Bà Là Chủ Tịch Nắm Quyền Khiến Đám Cưới Tan Tành",
