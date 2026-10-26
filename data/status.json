@@ -1,32 +1,32 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-26T09:49:49Z",
+  "last_success_at": "2026-10-26T10:21:43Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "video_counts": {
     "music": 185,
     "edm": 33,
     "shorts": 323,
-    "cartoon": 2704,
-    "drama": 1837,
+    "cartoon": 2706,
+    "drama": 1839,
     "music_shorts": 323,
     "music_long": 33,
-    "movies": 2704
+    "movies": 2706
   },
   "source_counts": {
     "music": 508,
     "movies": 433,
-    "movies2": 188,
+    "movies2": 189,
     "movies3": 232,
     "movies4": 601,
     "movies5": 145,
-    "movies6": 509,
+    "movies6": 510,
     "movies7": 601,
     "drama": 118,
     "drama2": 280,
-    "drama3": 109,
+    "drama3": 110,
     "drama4": 305,
     "drama5": 605,
-    "drama6": 602
+    "drama6": 603
   },
   "sources": {
     "music": {
@@ -43,7 +43,7 @@
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 188,
+      "video_count": 189,
       "sync_status": "ok",
       "error": ""
     },
@@ -67,7 +67,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 509,
+      "video_count": 510,
       "sync_status": "ok",
       "error": ""
     },
@@ -91,7 +91,7 @@
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 109,
+      "video_count": 110,
       "sync_status": "ok",
       "error": ""
     },
@@ -109,7 +109,7 @@
     },
     "drama6": {
       "handle": "@sambalclips",
-      "video_count": 602,
+      "video_count": 603,
       "sync_status": "ok",
       "error": ""
     }

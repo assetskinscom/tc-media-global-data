@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T09:49:49Z",
+  "generated_at": "2026-10-26T10:21:43Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "3tpEa4OBc2w",
+      "title": "Bị Vị Hôn Thê Lừa Sạch Gia Sản: Tuyệt Cảnh Thu Phục Vạn Độc Đỉnh, Ta Luyện Độc Dược Báo Thù Thành Đế",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-26T10:00:31Z",
+      "duration_seconds": 10383,
+      "thumbnail_url": "https://i.ytimg.com/vi/3tpEa4OBc2w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "U31vh6q_UVg",
+      "title": "Geng Preman Bersenjata Parang Hancurkan Perguruan Silat, Guru Wanita Kalahkan Semua Sekali Tinju",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-26T10:00:20Z",
+      "duration_seconds": 4547,
+      "thumbnail_url": "https://i.ytimg.com/vi/U31vh6q_UVg/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Pbex8HWPVK0",
+      "title": "Tổng Tài Hận Người Yêu Cũ Vì Tưởng Cô Bỏ Con Đi Du Học, Nào Ngờ Sự Thật Khiến Anh Đau Đớn Tột Cùng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-26T10:00:16Z",
+      "duration_seconds": 6830,
+      "thumbnail_url": "https://i.ytimg.com/vi/Pbex8HWPVK0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Ko4pBcvymNE",
+      "title": "Toàn Dân Sinh Tồn:  Ta Thức Tỉnh Hệ Thống Giao Hàng Cho Quái Vật Biển Sâu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-26T10:00:04Z",
+      "duration_seconds": 9280,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ko4pBcvymNE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "X_DdSr8WETw",
       "title": "4,5 GIỜ | Xuyên Làm Tạp Dịch - Hệ Thống Võ Thần - Âm Thầm Leo Lên Top 1 Bảng Xếp Hạng Chiến Lực",
