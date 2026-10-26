@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T02:16:43Z",
+  "generated_at": "2026-10-26T03:00:04Z",
   "last_full_refresh_at": "2026-10-25T06:53:38Z",
   "channels": {
     "music": {
@@ -118,6 +118,48 @@
     }
   },
   "videos": [
+    {
+      "id": "HKC4mWH-phg",
+      "title": "Ketua Wanita Pergoki Suami Selingkuh, Dihina Pelakor, Balas Dendam Diam-Diam Hingga Suami Bangkrut",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-26T03:00:02Z",
+      "duration_seconds": 2833,
+      "thumbnail_url": "https://i.ytimg.com/vi/HKC4mWH-phg/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "rsfyQGB3XNs",
+      "title": "Nữ chính xuyên không đến thế giới tu luyện, không dựa vào ma lực mà dựa vào bánh bao để thanh tẩy",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-26T02:56:30Z",
+      "duration_seconds": 14658,
+      "thumbnail_url": "https://i.ytimg.com/vi/rsfyQGB3XNs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XXDm-Mjz14A",
+      "title": "5,5 GIỜ | Thiên Tài Xuyên Làm Hoàng Tử Phế Vật - Ta Xây Đế Chế Công Nghiệp Thời Cổ Đại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-26T02:27:42Z",
+      "duration_seconds": 19365,
+      "thumbnail_url": "https://i.ytimg.com/vi/XXDm-Mjz14A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "bAwyp3mFUUE",
       "title": "Cả Nhà Chê Chàng Rể Nghèo Chỉ Có 200 Tệ, Nào Ngờ Anh Là Thiếu Chủ Khiến Triệu Gia Quỳ Xin Tha Mạng",
@@ -43417,13 +43459,11 @@
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-08-08T10:00:32Z",
-      "duration_seconds": 9364,
+      "duration_seconds": 10,
       "thumbnail_url": "https://i.ytimg.com/vi/1GZpzY8FDC0/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
+      "kind": "short",
+      "categories": []
     },
     {
       "id": "R4KdJ7kf8tA",
