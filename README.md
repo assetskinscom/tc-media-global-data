@@ -28,3 +28,8 @@ Vui lòng xem [Chính sách quyền riêng tư](https://chusuntv.github.io/tc-me
 ---
 
 **TC Media Global V2** — Âm nhạc, video ngắn, phim và truyền hình trong một ứng dụng.
+
+
+### AdMob ON/OFF (v2.1)
+
+`data/ads-config.json` chỉ chứa `{"BAT_TAT_ADMOB":"ON"}` hoặc `{"BAT_TAT_ADMOB":"OFF"}`. File này được workflow `sync-admob-config.yml` ở repo `tc-media-global-android` cập nhật từ Actions Variable `BAT_TAT_ADMOB`. Đừng để workflow đồng bộ YouTube ghi đè giá trị cũ; khi kiểm tra dữ liệu, chỉ dùng `https://assetskinscom.github.io/tc-media-global-data/data/ads-config.json`.
