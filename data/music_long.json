@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-27T12:16:10Z",
+  "generated_at": "2026-10-27T13:32:32Z",
   "videos": [
+    {
+      "id": "vO0187wzbc4",
+      "title": "Ritmo Libre — Álbum EDM en Español",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-27T13:20:07Z",
+      "duration_seconds": 1243,
+      "thumbnail_url": "https://i.ytimg.com/vi/vO0187wzbc4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
     {
       "id": "BeUtMTtZU4k",
       "title": "Élan Néon — EP EDM énergique",
