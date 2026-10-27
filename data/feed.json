@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T00:06:32Z",
+  "generated_at": "2026-10-27T01:23:46Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,48 @@
     }
   },
   "videos": [
+    {
+      "id": "htGyZzqvJtI",
+      "title": "[FULL 6H] ĐỐT TIỀN NUÔI MỸ NỮ, TA NHẬN HOÀN TRẢ X10 TU VI CƯỚP SẠCH THIÊN HẠ | LY VIETSUB",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-10-27T01:16:19Z",
+      "duration_seconds": 23234,
+      "thumbnail_url": "https://i.ytimg.com/vi/htGyZzqvJtI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZzGhGFkGPoU",
+      "title": "3 GIỜ | Tạp Dịch Đệ Tử Duy Nhất Còn Sống Sót  - Hệ Thống Siêu Cấp Tông Môn Trở Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T01:09:44Z",
+      "duration_seconds": 10742,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZzGhGFkGPoU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "2El5MJ905zk",
+      "title": "Kiều Kiều Chê Anh Là Quản Lý Quèn Vì Xin Cá, Nào Ngờ Anh Sở Hữu Cả Khu Chợ Khiến Mọi Người Sốc Nặng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T01:00:29Z",
+      "duration_seconds": 8267,
+      "thumbnail_url": "https://i.ytimg.com/vi/2El5MJ905zk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "y7WYgOMj_XI",
       "title": "Bị Chồng Đuổi Khỏi Tiệc Thọ, Nữ Tổng Tài Giấu Thân Phận Rút 300 Triệu Tệ Khiến Nhà Chồng Sụp Đổ",
