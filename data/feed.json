@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T11:17:37Z",
+  "generated_at": "2026-10-27T12:16:10Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "channels": {
     "music": {
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "6NBq-VzCAtc",
+      "title": "Quỷ Vương Giả Ngốc Đi Ăn Vụng Đồ Cúng | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-27T12:00:37Z",
+      "duration_seconds": 4658,
+      "thumbnail_url": "https://i.ytimg.com/vi/6NBq-VzCAtc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vgvwGf7LctQ",
+      "title": "5 GIỜ | Cung Thủ Cấp F - Kích Hoạt Thiên Phú Độc Hồn Cấp SSS+ Vô Hạn Độc Tố - Vô Hạn Pháp Lực",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T12:00:28Z",
+      "duration_seconds": 17714,
+      "thumbnail_url": "https://i.ytimg.com/vi/vgvwGf7LctQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9HqaB6ZNsLA",
+      "title": "Tổng Tài Tưởng Mình Vô Sinh Nên Cưới Giả Nữ Bác Sĩ, Nào Ngờ Cô Sinh 5 Con Khiến Cả Nhà Sốc Nặng!!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T12:00:27Z",
+      "duration_seconds": 4612,
+      "thumbnail_url": "https://i.ytimg.com/vi/9HqaB6ZNsLA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "vc99BAN-u4E",
+      "title": "Mengira Menikah Dengan CEO Kaya, Hari Pertama Di Rumah Ia Sadar Dirinya Hanya Orang Ketiga",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-27T11:30:22Z",
+      "duration_seconds": 3891,
+      "thumbnail_url": "https://i.ytimg.com/vi/vc99BAN-u4E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "ZfmWaiAL4ms",
       "title": "4 GIỜ | Tiểu Đệ Ngũ Linh Căn Phế Vật - Nào Ngờ Tu Thành Vô Địch Cứu Cả Tông Môn",
