@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T06:15:04Z",
+  "generated_at": "2026-10-27T07:29:54Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "Z79B-zpROXU",
+      "title": "Chỉ Còn Một Năm Để Sống, Hắn Kích Hoạt Hệ Thống Tuổi Thọ, Luyện Võ Công Đến Cảnh Giới Vô Địch!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-27T07:00:20Z",
+      "duration_seconds": 7617,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z79B-zpROXU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4tl2gEUhqvI",
+      "title": "Bị Nhà Gái Đòi 2 Triệu Tệ Tiền Cưới, Chàng Trai Nghèo Bỗng Nghe Được Đồ Cổ Nói Và Đổi Đời Ngoạn Mục",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T07:00:03Z",
+      "duration_seconds": 15767,
+      "thumbnail_url": "https://i.ytimg.com/vi/4tl2gEUhqvI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Bald4UmNqDQ",
+      "title": "Full Version 1 | Một Nụ Hôn Vượt Giới Hạn, Tôi Khiến Oan Gia Chẳng Muốn Buông Tay | Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-27T06:32:50Z",
+      "duration_seconds": 2989,
+      "thumbnail_url": "https://i.ytimg.com/vi/Bald4UmNqDQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "PDJ5tqEivYk",
+      "title": "3,5 GIỜ | Đệ Tử Nhập Môn Phế Vật - Hệ Thống Đại Sư Huynh Vô Địch - Nằm Im Cũng Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T06:30:06Z",
+      "duration_seconds": 12286,
+      "thumbnail_url": "https://i.ytimg.com/vi/PDJ5tqEivYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "D5E-wlbD6qg",
       "title": "月光等你的回聲｜原創抒情",
