@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T09:19:43Z",
+  "generated_at": "2026-10-27T10:20:04Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "channels": {
     "music": {
@@ -118,6 +118,76 @@
     }
   },
   "videos": [
+    {
+      "id": "9oo0SVTAfg0",
+      "title": "8,5 GIỜ | Xuyên Làm Tốt Thí - Hệ Thống Trảm Địch Rớt Điểm Cường Hóa - Bất Bại Trên Chiến Trường",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T10:13:39Z",
+      "duration_seconds": 30713,
+      "thumbnail_url": "https://i.ytimg.com/vi/9oo0SVTAfg0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FU4OCsQGMBk",
+      "title": "Mùa 1+4 | Thần Ma Đều Quỳ: Ta Ngồi Xe Lăn Trấn Áp Cửu Thiên | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-27T10:00:21Z",
+      "duration_seconds": 45698,
+      "thumbnail_url": "https://i.ytimg.com/vi/FU4OCsQGMBk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Xhd0WR0UV00",
+      "title": "Pengemis Penebang Kayu Selamatkan Nona Kaya Dari Harimau Buas Di Hutan, Ia Malah Minta Dinikahi!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-27T10:00:15Z",
+      "duration_seconds": 6052,
+      "thumbnail_url": "https://i.ytimg.com/vi/Xhd0WR0UV00/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9c6s9pKHQcg",
+      "title": "Cả Nhà Tranh Di Chúc Khi Cha Hấp Hối, Nào Ngờ Ông Đã Quyên Góp Hết Gia Sản Khiến Ai Cũng Sốc Nặng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T10:00:06Z",
+      "duration_seconds": 6658,
+      "thumbnail_url": "https://i.ytimg.com/vi/9c6s9pKHQcg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Jju09AK7qbc",
+      "title": "Phần 4: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-27T09:51:06Z",
+      "duration_seconds": 18797,
+      "thumbnail_url": "https://i.ytimg.com/vi/Jju09AK7qbc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "5n5nXg9rBb4",
       "title": "3,5 GIỜ | Thái Tử Phế Truất - Hệ Thống Mỗi Ngày 1 Điểm Cường Hóa - Ta Vô Địch Lúc Nào Không Hay",
