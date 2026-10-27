@@ -1,49 +1,49 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-27T10:20:04Z",
+  "last_success_at": "2026-10-27T11:17:37Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "video_counts": {
-    "music": 189,
+    "music": 190,
     "edm": 34,
-    "shorts": 326,
-    "cartoon": 2681,
-    "drama": 1865,
-    "music_shorts": 326,
+    "shorts": 327,
+    "cartoon": 2685,
+    "drama": 1867,
+    "music_shorts": 327,
     "music_long": 34,
-    "movies": 2681
+    "movies": 2685
   },
   "source_counts": {
-    "music": 515,
-    "movies": 396,
-    "movies2": 198,
+    "music": 517,
+    "movies": 397,
+    "movies2": 199,
     "movies3": 229,
     "movies4": 603,
-    "movies5": 142,
-    "movies6": 516,
+    "movies5": 143,
+    "movies6": 517,
     "movies7": 602,
     "drama": 118,
     "drama2": 283,
-    "drama3": 122,
+    "drama3": 123,
     "drama4": 306,
     "drama5": 611,
-    "drama6": 607
+    "drama6": 608
   },
   "sources": {
     "music": {
       "handle": "@TCMusicGlobal",
-      "video_count": 515,
+      "video_count": 517,
       "sync_status": "ok",
       "error": ""
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 396,
+      "video_count": 397,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 198,
+      "video_count": 199,
       "sync_status": "ok",
       "error": ""
     },
@@ -61,13 +61,13 @@
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 142,
+      "video_count": 143,
       "sync_status": "ok",
       "error": ""
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 516,
+      "video_count": 517,
       "sync_status": "ok",
       "error": ""
     },
@@ -91,7 +91,7 @@
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 122,
+      "video_count": 123,
       "sync_status": "ok",
       "error": ""
     },
@@ -109,7 +109,7 @@
     },
     "drama6": {
       "handle": "@sambalclips",
-      "video_count": 607,
+      "video_count": 608,
       "sync_status": "ok",
       "error": ""
     }

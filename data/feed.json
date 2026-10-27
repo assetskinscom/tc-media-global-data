@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T10:20:04Z",
+  "generated_at": "2026-10-27T11:17:37Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "channels": {
     "music": {
@@ -119,6 +119,118 @@
   },
   "videos": [
     {
+      "id": "ZfmWaiAL4ms",
+      "title": "4 GIỜ | Tiểu Đệ Ngũ Linh Căn Phế Vật - Nào Ngờ Tu Thành Vô Địch Cứu Cả Tông Môn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T11:13:28Z",
+      "duration_seconds": 14005,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZfmWaiAL4ms/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ws3HtM97DTs",
+      "title": "雨影に残る君の声 - Official Lyric Video",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-27T11:08:04Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/ws3HtM97DTs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "-KHjISgzvkg",
+      "title": "雨影に残る君の声 - 切ないポップバラード / Official Lyric Video（4:00）",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-27T11:07:59Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/-KHjISgzvkg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "QcSR57XGbH0",
+      "title": "Bạn Trai Giả Làm Shipper Lừa Cô Suốt 5 Năm Vì 50 Triệu Tệ, Nào Ngờ Cô Là Thiên Kim Tỷ Phú Giàu Có",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T11:00:34Z",
+      "duration_seconds": 4552,
+      "thumbnail_url": "https://i.ytimg.com/vi/QcSR57XGbH0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "W8GDfXHXZDg",
+      "title": "Sinh Tồn Bè Gỗ Ta Dẫn Dắt 6 Mỹ Nữ Xây Pháo Đài Tận Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-27T11:00:21Z",
+      "duration_seconds": 9094,
+      "thumbnail_url": "https://i.ytimg.com/vi/W8GDfXHXZDg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Z8qlsMKrvhQ",
+      "title": "Pengemis Dipenjara 3 Tahun Oleh Suami Kejam, Bebas Bawa Peti Mati Untuk Balas Dendam Dan Rebut Harta",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-27T11:00:15Z",
+      "duration_seconds": 5855,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z8qlsMKrvhQ/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "r-piyftsSxw",
+      "title": "Hoàng Tử Vong Quốc Thức Tỉnh Hệ Thống Diệt Ma, Khai Mở Cửu Dương Thần Thể, Một Mình Trấn Áp Vạn Yêu!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-27T11:00:00Z",
+      "duration_seconds": 8861,
+      "thumbnail_url": "https://i.ytimg.com/vi/r-piyftsSxw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "p9KNy0dR6Ls",
+      "title": "Phần 34 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-27T10:23:32Z",
+      "duration_seconds": 7447,
+      "thumbnail_url": "https://i.ytimg.com/vi/p9KNy0dR6Ls/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "9oo0SVTAfg0",
       "title": "8,5 GIỜ | Xuyên Làm Tốt Thí - Hệ Thống Trảm Địch Rớt Điểm Cường Hóa - Bất Bại Trên Chiến Trường",
       "channel": "movies",
@@ -204,7 +316,7 @@
     },
     {
       "id": "sALBZ4siHLs",
-      "title": "Gia hỏa này đã tu luyện trăm năm, bị hệ thống đánh giá là k",
+      "title": "Bị Hệ Thống Khinh Thường Trăm Năm: Xong Nhiệm Vụ Tân Thủ Tu Vi Bạo Tăng, Ta Chấn Động Tiên Giới!",
       "channel": "movies2",
       "channel_title": "Ngự Kiếm TV",
       "published_at": "2026-10-27T09:00:16Z",
