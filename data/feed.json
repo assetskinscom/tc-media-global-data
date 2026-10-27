@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T03:14:36Z",
+  "generated_at": "2026-10-27T04:16:33Z",
   "last_full_refresh_at": "2026-10-26T07:33:44Z",
   "channels": {
     "music": {
@@ -118,6 +118,118 @@
     }
   },
   "videos": [
+    {
+      "id": "IER2M26b9pQ",
+      "title": "[FULL 6H] BẤT TỬ BẤT DIỆT VẠN NĂM, TA NẰM NGỮA CHILL QUA VẠN CỔ | LY VIETSUB 547",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-10-27T04:03:27Z",
+      "duration_seconds": 22028,
+      "thumbnail_url": "https://i.ytimg.com/vi/IER2M26b9pQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "WfxgmGgyhVs",
+      "title": "Pengemis Dilumpuhkan Mantan Istri, Dilatih Leluhur Kera Jadi Dewa Perang Dan Kembali Balas Dendam!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-27T04:00:27Z",
+      "duration_seconds": 6577,
+      "thumbnail_url": "https://i.ytimg.com/vi/WfxgmGgyhVs/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "5D56JnrAML8",
+      "title": "Sắp Bị Tế Thần, Hắn Kích Hoạt Hệ Thống Tự Sát, Vừa Trêu Thánh Nữ Vừa Điên Cuồng Đột Phá Cảnh Giới!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-27T04:00:22Z",
+      "duration_seconds": 8056,
+      "thumbnail_url": "https://i.ytimg.com/vi/5D56JnrAML8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "G5iVSRpzfjk",
+      "title": "Cô Gái Bán Mì Bị Thiếu Gia Mắng Oan Vì Cứu Bà Nội Anh, Nào Ngờ Cô Thành Vợ Anh Và Sinh Ba Con Gái",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-27T04:00:15Z",
+      "duration_seconds": 4737,
+      "thumbnail_url": "https://i.ytimg.com/vi/G5iVSRpzfjk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "AAzl3qLwBkk",
+      "title": "CEO Kaya Dipukul Gadis Kecil Di Depan Karyawan, Ternyata Ia Memeluknya Sambil Menangis Memanggil Ibu",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-27T04:00:13Z",
+      "duration_seconds": 3759,
+      "thumbnail_url": "https://i.ytimg.com/vi/AAzl3qLwBkk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "N1GqTcYO1pE",
+      "title": "Ta Là Thái Âm Đế Quân Trọng Sinh Xuống Hạ Giới Gặp Lại Toàn Mỹ Nữ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-27T04:00:00Z",
+      "duration_seconds": 5933,
+      "thumbnail_url": "https://i.ytimg.com/vi/N1GqTcYO1pE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "CFC2A8B4SRc",
+      "title": "5 GIỜ | Tạp Dịch Phế Linh Căn - Ta Có Phù Đảo Không Gian - Tích Trữ Linh Khí - Vạn Lần Tốc Độ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-27T03:57:32Z",
+      "duration_seconds": 18373,
+      "thumbnail_url": "https://i.ytimg.com/vi/CFC2A8B4SRc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tG2ZMdZFOhg",
+      "title": "CEO Curiga Suami Kontrak Memanfaatkannya Saat Tidur, Ternyata Tabib Sakti Diam Diam Memberinya Obat",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-27T03:16:30Z",
+      "duration_seconds": 4359,
+      "thumbnail_url": "https://i.ytimg.com/vi/tG2ZMdZFOhg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "KlaMbCfJyG8",
       "title": "Full | Toàn Cầu Sinh Tồn: Ta Đem Hệ Thống Đấu Trường Càn Quét Đảo Tử Thần Hốt Luôn Dàn Mỹ Nữ",
