@@ -1,32 +1,37 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-28T14:31:36Z",
+  "last_success_at": "2026-10-28T15:06:33Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "video_counts": {
     "music": 194,
     "edm": 35,
     "shorts": 330,
-    "cartoon": 2711,
-    "drama": 1865,
+    "cartoon": 2713,
+    "drama": 3813,
     "music_shorts": 330,
     "music_long": 35,
-    "movies": 2711
+    "movies": 2713
   },
   "source_counts": {
     "music": 524,
     "movies": 409,
     "movies2": 206,
-    "movies3": 226,
+    "movies3": 227,
     "movies4": 604,
-    "movies5": 141,
+    "movies5": 142,
     "movies6": 525,
     "movies7": 605,
     "drama": 119,
     "drama2": 284,
     "drama3": 105,
     "drama4": 307,
-    "drama5": 619,
-    "drama6": 613
+    "drama5": 1219,
+    "drama6": 227,
+    "drama7": 278,
+    "drama8": 287,
+    "drama9": 600,
+    "drama10": 325,
+    "drama11": 327
   },
   "sources": {
     "music": {
@@ -49,7 +54,7 @@
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 226,
+      "video_count": 227,
       "sync_status": "ok",
       "error": ""
     },
@@ -61,7 +66,7 @@
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 141,
+      "video_count": 142,
       "sync_status": "ok",
       "error": ""
     },
@@ -102,14 +107,44 @@
       "error": ""
     },
     "drama5": {
-      "handle": "@Gado-GadoClips-o1b",
-      "video_count": 619,
+      "handle": "@asiangooddrama8386",
+      "video_count": 1219,
       "sync_status": "ok",
       "error": ""
     },
     "drama6": {
+      "handle": "@ccapdramas",
+      "video_count": 227,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama7": {
+      "handle": "@nghienhoangu",
+      "video_count": 278,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama8": {
+      "handle": "@SignLanguageoumei7",
+      "video_count": 287,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama9": {
       "handle": "@sambalclips",
-      "video_count": 613,
+      "video_count": 600,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama10": {
+      "handle": "@PHC-q3q",
+      "video_count": 325,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama11": {
+      "handle": "@ccapsayhi",
+      "video_count": 327,
       "sync_status": "ok",
       "error": ""
     }
