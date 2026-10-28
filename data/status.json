@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-28T15:21:34Z",
+  "last_success_at": "2026-10-28T15:31:20Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "video_counts": {
     "music": 195,
@@ -23,14 +23,13 @@
     "movies7": 605,
     "drama": 119,
     "drama2": 284,
-    "drama3": 105,
+    "drama3": 327,
     "drama4": 307,
-    "drama5": 1219,
+    "drama5": 1546,
     "drama6": 227,
     "drama7": 278,
     "drama8": 287,
-    "drama9": 925,
-    "drama10": 327
+    "drama9": 703
   },
   "sources": {
     "music": {
@@ -94,8 +93,8 @@
       "error": ""
     },
     "drama3": {
-      "handle": "@trieuvyreview",
-      "video_count": 105,
+      "handle": "@PHC-q3q",
+      "video_count": 327,
       "sync_status": "ok",
       "error": ""
     },
@@ -106,8 +105,8 @@
       "error": ""
     },
     "drama5": {
-      "handle": "@asiangooddrama8386",
-      "video_count": 1219,
+      "handle": "@ccapsayhi",
+      "video_count": 1546,
       "sync_status": "ok",
       "error": ""
     },
@@ -130,14 +129,8 @@
       "error": ""
     },
     "drama9": {
-      "handle": "@PHC-q3q",
-      "video_count": 925,
-      "sync_status": "ok",
-      "error": ""
-    },
-    "drama10": {
-      "handle": "@ccapsayhi",
-      "video_count": 327,
+      "handle": "@trieuvyreview",
+      "video_count": 703,
       "sync_status": "ok",
       "error": ""
     }
