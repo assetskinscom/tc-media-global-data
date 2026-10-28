@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T00:09:32Z",
+  "generated_at": "2026-10-28T01:36:58Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "channels": {
     "music": {
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "K7AyYgSCqrg",
+      "title": "P3.2 - P4.1 | 13 GIỜ | Tạp Dịch Ngũ Linh Căn, Thần Đỉnh Luyện Đan - Ta Phá Tan Thế Giới Phàm Trần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T01:28:45Z",
+      "duration_seconds": 46710,
+      "thumbnail_url": "https://i.ytimg.com/vi/K7AyYgSCqrg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zkc2bk4snOY",
+      "title": "Xuyên Không Gặp Thời Loạn Yêu Ma, Hắn Dùng Tri Thức Và Tu Vi, Giết Xuyên Cục Diệt Yêu Thành Chí Tôn!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-28T01:00:30Z",
+      "duration_seconds": 21479,
+      "thumbnail_url": "https://i.ytimg.com/vi/zkc2bk4snOY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "xd2carNS-38",
+      "title": "Full Version l Mười Bốn Năm Chờ Một Người, Tôi Chọn Yêu Người Biết Trân Trọng l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-28T01:00:03Z",
+      "duration_seconds": 3139,
+      "thumbnail_url": "https://i.ytimg.com/vi/xd2carNS-38/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "OcaAfVIkzfM",
+      "title": "7,5 Giờ | Phó Bản SSS+ Địa Ngục Tây Du Ký - Phế Vật Tu Luyện Trở Thành Cường Giả Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T00:55:27Z",
+      "duration_seconds": 26768,
+      "thumbnail_url": "https://i.ytimg.com/vi/OcaAfVIkzfM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "DbqXY76FIlQ",
       "title": "Sếp Sa Thải Anh Ngay Ngày Ký Hợp Đồng 28 Tỷ, Nào Ngờ Đối Tác Tuyên Bố Không Có Anh Sẽ Hủy Cả Dự Án",
