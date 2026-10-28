@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T23:12:21Z",
+  "generated_at": "2026-10-28T00:09:32Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "channels": {
     "music": {
@@ -118,6 +118,20 @@
     }
   },
   "videos": [
+    {
+      "id": "DbqXY76FIlQ",
+      "title": "Sếp Sa Thải Anh Ngay Ngày Ký Hợp Đồng 28 Tỷ, Nào Ngờ Đối Tác Tuyên Bố Không Có Anh Sẽ Hủy Cả Dự Án",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T00:00:32Z",
+      "duration_seconds": 5287,
+      "thumbnail_url": "https://i.ytimg.com/vi/DbqXY76FIlQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "fXQqRZ51iAo",
       "title": "Tạp Dịch Tàng Hình Trộm Thiên Cơ Trở Thành Tiên (MÙA 1) Tại hạ Lệ Phi Dũng",
