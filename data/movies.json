@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-28T02:23:59Z",
+  "generated_at": "2026-10-28T03:21:42Z",
   "videos": [
+    {
+      "id": "emjBy_dPwmw",
+      "title": "5,5 GIỜ | Xuyên Làm Quan Huyện - Dùng Kiến Thức Thiên Tài Biến Huyện Nghèo Thành Giàu Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T03:15:14Z",
+      "duration_seconds": 18783,
+      "thumbnail_url": "https://i.ytimg.com/vi/emjBy_dPwmw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PU3fKSjZOCc",
+      "title": "Phần 4(NEW): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T03:10:48Z",
+      "duration_seconds": 21020,
+      "thumbnail_url": "https://i.ytimg.com/vi/PU3fKSjZOCc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oBE9jIe53CE",
+      "title": "Bị Phản Diện Đánh Bại, Hắn Bất Ngờ Sao Chép Được Tuyệt Thế Công Pháp, Từ Phế Vật Tu Luyện Thành Tiên",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-28T03:00:25Z",
+      "duration_seconds": 16068,
+      "thumbnail_url": "https://i.ytimg.com/vi/oBE9jIe53CE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gKQpxz-E6vc",
+      "title": "Sinh Tồn Cùng Mỹ Nhân Nơi Đảo Hoang | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-28T03:00:03Z",
+      "duration_seconds": 3889,
+      "thumbnail_url": "https://i.ytimg.com/vi/gKQpxz-E6vc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ahTQGtq6f9w",
+      "title": "Phần 11 | Kiếm Tiên Trở Về",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-28T02:48:06Z",
+      "duration_seconds": 15188,
+      "thumbnail_url": "https://i.ytimg.com/vi/ahTQGtq6f9w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bDmvOkCPCns",
+      "title": "P1-3 | 16 GIỜ THỎA MÃN | Thiên Phú SSS+ Vô Hạn Sát Thương Độc Tố - Phế Vật Trở Thành Top 1 Server",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T02:30:34Z",
+      "duration_seconds": 57280,
+      "thumbnail_url": "https://i.ytimg.com/vi/bDmvOkCPCns/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "K7AyYgSCqrg",
       "title": "P3.2 - P4.1 | 13 GIỜ | Tạp Dịch Ngũ Linh Căn, Thần Đỉnh Luyện Đan - Ta Phá Tan Thế Giới Phàm Trần",
