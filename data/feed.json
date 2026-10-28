@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T10:25:13Z",
+  "generated_at": "2026-10-28T11:21:46Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "channels": {
     "music": {
@@ -118,6 +118,104 @@
     }
   },
   "videos": [
+    {
+      "id": "VJ4--k7UwjQ",
+      "title": "晨光以後 — 官方完整版",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-28T11:07:46Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/VJ4--k7UwjQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "B_HxN3nG0hI",
+      "title": "晨光以後｜從心碎到重生的抒情流行抒情曲（官方完整版）",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-28T11:07:31Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/B_HxN3nG0hI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "_rj0jPWdvHY",
+      "title": "Kế Hoạch Nuôi Chồng Dị Năng Của Đại Tiểu Thư | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-28T11:00:37Z",
+      "duration_seconds": 9241,
+      "thumbnail_url": "https://i.ytimg.com/vi/_rj0jPWdvHY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "eXKTAfRDKpE",
+      "title": "Chị Họ Chỉ Trả 500 Tệ Cho Váy Bán 8 Nghìn, Nào Ngờ Em Gái Nghỉ Việc Mở Tiệm May Khiến Chị Hối Hận",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T11:00:36Z",
+      "duration_seconds": 5179,
+      "thumbnail_url": "https://i.ytimg.com/vi/eXKTAfRDKpE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "02-pyAX7B9o",
+      "title": "Vừa Xuyên Không Đã Bị Hàng Trăm Đại Ma Nhận Nhầm Là Ma Vương, Hắn Khiến Tam Giới Chấn Động!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-28T11:00:14Z",
+      "duration_seconds": 16176,
+      "thumbnail_url": "https://i.ytimg.com/vi/02-pyAX7B9o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "SJ5eNLQGAIA",
+      "title": "CEO Wanita Pura-Pura Miskin Dipaksa Mertua Makan Makanan Anjing, Identitas Terbongkar, Semua Melarat",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-28T11:00:10Z",
+      "duration_seconds": 5715,
+      "thumbnail_url": "https://i.ytimg.com/vi/SJ5eNLQGAIA/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "xeGzO3y5Ruw",
+      "title": "3,5 GIỜ | Xuyên Làm Tạp Dịch Ngụy Linh Căn - Ngọc Thần Hấp Thụ Linh Khí - Âm Thầm Tu Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T10:42:07Z",
+      "duration_seconds": 12687,
+      "thumbnail_url": "https://i.ytimg.com/vi/xeGzO3y5Ruw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "t1DJaBIURnc",
       "title": "9 GIỜ THỎA MÃN | Đệ Tử Nhập Môn Phế Linh Căn - Vô Danh Thần Tháp - Vô Hạn Thời Gian Tu Luyện",
