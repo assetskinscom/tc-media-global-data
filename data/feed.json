@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T22:17:49Z",
+  "generated_at": "2026-10-28T23:15:29Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,20 @@
     }
   },
   "videos": [
+    {
+      "id": "7Ev0Tx3TMHU",
+      "title": "Công Pháp Là Ta Bịa Bừa, Đồ Nhi Thế Mà Luyện Thành Thật (MÙA ONE) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-28T23:00:39Z",
+      "duration_seconds": 9152,
+      "thumbnail_url": "https://i.ytimg.com/vi/7Ev0Tx3TMHU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "S22RB9Y6iiw",
       "title": "Cô Ruột Chê Cháu Gái Lấy 20 Tệ Mỗi Ngày Là Tham, Nào Ngờ Người Đón Miễn Phí Chỉ Giúp Được Năm Ngày",
