@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T09:27:31Z",
+  "generated_at": "2026-10-28T10:25:13Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "channels": {
     "music": {
@@ -118,6 +118,104 @@
     }
   },
   "videos": [
+    {
+      "id": "t1DJaBIURnc",
+      "title": "9 GIỜ THỎA MÃN | Đệ Tử Nhập Môn Phế Linh Căn - Vô Danh Thần Tháp - Vô Hạn Thời Gian Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T10:01:22Z",
+      "duration_seconds": 32656,
+      "thumbnail_url": "https://i.ytimg.com/vi/t1DJaBIURnc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6YI8SMPAKEY",
+      "title": "Ảnh Hậu Trọng Sinh Thoát Bẫy Axit, Phản Đòn Tra Nam Và Bạn Thân Khiến Cả Hai Trả Giá!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-10-28T10:00:18Z",
+      "duration_seconds": 8498,
+      "thumbnail_url": "https://i.ytimg.com/vi/6YI8SMPAKEY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "lRD2kkEkBwo",
+      "title": "Mẹ Chồng Bị Con Dâu Đòi 10 Tệ Một Bát Cơm Trong Nhà Mình, Nào Ngờ Bà Buông Tay Khiến Cô Trả Giá Đắt",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T10:00:15Z",
+      "duration_seconds": 5278,
+      "thumbnail_url": "https://i.ytimg.com/vi/lRD2kkEkBwo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Q_2ruv6qtWo",
+      "title": "Bị Bắt Làm Lô Đỉnh Anh Chàng Thức Tỉnh Hệ Thống Biến Tà Thuật Thành Bất Tử! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-28T10:00:13Z",
+      "duration_seconds": 9291,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q_2ruv6qtWo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "y-imJaG0k-U",
+      "title": "Xuyên Không 100 Năm Chỉ Mong Sống Sót, Đăng Nhập Nhận Chuông Hỗn Độn, Tông Môn Toàn Cao Thủ",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-28T10:00:09Z",
+      "duration_seconds": 34962,
+      "thumbnail_url": "https://i.ytimg.com/vi/y-imJaG0k-U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-qSLbsUeyn8",
+      "title": "Pengemis Dilumpuhkan Istri Dan Dibuang Ke Jurang, Dilatih Leluhur Dewa Perang, Pulang Balas Dendam.",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-28T10:00:07Z",
+      "duration_seconds": 6531,
+      "thumbnail_url": "https://i.ytimg.com/vi/-qSLbsUeyn8/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "a5y44sJBIRM",
+      "title": "Một Tờ Giấy Triệu Hồi Kiếm Tiên! Ta Dùng Bàng Môn Trấn Áp Yêu Ma (MÙA 1)",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-28T09:43:40Z",
+      "duration_seconds": 9090,
+      "thumbnail_url": "https://i.ytimg.com/vi/a5y44sJBIRM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "125Sv5OiNKM",
       "title": "Gadis Serigala Diserbu 3 Pembunuh, Tak Disangka Bangkitkan Kekuatan Kuno dan Hajar Semua",
