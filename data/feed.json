@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T08:27:17Z",
+  "generated_at": "2026-10-28T09:27:31Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "channels": {
     "music": {
@@ -118,6 +118,48 @@
     }
   },
   "videos": [
+    {
+      "id": "125Sv5OiNKM",
+      "title": "Gadis Serigala Diserbu 3 Pembunuh, Tak Disangka Bangkitkan Kekuatan Kuno dan Hajar Semua",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-28T09:15:14Z",
+      "duration_seconds": 2807,
+      "thumbnail_url": "https://i.ytimg.com/vi/125Sv5OiNKM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "a3vebMePYYA",
+      "title": "7 GIỜ THỎA MÃN | Xuyên Làm Cẩm y Vệ Quèn - Hệ Thống Hấp Thụ Tu Vi - Âm Thầm Bất Khả Chiến Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T09:02:56Z",
+      "duration_seconds": 25422,
+      "thumbnail_url": "https://i.ytimg.com/vi/a3vebMePYYA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "hJu8ZefqkWI",
+      "title": "Canh Giữ Miếu Hoang Suốt Sáu Năm, Hắn Tưởng Sắp Hết Đời, Ai Ngờ Hệ Thống Tu Vi Tăng Vọt Thành Thần!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-28T09:00:16Z",
+      "duration_seconds": 15179,
+      "thumbnail_url": "https://i.ytimg.com/vi/hJu8ZefqkWI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "lQPNOH4vwEI",
       "title": "Phần 2 | Chàng Rể Bị Coi Thường - Hệ Thống Siêu Cấp Phản Diện - Trấn Áp Thiên Đạo",
