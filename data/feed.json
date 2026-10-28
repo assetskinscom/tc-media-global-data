@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T11:21:46Z",
+  "generated_at": "2026-10-28T12:18:43Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "channels": {
     "music": {
@@ -118,6 +118,76 @@
     }
   },
   "videos": [
+    {
+      "id": "xEMbHj93vho",
+      "title": "5 GIỜ | Xuyên Làm Sư Huynh Phết Nhất Tông Môn - Hệ Thống Vận May Thần Cấp - Tu Thành Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T12:12:16Z",
+      "duration_seconds": 18666,
+      "thumbnail_url": "https://i.ytimg.com/vi/xEMbHj93vho/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8AwtsYWjZVs",
+      "title": "Y Tá Nghèo Bị Vu Oan Sửa Bệnh Án Phải Đền 200 Nghìn Tệ, Nào Ngờ Người Cứu Cô Là Thiếu Gia Hào Môn",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T12:00:25Z",
+      "duration_seconds": 4789,
+      "thumbnail_url": "https://i.ytimg.com/vi/8AwtsYWjZVs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WbNWvmEIlc0",
+      "title": "Nhận 10 Triệu Đi Quay Show Nam Thanh Niên Vô Tình Vả Mặt Cả Giới Showbiz | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-28T12:00:20Z",
+      "duration_seconds": 5114,
+      "thumbnail_url": "https://i.ytimg.com/vi/WbNWvmEIlc0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "toxyep2RI8E",
+      "title": "Usai Semalam Dengan Pria Asing Ia Mau Lapor Polisi, Ternyata Ia CEO Terkaya Yang Menikahinya",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-28T11:30:27Z",
+      "duration_seconds": 4921,
+      "thumbnail_url": "https://i.ytimg.com/vi/toxyep2RI8E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "cytSTougvyU",
+      "title": "3 GIỜ | Xuyên Làm Tạp Dịch Tông Môn - Hệ Thống Điểm Danh Vô Địch - Âm Thầm Tu Luyện Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T11:30:26Z",
+      "duration_seconds": 11389,
+      "thumbnail_url": "https://i.ytimg.com/vi/cytSTougvyU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "VJ4--k7UwjQ",
       "title": "晨光以後 — 官方完整版",
