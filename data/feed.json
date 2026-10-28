@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T12:18:43Z",
+  "generated_at": "2026-10-28T13:38:25Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "channels": {
     "music": {
@@ -118,6 +118,146 @@
     }
   },
   "videos": [
+    {
+      "id": "TtjZ6ty-tFc",
+      "title": "Phần 7: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:31:32Z",
+      "duration_seconds": 10261,
+      "thumbnail_url": "https://i.ytimg.com/vi/TtjZ6ty-tFc/hqdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tM-cmb2OWQY",
+      "title": "Phần 5: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:30:19Z",
+      "duration_seconds": 8726,
+      "thumbnail_url": "https://i.ytimg.com/vi/tM-cmb2OWQY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "b2LU2j7bI68",
+      "title": "Phần 4: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:29:49Z",
+      "duration_seconds": 6429,
+      "thumbnail_url": "https://i.ytimg.com/vi/b2LU2j7bI68/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "yGEQsBqx3gM",
+      "title": "Phần 3: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:29:21Z",
+      "duration_seconds": 9836,
+      "thumbnail_url": "https://i.ytimg.com/vi/yGEQsBqx3gM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jy16n1GfzTY",
+      "title": "Phần 2: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:28:30Z",
+      "duration_seconds": 11390,
+      "thumbnail_url": "https://i.ytimg.com/vi/jy16n1GfzTY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "B53NzngNdAM",
+      "title": "Phần 1: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-28T13:27:41Z",
+      "duration_seconds": 7842,
+      "thumbnail_url": "https://i.ytimg.com/vi/B53NzngNdAM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KKQx0FjqDs8",
+      "title": "Kế Thừa Tông Môn Suy Tàn, Ta Triệu Hoán Đồng Hương Trái Đất Xông Pha Tu Tiên Giới | taihalephidung",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-28T13:00:28Z",
+      "duration_seconds": 9613,
+      "thumbnail_url": "https://i.ytimg.com/vi/KKQx0FjqDs8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "HJc0_XnOyQM",
+      "title": "Đi Giao Hoa Đến Nhà Tân Hôn, Cô Bị Tiểu Tam Đuổi Đi, Nào Ngờ Sổ Đỏ Đứng Tên Chính Mình Từ Đầu",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T13:00:16Z",
+      "duration_seconds": 4505,
+      "thumbnail_url": "https://i.ytimg.com/vi/HJc0_XnOyQM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "aTb-tc55NZ0",
+      "title": "8,5 GIỜ | Xuyên Làm Thiếu Chủ Phế Vật - Hệ Thống Rút Thưởng Thần Cấp - Không Muốn Cũng Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-28T12:47:56Z",
+      "duration_seconds": 29584,
+      "thumbnail_url": "https://i.ytimg.com/vi/aTb-tc55NZ0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "e1XCKId0b-I",
+      "title": "Gadis Dibuang Ketua Serigala, Serahkan Diri Ke Pria Asing, Ternyata Raja Serigala Bantu Balas Dendam",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-28T12:30:29Z",
+      "duration_seconds": 3031,
+      "thumbnail_url": "https://i.ytimg.com/vi/e1XCKId0b-I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "xEMbHj93vho",
       "title": "5 GIỜ | Xuyên Làm Sư Huynh Phết Nhất Tông Môn - Hệ Thống Vận May Thần Cấp - Tu Thành Bất Tử",
