@@ -1,32 +1,32 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-28T03:21:42Z",
+  "last_success_at": "2026-10-28T04:21:54Z",
   "last_full_refresh_at": "2026-10-27T08:22:39Z",
   "video_counts": {
     "music": 192,
     "edm": 35,
     "shorts": 328,
-    "cartoon": 2702,
-    "drama": 1876,
+    "cartoon": 2704,
+    "drama": 1880,
     "music_shorts": 328,
     "music_long": 35,
-    "movies": 2702
+    "movies": 2704
   },
   "source_counts": {
     "music": 520,
-    "movies": 403,
+    "movies": 404,
     "movies2": 202,
     "movies3": 231,
     "movies4": 604,
     "movies5": 144,
-    "movies6": 520,
+    "movies6": 521,
     "movies7": 603,
-    "drama": 118,
+    "drama": 119,
     "drama2": 284,
-    "drama3": 127,
+    "drama3": 128,
     "drama4": 306,
-    "drama5": 614,
-    "drama6": 609
+    "drama5": 615,
+    "drama6": 610
   },
   "sources": {
     "music": {
@@ -37,7 +37,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 403,
+      "video_count": 404,
       "sync_status": "ok",
       "error": ""
     },
@@ -67,7 +67,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 520,
+      "video_count": 521,
       "sync_status": "ok",
       "error": ""
     },
@@ -79,7 +79,7 @@
     },
     "drama": {
       "handle": "@nangngotdrama",
-      "video_count": 118,
+      "video_count": 119,
       "sync_status": "ok",
       "error": ""
     },
@@ -91,7 +91,7 @@
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 127,
+      "video_count": 128,
       "sync_status": "ok",
       "error": ""
     },
@@ -103,13 +103,13 @@
     },
     "drama5": {
       "handle": "@Gado-GadoClips-o1b",
-      "video_count": 614,
+      "video_count": 615,
       "sync_status": "ok",
       "error": ""
     },
     "drama6": {
       "handle": "@sambalclips",
-      "video_count": 609,
+      "video_count": 610,
       "sync_status": "ok",
       "error": ""
     }
