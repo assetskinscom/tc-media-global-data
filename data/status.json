@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-28T15:42:52Z",
+  "last_success_at": "2026-10-28T16:05:45Z",
   "last_full_refresh_at": "2026-10-28T08:27:17Z",
   "video_counts": {
     "music": 195,
     "edm": 35,
     "shorts": 331,
     "cartoon": 2713,
-    "drama": 3813,
+    "drama": 3213,
     "music_shorts": 331,
     "music_long": 35,
     "movies": 2713
@@ -25,12 +25,12 @@
     "drama2": 284,
     "drama3": 327,
     "drama4": 307,
-    "drama5": 946,
-    "drama6": 227,
     "drama7": 278,
     "drama8": 287,
     "drama9": 703,
-    "drama10": 600
+    "drama10": 600,
+    "drama11": 327,
+    "drama12": 214
   },
   "sources": {
     "music": {
@@ -105,18 +105,6 @@
       "sync_status": "ok",
       "error": ""
     },
-    "drama5": {
-      "handle": "@ccapsayhi",
-      "video_count": 946,
-      "sync_status": "ok",
-      "error": ""
-    },
-    "drama6": {
-      "handle": "@ccapdramas",
-      "video_count": 227,
-      "sync_status": "ok",
-      "error": ""
-    },
     "drama7": {
       "handle": "@nghienhoangu",
       "video_count": 278,
@@ -138,6 +126,18 @@
     "drama10": {
       "handle": "@asiangooddrama8386",
       "video_count": 600,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama11": {
+      "handle": "@ccapsayhi",
+      "video_count": 327,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "drama12": {
+      "handle": "@ccapdramas",
+      "video_count": 214,
       "sync_status": "ok",
       "error": ""
     }
