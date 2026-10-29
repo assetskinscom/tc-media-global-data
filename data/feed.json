@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T03:24:29Z",
+  "generated_at": "2026-10-29T04:24:57Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,76 @@
     }
   },
   "videos": [
+    {
+      "id": "im0IpRR8l1w",
+      "title": "Vợ bỏ anh bán thịt nướng theo đại gia, hôm sau sững sờ khi biết anh là người thừa kế tập đoàn tỷ đô",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-10-29T04:23:20Z",
+      "duration_seconds": 5751,
+      "thumbnail_url": "https://i.ytimg.com/vi/im0IpRR8l1w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UaYiX9YBdaQ",
+      "title": "Bị Sếp Ép Tăng Ca Không Lương, Tần Thời Nghỉ Việc Kích Hoạt Hệ Thống 3 Triệu Tệ Rồi Mở Công Ty Lớn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T04:00:07Z",
+      "duration_seconds": 8800,
+      "thumbnail_url": "https://i.ytimg.com/vi/UaYiX9YBdaQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "sT21P_cSWLc",
+      "title": "Thức Tỉnh Hệ Thống Thợ Sửa Vạn Năng Khiến Phú Bà Tranh Nhau Bao Nuôi! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T04:00:01Z",
+      "duration_seconds": 15691,
+      "thumbnail_url": "https://i.ytimg.com/vi/sT21P_cSWLc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Og1lBThoImE",
+      "title": "Tìm em gái 10 năm, bị chồng phản bội, mẹ chồng đánh! Tôi dạy cả nhà độc ác, đưa cô đi!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-10-29T04:00:01Z",
+      "duration_seconds": 6222,
+      "thumbnail_url": "https://i.ytimg.com/vi/Og1lBThoImE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MrGd50Pi-8o",
+      "title": "Phần 35 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T03:57:13Z",
+      "duration_seconds": 7524,
+      "thumbnail_url": "https://i.ytimg.com/vi/MrGd50Pi-8o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Mqrp5_oArQ4",
       "title": "6,5 GIỜ | Hệ Thống Đến Muộn 1000 Năm - Sư Phụ Muốn Nằm Ngang - Hệ Thống Thu Đồ Bất Bại",
