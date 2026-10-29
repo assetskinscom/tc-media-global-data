@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T14:34:13Z",
+  "generated_at": "2026-10-29T15:32:11Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,34 @@
     }
   },
   "videos": [
+    {
+      "id": "3IkjBtYA568",
+      "title": "Bắt Đầu Lại Trên Con Ngõ Đen",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T15:07:57Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/3IkjBtYA568/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "uNk9PtXN08k",
+      "title": "Bắt Đầu Lại Trên Con Ngõ Đen — Bolero Parody Ngọt Ngào U Tối (Original)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T15:07:44Z",
+      "duration_seconds": 262,
+      "thumbnail_url": "https://i.ytimg.com/vi/uNk9PtXN08k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "c5gbvEaG9JA",
       "title": "Trọng Sinh Về Năm 1987, Cô Nhường Bạn Trai Cho Em Gái, Nào Ngờ Lại Cưới Trúng Thiếu Gia Hào Môn!!",
