@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T05:23:38Z",
+  "generated_at": "2026-10-29T06:20:37Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,34 @@
     }
   },
   "videos": [
+    {
+      "id": "mJAyW5R-WaY",
+      "title": "Khi Em Học Cách Buông (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T06:07:43Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/mJAyW5R-WaY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "oUHMN1lKBYU",
+      "title": "Khi Em Học Cách Buông | Pop Ballad Buồn - Official Audio (Lyric Video)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T06:07:30Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/oUHMN1lKBYU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "jirA6xR1iz4",
       "title": "Bị 17 Phụ Nữ Đuổi Ra Rừng Hoang Ta  Thức Tỉnh Hệ Thống Trở Thành Đấng Cứu Thế  | Đậu Đậu Vietsub",
