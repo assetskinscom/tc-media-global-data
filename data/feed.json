@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T00:12:42Z",
+  "generated_at": "2026-10-29T01:38:06Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,62 @@
     }
   },
   "videos": [
+    {
+      "id": "ccelvj-czEk",
+      "title": "P1-3 | 11 Giờ Thỏa Mãn | Xuyên Về Cổ Đại - Dùng Kiến Thức Hiện Đại Dẫn Vợ Đẹp Dựng Lên Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T01:29:23Z",
+      "duration_seconds": 40187,
+      "thumbnail_url": "https://i.ytimg.com/vi/ccelvj-czEk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "L2SQ1GMVqGg",
+      "title": "Phần 4(P2- 464): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-29T01:09:22Z",
+      "duration_seconds": 1657,
+      "thumbnail_url": "https://i.ytimg.com/vi/L2SQ1GMVqGg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "k31q6Pfwr5Y",
+      "title": "Full Version 1 l Bốn Năm Sau Dắt Con Trở Về, Tổng Tài Nhất Quyết Không Để Tôi Đi l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-29T01:00:00Z",
+      "duration_seconds": 8096,
+      "thumbnail_url": "https://i.ytimg.com/vi/k31q6Pfwr5Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ytSrd7J6DwU",
+      "title": "Phần 4.2 | Tạp Dịch Ngũ Linh Căn, Thần Đỉnh Luyện Đan - Ta Phá Tan Thế Giới Phàm Trần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T00:49:39Z",
+      "duration_seconds": 3872,
+      "thumbnail_url": "https://i.ytimg.com/vi/ytSrd7J6DwU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "AshoXacIGpY",
       "title": "Mẹ Chồng Khoe Khoang Khắp Xóm Hại Con Dâu Mất Mạng, Nào Ngờ Cô Trọng Sinh Khiến Cả Nhà Trả Giá Đắt",
