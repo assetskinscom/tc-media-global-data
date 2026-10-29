@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T11:22:08Z",
+  "generated_at": "2026-10-29T12:19:16Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,90 @@
     }
   },
   "videos": [
+    {
+      "id": "6IhwG3Dr2_E",
+      "title": "Thanh niên nghèo vừa xuyên không đã được nữ CEO trao thân kích hoạt hệ thống càng lâm trận càng giàu",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-10-29T12:05:15Z",
+      "duration_seconds": 8562,
+      "thumbnail_url": "https://i.ytimg.com/vi/6IhwG3Dr2_E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "hL5RAjJ4tpU",
+      "title": "Cứ tưởng đứa bé tầm thường hoá ra là Ngọc Đế hạ phàm sai Thần Tướng đầu thai",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-10-29T12:00:26Z",
+      "duration_seconds": 3485,
+      "thumbnail_url": "https://i.ytimg.com/vi/hL5RAjJ4tpU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "I7qdN0zQODk",
+      "title": "Sở Hữu Hệ Thống Sinh Tồn: Tôi Một Mình Thao Túng Trại Mỹ Nữ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T12:00:23Z",
+      "duration_seconds": 4868,
+      "thumbnail_url": "https://i.ytimg.com/vi/I7qdN0zQODk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "SBTehnz9S8k",
+      "title": "Nhà Họ Mạnh Đuổi Thiên Kim Về Quê Với 500 Nghìn Tệ, Nào Ngờ Cô Là Con Gái Gia Tộc Tỷ Phú Giàu Có",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T12:00:03Z",
+      "duration_seconds": 7752,
+      "thumbnail_url": "https://i.ytimg.com/vi/SBTehnz9S8k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "OFqXxvqOUMY",
+      "title": "Phàm Nhân Tu Tiên, Cổ Tháp Vấn Đạo (TẬP 1-202) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-29T11:50:22Z",
+      "duration_seconds": 15595,
+      "thumbnail_url": "https://i.ytimg.com/vi/OFqXxvqOUMY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "W0ydliB6xj0",
+      "title": "7,5 GIỜ | Xuyên Không Làm Lính Quèn - Dùng Sức Mạnh Cùng Kiến Thức Vươn Lên Thống Lĩnh Vạn Quân",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T11:40:52Z",
+      "duration_seconds": 26450,
+      "thumbnail_url": "https://i.ytimg.com/vi/W0ydliB6xj0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Q35Y_J22Nr4",
       "title": "残響の向こうで / Official MV",
