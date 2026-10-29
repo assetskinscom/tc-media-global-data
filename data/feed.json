@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T02:26:50Z",
+  "generated_at": "2026-10-29T03:24:29Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,104 @@
     }
   },
   "videos": [
+    {
+      "id": "Mqrp5_oArQ4",
+      "title": "6,5 GIỜ | Hệ Thống Đến Muộn 1000 Năm - Sư Phụ Muốn Nằm Ngang - Hệ Thống Thu Đồ Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T03:21:35Z",
+      "duration_seconds": 22840,
+      "thumbnail_url": "https://i.ytimg.com/vi/Mqrp5_oArQ4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kIlq4SsgVJ4",
+      "title": "Xuyên Không Thành Lão Tổ, Ta Nằm Trong Mộ Vẫn Nuôi Cả Gia Tộc (FULL TẬP 1-180)",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-29T03:00:36Z",
+      "duration_seconds": 14075,
+      "thumbnail_url": "https://i.ytimg.com/vi/kIlq4SsgVJ4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oWJ8-tO-NUE",
+      "title": "Hai Con Ruột Đuổi Cha Già Ra Đường Đêm Tuyết, Nào Ngờ Ông Trúng Số 10 Triệu Và Trao Tiền Cho Cháu",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T03:00:21Z",
+      "duration_seconds": 5970,
+      "thumbnail_url": "https://i.ytimg.com/vi/oWJ8-tO-NUE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "cMkR5TtqxHc",
+      "title": "Nắm Giữ Đạo Quả Toàn Tộc, Hắn Bảo Vệ Huyết Mạch, Dẫn Dắt Gia Tộc Chinh Phục Vạn Tộc Thành Đế Tộc!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-29T03:00:15Z",
+      "duration_seconds": 19122,
+      "thumbnail_url": "https://i.ytimg.com/vi/cMkR5TtqxHc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_lohC66cUao",
+      "title": "Toàn Dân Võ Đạo: Rút Cạn Thọ Nguyên Dị Thú Ta Nghịch Thiên Phạt Tộc | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T03:00:00Z",
+      "duration_seconds": 9428,
+      "thumbnail_url": "https://i.ytimg.com/vi/_lohC66cUao/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oo3O3iUFZrQ",
+      "title": "Phần 35 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-29T02:54:04Z",
+      "duration_seconds": 7539,
+      "thumbnail_url": "https://i.ytimg.com/vi/oo3O3iUFZrQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "91QLve0O8fU",
+      "title": "Phần 4 | Ta Đã Là Đại Đế Vô Địch - Hệ Thống Ngươi Không Cần Phải Đến Nữa Đâu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T02:29:25Z",
+      "duration_seconds": 7662,
+      "thumbnail_url": "https://i.ytimg.com/vi/91QLve0O8fU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "SFkx8vKLL2U",
       "title": "Mẹ Chồng Đuổi Con Dâu Vì 4 Năm Không Sinh Con, Nào Ngờ Cô Thừa Kế 1,2 Tỷ Tệ Rồi Cưới Đại Tổng Tài",
