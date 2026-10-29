@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T12:19:16Z",
+  "generated_at": "2026-10-29T13:41:47Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,62 @@
     }
   },
   "videos": [
+    {
+      "id": "c5gbvEaG9JA",
+      "title": "Trọng Sinh Về Năm 1987, Cô Nhường Bạn Trai Cho Em Gái, Nào Ngờ Lại Cưới Trúng Thiếu Gia Hào Môn!!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T13:00:26Z",
+      "duration_seconds": 8221,
+      "thumbnail_url": "https://i.ytimg.com/vi/c5gbvEaG9JA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UhqwDBFEJow",
+      "title": "Trần Kiếm Cùng Chó Tiểu Hắc Đại Náo Bí Cảnh: Dùng Dưỡng Kiếm Thuật Đoạt Vị Cứu Thánh Nữ Ngọc Hà",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-29T13:00:03Z",
+      "duration_seconds": 16196,
+      "thumbnail_url": "https://i.ytimg.com/vi/UhqwDBFEJow/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZCx_gAIaRXg",
+      "title": "Full Mùa 1+ 2 | Cứu Sống Heo Rừng Nhận Lại Cả Cơ Nghiệp Trăm Tỷ |  Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T13:00:00Z",
+      "duration_seconds": 10777,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZCx_gAIaRXg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "M4E_XxeODE4",
+      "title": "3,5 GIỜ | Xuyên Không Làm Sư Phụ Phế Vật Tạ Hóa Cả 100 Năm  - Hệ Thống Thu Đồ Trở Thành Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T12:24:17Z",
+      "duration_seconds": 12331,
+      "thumbnail_url": "https://i.ytimg.com/vi/M4E_XxeODE4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "6IhwG3Dr2_E",
       "title": "Thanh niên nghèo vừa xuyên không đã được nữ CEO trao thân kích hoạt hệ thống càng lâm trận càng giàu",
