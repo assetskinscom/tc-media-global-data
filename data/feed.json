@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T23:15:29Z",
+  "generated_at": "2026-10-29T00:12:42Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,20 @@
     }
   },
   "videos": [
+    {
+      "id": "AshoXacIGpY",
+      "title": "Mẹ Chồng Khoe Khoang Khắp Xóm Hại Con Dâu Mất Mạng, Nào Ngờ Cô Trọng Sinh Khiến Cả Nhà Trả Giá Đắt",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T00:00:12Z",
+      "duration_seconds": 4633,
+      "thumbnail_url": "https://i.ytimg.com/vi/AshoXacIGpY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "7Ev0Tx3TMHU",
       "title": "Công Pháp Là Ta Bịa Bừa, Đồ Nhi Thế Mà Luyện Thành Thật (MÙA ONE) Tại hạ Lệ Phi Dũng",
