@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T04:24:57Z",
+  "generated_at": "2026-10-29T05:23:38Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,48 @@
     }
   },
   "videos": [
+    {
+      "id": "jirA6xR1iz4",
+      "title": "Bị 17 Phụ Nữ Đuổi Ra Rừng Hoang Ta  Thức Tỉnh Hệ Thống Trở Thành Đấng Cứu Thế  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T05:00:35Z",
+      "duration_seconds": 3127,
+      "thumbnail_url": "https://i.ytimg.com/vi/jirA6xR1iz4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lR_brka0wDQ",
+      "title": "Cô Gái Cưới Giả 6 Tháng Với Chàng Trai Bình Thường, Nào Ngờ Chồng Là Tổng Tài Giàu Nhất Thành Phố",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T05:00:00Z",
+      "duration_seconds": 5431,
+      "thumbnail_url": "https://i.ytimg.com/vi/lR_brka0wDQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "NvotasTpIoU",
+      "title": "Phần 1-4 | 19 Giờ Thỏa Mãn | Vợ Ta Không Hề Đơn Giản - Vào Tù Chọn Vợ Nào Ngờ Toàn Người Quyền Lực",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T04:26:29Z",
+      "duration_seconds": 68972,
+      "thumbnail_url": "https://i.ytimg.com/vi/NvotasTpIoU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "im0IpRR8l1w",
       "title": "Vợ bỏ anh bán thịt nướng theo đại gia, hôm sau sững sờ khi biết anh là người thừa kế tập đoàn tỷ đô",
