@@ -1,52 +1,52 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-29T10:26:57Z",
+  "last_success_at": "2026-10-29T11:22:08Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "video_counts": {
-    "music": 196,
+    "music": 197,
     "edm": 35,
-    "shorts": 332,
-    "cartoon": 2730,
-    "drama": 2091,
-    "music_shorts": 332,
+    "shorts": 333,
+    "cartoon": 2733,
+    "drama": 2093,
+    "music_shorts": 333,
     "music_long": 35,
-    "movies": 2730
+    "movies": 2733
   },
   "source_counts": {
-    "music": 528,
-    "movies": 421,
-    "movies2": 211,
+    "music": 530,
+    "movies": 422,
+    "movies2": 212,
     "movies3": 230,
     "movies4": 601,
     "movies5": 142,
-    "movies6": 528,
+    "movies6": 529,
     "movies7": 602,
     "drama": 119,
     "drama2": 286,
-    "drama3": 325,
+    "drama3": 326,
     "drama4": 307,
     "drama5": 328,
     "drama6": 214,
     "drama7": 277,
     "drama8": 288,
-    "drama9": 112
+    "drama9": 113
   },
   "sources": {
     "music": {
       "handle": "@TCMusicGlobal",
-      "video_count": 528,
+      "video_count": 530,
       "sync_status": "ok",
       "error": ""
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 421,
+      "video_count": 422,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 211,
+      "video_count": 212,
       "sync_status": "ok",
       "error": ""
     },
@@ -70,7 +70,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 528,
+      "video_count": 529,
       "sync_status": "ok",
       "error": ""
     },
@@ -94,7 +94,7 @@
     },
     "drama3": {
       "handle": "@PHC-q3q",
-      "video_count": 325,
+      "video_count": 326,
       "sync_status": "ok",
       "error": ""
     },
@@ -130,7 +130,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 112,
+      "video_count": 113,
       "sync_status": "ok",
       "error": ""
     }

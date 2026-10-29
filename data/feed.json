@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T10:26:57Z",
+  "generated_at": "2026-10-29T11:22:08Z",
   "last_full_refresh_at": "2026-10-28T16:43:49Z",
   "channels": {
     "music": {
@@ -136,6 +136,104 @@
     }
   },
   "videos": [
+    {
+      "id": "Q35Y_J22Nr4",
+      "title": "残響の向こうで / Official MV",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T11:10:01Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q35Y_J22Nr4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "bfR6XTDeRy8",
+      "title": "残響の向こうで - Official Music Video / 悲しみのポップ・バラード (新曲)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T11:07:29Z",
+      "duration_seconds": 250,
+      "thumbnail_url": "https://i.ytimg.com/vi/bfR6XTDeRy8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "Epggo7QdCvc",
+      "title": "5,5 GIỜ | Xuyên Làm Thường Dân - Với Hệ Thống Cùng Trí Tuệ Viết Lại Vận Mệnh Triều Đại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-29T11:01:23Z",
+      "duration_seconds": 19695,
+      "thumbnail_url": "https://i.ytimg.com/vi/Epggo7QdCvc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "L6lz8fb_Zfw",
+      "title": "Từ Kẻ Nghèo Hèn, Hắn Dựa Vào Cuộn Giấy Rách Và Mảnh Sắt Của Cha, Tu Luyện Đến Cảnh Giới Hóa Thần!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-29T11:00:25Z",
+      "duration_seconds": 22108,
+      "thumbnail_url": "https://i.ytimg.com/vi/L6lz8fb_Zfw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Zfp7KxsvNb0",
+      "title": "Mẹ Vợ Khinh Chàng Rể Ăn Bám Rồi Ép Ly Hôn, Nào Ngờ Anh Là Tổng Tài Đứng Sau Cả Tập Đoàn Cửu Châu",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T11:00:22Z",
+      "duration_seconds": 7665,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zfp7KxsvNb0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "alUnUxrCEdU",
+      "title": "Chàng trai nghèo bỗng có mắt thấu thị,thấy viên đá quý trong ván cược và thắng cả mỏ trị giá hàng tỷ",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-10-29T11:00:19Z",
+      "duration_seconds": 10836,
+      "thumbnail_url": "https://i.ytimg.com/vi/alUnUxrCEdU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Y13W0YvMBEQ",
+      "title": "Đoàn Tàu Tử Thần: Ta Dùng Hỏa Lực San Phẳng Quỷ Vực | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-29T11:00:04Z",
+      "duration_seconds": 13822,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y13W0YvMBEQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Xo6iwQZRKuc",
       "title": "7 GIỜ | Sư Phụ Lười Biếng Đã Vô Địch Từ Lâu - Hệ Thống Thu Đồ Cùng 6 Đệ Tử Toàn Thiên Kiêu",

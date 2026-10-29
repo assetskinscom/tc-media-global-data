@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-29T10:26:57Z",
+  "generated_at": "2026-10-29T11:22:08Z",
   "videos": [
+    {
+      "id": "bfR6XTDeRy8",
+      "title": "残響の向こうで - Official Music Video / 悲しみのポップ・バラード (新曲)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T11:07:29Z",
+      "duration_seconds": 250,
+      "thumbnail_url": "https://i.ytimg.com/vi/bfR6XTDeRy8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "oUHMN1lKBYU",
       "title": "Khi Em Học Cách Buông | Pop Ballad Buồn - Official Audio (Lyric Video)",
