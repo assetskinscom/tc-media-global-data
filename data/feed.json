@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T18:22:27Z",
+  "generated_at": "2026-10-29T19:30:34Z",
   "last_full_refresh_at": "2026-10-29T17:29:44Z",
   "channels": {
     "music": {
@@ -254,7 +254,7 @@
       "channel": "drama7",
       "channel_title": "Nghiện Hoa Ngữ",
       "published_at": "2026-10-29T12:05:15Z",
-      "duration_seconds": 8562,
+      "duration_seconds": 8549,
       "thumbnail_url": "https://i.ytimg.com/vi/6IhwG3Dr2_E/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
