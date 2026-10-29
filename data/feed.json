@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T20:23:19Z",
+  "generated_at": "2026-10-29T21:20:07Z",
   "last_full_refresh_at": "2026-10-29T17:29:44Z",
   "channels": {
     "music": {
@@ -136,6 +136,20 @@
     }
   },
   "videos": [
+    {
+      "id": "urRKC07cJt8",
+      "title": "Phần 2: Bị Coi Là Phế Vật, Thiếu Chủ Âm Thầm Tu Luyện Thành Cường Giả Nghịch Thiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-29T20:36:46Z",
+      "duration_seconds": 8940,
+      "thumbnail_url": "https://i.ytimg.com/vi/urRKC07cJt8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "dfpFBd5P7zg",
       "title": "Full Version 1 l Rời Xa Hai Trúc Mã, Tôi Trở Thành Ngoại Lệ Của Các Nam Thần l Sora Dub",
