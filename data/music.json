@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-10-30T15:29:05Z",
+  "generated_at": "2026-10-30T16:27:58Z",
   "videos": [
+    {
+      "id": "3GDqslZkGDI",
+      "title": "창가의 남은 봄 — 이별 뒤 조용한 위로와 다시 걷는 시작 (Original Pop Ballad)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:43:26Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/3GDqslZkGDI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "n-sb0RHelkg",
+      "title": "แสงเช้าที่ฉันเลือก — เพลงป๊อบบัลลาดให้กำลังใจ (Official Lyric Video)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:41:29Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/n-sb0RHelkg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "vKSJEozsgzc",
+      "title": "Neon Başlangıç — 9 Parçalık Enerjik Türkçe EDM Albümü",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:39:36Z",
+      "duration_seconds": 1596,
+      "thumbnail_url": "https://i.ytimg.com/vi/vKSJEozsgzc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
     {
       "id": "m4NYu7bHCO0",
       "title": "Tiền Lẻ, Nụ Cười — Dân Ca Quê Hương Vui Vẻ | Tìm Niềm Vui Trên Ví Hết Tiền",

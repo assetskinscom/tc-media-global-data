@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-30T15:29:05Z",
+  "generated_at": "2026-10-30T16:27:58Z",
   "videos": [
+    {
+      "id": "vKSJEozsgzc",
+      "title": "Neon Başlangıç — 9 Parçalık Enerjik Türkçe EDM Albümü",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:39:36Z",
+      "duration_seconds": 1596,
+      "thumbnail_url": "https://i.ytimg.com/vi/vKSJEozsgzc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
     {
       "id": "vO0187wzbc4",
       "title": "Ritmo Libre — Álbum EDM en Español",
