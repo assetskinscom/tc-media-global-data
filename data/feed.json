@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T09:30:07Z",
+  "generated_at": "2026-10-30T10:27:41Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -143,6 +143,90 @@
   },
   "videos": [
     {
+      "id": "gcH_EOvo81E",
+      "title": "3,5 GIỜ | Xuyên Làm Phò Mã Chỉ Muốn Nằm Ngang - Dùng Kiến Thức Thiên Tài Thay Đổi Vận Mệnh Quốc Gia",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T10:27:35Z",
+      "duration_seconds": 11969,
+      "thumbnail_url": "https://i.ytimg.com/vi/gcH_EOvo81E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "s7VHt009wLw",
+      "title": "Giả Ngốc Làm Công Tử Ăn Chơi, Nào Ngờ Hắn Sở Hữu Hệ Thống Phản Diện, Âm Thầm Thao Túng Thất Quốc!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-30T10:00:31Z",
+      "duration_seconds": 7214,
+      "thumbnail_url": "https://i.ytimg.com/vi/s7VHt009wLw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "m2qNGqnsIrs",
+      "title": "Full | Tận Thế Cao Tốc Trọng Sinh Thành Xe Rác Được 4 Mỹ Nữ Nuôi Lớn Thành Pháo Đài Di Động",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-30T10:00:25Z",
+      "duration_seconds": 9157,
+      "thumbnail_url": "https://i.ytimg.com/vi/m2qNGqnsIrs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4WcrUCUx91o",
+      "title": "Ly Hôn Chồng Cờ Bạc, Cô Phải Làm Thêm Trả Nợ 50 Nghìn Tệ, Nào Ngờ Được Tổng Tài Giàu Có Theo Đuổi",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T10:00:20Z",
+      "duration_seconds": 8875,
+      "thumbnail_url": "https://i.ytimg.com/vi/4WcrUCUx91o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "oij7hMNF_SQ",
+      "title": "Ai cũng khinh gái quê, nào ngờ trùm xã hội đen và giới y khoa cúi chào, cả nhà choáng",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-10-30T10:00:09Z",
+      "duration_seconds": 9262,
+      "thumbnail_url": "https://i.ytimg.com/vi/oij7hMNF_SQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_g9ZaVZ_FB4",
+      "title": "Thiếu Chủ Bị Nữ Đế Cướp Thánh Thể Thành Phế Vật - Hệ Thống Thiên Mệnh Âm Thầm Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T09:38:50Z",
+      "duration_seconds": 7261,
+      "thumbnail_url": "https://i.ytimg.com/vi/_g9ZaVZ_FB4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "GbTfTAD14Cc",
       "title": "Xuyên Không Thành Người Hầu, Tung Linh Thạch Kích Hoạt Hệ Thống Bói Toán, Nghịch Thiên Thành Tiên!",
       "channel": "movies2",
@@ -242,7 +326,7 @@
     },
     {
       "id": "6o-EwIAMrPA",
-      "title": "Phần 12 | KIẾM TIÊN TRỞ VỀ",
+      "title": "Phần 12 - PHẦN KẾT | KIẾM TIÊN TRỞ VỀ",
       "channel": "movies",
       "channel_title": "Thảo Lác ",
       "published_at": "2026-10-30T06:30:28Z",
