@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T07:41:21Z",
+  "generated_at": "2026-10-30T08:31:18Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "LfKJ7pCOlX8",
+      "title": "Đệ Tử Mù Chữ Cả Tông Môn Coi Thường - Nào Ngờ Là Thiên Tài Tu Luyện Vạn Năm Có Một",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T08:14:18Z",
+      "duration_seconds": 7578,
+      "thumbnail_url": "https://i.ytimg.com/vi/LfKJ7pCOlX8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4EP9KjP5moE",
+      "title": "Thánh Tử Bị Khinh Thường Dùng Linh Thạch Đổi Sức Mạnh, Một Quyền Đánh Bay Cao Thủ Tôn Giả Cảnh!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-30T08:00:16Z",
+      "duration_seconds": 18624,
+      "thumbnail_url": "https://i.ytimg.com/vi/4EP9KjP5moE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "1-lwvZ_8b2o",
       "title": "Phần 1-2 | 4,5 GIỜ | Thiếu Gia Phế Vật - Hệ Thống Võ Thuật Gấp 10 Lần - Nằm Im Ta Cũng Thành Bất Bại",
@@ -1824,7 +1852,7 @@
     },
     {
       "id": "6YI8SMPAKEY",
-      "title": "Ảnh Hậu Trọng Sinh Thoát Bẫy Axit, Phản Đòn Tra Nam Và Bạn Thân Khiến Cả Hai Trả Giá!",
+      "title": "Bị Trai Đểu Và Bạn Thân Hại Đến Hủy Dung, Ảnh Hậu Trọng Sinh Lật Ngược Thế Cờ, Đoạt Lại Ngôi Vị!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-10-28T10:00:18Z",
