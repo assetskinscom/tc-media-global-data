@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T03:24:23Z",
+  "generated_at": "2026-10-30T04:25:13Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "Zur3v8hCyPQ",
+      "title": "Phần 19: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-30T04:12:43Z",
+      "duration_seconds": 9432,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zur3v8hCyPQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zvzMHYlqc-s",
+      "title": "Thực tập sinh bênh ông cụ trước khách! Ông là ông nội tổng tài, bắt cháu cưới cô, ai ngờ là tình đầu",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-10-30T04:00:16Z",
+      "duration_seconds": 7463,
+      "thumbnail_url": "https://i.ytimg.com/vi/zvzMHYlqc-s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Up94ams02xk",
+      "title": "Nữ Tổng Tài Công Khai Yêu Lục An Trước 500 Nghìn Người, Nào Ngờ Tình Địch Xuất Hiện Ở Buổi Họp Lớp",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T04:00:01Z",
+      "duration_seconds": 11167,
+      "thumbnail_url": "https://i.ytimg.com/vi/Up94ams02xk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "8Dgbgaq_xP4",
+      "title": "Hệ Thống Điểm Danh Thần Cấp Trở Thành Bá Chủ Giang Thành | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-30T04:00:00Z",
+      "duration_seconds": 9646,
+      "thumbnail_url": "https://i.ytimg.com/vi/8Dgbgaq_xP4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "etNAl-ijJ5Q",
+      "title": "13 GIỜ THỎA MÃN | Tạp Dịch Phế Vật Nhập Môn - Linh Bát Luyện Phế Đan - Âm Thầm Tu Thành Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T03:57:16Z",
+      "duration_seconds": 46723,
+      "thumbnail_url": "https://i.ytimg.com/vi/etNAl-ijJ5Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "DDc2vruuLvM",
       "title": "6 GIỜ | Điểm Danh 5 Năm Chỉ Cho Pháp Bảo Không Có Tu Vi - Phong Chủ Thu Đồ Hoàn Trả 1 Vạn Lần Tu Vi",
