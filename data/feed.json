@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T01:40:46Z",
+  "generated_at": "2026-10-30T02:25:10Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "EdGPGlEuLl8",
+      "title": "14,5 GIỜ THỎA MÃN | Tạp Dịch Ngũ Linh Căn - Ta Có Bình Thần Cường Hóa - Âm Thầm Trở Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T02:15:24Z",
+      "duration_seconds": 51813,
+      "thumbnail_url": "https://i.ytimg.com/vi/EdGPGlEuLl8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "fkZynYQyGMU",
+      "title": "Phần 1: Sư Tỷ Ném Cho Ta Một Túi Cá, Ta Nhờ Đàn Cá Đạp Nát Cả Tu Tiên Giới",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-30T02:01:30Z",
+      "duration_seconds": 14433,
+      "thumbnail_url": "https://i.ytimg.com/vi/fkZynYQyGMU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "AdHmkn47m1s",
+      "title": "Chồng Giấu Tiền Mặc Con Gái Bệnh Nặng, Nào Ngờ Vợ Ký Hợp Đồng Cưới Tổng Tài Khiến Anh Hối Hận Muộn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T02:00:26Z",
+      "duration_seconds": 7798,
+      "thumbnail_url": "https://i.ytimg.com/vi/AdHmkn47m1s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Mxx6q73ZLG4",
       "title": "P1-2 | 9 GIỜ THỎA MÃN | Cửu Long Ngọc Ấn - Chàng Rể Phế Vật Nào Ngờ Bất Bại Thống Trị Thế Giới",
