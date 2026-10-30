@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T05:23:04Z",
+  "generated_at": "2026-10-30T06:19:44Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "Tct1lCYZ5Iw",
+      "title": "Tổng tài bị sát thủ truy sát, cô gái quê bất ngờ ra tay cứu giúp, tay không bắt dao hạ gục tất cả!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-10-30T05:39:55Z",
+      "duration_seconds": 5894,
+      "thumbnail_url": "https://i.ytimg.com/vi/Tct1lCYZ5Iw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "vVjHVBz--_c",
       "title": "Mẹ Chồng Ép Con Dâu Đưa 200 Nghìn Tệ Mua Xe Cho Em Chồng, Nào Ngờ Cô Đòi Ly Hôn Ngay Lập Tức",
@@ -12248,7 +12262,7 @@
     },
     {
       "id": "h5Hj-sRGW1g",
-      "title": "[S1] TRÓI ĐỊNH HỆ THỐNG ĐẠI ÁC NHÂN: TA CÀNG LÀM LOẠN, THÌ THIÊN HẠ CÀNG THÍCH",
+      "title": "[FULL S1] TRÓI ĐỊNH HỆ THỐNG ĐẠI ÁC NHÂN: TA CÀNG LÀM LOẠN, THÌ THIÊN HẠ CÀNG THÍCH",
       "channel": "movies4",
       "channel_title": "Ly VietSub",
       "published_at": "2026-10-12T09:01:41Z",
