@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T06:19:44Z",
+  "generated_at": "2026-10-30T07:41:21Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "1-lwvZ_8b2o",
+      "title": "Phần 1-2 | 4,5 GIỜ | Thiếu Gia Phế Vật - Hệ Thống Võ Thuật Gấp 10 Lần - Nằm Im Ta Cũng Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T07:21:55Z",
+      "duration_seconds": 16108,
+      "thumbnail_url": "https://i.ytimg.com/vi/1-lwvZ_8b2o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Cj3yZjNdrcA",
+      "title": "Chị Gái Cướp Người Yêu, Mẹ Ép Cô Gả Thay Để Giữ Sính Lễ, Nào Ngờ Cô Đến Từ Thế Kỷ 21 Và Tự Làm Giàu",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T07:00:17Z",
+      "duration_seconds": 14446,
+      "thumbnail_url": "https://i.ytimg.com/vi/Cj3yZjNdrcA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "AYujt5DPd_k",
+      "title": "Giả Vờ Là Thái Tử Phế Vật Suốt 5 Năm, Hắn Âm Thầm Điểm Danh Tu Luyện, Khiến Văn Võ Bá Quan Khiếp Sợ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-30T07:00:11Z",
+      "duration_seconds": 12745,
+      "thumbnail_url": "https://i.ytimg.com/vi/AYujt5DPd_k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6o-EwIAMrPA",
+      "title": "Phần 12 | KIẾM TIÊN TRỞ VỀ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T06:30:28Z",
+      "duration_seconds": 8622,
+      "thumbnail_url": "https://i.ytimg.com/vi/6o-EwIAMrPA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "drCShlw32S8",
+      "title": "[FULL S2-3] TRÓI ĐỊNH HỆ THỐNG ĐẠI ÁC NHÂN: TA CÀNG LÀM LOẠN, THÌ THIÊN HẠ CÀNG THÍCH",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-10-30T06:22:10Z",
+      "duration_seconds": 35197,
+      "thumbnail_url": "https://i.ytimg.com/vi/drCShlw32S8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Tct1lCYZ5Iw",
       "title": "Tổng tài bị sát thủ truy sát, cô gái quê bất ngờ ra tay cứu giúp, tay không bắt dao hạ gục tất cả!",
