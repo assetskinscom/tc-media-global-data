@@ -1,33 +1,34 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-30T00:13:19Z",
-  "last_full_refresh_at": "2026-10-29T17:29:44Z",
+  "last_success_at": "2026-10-30T01:37:44Z",
+  "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "video_counts": {
     "music": 198,
     "edm": 35,
     "shorts": 334,
-    "cartoon": 2641,
-    "drama": 2099,
+    "cartoon": 3180,
+    "drama": 2097,
     "music_shorts": 334,
     "music_long": 35,
-    "movies": 2641
+    "movies": 3180
   },
   "source_counts": {
     "music": 532,
-    "movies": 414,
-    "movies2": 123,
-    "movies3": 232,
-    "movies4": 601,
+    "movies": 415,
+    "movies2": 124,
+    "movies3": 219,
+    "movies4": 600,
     "movies5": 142,
     "movies6": 531,
-    "movies7": 603,
+    "movies7": 600,
+    "movies8": 554,
     "drama": 119,
     "drama2": 287,
     "drama3": 326,
     "drama4": 307,
     "drama5": 327,
     "drama6": 215,
-    "drama7": 278,
+    "drama7": 276,
     "drama8": 288,
     "drama9": 117
   },
@@ -40,25 +41,25 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 414,
+      "video_count": 415,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 123,
+      "video_count": 124,
       "sync_status": "ok",
       "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 232,
+      "video_count": 219,
       "sync_status": "ok",
       "error": ""
     },
     "movies4": {
       "handle": "@LyVietSub",
-      "video_count": 601,
+      "video_count": 600,
       "sync_status": "ok",
       "error": ""
     },
@@ -76,7 +77,13 @@
     },
     "movies7": {
       "handle": "@taihalephidung",
-      "video_count": 603,
+      "video_count": 600,
+      "sync_status": "ok",
+      "error": ""
+    },
+    "movies8": {
+      "handle": "@ThanhTang-RV",
+      "video_count": 554,
       "sync_status": "ok",
       "error": ""
     },
@@ -118,7 +125,7 @@
     },
     "drama7": {
       "handle": "@nghienhoangu",
-      "video_count": 278,
+      "video_count": 276,
       "sync_status": "ok",
       "error": ""
     },
