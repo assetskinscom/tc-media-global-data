@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T22:15:31Z",
+  "generated_at": "2026-10-30T23:13:25Z",
   "last_full_refresh_at": "2026-10-30T01:37:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "KWSbAnaUiZk",
+      "title": "Nhà Phá Sản Nợ 90 Triệu Tệ, Hôn Phu Bỏ Rơi Cô, Nào Ngờ Cô Cưới Ngay Cậu Út Quyền Thế Của Anh Ta",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T23:00:27Z",
+      "duration_seconds": 9434,
+      "thumbnail_url": "https://i.ytimg.com/vi/KWSbAnaUiZk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Jm5f-E2fmqg",
       "title": "Phần 1(P2): Trỗi Dậy! Phàm Nhân Tu Tiên: Tạp Dịch Ngoại Môn",
