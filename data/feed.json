@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T01:40:14Z",
+  "generated_at": "2026-10-31T02:28:09Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "vgtkmeoJ5GQ",
+      "title": "Vạn Pháp Bảo Điển - Tạp Dịch Thất Linh Căn - Ta Thành Thần Nhờ Luyện Đan Luyện Khí",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T02:06:16Z",
+      "duration_seconds": 7268,
+      "thumbnail_url": "https://i.ytimg.com/vi/vgtkmeoJ5GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uLk57Q5jRps",
+      "title": "Vợ Tổng Tài Bỏ Chồng Ở Sân Bay Để Đưa Vệ Sĩ Đi Du Lịch, Nào Ngờ Anh Hủy Biệt Thự Và Du Thuyền Riêng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T02:00:19Z",
+      "duration_seconds": 11810,
+      "thumbnail_url": "https://i.ytimg.com/vi/uLk57Q5jRps/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "y3FpT_PlrR0",
       "title": "P1-3 | 7,5 GIỜ | Hệ Thống Hợp Nhất Toàn Gia Tộc - Thiếu Gia Không Tu Vi Một Bước Thành Đại Đế Cảnh",
