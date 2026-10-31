@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T09:19:24Z",
+  "generated_at": "2026-10-31T10:16:30Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "7mL3gA1KKbE",
+      "title": "Bị Chồng Ép Phá Thai Rồi Ruồng Bỏ, 5 Năm Sau Cô Dắt Con Trai Trở Về, Anh Mới Hối Hận!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-10-31T10:00:40Z",
+      "duration_seconds": 7151,
+      "thumbnail_url": "https://i.ytimg.com/vi/7mL3gA1KKbE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "IobvVjcv6Jg",
+      "title": "Em Gái Thất Lạc 15 Năm Trở Về, Nào Ngờ Cô Là Thần Đua Xe Ba Lần Vô Địch Và Cao Thủ Hacker Lừng Danh",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T10:00:31Z",
+      "duration_seconds": 8575,
+      "thumbnail_url": "https://i.ytimg.com/vi/IobvVjcv6Jg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-aqYbWUtK8Y",
+      "title": "Sở Hữu Hệ Thống Cường Hóa Vô Hạn Tôi Khiến Nữ Lãnh Chúa Tinh Linh Tranh Giành | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T10:00:20Z",
+      "duration_seconds": 4818,
+      "thumbnail_url": "https://i.ytimg.com/vi/-aqYbWUtK8Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FDF7YM9Cekc",
+      "title": "Sở Hữu Hệ Thống Chơi Khăm Mạnh Nhất, Hắn Càng Bị Căm Ghét Càng Mạnh, Khiến Cả Tu Tiên Giới Phát Điên",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T10:00:14Z",
+      "duration_seconds": 29567,
+      "thumbnail_url": "https://i.ytimg.com/vi/FDF7YM9Cekc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1tNKkhPeZAI",
+      "title": "Full Version 1 l Xuyên Thành Cô Dâu Pháo Hôi, Tôi Được Trùm Phản Diện Cưng Đến Nghiện l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-31T09:54:48Z",
+      "duration_seconds": 4246,
+      "thumbnail_url": "https://i.ytimg.com/vi/1tNKkhPeZAI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "szA23VfYaq4",
+      "title": "Trọng sinh mang theo hệ thống nghịch thiên,việc đầu tiên cô làm là tiêu diệt thiên kiêu tông môn",
+      "channel": "movies8",
+      "channel_title": "ThánhTăng",
+      "published_at": "2026-10-31T09:53:31Z",
+      "duration_seconds": 5491,
+      "thumbnail_url": "https://i.ytimg.com/vi/szA23VfYaq4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "2zaG1c6hM5k",
+      "title": "Phần 36 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T09:51:09Z",
+      "duration_seconds": 7230,
+      "thumbnail_url": "https://i.ytimg.com/vi/2zaG1c6hM5k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XfBFgzRUUYY",
+      "title": "4 GIỜ | Hoàng Đế Lưu Đày - Hệ Thống Điểm Danh Chí Tôn - Ta Vô Địch Cùng Dàn Thần Tướng Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T09:30:51Z",
+      "duration_seconds": 14896,
+      "thumbnail_url": "https://i.ytimg.com/vi/XfBFgzRUUYY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "vo2x-0DI228",
       "title": "Xuyên Không Thành Người Hầu Hèn Mọn, Thức Tỉnh Thần Thể, Một Kiếm Chấn Động Cả Tiên Giới!",
