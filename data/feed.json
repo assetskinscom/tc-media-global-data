@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T12:14:34Z",
+  "generated_at": "2026-10-31T13:28:41Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,63 @@
     }
   },
   "videos": [
+    {
+      "id": "p92hABURSY0",
+      "title": "Gelombang Malam — Album EDM Malaysia (Original)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T13:26:23Z",
+      "duration_seconds": 1761,
+      "thumbnail_url": "https://i.ytimg.com/vi/p92hABURSY0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
+    {
+      "id": "WKLUSrkk2ic",
+      "title": "Chồng Bóp Méo Lời Vợ Suốt 5 Năm Khiến Mẹ Chồng Ghét Con Dâu, Nào Ngờ Cô Có Ghi Âm Vạch Trần Tất Cả",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T13:00:26Z",
+      "duration_seconds": 5424,
+      "thumbnail_url": "https://i.ytimg.com/vi/WKLUSrkk2ic/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UZo6xwFUD8c",
+      "title": "Thiếu Tông Chủ Phế Vật - Nào Ngờ Là Đại Đế Đỉnh Phong - Mình Ta Chấp Cả Thiên Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T13:00:12Z",
+      "duration_seconds": 8295,
+      "thumbnail_url": "https://i.ytimg.com/vi/UZo6xwFUD8c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "v55bYW2sDEI",
+      "title": "3,5 GIỜ | Xuyên Làm Thiếu Gia Phế Vật - Ta Dựa Vào Hệ Thống Tình Báo - Nhặt Cơ Duyệt Tu Thành Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T12:24:30Z",
+      "duration_seconds": 12727,
+      "thumbnail_url": "https://i.ytimg.com/vi/v55bYW2sDEI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "dIJx82GBCK8",
       "title": "Tận Thế Chi Vương Thức Tỉnh Kho Không Gian Bảo Kê Vợ Con Vô Địch | Đậu Đậu Vietsub",
