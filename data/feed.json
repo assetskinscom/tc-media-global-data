@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T11:13:47Z",
+  "generated_at": "2026-10-31T12:14:34Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "dIJx82GBCK8",
+      "title": "Tận Thế Chi Vương Thức Tỉnh Kho Không Gian Bảo Kê Vợ Con Vô Địch | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T12:00:35Z",
+      "duration_seconds": 5250,
+      "thumbnail_url": "https://i.ytimg.com/vi/dIJx82GBCK8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "W0SOAKJpUds",
+      "title": "Tỉnh Dậy Giữa Nạn Đói Cổ Đại, Hắn Nhìn Thấu Suy Nghĩ Người Khác, Tiên Đoán Mọi Biến Cố Tương Lai!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T12:00:25Z",
+      "duration_seconds": 11965,
+      "thumbnail_url": "https://i.ytimg.com/vi/W0SOAKJpUds/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FkZNuoQTxjY",
+      "title": "Chồng Cùng Nhân Tình Chiếm Nhà Hàng, Khai Tử Vợ Suốt 15 Năm, Nào Ngờ Cô Trở Về Có Đại Gia Chống Lưng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T12:00:24Z",
+      "duration_seconds": 8578,
+      "thumbnail_url": "https://i.ytimg.com/vi/FkZNuoQTxjY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "7LISwxkFXRA",
+      "title": "3 GIỜ | Tạp Dịch Biên Ải - Càng Đánh Càng Mạnh - Giệt Giặc Lập Đại Công Cứu Nước Thành Tướng Quân",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T11:52:06Z",
+      "duration_seconds": 10421,
+      "thumbnail_url": "https://i.ytimg.com/vi/7LISwxkFXRA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "K68v-032C4E",
+      "title": "Mẹ chồng siêu giàu giả nghèo sống chung với con dâu, nào ngờ bị coi thường đuổi thẳng ra đường!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-10-31T11:30:09Z",
+      "duration_seconds": 5410,
+      "thumbnail_url": "https://i.ytimg.com/vi/K68v-032C4E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "KgT4TiaZyD4",
       "title": "Open Window (New Light) — Official Video",
