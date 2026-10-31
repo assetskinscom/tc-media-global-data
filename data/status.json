@@ -1,36 +1,36 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-10-31T03:24:35Z",
+  "last_success_at": "2026-10-31T04:23:12Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "video_counts": {
     "music": 202,
     "edm": 36,
     "shorts": 337,
-    "cartoon": 3219,
-    "drama": 2115,
+    "cartoon": 3223,
+    "drama": 2119,
     "music_shorts": 337,
     "music_long": 36,
-    "movies": 3219
+    "movies": 3223
   },
   "source_counts": {
     "music": 539,
-    "movies": 432,
+    "movies": 434,
     "movies2": 132,
-    "movies3": 223,
+    "movies3": 224,
     "movies4": 602,
     "movies5": 143,
-    "movies6": 537,
+    "movies6": 538,
     "movies7": 601,
     "movies8": 554,
-    "drama": 119,
+    "drama": 120,
     "drama2": 288,
     "drama3": 327,
     "drama4": 308,
     "drama5": 328,
     "drama6": 216,
-    "drama7": 276,
-    "drama8": 289,
-    "drama9": 129
+    "drama7": 277,
+    "drama8": 290,
+    "drama9": 130
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 432,
+      "video_count": 434,
       "sync_status": "ok",
       "error": ""
     },
@@ -53,7 +53,7 @@
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 223,
+      "video_count": 224,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,7 +71,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 537,
+      "video_count": 538,
       "sync_status": "ok",
       "error": ""
     },
@@ -89,7 +89,7 @@
     },
     "drama": {
       "handle": "@nangngotdrama",
-      "video_count": 119,
+      "video_count": 120,
       "sync_status": "ok",
       "error": ""
     },
@@ -125,19 +125,19 @@
     },
     "drama7": {
       "handle": "@nghienhoangu",
-      "video_count": 276,
+      "video_count": 277,
       "sync_status": "ok",
       "error": ""
     },
     "drama8": {
       "handle": "@SignLanguageoumei7",
-      "video_count": 289,
+      "video_count": 290,
       "sync_status": "ok",
       "error": ""
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 129,
+      "video_count": 130,
       "sync_status": "ok",
       "error": ""
     }

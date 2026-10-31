@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T03:24:35Z",
+  "generated_at": "2026-10-31T04:23:12Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "_Uzr003noKA",
+      "title": "3,5 GIỜ | Xuyên Làm Nhị Thiếu Gia Ăn Chơi - Hệ Thống Hóa Chiến Thần Cùng Trí Tuệ Lên Ngôi Hoàng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T04:16:34Z",
+      "duration_seconds": 12911,
+      "thumbnail_url": "https://i.ytimg.com/vi/_Uzr003noKA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oxOlzYWsaSk",
+      "title": "Phần 10: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T04:02:22Z",
+      "duration_seconds": 7666,
+      "thumbnail_url": "https://i.ytimg.com/vi/oxOlzYWsaSk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tlba93pT9g0",
+      "title": "Nữ tổng tài giả nợ 900 nghìn đi xem mắt, 99 anh bỏ chạy, chỉ thợ sửa đồng hồ ở góc nói: Tôi đồng ý!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-10-31T04:00:26Z",
+      "duration_seconds": 5175,
+      "thumbnail_url": "https://i.ytimg.com/vi/tlba93pT9g0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "PMzgGIqL3RI",
+      "title": "Bị Anh Trai Khinh Là Con Rơi, Tổng Tài Đòi Quyền Nhà Họ Chúc, Còn Đưa Vợ Lên Ghế Chủ Tịch Tập Đoàn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T04:00:19Z",
+      "duration_seconds": 7874,
+      "thumbnail_url": "https://i.ytimg.com/vi/PMzgGIqL3RI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "oZJTGoZwKBk",
+      "title": "Full Mùa 1+ 2 |  Tận Thế Bùng Phát: Cô Gái Thức Tỉnh Dị Năng Gánh Cả Đội Sinh Tồn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T04:00:11Z",
+      "duration_seconds": 19086,
+      "thumbnail_url": "https://i.ytimg.com/vi/oZJTGoZwKBk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tUqV4z35V0E",
+      "title": "P1-2 | 4,5 GIỜ | Phụ Hoàng Vô Địch - Nào Ngờ Người Là Đại Tướng Thiên Tài Xuyên Không",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T03:40:40Z",
+      "duration_seconds": 16390,
+      "thumbnail_url": "https://i.ytimg.com/vi/tUqV4z35V0E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4SHIaOsEE5Y",
+      "title": "Tổng tài tỷ phú giả nghèo thử lòng người, ai ngờ cô gái quê không chê còn lấy anh làm chồng",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-10-31T03:30:14Z",
+      "duration_seconds": 6638,
+      "thumbnail_url": "https://i.ytimg.com/vi/4SHIaOsEE5Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tvUtMO4ur_o",
+      "title": "Thằng ăn mày vừa xuống núi đã được nữ CEO trúng thuốc trao cho cái ngàn vàng, đúng là số hưởng!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-10-31T03:30:09Z",
+      "duration_seconds": 8327,
+      "thumbnail_url": "https://i.ytimg.com/vi/tvUtMO4ur_o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "I2rSRImZiqU",
       "title": "4 GIỜ | Hoàng Đế Lưu Đày - Hệ Thống Điểm Danh Chí Tôn - Ta Vô Địch Cùng Dàn Thần Tướng Bất Bại",
