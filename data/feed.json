@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T14:18:21Z",
+  "generated_at": "2026-10-31T15:14:28Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "xho0Hrda1zs",
+      "title": "Ly Cà Phê Em Quên - Bolero Parody",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T15:09:37Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/xho0Hrda1zs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "8h5QVDyOKJY",
+      "title": "Ly Cà Phê Em Quên - Bolero Parody Tình Đơn Phương (Official Audio) | 4:00",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T15:08:22Z",
+      "duration_seconds": 243,
+      "thumbnail_url": "https://i.ytimg.com/vi/8h5QVDyOKJY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "Zs20kRgXJXg",
+      "title": "Phần 3(P2): Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T14:23:22Z",
+      "duration_seconds": 21240,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zs20kRgXJXg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZFip3NSL_kI",
+      "title": "Phần 36-37 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-31T14:19:52Z",
+      "duration_seconds": 14778,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZFip3NSL_kI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "7NkD97HDrvE",
       "title": "99 Tuổi Mới Gia Nhập Tông Môn - Ta Có Lục Bình Thần Kỳ - Tinh Luyện Phế Đan Thành Bảo Đan",
