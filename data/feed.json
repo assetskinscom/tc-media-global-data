@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T00:13:44Z",
-  "last_full_refresh_at": "2026-10-30T01:37:44Z",
+  "generated_at": "2026-10-31T01:40:14Z",
+  "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "y3FpT_PlrR0",
+      "title": "P1-3 | 7,5 GIỜ | Hệ Thống Hợp Nhất Toàn Gia Tộc - Thiếu Gia Không Tu Vi Một Bước Thành Đại Đế Cảnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T01:02:36Z",
+      "duration_seconds": 26450,
+      "thumbnail_url": "https://i.ytimg.com/vi/y3FpT_PlrR0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "o_F-BgMznfE",
+      "title": "Chồng Đưa Nhân Tình Mang Thai Đi Khám, Vợ Nhận Tin Từ 10 Năm Sau, Nào Ngờ Cô Thành Chủ Tịch Tập Đoàn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T01:00:35Z",
+      "duration_seconds": 5112,
+      "thumbnail_url": "https://i.ytimg.com/vi/o_F-BgMznfE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "1xAZ55xtq2s",
+      "title": "Xuyên Không Làm Tiểu Cẩm Y Vệ, Càng Bắt Gian Thần Càng Mạnh, Cuối Cùng Một Mình Trấn Áp Toàn Võ Lâm",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T01:00:10Z",
+      "duration_seconds": 16715,
+      "thumbnail_url": "https://i.ytimg.com/vi/1xAZ55xtq2s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Ht7nlfmk7rY",
       "title": "Vợ Tỉnh Sau 3 Tháng Hôn Mê, Bạn Thân Báo Chồng Đã Chết, Nào Ngờ Kẻ Bên Cạnh Là Anh Em Sinh Đôi Ruột",
@@ -13086,20 +13128,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "4HtqFdAZ8PM",
-      "title": "Nữ CEO bị truy sát cầu cứu anh Shipper, nào ngờ là Chiến thần ra tay cứu mạng, được cô trao thân",
-      "channel": "drama7",
-      "channel_title": "Nghiện Hoa Ngữ",
-      "published_at": "2026-10-11T12:28:07Z",
-      "duration_seconds": 8125,
-      "thumbnail_url": "https://i.ytimg.com/vi/4HtqFdAZ8PM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -49168,20 +49196,6 @@
       "published_at": "2026-05-25T11:42:28Z",
       "duration_seconds": 428,
       "thumbnail_url": "https://i.ytimg.com/vi/HBOpPJcuN_I/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "jKe2KfDGbCg",
-      "title": "Xuyên không tới thế giới linh khí mỏng manh,anh trở thành tu tiên giả cuối cùng",
-      "channel": "movies8",
-      "channel_title": "ThánhTăng",
-      "published_at": "2026-05-25T11:21:22Z",
-      "duration_seconds": 3294,
-      "thumbnail_url": "https://i.ytimg.com/vi/jKe2KfDGbCg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
