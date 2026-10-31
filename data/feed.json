@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T05:20:02Z",
+  "generated_at": "2026-10-31T06:17:33Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "CARNtK1Gabw",
+      "title": "夜灯下的告别",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T06:11:50Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/CARNtK1Gabw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "LFkyC_zj6Pw",
+      "title": "夜灯下的告别 — 慢歌抒情｜在夜里学会把你的名字放下（Official Audio）",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T06:08:06Z",
+      "duration_seconds": 239,
+      "thumbnail_url": "https://i.ytimg.com/vi/LFkyC_zj6Pw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "_9QIIWCGlb0",
+      "title": "Phần 15 | Tụ Bảo Tiên Bồn: Tạp Linh Căn Mới Là BOSS Thật Sự",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-31T05:37:34Z",
+      "duration_seconds": 24761,
+      "thumbnail_url": "https://i.ytimg.com/vi/_9QIIWCGlb0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QezaToF-cVM",
       "title": "Đi Dự Đám Cưới Bạn Thân, Cô Sững Sờ Thấy Chồng Mình Là Chú Rể, Nào Ngờ Anh Đã Lừa Cô Suốt 3 Tháng",

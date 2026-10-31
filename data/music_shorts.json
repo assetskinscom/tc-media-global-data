@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-31T05:20:02Z",
+  "generated_at": "2026-10-31T06:17:33Z",
   "videos": [
+    {
+      "id": "CARNtK1Gabw",
+      "title": "夜灯下的告别",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T06:11:50Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/CARNtK1Gabw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "ypmQp_HnBFI",
       "title": "창가의 남은 봄",
