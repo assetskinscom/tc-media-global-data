@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-31T10:16:30Z",
+  "generated_at": "2026-10-31T11:13:47Z",
   "videos": [
+    {
+      "id": "KgT4TiaZyD4",
+      "title": "Open Window (New Light) — Official Video",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T11:07:14Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/KgT4TiaZyD4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "CARNtK1Gabw",
       "title": "夜灯下的告别",

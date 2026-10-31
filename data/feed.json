@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T10:16:30Z",
+  "generated_at": "2026-10-31T11:13:47Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "KgT4TiaZyD4",
+      "title": "Open Window (New Light) — Official Video",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T11:07:14Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/KgT4TiaZyD4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "rZiYunrdKJw",
+      "title": "Open Window (New Light) — Official Music Video | Inspirational Pop Ballad",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T11:06:56Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/rZiYunrdKJw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "roh6MmgFVpI",
+      "title": "Chồng Ngoại Tình Còn Dùng Giấy Kết Hôn Giả Lừa Vợ 5 Năm, Nào Ngờ Cô Được Tổng Tài Quyền Thế Bảo Vệ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T11:00:39Z",
+      "duration_seconds": 8822,
+      "thumbnail_url": "https://i.ytimg.com/vi/roh6MmgFVpI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ztjIf0pgnUI",
+      "title": "Gã say cứu nữ CEO khỏi 99 kẻ ác; cô yêu anh và tặng anh 10 tỷ USD để làm vệ sĩ.",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-10-31T11:00:28Z",
+      "duration_seconds": 8889,
+      "thumbnail_url": "https://i.ytimg.com/vi/ztjIf0pgnUI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "qY9jE9sDoZc",
+      "title": "Full Mùa 1-3 | Mạt Thế Tôi Là Chiến Thần Mất Trí Được Chiều Chuộng Trở Thành Bảo Bối Của Đội Trưởng",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T11:00:17Z",
+      "duration_seconds": 28279,
+      "thumbnail_url": "https://i.ytimg.com/vi/qY9jE9sDoZc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "u1I1mV-2J_w",
+      "title": "Đệ Tử Không Linh Căn Cả Tông Môn Coi Thường - Hệ Thống Chi Tiêu Thần Cấp Hoàn Trả Gấp 100 Lần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T10:49:30Z",
+      "duration_seconds": 8271,
+      "thumbnail_url": "https://i.ytimg.com/vi/u1I1mV-2J_w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "7mL3gA1KKbE",
       "title": "Bị Chồng Ép Phá Thai Rồi Ruồng Bỏ, 5 Năm Sau Cô Dắt Con Trai Trở Về, Anh Mới Hối Hận!",
