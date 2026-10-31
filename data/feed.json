@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T07:35:13Z",
+  "generated_at": "2026-10-31T08:25:09Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "GljfJLX6ids",
+      "title": "Cận Kề Cái Chết Bỗng Kích Hoạt Hệ Thống Xổ Số, Hắn Dùng Điểm Ước Nguyện Đổi Tuyệt Thế Thần Công!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T08:00:12Z",
+      "duration_seconds": 7447,
+      "thumbnail_url": "https://i.ytimg.com/vi/GljfJLX6ids/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "HWqFJqI8rak",
       "title": "P1-3 | 6 GIỜ | Xuyên Làm Tốt Thí Phế Vật - Hợp Nhất Vạn Vật - Âm Thầm Vươn Lên Thành Đại Tướng",
