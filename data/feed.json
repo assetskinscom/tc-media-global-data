@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T04:23:12Z",
+  "generated_at": "2026-10-31T05:20:02Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "QezaToF-cVM",
+      "title": "Đi Dự Đám Cưới Bạn Thân, Cô Sững Sờ Thấy Chồng Mình Là Chú Rể, Nào Ngờ Anh Đã Lừa Cô Suốt 3 Tháng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T05:00:28Z",
+      "duration_seconds": 5069,
+      "thumbnail_url": "https://i.ytimg.com/vi/QezaToF-cVM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_15mmju8xkA",
+      "title": "Sinh Tồn Hoang Đảo: Ta Dẫn Theo Hoa Khôi Trốn Thoát | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T05:00:22Z",
+      "duration_seconds": 4874,
+      "thumbnail_url": "https://i.ytimg.com/vi/_15mmju8xkA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XQux5eyP7GI",
+      "title": "Xuyên Làm Thiếu Gia Phế Vật - Hệ Thống Nhiệm Vụ Cấp Thần - Âm Thầm Thành Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T04:49:25Z",
+      "duration_seconds": 9409,
+      "thumbnail_url": "https://i.ytimg.com/vi/XQux5eyP7GI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "_Uzr003noKA",
       "title": "3,5 GIỜ | Xuyên Làm Nhị Thiếu Gia Ăn Chơi - Hệ Thống Hóa Chiến Thần Cùng Trí Tuệ Lên Ngôi Hoàng Đế",
