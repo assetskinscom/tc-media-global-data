@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T06:17:33Z",
+  "generated_at": "2026-10-31T07:35:13Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "HWqFJqI8rak",
+      "title": "P1-3 | 6 GIỜ | Xuyên Làm Tốt Thí Phế Vật - Hợp Nhất Vạn Vật - Âm Thầm Vươn Lên Thành Đại Tướng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T07:31:48Z",
+      "duration_seconds": 20617,
+      "thumbnail_url": "https://i.ytimg.com/vi/HWqFJqI8rak/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jQvqy1Zr4uQ",
+      "title": "Full Version l Nghe Được Tiếng Lòng Tôi, Cả Nhà Mới Biết Đã Thương Nhầm Người l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-31T07:24:54Z",
+      "duration_seconds": 2761,
+      "thumbnail_url": "https://i.ytimg.com/vi/jQvqy1Zr4uQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "JlFNSIt43-c",
+      "title": "Vợ Giữ Hết Lương, Chồng Xin 50 Tệ Mua Thức Ăn Cho Cá Cũng Bị Mắng, Nào Ngờ Anh Ly Hôn Mở Tiệm Riêng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T07:00:27Z",
+      "duration_seconds": 10566,
+      "thumbnail_url": "https://i.ytimg.com/vi/JlFNSIt43-c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "odNNN-a_fgc",
+      "title": "Bị Cả Tông Môn Coi Là Phế Vật, Hắn Kích Hoạt Hệ Thống, Được Các Sư Tỷ Xinh Đẹp Tranh Nhau Sủng Ái!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T07:00:03Z",
+      "duration_seconds": 7264,
+      "thumbnail_url": "https://i.ytimg.com/vi/odNNN-a_fgc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "yJhgUrYQPlM",
+      "title": "Phần 10(P9- 982): Từ Tạp Dịch Vô Danh, Ta Khổ Tu Phù Đạo Nghịch Thiên Thành Tiên Nhân",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T06:36:53Z",
+      "duration_seconds": 3068,
+      "thumbnail_url": "https://i.ytimg.com/vi/yJhgUrYQPlM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3Ocfrn4-s34",
+      "title": "3 GIỜ | Thần Võ Thuật - Xuyên Làm Tạp Dịch - Ta Dựa Vào Bảng Kỹ Năng Để Thay Đổi Số Mệnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T06:30:29Z",
+      "duration_seconds": 10568,
+      "thumbnail_url": "https://i.ytimg.com/vi/3Ocfrn4-s34/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "CARNtK1Gabw",
       "title": "夜灯下的告别",
@@ -330,7 +414,7 @@
       "channel": "drama7",
       "channel_title": "Nghiện Hoa Ngữ",
       "published_at": "2026-10-31T03:30:09Z",
-      "duration_seconds": 8327,
+      "duration_seconds": 8314,
       "thumbnail_url": "https://i.ytimg.com/vi/tvUtMO4ur_o/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
