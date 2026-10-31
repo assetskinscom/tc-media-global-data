@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T15:14:28Z",
+  "generated_at": "2026-10-31T16:14:14Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -143,6 +143,20 @@
   },
   "videos": [
     {
+      "id": "KRAKdfxWXxo",
+      "title": "Phần 15: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T16:02:12Z",
+      "duration_seconds": 24297,
+      "thumbnail_url": "https://i.ytimg.com/vi/KRAKdfxWXxo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "xho0Hrda1zs",
       "title": "Ly Cà Phê Em Quên - Bolero Parody",
       "channel": "music",
@@ -249,6 +263,20 @@
       "published_at": "2026-10-31T13:00:12Z",
       "duration_seconds": 8295,
       "thumbnail_url": "https://i.ytimg.com/vi/UZo6xwFUD8c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "y0xRtjiHATc",
+      "title": "Tập 201-230: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T13:00:08Z",
+      "duration_seconds": 8042,
+      "thumbnail_url": "https://i.ytimg.com/vi/y0xRtjiHATc/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
