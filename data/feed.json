@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T08:26:19Z",
+  "generated_at": "2026-11-01T09:23:53Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "neMa8VBraww",
+      "title": "Con Trai Ép Mẹ Ký Giấy Nhường Nhà Giải Tỏa Dịp Sinh Nhật, Nào Ngờ Bà Vạch Trần Âm Mưu Và Lấy Lại Nhà",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T09:00:23Z",
+      "duration_seconds": 4976,
+      "thumbnail_url": "https://i.ytimg.com/vi/neMa8VBraww/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "NQF-ESOmrko",
+      "title": "Phần 38 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T08:58:17Z",
+      "duration_seconds": 7697,
+      "thumbnail_url": "https://i.ytimg.com/vi/NQF-ESOmrko/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "_uOFN8l9RME",
       "title": "Vạn Vật Đều Là Nấm Mồ Của Tiên Nhân, Chỉ Riêng Hắn Trường Sinh Bất Tử, Độc Tôn Vạn Cổ!",
