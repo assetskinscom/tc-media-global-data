@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T02:37:54Z",
+  "generated_at": "2026-11-01T03:27:31Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "v8Q2YyvopII",
+      "title": "Xuyên Không Thành Phản Diện, Ta Luân Hồi Đoạt Khí Vận Nam Chính | MÙA 1+2 | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-01T03:00:36Z",
+      "duration_seconds": 16955,
+      "thumbnail_url": "https://i.ytimg.com/vi/v8Q2YyvopII/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "nj6q5hG1TCg",
+      "title": "Tráo Thân Nghịch Mệnh: Tướng Môn Đích Nữ Quét Sạch Hậu Trạch | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-01T03:00:27Z",
+      "duration_seconds": 9400,
+      "thumbnail_url": "https://i.ytimg.com/vi/nj6q5hG1TCg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "l_6VSH9eKWw",
+      "title": "Có Bảo Tháp Vô Danh, Hắn Liên Tục Đột Phá Cảnh Giới, Đánh Bại Thiên Kiêu Và Đoạt Cơ Duyên Thượng Cổ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-01T03:00:16Z",
+      "duration_seconds": 22918,
+      "thumbnail_url": "https://i.ytimg.com/vi/l_6VSH9eKWw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "NClkqyLHWjQ",
+      "title": "3,5 GIỜ | Lão Tổ Vạn Năm Trở Về Cùng Hệ Thống Bất Bất Bại - Một Mình Xử Đẹp Ngũ Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T02:44:28Z",
+      "duration_seconds": 12763,
+      "thumbnail_url": "https://i.ytimg.com/vi/NClkqyLHWjQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "HKpoY5GRsmE",
       "title": "Phần 1(P4): Trỗi Dậy! Phàm Nhân Tu Tiên: Tạp Dịch Ngoại Môn",
