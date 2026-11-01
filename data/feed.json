@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T03:27:31Z",
+  "generated_at": "2026-11-01T04:30:01Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "WMYbm5giaLE",
+      "title": "3,5 GIỜ | Xuyên Làm Quan Huyện Chỉ Muốn Nghỉ Ngơi - Nào Ngờ Kiến Thức Thiên Tài Thay Đổi Quốc Gia",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T04:18:13Z",
+      "duration_seconds": 11712,
+      "thumbnail_url": "https://i.ytimg.com/vi/WMYbm5giaLE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9b02A3Sls_8",
+      "title": "Kẻ Buôn Lậu Xuyên Ngày Tận Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-01T04:00:28Z",
+      "duration_seconds": 5411,
+      "thumbnail_url": "https://i.ytimg.com/vi/9b02A3Sls_8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "VQ7JRr699wY",
+      "title": "Bà nội tổng tài giả dạng mua nhà bị sỉ nhục, thực tập sinh tốt bụng giúp! Bà bảo tổng tài cưới cô!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-01T04:00:23Z",
+      "duration_seconds": 6000,
+      "thumbnail_url": "https://i.ytimg.com/vi/VQ7JRr699wY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WHtNVep9IZ0",
+      "title": "Mẹ Đơn Thân Nuôi Hai Con Suốt 5 Năm, Bất Ngờ Giao Cho Tổng Giám Đốc 7 Ngày, Nào Ngờ Anh Là Cha Ruột!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T04:00:13Z",
+      "duration_seconds": 4506,
+      "thumbnail_url": "https://i.ytimg.com/vi/WHtNVep9IZ0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-b6nXHBuDR4",
+      "title": "P1-3 | 6,5 GIỜ | Hệ Thống Muộn 8000 Năm - Sắp Cạn Thọ Nguyên Ta Trở Lại Trấn Áp Vạn Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T03:42:35Z",
+      "duration_seconds": 22778,
+      "thumbnail_url": "https://i.ytimg.com/vi/-b6nXHBuDR4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "v8Q2YyvopII",
       "title": "Xuyên Không Thành Phản Diện, Ta Luân Hồi Đoạt Khí Vận Nam Chính | MÙA 1+2 | Tại hạ Lệ Phi Dũng",
