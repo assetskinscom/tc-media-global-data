@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T23:12:21Z",
+  "generated_at": "2026-11-01T00:11:12Z",
   "last_full_refresh_at": "2026-10-31T01:40:14Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "91pfMCvd4bw",
+      "title": "Bạn Bè Khinh Anh Là Công Nhân Nghèo, Nào Ngờ Anh Trúng Số 130 Triệu Tệ Và Âm Thầm Thử Lòng Tất Cả",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T00:00:30Z",
+      "duration_seconds": 20438,
+      "thumbnail_url": "https://i.ytimg.com/vi/91pfMCvd4bw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "y1p3w8ACK3A",
       "title": "Mỗi Ngày Nhận 3 Tình Báo, Ta Đi Trước Kẻ Thù Một Bước (MÙA 1)",
