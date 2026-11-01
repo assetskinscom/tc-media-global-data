@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T09:23:53Z",
+  "generated_at": "2026-11-01T10:18:46Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "IPBTPyCI3EI",
+      "title": "Gái nghèo cưới chớp nhoáng tổng tài, hẹn 1 năm ly hôn! Ai ngờ anh yêu cô, đêm nào cũng ôm chặt!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-01T10:00:23Z",
+      "duration_seconds": 8670,
+      "thumbnail_url": "https://i.ytimg.com/vi/IPBTPyCI3EI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "L0pyL65kbsw",
+      "title": "Ông Lão 60 Tuổi Bị Cả Công Ty Chê Cười Khi Làm Thực Tập Sinh, Nào Ngờ Là Tỷ Phú Giàu Nhất Thế Giới!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T10:00:11Z",
+      "duration_seconds": 10448,
+      "thumbnail_url": "https://i.ytimg.com/vi/L0pyL65kbsw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "A4C2kzVlyuw",
+      "title": "Trói Buộc Hệ Thống Bại Gia Càng Tiêu Tông Môn Càng Mạnh | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-01T10:00:00Z",
+      "duration_seconds": 10361,
+      "thumbnail_url": "https://i.ytimg.com/vi/A4C2kzVlyuw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "fqJ1GJysFKg",
+      "title": "11 GIỜ THỎA MÃN | Cha Ta Lại Là Đại Đế Đỉnh Phong - Con Trai Bị Hủy Hôn Vô Tình Kích Hoạt Hệ Thống",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T09:43:26Z",
+      "duration_seconds": 40169,
+      "thumbnail_url": "https://i.ytimg.com/vi/fqJ1GJysFKg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "neMa8VBraww",
       "title": "Con Trai Ép Mẹ Ký Giấy Nhường Nhà Giải Tỏa Dịp Sinh Nhật, Nào Ngờ Bà Vạch Trần Âm Mưu Và Lấy Lại Nhà",
