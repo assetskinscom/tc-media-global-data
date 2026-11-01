@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T10:18:46Z",
+  "generated_at": "2026-11-01T11:13:47Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "hDQFEA3Dal0",
+      "title": "Nữ tổng tài trốn mafia vào tiệm massage, không ngờ thợ mù là chiến thần, một tay diệt sạch!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-01T11:00:27Z",
+      "duration_seconds": 7444,
+      "thumbnail_url": "https://i.ytimg.com/vi/hDQFEA3Dal0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "nI7FmjVKhCA",
+      "title": "Mạt Thế Quỷ Dị Ta Thức Tỉnh Dị Năng Song Hệ Bá Chủ Đoàn Xe Mạt Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-01T11:00:17Z",
+      "duration_seconds": 9301,
+      "thumbnail_url": "https://i.ytimg.com/vi/nI7FmjVKhCA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6pN6ZXSVI6o",
+      "title": "Chồng Chờ Vợ Bệnh Nặng Qua Đời Để Chiếm Nhà, Nào Ngờ Cô Ly Hôn Rồi Mở Hơn 100 Cửa Hàng Đồ Kho Lớn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T11:00:06Z",
+      "duration_seconds": 9367,
+      "thumbnail_url": "https://i.ytimg.com/vi/6pN6ZXSVI6o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "erfAKgBJ8zA",
+      "title": "Xuyên không tới thế giới cổ đại,kích hoạt hệ thống chinh phục thiên hạ",
+      "channel": "movies8",
+      "channel_title": "ThánhTăng",
+      "published_at": "2026-11-01T10:55:28Z",
+      "duration_seconds": 4802,
+      "thumbnail_url": "https://i.ytimg.com/vi/erfAKgBJ8zA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Hi461jdkWdE",
+      "title": "Tập 1 -146: Tu Tiên Thời Mạt Thế Ta Sở Hữu Linh Thạch Vô Hạn Và Hệ Thống Trả Thưởng Nghịch Thiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-01T10:38:05Z",
+      "duration_seconds": 7415,
+      "thumbnail_url": "https://i.ytimg.com/vi/Hi461jdkWdE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6jEgFbTNH3E",
+      "title": "P1-2 | 10,5 GIỜ THỎA MÃN | Thiếu Gia Phá Gia Chi Tử - Văn Võ Song Toàn Nhờ Hệ Thống Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T10:33:01Z",
+      "duration_seconds": 36793,
+      "thumbnail_url": "https://i.ytimg.com/vi/6jEgFbTNH3E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "IPBTPyCI3EI",
       "title": "Gái nghèo cưới chớp nhoáng tổng tài, hẹn 1 năm ly hôn! Ai ngờ anh yêu cô, đêm nào cũng ôm chặt!",
