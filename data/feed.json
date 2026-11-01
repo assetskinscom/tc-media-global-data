@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T15:14:46Z",
+  "generated_at": "2026-11-01T16:15:16Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "QxkyKTjwyqQ",
+      "title": "Băng Chuyền Mơ Về Thành Phố — Vinahouse mơ màng cho đời công nhân (Original Parody) | Official Audio",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-01T16:07:41Z",
+      "duration_seconds": 239,
+      "thumbnail_url": "https://i.ytimg.com/vi/QxkyKTjwyqQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "PnYm4qLYksw",
+      "title": "Băng Chuyền Mơ Về Thành Phố — Official",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-01T16:07:34Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/PnYm4qLYksw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "_Iaao_DdKSc",
       "title": "Phần 38 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
