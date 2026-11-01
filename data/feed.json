@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T04:30:01Z",
+  "generated_at": "2026-11-01T05:26:18Z",
   "last_full_refresh_at": "2026-11-01T01:45:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "vb3Udf5WPVw",
+      "title": "Chiến thần xuống núi ghé ăn tô mì, thấy nữ CEO bị đám côn đồ truy sát, liền ra tay hạ gục cả đám!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-01T05:23:16Z",
+      "duration_seconds": 8491,
+      "thumbnail_url": "https://i.ytimg.com/vi/vb3Udf5WPVw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "4TSuT-faRM0",
+      "title": "Toàn Cầu Sinh Tồn: Ta Ở Dị Giới Bán Sỉ Dược Liệu Thần Cấp | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-01T05:00:36Z",
+      "duration_seconds": 23357,
+      "thumbnail_url": "https://i.ytimg.com/vi/4TSuT-faRM0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "d0KyWmkGAo8",
+      "title": "Lỡ Làm Hỏng Áo Tổng Tài, Cô Gái Nghèo Bị Đòi 58 Nghìn Tệ, Nào Ngờ Lại Mang Thai Con Của Tổng Tài!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T05:00:35Z",
+      "duration_seconds": 5981,
+      "thumbnail_url": "https://i.ytimg.com/vi/d0KyWmkGAo8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "qmr_XlAR8wc",
+      "title": "4 GIỜ | Đệ Tử Phế Nhất Tông Môn - Hệ Thống Trảm Sát Được Cả Đại Đế Chỉ Bằng 1 Ý Niệm",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-01T04:44:39Z",
+      "duration_seconds": 13146,
+      "thumbnail_url": "https://i.ytimg.com/vi/qmr_XlAR8wc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "xPf8Qvjxbvo",
+      "title": "[FULL 9H] THÁI TỬ PHẾ VẬT VÀ 4 ĐẠO LỮ PHÚ BÀ | LY VIETSUB 521",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-01T04:34:02Z",
+      "duration_seconds": 34300,
+      "thumbnail_url": "https://i.ytimg.com/vi/xPf8Qvjxbvo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "WMYbm5giaLE",
       "title": "3,5 GIỜ | Xuyên Làm Quan Huyện Chỉ Muốn Nghỉ Ngơi - Nào Ngờ Kiến Thức Thiên Tài Thay Đổi Quốc Gia",
