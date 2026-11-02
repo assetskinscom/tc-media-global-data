@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T11:30:57Z",
+  "generated_at": "2026-11-02T12:34:41Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,146 @@
     }
   },
   "videos": [
+    {
+      "id": "XMjLbCqFLYk",
+      "title": "Xuyên Làm Quan Huyện - Hệ Thống Thần Hào Mỗi Ngày Bắt Tiêu Ngàn Lượng - Ta Dựng Lên Cả Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T12:34:03Z",
+      "duration_seconds": 7462,
+      "thumbnail_url": "https://i.ytimg.com/vi/XMjLbCqFLYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "wHA-TE7NYWA",
+      "title": "Trùng sinh về thập niên 80, cô theo đuổi chồng quân nhân lạnh lùng, khiến anh si mê và cưng chiều!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-02T12:10:59Z",
+      "duration_seconds": 6770,
+      "thumbnail_url": "https://i.ytimg.com/vi/wHA-TE7NYWA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "zI1Y-R7Nj9g",
+      "title": "유리창에 맺힌 우리 — 팝 발라드",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T12:07:40Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/zI1Y-R7Nj9g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "RQtVJkHgAZg",
+      "title": "유리창에 맺힌 우리 — 잔잔한 팝 발라드 | 이별 후 그리움과 치유의 노래 (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T12:07:29Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/RQtVJkHgAZg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "F63FMZtjxRA",
+      "title": "Sinh Tồn Tàu Hỏa: Nhận Thiên Phú Cấp SSSS Một Mình Quét Sạch Tận Thế! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T12:00:39Z",
+      "duration_seconds": 4237,
+      "thumbnail_url": "https://i.ytimg.com/vi/F63FMZtjxRA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Me77wG02ZOw",
+      "title": "Bà giàu bị đuổi, cô lao công ra hiệu, giây sau cả tiệm cung kính đón! Hóa ra lao công là tổng tài!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-02T12:00:30Z",
+      "duration_seconds": 4636,
+      "thumbnail_url": "https://i.ytimg.com/vi/Me77wG02ZOw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tphMS4DROwI",
+      "title": "Thằng shipper số hưởng được 2 nữ CEO trúng thuốc trao thân, bất ngờ bùng phát sức mạnh Chiến Thần",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-02T12:00:07Z",
+      "duration_seconds": 7051,
+      "thumbnail_url": "https://i.ytimg.com/vi/tphMS4DROwI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "n5XdS_JwAzY",
+      "title": "Cô Dâu Ép 4 Bạn Thân Mặc Váy Phù Dâu Rẻ Tiền, Nào Ngờ Họ Bóc Trần Bộ Mặt Thật Khiến Chú Rể Hủy Hôn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T12:00:00Z",
+      "duration_seconds": 5353,
+      "thumbnail_url": "https://i.ytimg.com/vi/n5XdS_JwAzY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "AEQaqufh_rQ",
+      "title": "Dựa Vào Tình Báo Thần Bí, Hắn Biết Trước Mọi Cơ Duyên, Báo Thù Huyết Hận, Đạp Đỉnh Tiên Võ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T11:48:32Z",
+      "duration_seconds": 12720,
+      "thumbnail_url": "https://i.ytimg.com/vi/AEQaqufh_rQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kNjyFty7qcw",
+      "title": "3 GIỜ | Xuyên Làm Thiếu Tông Chủ - Ta Sở Hữu Hồng Mông Bất Diệt Thể Cùng Hệ Thống Điểm Danh Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T11:43:48Z",
+      "duration_seconds": 9787,
+      "thumbnail_url": "https://i.ytimg.com/vi/kNjyFty7qcw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Zy86Vrqzvlo",
       "title": "Con gái tỷ phú về quê tìm cha, chết lặng khi thấy ông bị 3 anh trai đuổi khỏi nhà, bắt ăn cơm chó!",
