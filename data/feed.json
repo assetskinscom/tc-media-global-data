@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T06:40:12Z",
+  "generated_at": "2026-11-02T08:01:46Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "Het4xJgPOLM",
+      "title": "[FULL 14H] TA CÙNG 8 SỦNG PHI TRỒNG RAU NUÔI CÁ | LY VIETSUB 611",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-02T07:38:46Z",
+      "duration_seconds": 50779,
+      "thumbnail_url": "https://i.ytimg.com/vi/Het4xJgPOLM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6dQi38kvhMg",
+      "title": "P1-2 | 14 GIỜ THỎA MÃN | Thiếu Chủ Bị Gia Tộc Ruồng Bỏ - Kích Hoạt Hệ Thống Thành Ma Thần Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T07:17:48Z",
+      "duration_seconds": 50072,
+      "thumbnail_url": "https://i.ytimg.com/vi/6dQi38kvhMg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "q1IoA19RtVg",
+      "title": "Còn Lại Một Góc Mưa — Ballad Buồn",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T07:12:46Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/q1IoA19RtVg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "1ILkn0FYLwg",
+      "title": "Còn Lại Một Góc Mưa — Ballad Buồn | MV Lyric | Nhạc Mới 2026",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T07:07:23Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/1ILkn0FYLwg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "iqq0Ip-Lc1Q",
+      "title": "Cô Gái Xuyên Sách Thành Mẹ Kế Độc Ác, Nào Ngờ Khiến Tổng Tài Lạnh Lùng Và Con Riêng Đều Yêu Quý Cô!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T07:00:23Z",
+      "duration_seconds": 8069,
+      "thumbnail_url": "https://i.ytimg.com/vi/iqq0Ip-Lc1Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "kz9980OzYEI",
       "title": "Hệ Thống Giảm Giá 1 TỶ Lần - Đệ Tử Phế Linh Căn - Nhưng Ta Vẫn Vô Địch Trong Giới Tu Tiên",
