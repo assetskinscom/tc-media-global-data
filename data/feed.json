@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T15:48:21Z",
+  "generated_at": "2026-11-02T16:51:56Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "LT8dJmgCG1I",
+      "title": "Sàn Nhớ Em (Remix)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T16:08:10Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/LT8dJmgCG1I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "CYGaNY9IBx0",
+      "title": "Sàn Nhớ Em (Remix) — Điệu Nhảy Của Ký Ức | Official Remix (4:00) | Original Parody",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T16:07:48Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/CYGaNY9IBx0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "CSPG3YTAN6c",
       "title": "Bị Cả Thiên Hạ Coi Thường, Thiếu Niên Quyết Tâm Tu Luyện, Cuối Cùng Quân Lâm Cửu Thiên Thành Đế!",
