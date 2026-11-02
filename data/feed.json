@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T03:32:32Z",
+  "generated_at": "2026-11-02T04:39:06Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "X0vy-ozT5Ds",
+      "title": "PHẦN 6 | Tạp Dịch Đào Mỏ Tu Tiên, Bắt Đầu Với Hệ Thống Đào Linh Thạch Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T04:08:34Z",
+      "duration_seconds": 9195,
+      "thumbnail_url": "https://i.ytimg.com/vi/X0vy-ozT5Ds/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jzC2TIo2bKs",
+      "title": "Tận Thế Băng Giá Từ Thợ Sửa Xe Trở Thành Bá Chủ Vùng Cực Hàn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T04:00:31Z",
+      "duration_seconds": 2788,
+      "thumbnail_url": "https://i.ytimg.com/vi/jzC2TIo2bKs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "24-fwht4saU",
+      "title": "Cô nộp giấy trắng, ai cũng chờ xem trò cười! Có điểm, người bét lại là học bá đó!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-02T04:00:25Z",
+      "duration_seconds": 4136,
+      "thumbnail_url": "https://i.ytimg.com/vi/24-fwht4saU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "3an0x3XvgXE",
+      "title": "Gia Tộc Khinh Nữ Phi Công Nghèo, Nào Ngờ Nhị Thiếu Gia Quyền Thế Sẵn Sàng Bỏ Gia Sản Để Cưới Cô!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T04:00:06Z",
+      "duration_seconds": 23558,
+      "thumbnail_url": "https://i.ytimg.com/vi/3an0x3XvgXE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "eOXViH5hL1Y",
       "title": "Đệ Tử Bị Rút Võ Hồn Thành Phế Vật - Kích Hoạt Võ Hồn Rồng Thần - Vả Mặt Mọi Thiên Tài Tông Môn",
