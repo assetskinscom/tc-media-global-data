@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T02:41:07Z",
+  "generated_at": "2026-11-02T03:32:32Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "eOXViH5hL1Y",
+      "title": "Đệ Tử Bị Rút Võ Hồn Thành Phế Vật - Kích Hoạt Võ Hồn Rồng Thần - Vả Mặt Mọi Thiên Tài Tông Môn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T03:30:34Z",
+      "duration_seconds": 8879,
+      "thumbnail_url": "https://i.ytimg.com/vi/eOXViH5hL1Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dh_40kEK-eE",
+      "title": "Ngày đầu phỏng vấn làm bảo mẫu, cô được con trai CEO chọn, một bước lao thẳng vào làm dâu hào môn!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-02T03:30:25Z",
+      "duration_seconds": 7240,
+      "thumbnail_url": "https://i.ytimg.com/vi/dh_40kEK-eE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "2D-GvUIjDjM",
+      "title": "Giả Vờ Làm Lão Tổ Vô Dụng Suốt 100 Năm, Hắn Bất Ngờ Kích Hoạt Hệ Thống Diệt Sát Hoàng Đế!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T03:00:30Z",
+      "duration_seconds": 10751,
+      "thumbnail_url": "https://i.ytimg.com/vi/2D-GvUIjDjM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Hd_pOGue-XI",
+      "title": "Xuyên Thành Zombie Tôi Bị Toàn Đội Đặc Nhiệm Đọc Suy Nghĩ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T03:00:25Z",
+      "duration_seconds": 20135,
+      "thumbnail_url": "https://i.ytimg.com/vi/Hd_pOGue-XI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "C6_Zso-w9ag",
+      "title": "3 GIỜ | Thôn Thiên Võ Linh - Tam Thiếu Gia Phế Vật - Thôn Phệ Vạn Vật Tu Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T02:45:17Z",
+      "duration_seconds": 11005,
+      "thumbnail_url": "https://i.ytimg.com/vi/C6_Zso-w9ag/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "hz0OEiqq7lA",
       "title": "Cha Mẹ Ép Con Gái Mang Mệnh Khắc Tinh Cưới Thay Em Song Sinh, Nào Ngờ Tổng Tài Lại Ra Mặt Bảo Vệ!",
