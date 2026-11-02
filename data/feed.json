@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T05:39:29Z",
+  "generated_at": "2026-11-02T06:40:12Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "kz9980OzYEI",
+      "title": "Hệ Thống Giảm Giá 1 TỶ Lần - Đệ Tử Phế Linh Căn - Nhưng Ta Vẫn Vô Địch Trong Giới Tu Tiên",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T06:30:12Z",
+      "duration_seconds": 8598,
+      "thumbnail_url": "https://i.ytimg.com/vi/kz9980OzYEI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "VYOAv6fgOC8",
       "title": "Bạn Thân Gửi Em Trai Đến Ở Nhờ, Nào Ngờ Chàng Trai Đã Thầm Yêu Cô Suốt 5 Năm, Quyết Tâm Theo Đuổi!",
@@ -1573,7 +1587,7 @@
     },
     {
       "id": "7mL3gA1KKbE",
-      "title": "Bị Chồng Ép Phá Thai Rồi Ruồng Bỏ, 5 Năm Sau Cô Dắt Con Trai Trở Về, Anh Mới Hối Hận!",
+      "title": "Ngày Anh Ép Cô Phá Thai Rồi Ruồng Bỏ, Cô Mang Con Trai Biến Mất 5 Năm, Anh Hối Hận Phát Điên!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-10-31T10:00:40Z",
