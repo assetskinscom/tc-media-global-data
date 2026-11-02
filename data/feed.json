@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T10:35:56Z",
+  "generated_at": "2026-11-02T11:30:57Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "Zy86Vrqzvlo",
+      "title": "Con gái tỷ phú về quê tìm cha, chết lặng khi thấy ông bị 3 anh trai đuổi khỏi nhà, bắt ăn cơm chó!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-02T11:30:32Z",
+      "duration_seconds": 3378,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zy86Vrqzvlo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "u2N_RMACkSE",
+      "title": "Chồng Cũ Dẫn Tiểu Tam Đến Sỉ Nhục, Tôi Rút 2 Tỷ Đô, Đuổi Hắn Ra Đường, Tự Thành Nữ Tỷ Phú!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-02T11:14:22Z",
+      "duration_seconds": 9162,
+      "thumbnail_url": "https://i.ytimg.com/vi/u2N_RMACkSE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "seyq8wa47k0",
+      "title": "Thiếu Chủ Thiên Kiếm Phủ - Bị Phế Tu Vi Nào Ngờ Giải Khai Phong Ấn Vả Mặt Mọi Thiên Kiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T11:06:06Z",
+      "duration_seconds": 8356,
+      "thumbnail_url": "https://i.ytimg.com/vi/seyq8wa47k0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dvxgsFyGAGU",
+      "title": "Trùng Sinh Về Tận Thế Vả Mặt Trà Xanh Ta Mang Không Gian Trở Thành Bá Chủ  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T11:00:35Z",
+      "duration_seconds": 9040,
+      "thumbnail_url": "https://i.ytimg.com/vi/dvxgsFyGAGU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XXZH9Y8iPuk",
+      "title": "Bố Giấu 72 Nghìn Tệ Mẹ Kế Gửi Cho Con Gái, Nào Ngờ Cô Phải Dọn Khay Cơm Ở Trường Để Sống Qua Ngày!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T11:00:33Z",
+      "duration_seconds": 5925,
+      "thumbnail_url": "https://i.ytimg.com/vi/XXZH9Y8iPuk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "VFIeRzh9HmY",
+      "title": "Chàng trai nghèo bị nhục mạ vì thấy đồ lót nữ CEO,ngờ là thần y! Chạm nhẹ,anh chữa khỏi bệnh cho cô!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-02T11:00:10Z",
+      "duration_seconds": 9560,
+      "thumbnail_url": "https://i.ytimg.com/vi/VFIeRzh9HmY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-k_D6Uc7WXA",
+      "title": "Phần 20 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-02T10:44:22Z",
+      "duration_seconds": 8531,
+      "thumbnail_url": "https://i.ytimg.com/vi/-k_D6Uc7WXA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "tiDObVBCan4",
       "title": "Trọng Sinh Về Cổ Đại Thành Công Tử Ăn Chơi, Hắn Giả Ngốc Suốt Ngày Để Âm Thầm Báo Thù!",
