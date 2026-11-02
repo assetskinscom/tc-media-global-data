@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T09:39:16Z",
+  "generated_at": "2026-11-02T10:35:56Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "tiDObVBCan4",
+      "title": "Trọng Sinh Về Cổ Đại Thành Công Tử Ăn Chơi, Hắn Giả Ngốc Suốt Ngày Để Âm Thầm Báo Thù!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T10:30:33Z",
+      "duration_seconds": 11967,
+      "thumbnail_url": "https://i.ytimg.com/vi/tiDObVBCan4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XuUkuDx7kd0",
+      "title": "Full Version l Bị Nam Thần Từ Chối, Tôi Quay Sang Hôn Nhầm Trai Hư l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-02T10:25:49Z",
+      "duration_seconds": 3059,
+      "thumbnail_url": "https://i.ytimg.com/vi/XuUkuDx7kd0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "FSunHXCcul4",
+      "title": "Ngũ Hoàng Tử Mạnh Nhất Bị Lưu Đày - Dùng Trí Tuệ Thiên Tài Lật Đổ Cả Thế Giới",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T10:12:04Z",
+      "duration_seconds": 8518,
+      "thumbnail_url": "https://i.ytimg.com/vi/FSunHXCcul4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "YFzDL4AndHc",
+      "title": "Một mình ảnh và 5 mỹ nữ sinh tồn trên tàu,kích hoạt hệ thống thiên phú cấp sss",
+      "channel": "movies8",
+      "channel_title": "ThánhTăng",
+      "published_at": "2026-11-02T10:09:42Z",
+      "duration_seconds": 3708,
+      "thumbnail_url": "https://i.ytimg.com/vi/YFzDL4AndHc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aO-w-QxcIHs",
+      "title": "Bạn Gái Cùng Mẹ Và Em Trai Đòi Chiếm Nhà, Nào Ngờ Anh Phát Hiện Hợp Đồng Thế Chấp Giả 500 Nghìn Tệ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T10:00:12Z",
+      "duration_seconds": 8009,
+      "thumbnail_url": "https://i.ytimg.com/vi/aO-w-QxcIHs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Za7NvgZKOtQ",
+      "title": "Trọng sinh, em kế tranh cưới trai nghèo, cô cưới tổng tài! Tưởng hợp đồng, ai ngờ được cưng chiều!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-02T10:00:05Z",
+      "duration_seconds": 6977,
+      "thumbnail_url": "https://i.ytimg.com/vi/Za7NvgZKOtQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tgdmpSDlEbI",
+      "title": "Full | Xuyên Không Làm Tạp Dịch Nuôi Thú Tôi Dùng Một Chiếc Chảo Nấu Ăn Khiến Cả Tông Môn Phát Điên",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T10:00:02Z",
+      "duration_seconds": 13024,
+      "thumbnail_url": "https://i.ytimg.com/vi/tgdmpSDlEbI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "VbFpgePaQQ0",
       "title": "3 GIỜ | Xuyên Không Thành Phế Vật Với 2 Hệ Thống - Ta Náo Loạn Giới Tu Tiên",
