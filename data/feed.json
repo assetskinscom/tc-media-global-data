@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T12:34:30Z",
+  "generated_at": "2026-11-03T13:49:54Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "3NZ4P_yiB2Q",
+      "title": "Con Gái Chi 160 Nghìn Tệ Mừng Thọ Bố Chồng, Nhưng Hủy Vé 3.800 Tệ Khiến Bố Ruột Lỡ Tết!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T13:00:09Z",
+      "duration_seconds": 6086,
+      "thumbnail_url": "https://i.ytimg.com/vi/3NZ4P_yiB2Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Z6-FCv4Dp7k",
+      "title": "Nữ chiến thần trở về tìm cha báo hiếu, ai ngờ chứng kiến ông bị bắt nạt đuổi khỏi nhà!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-03T12:46:50Z",
+      "duration_seconds": 6919,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z6-FCv4Dp7k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Bhh6aCjjqdY",
       "title": "Đệ Tử Tạp Dịch Ngũ Linh Căn - Ta Có Gương Thần Sao Chép Vạn Vật - Âm Thầm Mạnh Nhất Tông Môn",
@@ -15145,6 +15173,20 @@
       "kind": "regular",
       "categories": [
         "cartoon"
+      ]
+    },
+    {
+      "id": "4HtqFdAZ8PM",
+      "title": "Nữ CEO bị truy sát cầu cứu anh Shipper, nào ngờ là Chiến thần ra tay cứu mạng, được cô trao thân",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-10-11T12:28:07Z",
+      "duration_seconds": 8125,
+      "thumbnail_url": "https://i.ytimg.com/vi/4HtqFdAZ8PM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
       ]
     },
     {
