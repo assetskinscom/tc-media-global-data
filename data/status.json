@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-03T13:49:54Z",
+  "last_success_at": "2026-11-03T14:45:15Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "video_counts": {
     "music": 214,
     "edm": 37,
     "shorts": 348,
-    "cartoon": 3302,
+    "cartoon": 3303,
     "drama": 2137,
     "music_shorts": 348,
     "music_long": 37,
-    "movies": 3302
+    "movies": 3303
   },
   "source_counts": {
     "music": 562,
     "movies": 441,
-    "movies2": 154,
+    "movies2": 155,
     "movies3": 236,
     "movies4": 605,
     "movies5": 149,
@@ -47,7 +47,7 @@
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 154,
+      "video_count": 155,
       "sync_status": "ok",
       "error": ""
     },
