@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T10:45:52Z",
+  "generated_at": "2026-11-03T11:41:39Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "9LdUkaxkg_M",
+      "title": "Full Version l Gả Cho Tổng Tài Lạnh Lùng, Ai Ngờ Anh Nghe Được Tiếng Lòng Tôi l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-03T11:35:25Z",
+      "duration_seconds": 4820,
+      "thumbnail_url": "https://i.ytimg.com/vi/9LdUkaxkg_M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "0wi2Wnf1k1E",
+      "title": "Tôi cho chồng cuộc sống giàu sang, nhưng hắn lại dẫn tiểu tam về giết tôi để cướp tài sản!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-03T11:30:36Z",
+      "duration_seconds": 5663,
+      "thumbnail_url": "https://i.ytimg.com/vi/0wi2Wnf1k1E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "kX8gY3lATuA",
+      "title": "Ai Cũng Tưởng Hắn Là Công Tử Ăn Chơi, Nào Ngờ Một Tay Giải Quyết Nạn Đói, Chấn Động Thiên Hạ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-03T11:30:18Z",
+      "duration_seconds": 11959,
+      "thumbnail_url": "https://i.ytimg.com/vi/kX8gY3lATuA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "317ZZ4-KZdU",
+      "title": "P1-3 | 7 GIỜ THỎA MÃN | Tạp Dịch Phế Vật - Hệ Thống Vô Hạn Hồi Sinh - Mạnh Lên Sau Mỗi Kiếp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T11:21:20Z",
+      "duration_seconds": 24338,
+      "thumbnail_url": "https://i.ytimg.com/vi/317ZZ4-KZdU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "L6HC-ENznf0",
+      "title": "Kẻ xấu quấy rối cô gái xinh trên xe buýt,ngờ chàng nghèo bên cạnh thần chiến tranh!Cô là con tỷ phú!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-03T11:00:34Z",
+      "duration_seconds": 8802,
+      "thumbnail_url": "https://i.ytimg.com/vi/L6HC-ENznf0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "g9F6HFZFJEA",
+      "title": "Cô Gái Bán Đồ Kho Bị Nhà Giàu Khinh Rẻ, Nào Ngờ Là Thiên Kim Thất Lạc Và Cưới Thiếu Gia Hào Môn Đó!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T11:00:26Z",
+      "duration_seconds": 5964,
+      "thumbnail_url": "https://i.ytimg.com/vi/g9F6HFZFJEA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "4Z4Jz4LlZTI",
+      "title": "Bị Bắt Vào Cuộc Đua Tử Thần, Tôi Sở Hữu Chiến Xa Khiến Mọi Bang Hội Khiếp Sợ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T11:00:02Z",
+      "duration_seconds": 7623,
+      "thumbnail_url": "https://i.ytimg.com/vi/4Z4Jz4LlZTI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Bsg5ezSw0Bg",
       "title": "Kiếm Sư Hệ Thủy - Cả Tông Môn Luyện Kiếm - Chỉ Mình Ta Dùng Pháp Thuật Hệ Thủy Thành Bất Bại",
