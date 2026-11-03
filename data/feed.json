@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T22:22:53Z",
+  "generated_at": "2026-11-03T23:22:17Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "znnnlrkFf6g",
+      "title": "Em Gái Cướp Hôn Ước Hào Môn, Đẩy Chị Về Quê Lấy Chồng, Nào Ngờ Mẹ Chồng Tặng Vòng Báu 120 Triệu Tệ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T23:00:03Z",
+      "duration_seconds": 5177,
+      "thumbnail_url": "https://i.ytimg.com/vi/znnnlrkFf6g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9-foD_gmdvc",
+      "title": "Xu Cát Tị Hung Châu, Ta Cẩu Thành Tiên Đạo Chí Tôn (FULL TẬP 1-138) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-03T23:00:00Z",
+      "duration_seconds": 9681,
+      "thumbnail_url": "https://i.ytimg.com/vi/9-foD_gmdvc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "NqupuJ2-OUI",
       "title": "Phần 22 | Thái Huyền Thai Châu Truyện",
