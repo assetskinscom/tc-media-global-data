@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T11:41:39Z",
+  "generated_at": "2026-11-03T12:34:30Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "Bhh6aCjjqdY",
+      "title": "Đệ Tử Tạp Dịch Ngũ Linh Căn - Ta Có Gương Thần Sao Chép Vạn Vật - Âm Thầm Mạnh Nhất Tông Môn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T12:30:22Z",
+      "duration_seconds": 7481,
+      "thumbnail_url": "https://i.ytimg.com/vi/Bhh6aCjjqdY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "n5GYNVaU3-w",
+      "title": "向光的名字 — 原創流行抒情曲",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T12:12:42Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/n5GYNVaU3-w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "L0tnWKLBo5k",
+      "title": "向光的名字｜給每個想重新開始的你｜原創流行抒情曲 (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T12:12:03Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/L0tnWKLBo5k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "wvUgo8ulB34",
+      "title": "Full Mùa 2 | Thức Tỉnh Hệ Thống Thần Hào Ta Càng Tiêu Cho Mỹ Nữ Càng Giàu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T12:00:32Z",
+      "duration_seconds": 8741,
+      "thumbnail_url": "https://i.ytimg.com/vi/wvUgo8ulB34/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "K1fuTXNichQ",
+      "title": "MÙA 2 | 12 GIỜ THỎA MÃN | Cung Thủ SSS - Tấn Công Hồi Máu - Một Mũi Tên Gây Tỷ Điểm Sát Thương",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T12:00:25Z",
+      "duration_seconds": 43184,
+      "thumbnail_url": "https://i.ytimg.com/vi/K1fuTXNichQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oANKk-jDDVg",
+      "title": "Bác Cả Mở Tiệc 420 Nghìn Tệ Mừng Con Đỗ Đại Học Rồi Ép Cháu Gái Trả, Nào Ngờ Cô Quản Lý Khách Sạn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T12:00:09Z",
+      "duration_seconds": 6082,
+      "thumbnail_url": "https://i.ytimg.com/vi/oANKk-jDDVg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Cj9dXP2JykU",
+      "title": "Gã bảo vệ tầm thường này không ngờ là Thần Y siêu năng có mắt thần nhìn xuyên thấu! cứu nữ CEO",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-03T12:00:08Z",
+      "duration_seconds": 7659,
+      "thumbnail_url": "https://i.ytimg.com/vi/Cj9dXP2JykU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "qrjIUk_1jsk",
+      "title": "Tái Sinh Vào Tông Môn Nhỏ Bé, Hắn Nhặt Được Hồ Lô Thần Bí, Từ Phế Vật Tu Thành Tuyệt Thế Cao Nhân!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-03T12:00:03Z",
+      "duration_seconds": 7216,
+      "thumbnail_url": "https://i.ytimg.com/vi/qrjIUk_1jsk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "9LdUkaxkg_M",
       "title": "Full Version l Gả Cho Tổng Tài Lạnh Lùng, Ai Ngờ Anh Nghe Được Tiếng Lòng Tôi l Sora Dub",
