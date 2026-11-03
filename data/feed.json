@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T04:30:48Z",
+  "generated_at": "2026-11-03T05:32:10Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "8R-WHnI3T6c",
+      "title": "Cô Bảo Mẫu Bị Vu Trộm Vòng Vàng Rồi Đuổi Việc, Nào Ngờ Phát Hiện Chiếc Mũ Khiến Em Bé Khóc 3 Ngày!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T05:00:31Z",
+      "duration_seconds": 4454,
+      "thumbnail_url": "https://i.ytimg.com/vi/8R-WHnI3T6c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "w3N7HxbJCw4",
+      "title": "Sinh Tồn Tận Thế: Ta Nuôi Binh Đoàn Goblin Thành Đội Quân Bất Bại | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T05:00:03Z",
+      "duration_seconds": 12162,
+      "thumbnail_url": "https://i.ytimg.com/vi/w3N7HxbJCw4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lIe0MgC7RTk",
+      "title": "Tạp Dịch Đệ Tử - Với Sự Thấu Hiểu Vô Song - Từ Phế Nhất Tông Môn Ta Thành Cường GIả Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T04:42:36Z",
+      "duration_seconds": 9100,
+      "thumbnail_url": "https://i.ytimg.com/vi/lIe0MgC7RTk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "V1NxQQ9Np4M",
       "title": "[FULL S1] TA BỊ NỮ KIẾM TIÊN TRÙNG SINH VÀ 3 ĐẠI MỸ NHÂN ÉP CƯỚI | LY VIETSUB 358",
