@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T09:47:06Z",
+  "generated_at": "2026-11-03T10:45:52Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "Bsg5ezSw0Bg",
+      "title": "Kiếm Sư Hệ Thủy - Cả Tông Môn Luyện Kiếm - Chỉ Mình Ta Dùng Pháp Thuật Hệ Thủy Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T10:33:17Z",
+      "duration_seconds": 7980,
+      "thumbnail_url": "https://i.ytimg.com/vi/Bsg5ezSw0Bg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "wRHsLnZjKtw",
+      "title": "Trở Về Thời Cổ Đại, Hắn Có Hệ Thống Lập Nhóm Nhận Thưởng, Mỗi Lần Mời Người Là Sức Mạnh Tăng Vọt!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-03T10:30:10Z",
+      "duration_seconds": 17489,
+      "thumbnail_url": "https://i.ytimg.com/vi/wRHsLnZjKtw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gIrwG8Ec_Xs",
+      "title": "Full | Xuyên Không Thành Phế Vật Cửu Phẩm Ta Thức Tỉnh Song Sinh Cốt Khiến Cả Tông Môn Chấn Kinh",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T10:00:30Z",
+      "duration_seconds": 9971,
+      "thumbnail_url": "https://i.ytimg.com/vi/gIrwG8Ec_Xs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vbCjiufz2Sg",
+      "title": "Tổng tài bị truy sát, cô gái quê một đấm đuổi kẻ xấu! Anh yêu ngay, kéo đi đăng ký kết hôn!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-03T10:00:24Z",
+      "duration_seconds": 7203,
+      "thumbnail_url": "https://i.ytimg.com/vi/vbCjiufz2Sg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "1NqlBeH42yg",
+      "title": "Sư phụ ta là đổng thiên bảo,không đánh được ta về mách sư phụ",
+      "channel": "movies8",
+      "channel_title": "ThánhTăng",
+      "published_at": "2026-11-03T09:57:13Z",
+      "duration_seconds": 4258,
+      "thumbnail_url": "https://i.ytimg.com/vi/1NqlBeH42yg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "fWSlb0YUDfY",
       "title": "Thuộc Tính F Phế Vật Nào Ngờ Là Cấp SSS - Hệ Thống Thu Thập Thuộc Tính Chí Tôn Cộng Dồn Vô Hạn",
