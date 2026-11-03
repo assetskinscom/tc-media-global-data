@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T02:30:16Z",
+  "generated_at": "2026-11-03T03:29:55Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "cV3l_dNr5Pw",
+      "title": "Gấp 60 Lần Tốc Độ Tu Luyện - Ông Lão 100 Tuổi Kích Hoạt Hệ Thống - Ta Âm Thầm Thành Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T03:09:13Z",
+      "duration_seconds": 9472,
+      "thumbnail_url": "https://i.ytimg.com/vi/cV3l_dNr5Pw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KnCxom2aV5o",
+      "title": "Mùa 1+2+3 |Xuyên Không Làm Phế Vật Được Các Đại Mỹ Nhân Nuôi Nấng Ta Dựa Vào Ăn Bám Vô Địch Thiên Hạ",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T03:00:22Z",
+      "duration_seconds": 30706,
+      "thumbnail_url": "https://i.ytimg.com/vi/KnCxom2aV5o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "2JeNckyWQrg",
       "title": "3 GIỜ | Xuống Núi Làm Phò Mã Bị Coi Thường - Ta Dùng Võ Thuật Trấn Áp Tam Quân",
