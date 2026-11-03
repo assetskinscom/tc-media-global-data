@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T08:48:58Z",
+  "generated_at": "2026-11-03T09:47:06Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "fWSlb0YUDfY",
+      "title": "Thuộc Tính F Phế Vật Nào Ngờ Là Cấp SSS - Hệ Thống Thu Thập Thuộc Tính Chí Tôn Cộng Dồn Vô Hạn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T09:31:04Z",
+      "duration_seconds": 7477,
+      "thumbnail_url": "https://i.ytimg.com/vi/fWSlb0YUDfY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "nb81aJBLXAo",
+      "title": "P2 Thức Tỉnh Hệ Thống Gia Tộc, Gia Tộc Càng Mạnh Ta Càng Bá Đạo, Cuối Cùng Quét Ngang Tu Tiên Giới!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-03T09:15:17Z",
+      "duration_seconds": 7725,
+      "thumbnail_url": "https://i.ytimg.com/vi/nb81aJBLXAo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "G6RgKFmG0e0",
+      "title": "Full Version l 5 Năm Sau Dắt Con Đi Nhận Bố, Nào Ngờ Được Cả Hào Môn Cưng Chiều | Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-03T09:10:44Z",
+      "duration_seconds": 4432,
+      "thumbnail_url": "https://i.ytimg.com/vi/G6RgKFmG0e0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Y-lXF3OgCDU",
+      "title": "Bị Em Gái Kế Hãm Hại Vào Tù, Cô Trọng Sinh 7 Năm Trước, Nào Ngờ Thiếu Gia Cũng Sống Lại Để Cứu Cô!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T09:00:14Z",
+      "duration_seconds": 8071,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y-lXF3OgCDU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Gns4axe7zys",
       "title": "Đại Hoàng Tử Vô Dụng - Nào Ngờ Văn Võ Song Toàn Từ Lâu - Tài Năng Không Thể Giấu Diếm Được Nữa",
