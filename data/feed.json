@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T07:53:34Z",
+  "generated_at": "2026-11-03T08:48:58Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -143,6 +143,20 @@
   },
   "videos": [
     {
+      "id": "Gns4axe7zys",
+      "title": "Đại Hoàng Tử Vô Dụng - Nào Ngờ Văn Võ Song Toàn Từ Lâu - Tài Năng Không Thể Giấu Diếm Được Nữa",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T08:31:47Z",
+      "duration_seconds": 8835,
+      "thumbnail_url": "https://i.ytimg.com/vi/Gns4axe7zys/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "YINcriAuxl8",
       "title": "Cường Giả Vô Địch Xuyên Làm Thiếu Chủ Vô Dụng - Dùng Kiến Thức Tiền Kiếp Nghịch Thiên Tu Đạo",
       "channel": "movies",
@@ -200,7 +214,7 @@
     },
     {
       "id": "O3kVhulPMcA",
-      "title": "Một cậu bé ngốc nghếch kích hoạt hệ thống đăng nhập bằng cách đấm hàng triệu lần",
+      "title": "Không Ai Ngờ Cậu Bé Ngốc Lại Sở Hữu Hệ Thống Đăng Nhập, Càng Đấm Càng Mạnh, Quét Ngang Tu Tiên Giới!",
       "channel": "movies2",
       "channel_title": "Ngự Kiếm TV",
       "published_at": "2026-11-03T06:56:08Z",
