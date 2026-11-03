@@ -1,36 +1,36 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-03T03:29:55Z",
+  "last_success_at": "2026-11-03T04:30:48Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "video_counts": {
     "music": 212,
     "edm": 37,
     "shorts": 346,
-    "cartoon": 3280,
-    "drama": 2120,
+    "cartoon": 3283,
+    "drama": 2123,
     "music_shorts": 346,
     "music_long": 37,
-    "movies": 3280
+    "movies": 3283
   },
   "source_counts": {
     "music": 558,
-    "movies": 431,
+    "movies": 432,
     "movies2": 149,
     "movies3": 236,
-    "movies4": 604,
+    "movies4": 605,
     "movies5": 149,
-    "movies6": 554,
+    "movies6": 555,
     "movies7": 605,
     "movies8": 557,
-    "drama": 121,
+    "drama": 122,
     "drama2": 293,
     "drama3": 330,
     "drama4": 309,
     "drama5": 330,
     "drama6": 217,
     "drama7": 279,
-    "drama8": 295,
-    "drama9": 111
+    "drama8": 296,
+    "drama9": 112
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 431,
+      "video_count": 432,
       "sync_status": "ok",
       "error": ""
     },
@@ -59,7 +59,7 @@
     },
     "movies4": {
       "handle": "@LyVietSub",
-      "video_count": 604,
+      "video_count": 605,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,7 +71,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 554,
+      "video_count": 555,
       "sync_status": "ok",
       "error": ""
     },
@@ -89,7 +89,7 @@
     },
     "drama": {
       "handle": "@nangngotdrama",
-      "video_count": 121,
+      "video_count": 122,
       "sync_status": "ok",
       "error": ""
     },
@@ -131,13 +131,13 @@
     },
     "drama8": {
       "handle": "@SignLanguageoumei7",
-      "video_count": 295,
+      "video_count": 296,
       "sync_status": "ok",
       "error": ""
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 111,
+      "video_count": 112,
       "sync_status": "ok",
       "error": ""
     }

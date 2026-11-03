@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T03:29:55Z",
+  "generated_at": "2026-11-03T04:30:48Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "V1NxQQ9Np4M",
+      "title": "[FULL S1] TA BỊ NỮ KIẾM TIÊN TRÙNG SINH VÀ 3 ĐẠI MỸ NHÂN ÉP CƯỚI | LY VIETSUB 358",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-03T04:05:26Z",
+      "duration_seconds": 12496,
+      "thumbnail_url": "https://i.ytimg.com/vi/V1NxQQ9Np4M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jr3uftF7jfw",
+      "title": "Xin Việc Nhầm Động Quỷ Tôi Bị Nữ Thần Bắt Nuốt Tà Thần | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-03T04:00:38Z",
+      "duration_seconds": 5807,
+      "thumbnail_url": "https://i.ytimg.com/vi/jr3uftF7jfw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9KmIEzJKt50",
+      "title": "Nữ Tỷ Phú Có 800 Triệu Tệ Giả Phá Sản Để Thử Lòng Bạn Thân, Nào Ngờ Chỉ Cô Gái Nghèo Cho 2.300 Tệ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T04:00:17Z",
+      "duration_seconds": 6345,
+      "thumbnail_url": "https://i.ytimg.com/vi/9KmIEzJKt50/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "SbeHdoQ3oXs",
+      "title": "Vì cứu cha, cô cưới chớp nhoáng tổng tài lạnh lùng! Tưởng hợp đồng, ai ngờ đêm nào anh cũng quấn cô!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-03T04:00:14Z",
+      "duration_seconds": 8955,
+      "thumbnail_url": "https://i.ytimg.com/vi/SbeHdoQ3oXs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Ja0ZS9PYA2w",
+      "title": "Gia đình ép gả cô cho Vương Gia tàn bạo, tưởng xong đời, ai ngờ anh cưng chiều cô hơn cả mạng sống!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-03T04:00:05Z",
+      "duration_seconds": 7792,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ja0ZS9PYA2w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "CZgrlCTyx9w",
+      "title": "3,5 GIỜ | Thiếu Chủ Phế Vật Nào Ngờ Vô Địch Từ Lâu - Hệ Thống Cướp Khí Vận Mạnh Nhất",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T03:59:18Z",
+      "duration_seconds": 12362,
+      "thumbnail_url": "https://i.ytimg.com/vi/CZgrlCTyx9w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "cV3l_dNr5Pw",
       "title": "Gấp 60 Lần Tốc Độ Tu Luyện - Ông Lão 100 Tuổi Kích Hoạt Hệ Thống - Ta Âm Thầm Thành Cường Giả",
