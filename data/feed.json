@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T00:14:03Z",
+  "generated_at": "2026-11-03T01:44:35Z",
   "last_full_refresh_at": "2026-11-02T01:46:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "aJXdhRyaUEA",
+      "title": "Full Version l Vô Tình Cứu Tổng Tài Bị Hạ Thuốc, Ai Ngờ Anh Lại Dính Tôi Không Buông  l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-03T01:30:17Z",
+      "duration_seconds": 7544,
+      "thumbnail_url": "https://i.ytimg.com/vi/aJXdhRyaUEA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "I7eaNU4j5sw",
+      "title": "P1-3 | 6 GIỜ | Phế Vật Thức Tỉnh SSS+ Thần Xổ Số - Nằm Im Quay Thưởng Cũng Tăng Max Cấp Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T01:12:48Z",
+      "duration_seconds": 22186,
+      "thumbnail_url": "https://i.ytimg.com/vi/I7eaNU4j5sw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "j9htJ-_HcmM",
       "title": "Vợ Ép Chồng 38 Tuổi Ly Hôn Vì Chê Già, Nào Ngờ Anh Kích Hoạt Hệ Thống Trẻ Hóa, Nữ Tổng Tài Đòi Cưới!",
