@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T05:32:10Z",
+  "generated_at": "2026-11-03T06:36:07Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "BwANEOUe4QI",
+      "title": "Thiếu Chủ Bị Coi Là Phế Vật Mất Tích 20 Năm - Hệ Thống Phản Công Hóa Thành Tiên Đế Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T06:30:28Z",
+      "duration_seconds": 8362,
+      "thumbnail_url": "https://i.ytimg.com/vi/BwANEOUe4QI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "8R-WHnI3T6c",
       "title": "Cô Bảo Mẫu Bị Vu Trộm Vòng Vàng Rồi Đuổi Việc, Nào Ngờ Phát Hiện Chiếc Mũ Khiến Em Bé Khóc 3 Ngày!",
