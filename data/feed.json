@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T15:37:32Z",
+  "generated_at": "2026-11-03T16:30:37Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "xq-ZWzws57U",
+      "title": "Bưu Gói Về Quê — Dân Ca Quê Hương Parody về Bán Hàng Online (Official Auto Vocal, 4:00)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T16:08:28Z",
+      "duration_seconds": 242,
+      "thumbnail_url": "https://i.ytimg.com/vi/xq-ZWzws57U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "8tf_hT-K1bY",
+      "title": "Bưu Gói Về Quê",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T16:08:16Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/8tf_hT-K1bY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "VRwLv1VKJtM",
       "title": "Bị 18 Chí Tôn Phong Ấn 10.000 Năm, Hắn Điểm Danh Thành Vô Địch, Trở Về Một Chưởng Trấn Ngũ Đế!",
