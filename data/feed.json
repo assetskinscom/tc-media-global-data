@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T06:36:07Z",
+  "generated_at": "2026-11-03T07:53:34Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "YINcriAuxl8",
+      "title": "Cường Giả Vô Địch Xuyên Làm Thiếu Chủ Vô Dụng - Dùng Kiến Thức Tiền Kiếp Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T07:30:56Z",
+      "duration_seconds": 7501,
+      "thumbnail_url": "https://i.ytimg.com/vi/YINcriAuxl8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9S8Q10SzgAo",
+      "title": "เสียงของเช้าที่มีเธอ (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T07:08:29Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/9S8Q10SzgAo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "Gjc-KeGZFyc",
+      "title": "เสียงของเช้าที่มีเธอ — ซิงเกิล Pop Ballad ใหม่ | เพลงรัก-คิดถึง (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T07:07:28Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/Gjc-KeGZFyc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "P7aqy2oZ0EE",
+      "title": "Bạn Gái Tát Anh Để Theo Thiếu Gia Nhà Giàu, Nào Ngờ Mẹ Anh Giả Làm Bảo Mẫu Là Chủ Tịch Nghìn Tỷ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-03T07:00:31Z",
+      "duration_seconds": 9217,
+      "thumbnail_url": "https://i.ytimg.com/vi/P7aqy2oZ0EE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "O3kVhulPMcA",
+      "title": "Một cậu bé ngốc nghếch kích hoạt hệ thống đăng nhập bằng cách đấm hàng triệu lần",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-03T06:56:08Z",
+      "duration_seconds": 17117,
+      "thumbnail_url": "https://i.ytimg.com/vi/O3kVhulPMcA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "BwANEOUe4QI",
       "title": "Thiếu Chủ Bị Coi Là Phế Vật Mất Tích 20 Năm - Hệ Thống Phản Công Hóa Thành Tiên Đế Bất Tử",
