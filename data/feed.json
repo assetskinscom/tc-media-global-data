@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T05:37:33Z",
+  "generated_at": "2026-11-04T06:40:41Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "Mcl-Vgiv4yI",
+      "title": "Bị Coi Là Lão Già Hết Thời, Hắn Bỗng Sở Hữu Thiên Phú Tu Luyện Gấp 60 Lần, Một Rìu Định Càn Khôn!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T06:33:05Z",
+      "duration_seconds": 9465,
+      "thumbnail_url": "https://i.ytimg.com/vi/Mcl-Vgiv4yI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vlE-FkmjzcI",
+      "title": "P1-2 | Lò Luyện Thiên Địa - Tạp Dịch Ngũ Linh Căn Bị Ném Vào Phòng Phế Đan - Âm Thầm Thành Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T06:30:06Z",
+      "duration_seconds": 16033,
+      "thumbnail_url": "https://i.ytimg.com/vi/vlE-FkmjzcI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "KgnAkYFYbf0",
       "title": "Tôi Là Ông Chủ Homestay Âm Dương Nhân Viên Toàn Là Nữ Quỷ Ngàn Năm | Đậu Đậu VietSub",
