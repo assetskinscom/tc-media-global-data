@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T06:40:41Z",
+  "generated_at": "2026-11-04T07:57:11Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "0_kwCxUTOpw",
+      "title": "Nữ Phù Thủy Từng Bị Ruồng Bỏ Nay Trở Lại, Trực Tiếp Lật Mặt Thánh Nữ Giả Mạo Trước Toàn Tông Môn!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T07:45:03Z",
+      "duration_seconds": 12259,
+      "thumbnail_url": "https://i.ytimg.com/vi/0_kwCxUTOpw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8uMlWbfDFkw",
+      "title": "5,5 GIỜ | Cửu Hoàng Tử Các Người Coi Là Phế Vật - Đang Âm Thầm Xây Dựng Quân Đội Bất Khả Chiến Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T07:30:19Z",
+      "duration_seconds": 19538,
+      "thumbnail_url": "https://i.ytimg.com/vi/8uMlWbfDFkw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "JTeZ8W1p07Q",
+      "title": "朝焼けの指先 (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T07:06:52Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/JTeZ8W1p07Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "uAFvEl1Hmjo",
+      "title": "朝焼けの指先 - 新曲 / 失恋からの再生を描くロマンティック・ポップバラード (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T07:06:44Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/uAFvEl1Hmjo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "_HRKhIqalhs",
+      "title": "Cha Tỷ Phú Giả Làm Shipper Thử Lòng Con Trai Thất Lạc 20 Năm, Nào Ngờ Nhà Gái Ép Quỳ Ngay Đám Cưới!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T07:00:13Z",
+      "duration_seconds": 6813,
+      "thumbnail_url": "https://i.ytimg.com/vi/_HRKhIqalhs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Mcl-Vgiv4yI",
       "title": "Bị Coi Là Lão Già Hết Thời, Hắn Bỗng Sở Hữu Thiên Phú Tu Luyện Gấp 60 Lần, Một Rìu Định Càn Khôn!",
