@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T02:28:57Z",
-  "last_full_refresh_at": "2026-11-03T02:30:16Z",
+  "generated_at": "2026-11-04T03:28:39Z",
+  "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "4eczM8nJ8QA",
+      "title": "Full | Nhặt Được Mỹ Nữ Tu Tiên Rơi Từ Trên Trời Xuống Không Ngờ Lại Là Nữ Ma Đầu Khét Tiếng",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-04T03:00:28Z",
+      "duration_seconds": 9991,
+      "thumbnail_url": "https://i.ytimg.com/vi/4eczM8nJ8QA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "boyRqScZVEs",
+      "title": "Full Version l Tưởng Thoát Gen Lụy Vợ Duy Truyền , Ai Ngờ Tổng Tài Lại Mê Tôi Nhất Nhà l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-04T02:45:21Z",
+      "duration_seconds": 4165,
+      "thumbnail_url": "https://i.ytimg.com/vi/boyRqScZVEs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "4umCM2RpAXc",
+      "title": "4 GIỜ | Tạp Dịch Phế Linh Căn - Nhưng Ta Có Thể Nuốt Chửng Vạn Vật Để Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T02:37:19Z",
+      "duration_seconds": 13385,
+      "thumbnail_url": "https://i.ytimg.com/vi/4umCM2RpAXc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "b_XjX1J3iY8",
       "title": "Bác Cả Chê Cháu Gái Sửa Phòng Cưới 300 Nghìn Tệ Quá Đắt, Nào Ngờ Thuê Thợ Rẻ Khiến Cả Nhà Trả Giá!",
@@ -920,20 +962,6 @@
       "published_at": "2026-11-03T03:09:13Z",
       "duration_seconds": 9472,
       "thumbnail_url": "https://i.ytimg.com/vi/cV3l_dNr5Pw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "KnCxom2aV5o",
-      "title": "Mùa 1+2+3 |Xuyên Không Làm Phế Vật Được Các Đại Mỹ Nhân Nuôi Nấng Ta Dựa Vào Ăn Bám Vô Địch Thiên Hạ",
-      "channel": "movies6",
-      "channel_title": "Đậu Đậu Vietsub",
-      "published_at": "2026-11-03T03:00:22Z",
-      "duration_seconds": 30706,
-      "thumbnail_url": "https://i.ytimg.com/vi/KnCxom2aV5o/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -33988,20 +34016,6 @@
       ]
     },
     {
-      "id": "UUABqfcaZHk",
-      "title": "[FULL] MAO SƠN TRUYỀN NHÂN | HÀ NHÂN XUYÊN KHÔNG  | LY VIETSUB 770",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-08-26T13:34:05Z",
-      "duration_seconds": 7055,
-      "thumbnail_url": "https://i.ytimg.com/vi/UUABqfcaZHk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "Q4vckoed25M",
       "title": "Phần 1-2 | Tạp Dịch Ngũ Linh Căn, Hệ Thống Kích Hoạt Ngũ Linh Căn Thần Cấp Nghịch Thiên Tu Luyện",
       "channel": "movies",
@@ -37754,20 +37768,6 @@
       ]
     },
     {
-      "id": "9QRUp8c3jVk",
-      "title": "[1-45] KHẮC MỆNH HỆ THỐNG | HÀ NHÂN XUYÊN KHÔNG | LY VIETSUB 239",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-08-11T05:16:46Z",
-      "duration_seconds": 12431,
-      "thumbnail_url": "https://i.ytimg.com/vi/9QRUp8c3jVk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "2ANXDK3XLcY",
       "title": "Cô gái quê là thuốc giải của tổng tài! Anh đưa cô về làm phu nhân, từ đó đêm nào cũng không rời!",
       "channel": "drama8",
@@ -38487,20 +38487,6 @@
       "published_at": "2026-08-08T02:00:03Z",
       "duration_seconds": 9237,
       "thumbnail_url": "https://i.ytimg.com/vi/6yCNs2QwhzU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "YVIz3e9MHKA",
-      "title": "Phần 1: Phàm Nhân Tu Tiên Huyết Ma Cực Âm, Tà Đến Chính Khí",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-07T15:27:15Z",
-      "duration_seconds": 7263,
-      "thumbnail_url": "https://i.ytimg.com/vi/YVIz3e9MHKA/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -40734,20 +40720,6 @@
       ]
     },
     {
-      "id": "teaUqMh73ms",
-      "title": "Tập 37-38: Vấn Kiếm Kỳ Duyên - Ta Không Muốn Tu Tiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-26T02:50:44Z",
-      "duration_seconds": 413,
-      "thumbnail_url": "https://i.ytimg.com/vi/teaUqMh73ms/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "_srWFFPYDPs",
       "title": "[FULL] ĐAN PHONG QUẬT KHỞI | LY VIETSUB 446",
       "channel": "movies4",
@@ -41217,20 +41189,6 @@
       "published_at": "2026-07-23T03:54:49Z",
       "duration_seconds": 3087,
       "thumbnail_url": "https://i.ytimg.com/vi/5oP5FjKW8Qw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "WGjxsHSKHXg",
-      "title": "Tập 36: Vấn Kiếm Kỳ Duyên - Ta Không Muốn Tu Tiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-23T03:49:17Z",
-      "duration_seconds": 362,
-      "thumbnail_url": "https://i.ytimg.com/vi/WGjxsHSKHXg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -41917,20 +41875,6 @@
       "published_at": "2026-07-18T12:58:38Z",
       "duration_seconds": 8989,
       "thumbnail_url": "https://i.ytimg.com/vi/5K0scv53C1o/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "j_530KAuHIs",
-      "title": "Tập 1-35: Vấn Kiếm Kỳ Duyên - Ta Không Muốn Tu Tiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-18T12:05:43Z",
-      "duration_seconds": 14325,
-      "thumbnail_url": "https://i.ytimg.com/vi/j_530KAuHIs/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -42957,20 +42901,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "72yGsMi7QmQ",
-      "title": "Tập 1-100: Trường Sinh Bắt Đầu Từ Một Mẫu Linh Điền",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-13T10:05:09Z",
-      "duration_seconds": 10107,
-      "thumbnail_url": "https://i.ytimg.com/vi/72yGsMi7QmQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -45057,20 +44987,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "vkWexjfe41k",
-      "title": "THÁNH THỂ KIẾM ĐẠO | HOẠT HÌNH HÀ NHÂN | LY VIETSUB 788",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-01T02:15:24Z",
-      "duration_seconds": 11204,
-      "thumbnail_url": "https://i.ytimg.com/vi/vkWexjfe41k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -48098,20 +48014,6 @@
       ]
     },
     {
-      "id": "X2GeFKt0Tp4",
-      "title": "VÔ TƯỚNG KIẾM CỐT | LY VIETSUB 691",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-06-13T08:39:43Z",
-      "duration_seconds": 10230,
-      "thumbnail_url": "https://i.ytimg.com/vi/X2GeFKt0Tp4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "fX-zsrsWSZw",
       "title": "Bị người nhà đuổi đi, ngày trở lại cô khiến gia tộc tài phiệt sụp đổ, cả nhà quỳ xin tha!",
       "channel": "drama",
@@ -48630,20 +48532,6 @@
       ]
     },
     {
-      "id": "bdlM-tmfVR4",
-      "title": "[FULL END] SONG KIẾP TRỌNG SINH | HOẠT HÌNH HÀ NHÂN | LY VIETSUB 118",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-06-10T04:07:39Z",
-      "duration_seconds": 2053,
-      "thumbnail_url": "https://i.ytimg.com/vi/bdlM-tmfVR4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "Lbne8KtHOwU",
       "title": "CEO 30 tuổi từ chối mọi cuộc xem mắt, nhưng vừa thấy cô gái ngã vào lòng liền cưới ngay!",
       "channel": "drama",
@@ -48679,20 +48567,6 @@
       "published_at": "2026-06-10T02:54:22Z",
       "duration_seconds": 321,
       "thumbnail_url": "https://i.ytimg.com/vi/wlGO5ywXMt0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "T-KS4Xs6Ak8",
-      "title": "Tập 1-85: Dùng Tàn Đỉnh Luyện Đan, Ta Dẫn Dắt Gia Tộc Sa Sút Bước Lên Hàng Tiên Tộc [Full Mùa 1]",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-06-10T01:00:06Z",
-      "duration_seconds": 7805,
-      "thumbnail_url": "https://i.ytimg.com/vi/T-KS4Xs6Ak8/sddefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -49201,20 +49075,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "BirAFxroQvo",
-      "title": "SĂN BẮN CỰC ĐẠO | HÀ NHÂN XUYÊN KHÔNG | LY VIETSUB 891",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-06-07T02:57:46Z",
-      "duration_seconds": 9238,
-      "thumbnail_url": "https://i.ytimg.com/vi/BirAFxroQvo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -53306,18 +53166,6 @@
       ]
     },
     {
-      "id": "MnVqbR0VBMM",
-      "title": "Tập 1: Dự án Series phim Tu Tiên dài tập đầu tay của Não Phẳng Tu Tiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-05-11T20:36:42Z",
-      "duration_seconds": 129,
-      "thumbnail_url": "https://i.ytimg.com/vi/MnVqbR0VBMM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "short",
-      "categories": []
-    },
-    {
       "id": "VLgUCcSdaw4",
       "title": "TIỂU TĂNG VÔ SỶ | LY VIETSUB 113",
       "channel": "movies4",
@@ -55838,20 +55686,6 @@
       ]
     },
     {
-      "id": "bFSTs4Kj2y8",
-      "title": "《Cổ Chân Nhân 3D Tập 1 》- Dù Thân Vẫn Diệt, Ma Tâm Không Hối Tiếc",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-04-24T17:47:33Z",
-      "duration_seconds": 201,
-      "thumbnail_url": "https://i.ytimg.com/vi/bFSTs4Kj2y8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "pbHmwSuSvFs",
       "title": "Bỏ qua 100 mỹ nữ vây quanh, Tổng Tài lại si mê cô nàng mập ngay từ cái nhìn đầu tiên",
       "channel": "drama7",
@@ -56923,20 +56757,6 @@
       "published_at": "2026-04-17T04:00:37Z",
       "duration_seconds": 8661,
       "thumbnail_url": "https://i.ytimg.com/vi/X_p0tDKspVU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "RXwlW9xnjro",
-      "title": "TẬP 131-133 | PHU QUÂN NỮ OA | HỒNG HOANG CHIẾN | LYVIETSUB 180",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-04-16T12:04:12Z",
-      "duration_seconds": 774,
-      "thumbnail_url": "https://i.ytimg.com/vi/RXwlW9xnjro/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -58205,20 +58025,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "Hg4PVXikOtg",
-      "title": "TẬP 126-130 | PHU QUÂN NỮ OA | HỒNG HOANG CHIẾN | LYVIETSUB 180",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-04-07T05:15:00Z",
-      "duration_seconds": 1293,
-      "thumbnail_url": "https://i.ytimg.com/vi/Hg4PVXikOtg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -59840,20 +59646,6 @@
       ]
     },
     {
-      "id": "wHgbsxGirVw",
-      "title": "122-125 | PHU QUÂN NỮ OA | HỒNG HOANG CHIẾN | LYVIETSUB 180",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-03-28T10:15:00Z",
-      "duration_seconds": 1161,
-      "thumbnail_url": "https://i.ytimg.com/vi/wHgbsxGirVw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "hcLJrY5tIkw",
       "title": "Bảo vệ nghèo giả làm thiếu gia đi xem mắt, bị nữ CEO phát hiện - tưởng xong đời, ai ngờ cô cầu hôn!",
       "channel": "drama3",
@@ -60006,6 +59798,20 @@
       ]
     },
     {
+      "id": "aUbGNmCcyo4",
+      "title": "HỒNG HOANG VÔ ĐỊCH GIẢ | HỒNG HOANG CHIẾN | LY VIETSUB 902",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-27T10:15:00Z",
+      "duration_seconds": 69648,
+      "thumbnail_url": "https://i.ytimg.com/vi/aUbGNmCcyo4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "Pqk5LXEb9B0",
       "title": "Thiên tài tiên môn lại mang trong mình ma công vô thượng",
       "channel": "movies8",
@@ -60100,6 +59906,20 @@
       "categories": []
     },
     {
+      "id": "YLWEdpjNoRc",
+      "title": "1-2 | HỖN ĐỘN LINH BẢO | HỒNG HOANG CHIẾN | LY VIETSUB 699",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-27T04:11:56Z",
+      "duration_seconds": 810,
+      "thumbnail_url": "https://i.ytimg.com/vi/YLWEdpjNoRc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "DJ38NTr8Xec",
       "title": "Xuyên Không Về Thời Đói Kém, Dựa Vào Quẻ Bói Cát Hung Nhặt Vàng Mỗi Ngày (TẬP 1-72) Lệ Phi Dũng",
       "channel": "movies7",
@@ -60128,6 +59948,20 @@
       ]
     },
     {
+      "id": "ULiEqT8S2mY",
+      "title": "TẬP 6-8 | ĐỊNH HẢI THẦN CHÂU | HỒNG HOANG CHIẾN | LY VIETSUB 921",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T13:00:46Z",
+      "duration_seconds": 1533,
+      "thumbnail_url": "https://i.ytimg.com/vi/ULiEqT8S2mY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "7bMRjLim6oc",
       "title": "Quá Độc Ác, không thể tha thứ! #dramas #phim #kdrama #chinesedrama #shorts",
       "channel": "drama7",
@@ -60138,6 +59972,20 @@
       "embeddable": true,
       "kind": "short",
       "categories": []
+    },
+    {
+      "id": "8u6UN37FvrE",
+      "title": "TẬP 6 | KIẾM TRẢM TIÊN THIÊN | MÔ PHỎNG NHÂN SINH | LY VIETSUB 614",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T12:15:01Z",
+      "duration_seconds": 419,
+      "thumbnail_url": "https://i.ytimg.com/vi/8u6UN37FvrE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
     },
     {
       "id": "2QapjhKocjs",
