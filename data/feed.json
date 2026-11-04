@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T01:43:04Z",
+  "generated_at": "2026-11-04T02:28:57Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "b_XjX1J3iY8",
+      "title": "Bác Cả Chê Cháu Gái Sửa Phòng Cưới 300 Nghìn Tệ Quá Đắt, Nào Ngờ Thuê Thợ Rẻ Khiến Cả Nhà Trả Giá!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T02:00:03Z",
+      "duration_seconds": 4607,
+      "thumbnail_url": "https://i.ytimg.com/vi/b_XjX1J3iY8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "7zpXkDDsoDE",
       "title": "P1-3 | 7 GIỜ THỎA MÃN | Tạp Dịch Ngũ Linh Căn Nhập Môn - Dùng Lư Thần Nhân Bản Vả Mặt Thiên Kiêu",
