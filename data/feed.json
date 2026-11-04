@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T23:22:17Z",
+  "generated_at": "2026-11-04T00:16:40Z",
   "last_full_refresh_at": "2026-11-03T02:30:16Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "IMEKe1OAbRU",
+      "title": "Chồng Shipper Bị Vợ Bỏ Theo Đại Gia, Nào Ngờ Cổ Phiếu Cha Để Lại Giúp Anh Có 35 Tỷ Tệ Sau 20 Năm!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T00:00:22Z",
+      "duration_seconds": 8805,
+      "thumbnail_url": "https://i.ytimg.com/vi/IMEKe1OAbRU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "uyIlGRYa5ns",
+      "title": "Phần 4 | 13 Giờ Thỏa Mãn | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo (RẤT ĐÁNG XEM)",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-03T23:53:34Z",
+      "duration_seconds": 44229,
+      "thumbnail_url": "https://i.ytimg.com/vi/uyIlGRYa5ns/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "znnnlrkFf6g",
       "title": "Em Gái Cướp Hôn Ước Hào Môn, Đẩy Chị Về Quê Lấy Chồng, Nào Ngờ Mẹ Chồng Tặng Vòng Báu 120 Triệu Tệ!",
