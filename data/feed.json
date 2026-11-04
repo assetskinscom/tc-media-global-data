@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T03:28:39Z",
+  "generated_at": "2026-11-04T04:34:56Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "W6sB3iKY5m4",
+      "title": "P1-2 | 5 GIỜ | Vạn Thần Đỉnh - Thiếu Chủ Phế Vật Bị Nữ Đế Song Tu - Kích Hoạt Thần Đỉnh Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T04:20:26Z",
+      "duration_seconds": 16791,
+      "thumbnail_url": "https://i.ytimg.com/vi/W6sB3iKY5m4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "YkRWSQZsIis",
+      "title": "Phần 5 | Trảm Thần Quan, Ta Chết Đi Sống Lại, Thức Tỉnh Thần Tai Chi Thể",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-04T04:00:35Z",
+      "duration_seconds": 19408,
+      "thumbnail_url": "https://i.ytimg.com/vi/YkRWSQZsIis/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tE6TpDehx8Q",
+      "title": "Em Trai Được Hào Môn Nhận Lại, Chị Gái Bàng Hoàng Khi Biết Anh Ruột Cậu Là Tổng Giám Đốc Của Mình!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T04:00:28Z",
+      "duration_seconds": 11151,
+      "thumbnail_url": "https://i.ytimg.com/vi/tE6TpDehx8Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ZX2-Rva9nOU",
+      "title": "3 năm hôn nhân không tình yêu, sinh ba giả chết trốn! 5 năm sau làm bảo mẫu, tổng tài xin cô đừng đi",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-04T04:00:28Z",
+      "duration_seconds": 6841,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZX2-Rva9nOU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ZZ-W8q_p0kg",
+      "title": "Shipper Âm Phủ: Giao Hàng Cho Ma Đổi Mạng Lấy Tiền | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-04T04:00:26Z",
+      "duration_seconds": 5867,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZZ-W8q_p0kg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XK8JVswPSZs",
+      "title": "7,5 GIỜ | Lục Hoàng Tử Mạnh Nhất Không Còn Nằm Im - Từ Kẻ Ngốc Vươn Lên Thành Hoàng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T03:44:57Z",
+      "duration_seconds": 27120,
+      "thumbnail_url": "https://i.ytimg.com/vi/XK8JVswPSZs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "4eczM8nJ8QA",
       "title": "Full | Nhặt Được Mỹ Nữ Tu Tiên Rơi Từ Trên Trời Xuống Không Ngờ Lại Là Nữ Ma Đầu Khét Tiếng",
