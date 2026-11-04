@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:50:23Z",
+  "generated_at": "2026-11-04T10:58:02Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,132 @@
     }
   },
   "videos": [
+    {
+      "id": "8h2hUBGaVmk",
+      "title": "3 GIỜ | Thiếu Chủ Đăng Nhập - Nằm Rút Thưởng Ta Xây Lên Tông Môn Toàn Cường Giả Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T10:24:04Z",
+      "duration_seconds": 10071,
+      "thumbnail_url": "https://i.ytimg.com/vi/8h2hUBGaVmk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6Efzott3zeg",
+      "title": "Cô Gái Bí Ẩn Khiến Ông Cụ 92 Tuổi Hấp Hối Bật Dậy - Lộ Thân Phận Thật Sự Khiến Cả Gia Tộc Quỳ Lạy!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-04T10:23:49Z",
+      "duration_seconds": 8353,
+      "thumbnail_url": "https://i.ytimg.com/vi/6Efzott3zeg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "lRerVbDsat0",
+      "title": "Thiên tài năm xưa bị huỷ hôn ước,nay anh là kiếm thần mạnh nhất đấu la",
+      "channel": "movies8",
+      "channel_title": "ThánhTăng",
+      "published_at": "2026-11-04T10:05:04Z",
+      "duration_seconds": 8269,
+      "thumbnail_url": "https://i.ytimg.com/vi/lRerVbDsat0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "cM4idnJomRE",
+      "title": "P2 Bị Gia Đình Giả Tạo Ruồng Bỏ, Hắn Thức Tỉnh Ma Thần Khát Máu Và Bước Lên Con Đường Vô Địch",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T10:00:36Z",
+      "duration_seconds": 25707,
+      "thumbnail_url": "https://i.ytimg.com/vi/cM4idnJomRE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "yVTQ3NaDxYs",
+      "title": "Trục Xuất Khỏi Doanh Trại Nữ Tôi Thức Tỉnh Hệ Thống Trùm Sinh Tồn Đảo Hoang | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-04T10:00:10Z",
+      "duration_seconds": 4481,
+      "thumbnail_url": "https://i.ytimg.com/vi/yVTQ3NaDxYs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vTcAv2IfJ3c",
+      "title": "Người Khác Khổ Tu Trăm Năm, Hắn Chuyên Săn Kẻ Yếu, Dựa Vào Hệ Thống Sát Sinh Để Xưng Bá Tu Tiên Giới",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T09:40:46Z",
+      "duration_seconds": 13136,
+      "thumbnail_url": "https://i.ytimg.com/vi/vTcAv2IfJ3c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "12pFbUTyqT0",
+      "title": "7 GIỜ | Thiếu Tướng Quân Lưu Đày - Dùng Sức Mạnh Cùng Mưu Lược Ép 16 Tiểu Quốc Phải Phục Tùng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T09:24:00Z",
+      "duration_seconds": 24286,
+      "thumbnail_url": "https://i.ytimg.com/vi/12pFbUTyqT0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "MwkJgbR1KnM",
+      "title": "Full Version 1 l Vừa Xuyên Vào Học Viện Quý Tộc, Hệ Thống Đã Bắt Tôi Công Lược Dàn F5 l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-04T09:20:51Z",
+      "duration_seconds": 4054,
+      "thumbnail_url": "https://i.ytimg.com/vi/MwkJgbR1KnM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "b679enOLA-g",
+      "title": "Bị Ép Cưới Bằng 600 Nghìn Tệ Tiền Nhà, Cô Gái Dứt Khoát Từ Chối, Nào Ngờ Tự Nguyện Bàn Chuyện Cưới!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T09:00:19Z",
+      "duration_seconds": 7332,
+      "thumbnail_url": "https://i.ytimg.com/vi/b679enOLA-g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "zo2eWe3cMo4",
       "title": "[FULL S1-2] HỆ THỐNG ĐẠI PHẢN PHÁI, CÀNG TRÊU GHẸO SƯ TÔN TA CÀNG MẠNH | LY VIETSUB 1000",
