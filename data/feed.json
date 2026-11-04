@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T11:51:39Z",
+  "generated_at": "2026-11-04T12:44:31Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "hX5IQCsEQ6E",
+      "title": "4 GIỜ | Thiếu Gia Lưu Đày Đến Huyện Nghèo - Hệ Thống Vô Hạn Tài Nguyên - Ta Dựng Lên Cả Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T12:30:15Z",
+      "duration_seconds": 14048,
+      "thumbnail_url": "https://i.ytimg.com/vi/hX5IQCsEQ6E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gX_NNWIg6L0",
+      "title": "Thằng nhà quê lên phố bị nữ CEO trao thân, ai ngờ thức tỉnh mắt thần nhìn xuyên thấu, thành tỷ phú!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-04T12:15:45Z",
+      "duration_seconds": 8153,
+      "thumbnail_url": "https://i.ytimg.com/vi/gX_NNWIg6L0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "qlBUchMd2wY",
+      "title": "把寂寞放回原位｜Official MV",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T12:09:06Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/qlBUchMd2wY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "fD47ksmH1S4",
+      "title": "把寂寞放回原位｜原創情歌｜Official Music Video — 慢慢療癒的4分鐘",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T12:07:17Z",
+      "duration_seconds": 242,
+      "thumbnail_url": "https://i.ytimg.com/vi/fD47ksmH1S4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "do9wfLDXyhs",
+      "title": "Chiến thần giả què đi ở rể thử lòng gia tộc nhà vợ, ai ngờ bị khinh thường ép ly hôn và cái kết",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-04T12:01:33Z",
+      "duration_seconds": 6369,
+      "thumbnail_url": "https://i.ytimg.com/vi/do9wfLDXyhs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "JjgqlVT6oO4",
+      "title": "Sở Hữu Võ Linh Thôn Phệ Thiên Địa, Hắn Có Thể Biến Mọi Công Pháp Tàn Khuyết Thành Tuyệt Học Vô Song!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T12:00:31Z",
+      "duration_seconds": 10998,
+      "thumbnail_url": "https://i.ytimg.com/vi/JjgqlVT6oO4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "edaidmWgd0Q",
+      "title": "Sinh Tồn Tận Thế Ta Dùng Bàn Tay Vàng 12 Chòm Sao Càn Quét Phó Bản  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-04T12:00:26Z",
+      "duration_seconds": 9678,
+      "thumbnail_url": "https://i.ytimg.com/vi/edaidmWgd0Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8ghHzh3iTVc",
+      "title": "Bị Bạn Gái Chê Nghèo, Anh Xuyên Không Đến Thế Giới Hiếm Đàn Ông, Nào Ngờ Được Ghép Cưới Nữ Tổng Tài",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T12:00:25Z",
+      "duration_seconds": 7182,
+      "thumbnail_url": "https://i.ytimg.com/vi/8ghHzh3iTVc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "-MA092Q2roA",
       "title": "Ả quản lý tưởng thực tập sinh quê mùa nên ra sức bắt nạt, ngờ đâu cô lại là vợ cưng của Tổng Tài!",
