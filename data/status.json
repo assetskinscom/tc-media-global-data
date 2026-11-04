@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-04T13:52:58Z",
+  "last_success_at": "2026-11-04T14:49:24Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "video_counts": {
-    "music": 217,
-    "edm": 37,
+    "music": 218,
+    "edm": 38,
     "shorts": 351,
     "cartoon": 3323,
     "drama": 2156,
     "music_shorts": 351,
-    "music_long": 37,
+    "music_long": 38,
     "movies": 3323
   },
   "source_counts": {
-    "music": 568,
+    "music": 569,
     "movies": 454,
     "movies2": 162,
     "movies3": 228,
@@ -35,7 +35,7 @@
   "sources": {
     "music": {
       "handle": "@TCMusicGlobal",
-      "video_count": 568,
+      "video_count": 569,
       "sync_status": "ok",
       "error": ""
     },

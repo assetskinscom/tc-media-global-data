@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-04T13:52:58Z",
+  "generated_at": "2026-11-04T14:49:24Z",
   "videos": [
+    {
+      "id": "hlRafUmk81A",
+      "title": "霓虹自由誌 — 高能台味EDM八首全新曲 • 台灣限定電子舞曲合輯",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T14:23:11Z",
+      "duration_seconds": 1417,
+      "thumbnail_url": "https://i.ytimg.com/vi/hlRafUmk81A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
     {
       "id": "p92hABURSY0",
       "title": "Gelombang Malam — Album EDM Malaysia (Original)",
