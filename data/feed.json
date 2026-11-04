@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T15:45:28Z",
+  "generated_at": "2026-11-04T16:44:11Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "MEhxWo00qE4",
+      "title": "Buffer Ơi! Livestream Lộn Xộn",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T16:07:50Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/MEhxWo00qE4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "prjJz8ewB1E",
+      "title": "Buffer Ơi! Livestream Lộn Xộn — EDM parody vui về những pha livestream dở khóc dở cười",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T16:07:20Z",
+      "duration_seconds": 239,
+      "thumbnail_url": "https://i.ytimg.com/vi/prjJz8ewB1E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "hlRafUmk81A",
       "title": "霓虹自由誌 — 高能台味EDM八首全新曲 • 台灣限定電子舞曲合輯",
