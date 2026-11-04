@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T12:44:31Z",
+  "generated_at": "2026-11-04T13:52:58Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "R-r0br0-CrI",
+      "title": "Tiểu Thư Giả Quẹt Thẻ Thất Bại Sau Bữa Tiệc 300 Nghìn Tệ, Nào Ngờ Chủ Quán Vạch Trần Mọi Âm Mưu!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T13:00:25Z",
+      "duration_seconds": 5171,
+      "thumbnail_url": "https://i.ytimg.com/vi/R-r0br0-CrI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "hX5IQCsEQ6E",
       "title": "4 GIỜ | Thiếu Gia Lưu Đày Đến Huyện Nghèo - Hệ Thống Vô Hạn Tài Nguyên - Ta Dựng Lên Cả Đế Chế",
