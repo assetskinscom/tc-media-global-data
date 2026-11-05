@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T19:35:51Z",
+  "generated_at": "2026-11-05T20:27:49Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "A7mzIrhCeDg",
+      "title": "Phần 4 -P4(900): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T20:03:37Z",
+      "duration_seconds": 2458,
+      "thumbnail_url": "https://i.ytimg.com/vi/A7mzIrhCeDg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "VCuKLoAxvew",
       "title": "Phần 1- 3: Bị Hệ Thống Nhốt Mười Vạn Năm, Ta Dắt Lừa Xuất Thế Đã Vô Địch",
