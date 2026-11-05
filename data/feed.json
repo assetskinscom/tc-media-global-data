@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T15:35:29Z",
+  "generated_at": "2026-11-05T16:43:10Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "o89D38ZNFWY",
+      "title": "(fix) Vừa Xuyên Không Đã Đè Chết Huyết Tổ, Lão Già Nghỉ Hưu Bị Ép Giả Cao Nhân (MÙA 1) Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-05T16:14:20Z",
+      "duration_seconds": 12758,
+      "thumbnail_url": "https://i.ytimg.com/vi/o89D38ZNFWY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "h-rt3N0eliA",
       "title": "Vợ Bỏ Chồng Nghèo Theo Thiếu Gia Giàu Có, Nào Ngờ Anh Là Long Vương, Khiến Cô Hối Hận Xin Tái Hôn!",
