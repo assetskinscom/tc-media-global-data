@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T04:40:53Z",
+  "generated_at": "2026-11-05T05:40:08Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "85VpXvoO8n8",
+      "title": "Chồng Đưa Mẹ Con Người Khác Vào Phòng Dành Cho Con Tương Lai, Nào Ngờ Vợ Ly Hôn Và Không Quay Lại!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T05:00:38Z",
+      "duration_seconds": 5403,
+      "thumbnail_url": "https://i.ytimg.com/vi/85VpXvoO8n8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "wKBJgEPHZqY",
+      "title": "Sở Hữu Hệ Thống Tạp Gia Toàn Năng Tôi Trở Thành Vệ Sĩ Cho Đại Tiểu Thư | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-05T05:00:03Z",
+      "duration_seconds": 11906,
+      "thumbnail_url": "https://i.ytimg.com/vi/wKBJgEPHZqY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "bZdbeD1FbQs",
       "title": "3 GIỜ | Xuyên Làm Đại Sư Huynh Phế Vật - Hệ Thống Thu Mua Hoàn Trả 100% - Nằm Im Ta Tu Thành Đại Đế",
