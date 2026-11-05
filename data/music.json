@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-05T06:40:40Z",
+  "generated_at": "2026-11-05T07:56:49Z",
   "videos": [
+    {
+      "id": "oIMS0B86sKk",
+      "title": "寄给月亮的信｜深夜抒情新歌 × 关于放下与新开始",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-05T07:08:06Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/oIMS0B86sKk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "prjJz8ewB1E",
       "title": "Buffer Ơi! Livestream Lộn Xộn — EDM parody vui về những pha livestream dở khóc dở cười",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T06:40:40Z",
+  "generated_at": "2026-11-05T07:56:49Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "RI7mkJ8sG5s",
+      "title": "Phần 1-2 | 12 GIỜ THỎA MÃN | Vợ Tôi Là Nữ Kiếm Tiên - Khi Tu Tiên Xâm Chiếm Đời Thực",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T07:25:36Z",
+      "duration_seconds": 41074,
+      "thumbnail_url": "https://i.ytimg.com/vi/RI7mkJ8sG5s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "HMtD3NVIJpo",
+      "title": "寄给月亮的信",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-05T07:08:40Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/HMtD3NVIJpo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "oIMS0B86sKk",
+      "title": "寄给月亮的信｜深夜抒情新歌 × 关于放下与新开始",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-05T07:08:06Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/oIMS0B86sKk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "DYJe2BHUuV0",
+      "title": "Mọi người cười nhạo cô ấy vì là người thừa kế giả,nhưng vị hoàng tử lạnh lùng lại say mê chiều",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-05T07:00:26Z",
+      "duration_seconds": 4556,
+      "thumbnail_url": "https://i.ytimg.com/vi/DYJe2BHUuV0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uL_tF6QSpB0",
+      "title": "Đưa Đón Đồng Nghiệp Cả Năm Chỉ Lấy 100 Tệ, Anh Bị Vu Khống, Nào Ngờ Nghỉ Chở Kiếm Hơn 10 Nghìn Tệ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T07:00:10Z",
+      "duration_seconds": 4791,
+      "thumbnail_url": "https://i.ytimg.com/vi/uL_tF6QSpB0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "9zxJkr_sRx8",
       "title": "5,5 GIỜ | Vừa Xuyên Không Đã Nhận Thiên Linh Căn - Hệ Thống Lựa Chọn Trở Thành Bất Bại Tam Giới",
