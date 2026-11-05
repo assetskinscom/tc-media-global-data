@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T17:39:42Z",
+  "generated_at": "2026-11-05T18:23:11Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "VCuKLoAxvew",
+      "title": "Phần 1- 3: Bị Hệ Thống Nhốt Mười Vạn Năm, Ta Dắt Lừa Xuất Thế Đã Vô Địch",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T17:59:51Z",
+      "duration_seconds": 23373,
+      "thumbnail_url": "https://i.ytimg.com/vi/VCuKLoAxvew/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "o89D38ZNFWY",
       "title": "(fix) Vừa Xuyên Không Đã Đè Chết Huyết Tổ, Lão Già Nghỉ Hưu Bị Ép Giả Cao Nhân (MÙA 1) Lệ Phi Dũng",
