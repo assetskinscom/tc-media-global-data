@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T10:52:01Z",
+  "generated_at": "2026-11-05T11:45:42Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "wddIZyqvOaA",
+      "title": "Tưởng cô hiền lành mẹ kế dẫn con riêng về bắt nạt ai ngờ cô là nữ giang hồ đánh cả 2 nhập viện!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-05T11:30:13Z",
+      "duration_seconds": 4976,
+      "thumbnail_url": "https://i.ytimg.com/vi/wddIZyqvOaA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "GK6VQ8rSOoY",
+      "title": "4,5 GIỜ | Thiếu Chủ Ngoài Giá Thú Không Còn Ẩn Mình - Ta Bất Bại Trong Thế Giới Tu Tiên",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T11:30:09Z",
+      "duration_seconds": 16130,
+      "thumbnail_url": "https://i.ytimg.com/vi/GK6VQ8rSOoY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_VEMpDCKyw4",
+      "title": "Cha Mẹ Lấy 880 Nghìn Tệ Tiền Cưới Con Gái Mua Nhà Cho Em Trai, Nào Ngờ Cô Hoãn Cưới Đòi Lại!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T11:00:37Z",
+      "duration_seconds": 4609,
+      "thumbnail_url": "https://i.ytimg.com/vi/_VEMpDCKyw4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ajcnMYiJF-U",
+      "title": "Xuyên Thành Zombie Tiếng Lòng Của Tôi Bị Cả Căn Cứ Phản Diện Nghe Thấy | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-05T11:00:31Z",
+      "duration_seconds": 9704,
+      "thumbnail_url": "https://i.ytimg.com/vi/ajcnMYiJF-U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "G3sQSDXT1eQ",
+      "title": "Người Khác Dùng Hệ Thống Để Độc Bá Thiên Hạ, Hắn Lại Lập Đạo Tràng Thu Đồ Đệ Cùng Nhau Thành Tiên!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-05T11:00:20Z",
+      "duration_seconds": 15007,
+      "thumbnail_url": "https://i.ytimg.com/vi/G3sQSDXT1eQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "i6EldpH6gKw",
+      "title": "Chàng trai nghèo bị sếp khinh thường,không ngờ anh là tỷ phú!Hôm sau,sếp tự nguyện làm ghế cho ngồi!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-05T11:00:04Z",
+      "duration_seconds": 4217,
+      "thumbnail_url": "https://i.ytimg.com/vi/i6EldpH6gKw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "M3YiLqwzmSM",
+      "title": "Phần 1- 2: Bị Hệ Thống Nhốt Mười Vạn Năm, Ta Dắt Lừa Xuất Thế Đã Vô Địch",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T10:53:42Z",
+      "duration_seconds": 15537,
+      "thumbnail_url": "https://i.ytimg.com/vi/M3YiLqwzmSM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "YifxzpI359E",
       "title": "3 GIỜ | Triều Đại Võ Thuật Bất Tử - Thái Tử Phế Vật Kích Hoạt Hệ Thống Triệu Hồi Thần Quỷ",
