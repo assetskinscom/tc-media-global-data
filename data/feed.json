@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T03:43:39Z",
+  "generated_at": "2026-11-05T04:40:53Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "bZdbeD1FbQs",
+      "title": "3 GIỜ | Xuyên Làm Đại Sư Huynh Phế Vật - Hệ Thống Thu Mua Hoàn Trả 100% - Nằm Im Ta Tu Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T04:30:16Z",
+      "duration_seconds": 9662,
+      "thumbnail_url": "https://i.ytimg.com/vi/bZdbeD1FbQs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uKlpQyLx3OU",
+      "title": "Phần 2: Mang Ngũ Hành Tạp Linh Căn Bị Coi Là Phế Vật, Ta Đoạt Cơ Duyên Nghịch Thiên Thành Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T04:04:05Z",
+      "duration_seconds": 7682,
+      "thumbnail_url": "https://i.ytimg.com/vi/uKlpQyLx3OU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3QYPp4EKbaI",
+      "title": "8 Năm Khổ Luyện Thành Vô Địch Ta Xuống Núi Chinh Phục Dàn Hôn Thê | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-05T04:00:34Z",
+      "duration_seconds": 9495,
+      "thumbnail_url": "https://i.ytimg.com/vi/3QYPp4EKbaI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LdO2KEY6tro",
+      "title": "Ngày cưới bị bỏ, cô cưới đại chàng nghèo, đưa 5000 nhờ diễn! Ai ngờ anh rút thẻ đen cho tiêu!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-05T04:00:33Z",
+      "duration_seconds": 6398,
+      "thumbnail_url": "https://i.ytimg.com/vi/LdO2KEY6tro/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Fbwai_-Cy0o",
+      "title": "Thiếu Chủ Phế Vật Tu Tiên - Hệ Thống Tiêu Hoang - Càng Tiêu Hoang Ta Càng Mạnh Mẽ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T04:00:32Z",
+      "duration_seconds": 7534,
+      "thumbnail_url": "https://i.ytimg.com/vi/Fbwai_-Cy0o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9n8HHuKNAbw",
+      "title": "Gả cho Hoàng Đế máu lạnh, nàng chẳng thèm tranh sủng, chỉ muốn ôm vàng bỏ trốn lại được phong hậu!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-05T04:00:30Z",
+      "duration_seconds": 6413,
+      "thumbnail_url": "https://i.ytimg.com/vi/9n8HHuKNAbw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "7viOVkwsxIE",
+      "title": "Vốn Định Dụ Kẻ Thù Vào Bẫy Để Báo Thù Ma Tộc, Nàng Không Ngờ Trái Tim Lại Phản Bội Chính Mình!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-05T04:00:20Z",
+      "duration_seconds": 10358,
+      "thumbnail_url": "https://i.ytimg.com/vi/7viOVkwsxIE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mCsCx4WLII4",
+      "title": "Vợ Ly Hôn Chồng Nghiện Cờ Bạc, Nào Ngờ Anh Lẻn Vào Quán Trộm 12 Nghìn Tệ Và Bị Camera Vạch Mặt!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T04:00:00Z",
+      "duration_seconds": 4790,
+      "thumbnail_url": "https://i.ytimg.com/vi/mCsCx4WLII4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "vGQy5ffAo0k",
       "title": "Trọng Sinh Sau Khi Bị Thái Tử Ban Rượu Độc, Nàng Quyết Tâm Báo Thù Và Trở Thành Thái Hậu Quyền Lực!",
