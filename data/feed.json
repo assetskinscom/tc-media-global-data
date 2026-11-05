@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T11:45:42Z",
+  "generated_at": "2026-11-05T12:49:59Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "f8QUcKRVAeQ",
+      "title": "3 GIỜ | Gã Ăn Mày Được Đại Tiểu Thư Cưới Làm Chồng - Dùng Tài Năng Thành Chiến Lược Gia Số 1",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T12:30:15Z",
+      "duration_seconds": 10413,
+      "thumbnail_url": "https://i.ytimg.com/vi/f8QUcKRVAeQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "h3qlRXetcoo",
+      "title": "Bị hôn phu và em kế phản bội, cô mang thai con chú tư hắn, 5 năm sau được trăm siêu xe nghênh đón!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-05T12:15:24Z",
+      "duration_seconds": 8892,
+      "thumbnail_url": "https://i.ytimg.com/vi/h3qlRXetcoo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_n1pbxi8geI",
+      "title": "心窗的一盞光 (Official)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-05T12:07:45Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/_n1pbxi8geI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "JH10lv-K3zY",
+      "title": "心窗的一盞光 — 原創浪漫抒情情歌｜溫柔療癒的夜與晨",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-05T12:07:17Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/JH10lv-K3zY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "G0U9L9QkOts",
+      "title": "Bạn Gái Biến Thành Zombie Tôi Lại Nuôi Cô Ấy Thành Nữ Hoàng Tận Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-05T12:00:32Z",
+      "duration_seconds": 6147,
+      "thumbnail_url": "https://i.ytimg.com/vi/G0U9L9QkOts/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "rYBRh-zHGzo",
+      "title": "Vợ Ly Hôn Khi Tưởng Trúng 56 Triệu Tệ, Nào Ngờ Vé Hỏng, Chồng Trúng Thật Khiến Cô Quỳ Xin Tái Hôn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T12:00:21Z",
+      "duration_seconds": 4823,
+      "thumbnail_url": "https://i.ytimg.com/vi/rYBRh-zHGzo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "vYMy-TpQqSY",
+      "title": "Bị gia đình cay nghiệt đuổi khỏi nhà trong cơn mưa lớn, cô gái bất ngờ được CEO đón về cưng chiều!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-05T12:00:17Z",
+      "duration_seconds": 9114,
+      "thumbnail_url": "https://i.ytimg.com/vi/vYMy-TpQqSY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "wddIZyqvOaA",
       "title": "Tưởng cô hiền lành mẹ kế dẫn con riêng về bắt nạt ai ngờ cô là nữ giang hồ đánh cả 2 nhập viện!",
