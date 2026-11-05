@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T09:49:07Z",
+  "generated_at": "2026-11-05T10:52:01Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "YifxzpI359E",
+      "title": "3 GIỜ | Triều Đại Võ Thuật Bất Tử - Thái Tử Phế Vật Kích Hoạt Hệ Thống Triệu Hồi Thần Quỷ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T10:30:28Z",
+      "duration_seconds": 9561,
+      "thumbnail_url": "https://i.ytimg.com/vi/YifxzpI359E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1n54FJBo18I",
+      "title": "Viện Dưỡng Lão Toàn Cao Thủ Dị Nhân Cấp S | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-05T10:00:34Z",
+      "duration_seconds": 6249,
+      "thumbnail_url": "https://i.ytimg.com/vi/1n54FJBo18I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lqXm670rIAI",
+      "title": "Bị Vu Oan Và Đuổi Khỏi Tông Môn, Hắn Được Hoàng Hậu Linh Long Chọn, Thức Tỉnh Võ Hồn Đế Cấp",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-05T10:00:17Z",
+      "duration_seconds": 8874,
+      "thumbnail_url": "https://i.ytimg.com/vi/lqXm670rIAI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FuDTZlWc1iQ",
+      "title": "Trợ Lý Ép Chồng Nữ Tổng Tài Xin Phép Mỗi Khi Tiêu 200 Tệ, Nào Ngờ Anh Là Ông Chủ Quỹ Đầu Tư Lớn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T10:00:05Z",
+      "duration_seconds": 5273,
+      "thumbnail_url": "https://i.ytimg.com/vi/FuDTZlWc1iQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Df8XM2kMzYQ",
       "title": "3 GIỜ | Thiên Tài Bị Phế Đan Điền  - Hệ Thống Siêu Cấp Vũ Khí - Một Mình Trấn Áp Cả Ma Giới",
