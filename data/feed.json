@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T05:40:08Z",
+  "generated_at": "2026-11-05T06:40:40Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "9zxJkr_sRx8",
+      "title": "5,5 GIỜ | Vừa Xuyên Không Đã Nhận Thiên Linh Căn - Hệ Thống Lựa Chọn Trở Thành Bất Bại Tam Giới",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T06:30:11Z",
+      "duration_seconds": 18978,
+      "thumbnail_url": "https://i.ytimg.com/vi/9zxJkr_sRx8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "iFyZK81ElD4",
+      "title": "Phần 3: Mang Ngũ Hành Tạp Linh Căn Bị Coi Là Phế Vật, Ta Đoạt Cơ Duyên Nghịch Thiên Thành Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T06:00:46Z",
+      "duration_seconds": 9687,
+      "thumbnail_url": "https://i.ytimg.com/vi/iFyZK81ElD4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "85VpXvoO8n8",
       "title": "Chồng Đưa Mẹ Con Người Khác Vào Phòng Dành Cho Con Tương Lai, Nào Ngờ Vợ Ly Hôn Và Không Quay Lại!",
