@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T00:22:41Z",
+  "generated_at": "2026-11-05T01:52:30Z",
   "last_full_refresh_at": "2026-11-04T03:28:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "_4nU8wrjHsA",
+      "title": "[FULL S1] TỪ HÔN NỮ ĐẾ ĐỂ ĐẠT CUỘC SỐNG TIÊU DAO | LY VIETSUB 1000",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-05T01:21:49Z",
+      "duration_seconds": 27017,
+      "thumbnail_url": "https://i.ytimg.com/vi/_4nU8wrjHsA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8QPYDmQtpgo",
+      "title": "Mẹ Đơn Thân Đùa Muốn Làm Dâu Bà Căn Tin, Nào Ngờ Bà Nắm 36% Cổ Phần, Con Trai Là Tổng Tài 1000 Tỷ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T01:00:07Z",
+      "duration_seconds": 5201,
+      "thumbnail_url": "https://i.ytimg.com/vi/8QPYDmQtpgo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "iRHem3AAKzE",
+      "title": "Phần 23: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T00:53:59Z",
+      "duration_seconds": 7349,
+      "thumbnail_url": "https://i.ytimg.com/vi/iRHem3AAKzE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "65iA3euE_l4",
+      "title": "3 GIỜ | Xuyên Làm Đệ Tử Ngoại Môn - Hệ Thống Rút Thưởng Thần Cấp - Phế Vật Đả Bại 6 Đại Thiên Kiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-05T00:52:46Z",
+      "duration_seconds": 10585,
+      "thumbnail_url": "https://i.ytimg.com/vi/65iA3euE_l4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "7w0x1ddLBTU",
       "title": "Bạn Gái Chê Mẹ Chồng Nhặt Ve Chai Nghèo, Nào Ngờ Bà Là Chủ Tịch Trăm Tỷ Và Chọn Cô Bán Hoành Thánh!",
