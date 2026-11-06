@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T05:39:00Z",
+  "generated_at": "2026-11-06T06:41:00Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "U2gyUZ6ulGg",
+      "title": "3 GIỜ | Chàng Rể Bị Nữ Công Chúa Hủy Hôn - Nào Ngờ Là Cao Thủ Võ Thuật Dẹp Loạn Biên Giới",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T06:30:22Z",
+      "duration_seconds": 10459,
+      "thumbnail_url": "https://i.ytimg.com/vi/U2gyUZ6ulGg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4MeEuB7khg0",
+      "title": "Phần 1: Phàm Nhân Tiên Lộ: Ta Sở Hữu Không Gian Thần Bí",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T05:56:14Z",
+      "duration_seconds": 5417,
+      "thumbnail_url": "https://i.ytimg.com/vi/4MeEuB7khg0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "jJ0DkLfKmhY",
       "title": "Phần 3 | Xuyên Không 8000 Năm Thành Đại Đế, Đến Lúc Sắp Chết Hệ Thống Mới Xuất Hiện!",
