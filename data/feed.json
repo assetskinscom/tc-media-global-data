@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T11:42:19Z",
+  "generated_at": "2026-11-06T12:36:42Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "r-4OpTgg-6E",
+      "title": "P1-3 | 17,5 GIỜ | Xuyên Làm Thái Tử Bù Nhìn - Dùng Sức Mạnh Thống Nhất Giang Sơn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T12:31:17Z",
+      "duration_seconds": 61874,
+      "thumbnail_url": "https://i.ytimg.com/vi/r-4OpTgg-6E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mHyj6XIl7LU",
+      "title": "Full Version l Cô Vợ Nhỏ Được Vua Sói Nuôi Từ Bé l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T12:07:32Z",
+      "duration_seconds": 5677,
+      "thumbnail_url": "https://i.ytimg.com/vi/mHyj6XIl7LU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MAD00r5-TFg",
+      "title": "Chồng Giữ Hết Lương Vợ 5 Năm, Đòi 550 Nghìn Tệ Cho Em Gái Du Học, Nào Ngờ Tài Khoản Chỉ Có 200 Tệ!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T12:00:38Z",
+      "duration_seconds": 5283,
+      "thumbnail_url": "https://i.ytimg.com/vi/MAD00r5-TFg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "uyOyK804y-k",
+      "title": "Kẻ Hốt Phân Ngựa Là Thần Súng Tái Xuất Khiến Cả Giang Hồ Kinh Sợ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-06T12:00:34Z",
+      "duration_seconds": 9162,
+      "thumbnail_url": "https://i.ytimg.com/vi/uyOyK804y-k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "sjs6v8BpE48",
+      "title": "Nữ CEO nhất quyết đòi trao cái ngàn vàng cho thằng thợ mộc nghèo, hóa ra anh là tỷ phú ẩn danh",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-06T12:00:02Z",
+      "duration_seconds": 6239,
+      "thumbnail_url": "https://i.ytimg.com/vi/sjs6v8BpE48/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "x1EXk-ioIPc",
+      "title": "Phần 3 | RẤT ĐÁNG XEM | Thiên Đế Đồ Lục - Đệ Tử Phế Vật Nghịch Thiên Tu Thành Chí Tôn Cảnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T11:48:27Z",
+      "duration_seconds": 15679,
+      "thumbnail_url": "https://i.ytimg.com/vi/x1EXk-ioIPc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "BxW73KaNmoY",
       "title": "6 GIỜ | Đệ Tử Phế Vật Bị Coi Thường - Ta Tiêu Xài Hoàng Phí Để Xây Lên Tông Môn Vô Địch",
