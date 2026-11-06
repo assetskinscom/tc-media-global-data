@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T18:29:29Z",
+  "generated_at": "2026-11-06T19:35:54Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "i3EpvkSi2Mg",
+      "title": "Full Version 2 | Bị Hắc Bạch Vô Thường Bắt Nhầm , Tôi Được Đền Bù Một Anh Chồng Tổng Tài | Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T19:16:57Z",
+      "duration_seconds": 7747,
+      "thumbnail_url": "https://i.ytimg.com/vi/i3EpvkSi2Mg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "M2Eo39bgWw8",
       "title": "Phần 2-Part 1: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
