@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T09:51:31Z",
+  "generated_at": "2026-11-06T10:52:07Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "f5-0WxhkbXI",
+      "title": "P1-2 | 9,5 GIỜ THỎA MÃN | Cao Thủ Ẩn Danh Khuấy Đảo Giang Hồ, Các Môn Phải Đều Khiếp Sợ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T10:22:45Z",
+      "duration_seconds": 33391,
+      "thumbnail_url": "https://i.ytimg.com/vi/f5-0WxhkbXI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tmTvO2Sj--U",
+      "title": "Full Version l Hệ Thống Bắt Tôi Khiến Phản Diện Hắc Hóa, Ai Ngờ Anh Lại Làm Nũng Với Tôi l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T10:06:56Z",
+      "duration_seconds": 4467,
+      "thumbnail_url": "https://i.ytimg.com/vi/tmTvO2Sj--U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "mWxBFm2w2Qc",
+      "title": "Tưởng Lấy Phải Chồng Nghèo Chỉ Biết Nhặt Rác, Nào Ngờ Anh Chính Là CEO Giàu Nhất Thành Phố!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-06T10:00:30Z",
+      "duration_seconds": 3715,
+      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "v2qIgnOMjsg",
+      "title": "Bé Gái 3 Tuổi Bán Kẹp Tóc Bị Bắt Nạt Giữa Phố, Nào Ngờ Người Đến Cứu Là Cha Ruột Tổng Tài Tỷ Phú!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T10:00:12Z",
+      "duration_seconds": 7496,
+      "thumbnail_url": "https://i.ytimg.com/vi/v2qIgnOMjsg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "i4ABacWEa6M",
+      "title": "Sư Tôn Trọng Sinh: Các Nữ Đế Nhất Quyết Bắt Cưới! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-06T10:00:09Z",
+      "duration_seconds": 7190,
+      "thumbnail_url": "https://i.ytimg.com/vi/i4ABacWEa6M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "S2-vTQ2ldeY",
       "title": "Phần 8 | Phiêu Miểu Tông - Vô Hạn Hợp Thành Đại Đế",
