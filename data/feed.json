@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T13:51:44Z",
+  "generated_at": "2026-11-06T14:44:49Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "68WxG9vrzwM",
+      "title": "Phần 6: Lão Ăn Mày Tự Chôn Trong Chum, Thức Tỉnh Kỳ Năng Nghịch Thiên Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T14:24:24Z",
+      "duration_seconds": 7436,
+      "thumbnail_url": "https://i.ytimg.com/vi/68WxG9vrzwM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "kF5Dbd1A0Aw",
       "title": "9 GIỜ THỎA MÃN ÍT BUFF | Tạp Dịch Ngũ Linh Căn - Thần Bí Châu Âm Thầm Tu Luyện",
