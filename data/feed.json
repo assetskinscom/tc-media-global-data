@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T03:35:18Z",
-  "last_full_refresh_at": "2026-11-05T03:43:39Z",
+  "generated_at": "2026-11-06T04:38:09Z",
+  "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "IY-e3WNSIRg",
+      "title": "Phần 8 | Xuyên Không Thức Tỉnh Kiếm Linh Căn, Nhưng Ta Thật Sự Không Muốn Tu Tiên",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T04:19:13Z",
+      "duration_seconds": 16761,
+      "thumbnail_url": "https://i.ytimg.com/vi/IY-e3WNSIRg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "2vI5mwgUZ3M",
+      "title": "Xuyên Không Thành Phế Vật Ta Một Tay Bỏ Công Chúa Một Bút Khuynh Đảo Kinh Thành | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-06T04:00:18Z",
+      "duration_seconds": 13076,
+      "thumbnail_url": "https://i.ytimg.com/vi/2vI5mwgUZ3M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "sx7p65o6XMU",
+      "title": "Gái quê lên nhầm xe tổng tài giàu nhất! Ai cũng nghĩ cô tiêu, ai ngờ tổng tài yêu cô!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-06T04:00:15Z",
+      "duration_seconds": 4933,
+      "thumbnail_url": "https://i.ytimg.com/vi/sx7p65o6XMU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "F2eVRaged20",
       "title": "Phần 1-2 | 10,5 GIỜ THỎA MÃN | Xuyên làm Đệ Tử Ngũ Linh Căn - Dùng Cổ Pháp Tu Tiên Trở Thành Vô Địch",
@@ -2227,20 +2269,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "kX8gY3lATuA",
-      "title": "Ai Cũng Tưởng Hắn Là Công Tử Ăn Chơi, Nào Ngờ Một Tay Giải Quyết Nạn Đói, Chấn Động Thiên Hạ!",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-11-03T11:30:18Z",
-      "duration_seconds": 11959,
-      "thumbnail_url": "https://i.ytimg.com/vi/kX8gY3lATuA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -5263,20 +5291,6 @@
       "published_at": "2026-10-30T09:00:17Z",
       "duration_seconds": 18655,
       "thumbnail_url": "https://i.ytimg.com/vi/GbTfTAD14Cc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "rcOSM6XiXK4",
-      "title": "Phần 37 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-30T08:53:19Z",
-      "duration_seconds": 7421,
-      "thumbnail_url": "https://i.ytimg.com/vi/rcOSM6XiXK4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -24777,7 +24791,7 @@
     },
     {
       "id": "FXN2Lg1G0k4",
-      "title": "[FULL 12H] KẸT LẠI TU TIÊN: HẾT CỬA VỀ, TA ĐÀNH ĐÀO TẠO RA DÀN NỮ ĐẾ VÔ ĐỊCH | LY VIETSUB 229",
+      "title": "[FULL S1-2] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
       "channel": "movies4",
       "channel_title": "Ly VietSub",
       "published_at": "2026-09-21T05:32:03Z",
