@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T00:20:27Z",
+  "generated_at": "2026-11-06T01:51:08Z",
   "last_full_refresh_at": "2026-11-05T03:43:39Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "lIfLzPY0Iek",
+      "title": "[FULL S3-5] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-06T01:41:19Z",
+      "duration_seconds": 43244,
+      "thumbnail_url": "https://i.ytimg.com/vi/lIfLzPY0Iek/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "s5tak7ST2cY",
+      "title": "P1-4 BẢN ĐẸP | 45 Giờ Thỏa Mãn | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T01:38:06Z",
+      "duration_seconds": 161926,
+      "thumbnail_url": "https://i.ytimg.com/vi/s5tak7ST2cY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PCTw1aEaDYk",
+      "title": "Full Version l Chặn Bạn Trai Qua Mạng, Ai Ngờ Thiếu Gia Tìm Về Tận Làng Đòi Yêu Tiếp l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T01:00:40Z",
+      "duration_seconds": 5663,
+      "thumbnail_url": "https://i.ytimg.com/vi/PCTw1aEaDYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MRu9Kt-XBLI",
+      "title": "Bị Vu Oan Và Đuổi Khỏi Tông Môn, Hắn Được Hoàng Hậu Linh Long Chọn, Thức Tỉnh Võ Hồn Đế Cấp",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-06T01:00:23Z",
+      "duration_seconds": 24234,
+      "thumbnail_url": "https://i.ytimg.com/vi/MRu9Kt-XBLI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bsBmFx0IgTQ",
+      "title": "6 GIỜ | Hệ Thống Giảm Giá 1 Tỷ Lần - Công Pháp Đại Đế Chỉ Đáng Giá 1 Xu - Xuyên Làm Đệ Tử Phế Vật",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T00:51:22Z",
+      "duration_seconds": 21722,
+      "thumbnail_url": "https://i.ytimg.com/vi/bsBmFx0IgTQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "qWeMPn-WkIc",
       "title": "Thiên Kim Thật Bị Gài Bẫy Mất Chức Phó Tổng, Nào Ngờ Kẻ Vu Khống Tự Lộ Sơ Hở, Cô Được Phục Chức!",
