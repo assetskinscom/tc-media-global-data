@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T16:29:29Z",
+  "generated_at": "2026-11-06T17:30:07Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -143,6 +143,34 @@
   },
   "videos": [
     {
+      "id": "ixJ-bNJMj6Q",
+      "title": "Phần 45 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-06T17:22:04Z",
+      "duration_seconds": 7789,
+      "thumbnail_url": "https://i.ytimg.com/vi/ixJ-bNJMj6Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4DoVh_dJ_fA",
+      "title": "Phần 45 | BẢN CHUẨN FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T16:48:02Z",
+      "duration_seconds": 7716,
+      "thumbnail_url": "https://i.ytimg.com/vi/4DoVh_dJ_fA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "68WxG9vrzwM",
       "title": "Phần 6: Lão Ăn Mày Tự Chôn Trong Chum, Thức Tỉnh Kỳ Năng Nghịch Thiên Tu Tiên",
       "channel": "movies3",
@@ -204,7 +232,7 @@
       "channel": "drama7",
       "channel_title": "Nghiện Hoa Ngữ",
       "published_at": "2026-11-06T12:47:43Z",
-      "duration_seconds": 7575,
+      "duration_seconds": 7555,
       "thumbnail_url": "https://i.ytimg.com/vi/3KNXQVWQh3E/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
