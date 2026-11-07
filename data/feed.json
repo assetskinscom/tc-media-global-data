@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T11:16:25Z",
+  "generated_at": "2026-11-07T12:18:23Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "fx3XafAZckU",
+      "title": "Cứu Mẹ Tổng Tài Nên Lỡ Phỏng Vấn, Cô Được Tuyển Lương 30 Nghìn Tệ, Nào Ngờ Anh Là Cha Ruột Con Gái!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-07T12:00:37Z",
+      "duration_seconds": 5023,
+      "thumbnail_url": "https://i.ytimg.com/vi/fx3XafAZckU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "5cKskTAHa4g",
+      "title": "Kinh Mạch Toàn Thân Bị Phế Sau Thiên Kiếp, Nào Ngờ Hắn Lại Trở Thành Vị Đế Tổ Được Vạn Tông Tôn Sùng",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T12:00:32Z",
+      "duration_seconds": 8583,
+      "thumbnail_url": "https://i.ytimg.com/vi/5cKskTAHa4g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "93T-lfmrgTI",
+      "title": "Người vợ tỷ phú giả nghèo ở nhà nội trợ để thử lòng chồng, ai ngờ bị khinh bẩn đuổi cô ra khỏi nhà",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-07T12:00:27Z",
+      "duration_seconds": 3454,
+      "thumbnail_url": "https://i.ytimg.com/vi/93T-lfmrgTI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "DFMp5Ag_fEc",
+      "title": "Sinh Tồn Đảo Hoang Thức Tỉnh Hệ Thống Vạn Vật Đè Bẹp Quản Lý Hống Hách | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-07T12:00:05Z",
+      "duration_seconds": 6112,
+      "thumbnail_url": "https://i.ytimg.com/vi/DFMp5Ag_fEc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "i2PXw6iBtrw",
+      "title": "3 GIỜ | Người Quét Rác Thiếu Lâm Tự Lại Mạnh Nhất Tông Môn - Điểm Danh Nhận Ngay Như Lai Thần Chưởng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T11:49:45Z",
+      "duration_seconds": 10130,
+      "thumbnail_url": "https://i.ytimg.com/vi/i2PXw6iBtrw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1keT3ODgg6s",
+      "title": "Chồng ăn bám còn dẫn tiểu tam về chiếm chỗ.Tôi rút sạch tiền, cho hắn cút luôn!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-07T11:30:15Z",
+      "duration_seconds": 5459,
+      "thumbnail_url": "https://i.ytimg.com/vi/1keT3ODgg6s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "bGveYR4sFng",
       "title": "Full Version l Xuyên Thành Thiên Kim Bị Ghét Bỏ, Tôi Khiến Cả Nhà Giả Mạo Trắng Tay l Sora Dub",
