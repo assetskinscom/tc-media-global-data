@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T09:26:28Z",
+  "generated_at": "2026-11-07T10:22:58Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "Pe8xK2xHlTQ",
+      "title": "Thiếu Chủ Phế Vật - Vào Ngày Hủy Hôn Ta Thức Tỉnh Sức Mạnh Vạn Đạo - Vả Mặt Mọi Thiên Kiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T10:16:51Z",
+      "duration_seconds": 8250,
+      "thumbnail_url": "https://i.ytimg.com/vi/Pe8xK2xHlTQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BL_-K9WnzIY",
+      "title": "Full Mùa 1+ 2+3 | Sinh Tồn Cùng Gái Xinh Tôi Thức Tỉnh Sức Mạnh Thần Cấp Thành Chúa Tể Rừng Xanh",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-07T10:00:35Z",
+      "duration_seconds": 33238,
+      "thumbnail_url": "https://i.ytimg.com/vi/BL_-K9WnzIY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6ip7flMplnM",
+      "title": "P2 Vợ Thành Nữ Đế Ruồng Bỏ Chồng Phế Vật, Nào Ngờ Hắn Nhận Hoàn Trả Triệu Lần Tu Vi, Đăng Đỉnh Ma Đế",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T10:00:31Z",
+      "duration_seconds": 15638,
+      "thumbnail_url": "https://i.ytimg.com/vi/6ip7flMplnM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "E9WX03v8MQk",
       "title": "[UPDATE 1-2] CHỈ ĐÚT KHOAI NƯỚNG CHO NỮ ĐẾ, TA NỔ 200 NĂM TU VI | LY VIETSUB 473",
