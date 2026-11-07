@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T04:30:11Z",
-  "last_full_refresh_at": "2026-11-06T04:38:09Z",
+  "generated_at": "2026-11-07T05:28:10Z",
+  "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "7LiEVEislyo",
+      "title": "Bị Vợ Chê Già Rồi Đuổi Đi, Anh Kích Hoạt Hệ Thống Trẻ Hóa, Thành Chủ Tịch Khiến Vợ Cũ Xin Tái Hôn!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-07T05:00:23Z",
+      "duration_seconds": 4725,
+      "thumbnail_url": "https://i.ytimg.com/vi/7LiEVEislyo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "5MqQJNoPlAI",
+      "title": "Full | Thức Tỉnh Thiên Phú Mở Hộp Hàng Chư Thiên Tân Binh Khiến Cả Thế Giới Sinh Tồn Khiếp Sợ!",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-07T05:00:14Z",
+      "duration_seconds": 8334,
+      "thumbnail_url": "https://i.ytimg.com/vi/5MqQJNoPlAI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "hAPiwILIRJ4",
+      "title": "Bị Cả Tông Môn Coi Thường Vì Không Có Tư Chất Tu Tiên,Hắn Nhờ Bình Đồng Thần Nghịch Thiên Đổi Mệnh",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T04:37:05Z",
+      "duration_seconds": 20808,
+      "thumbnail_url": "https://i.ytimg.com/vi/hAPiwILIRJ4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "FH7lZmmYAOU",
       "title": "Chưa Từng Cưới Vợ, Anh Phát Hiện Bị Đăng Ký Kết Hôn Giả 5 Năm, Còn Mất 2,3 Triệu Tệ Vì Người Thân!",
@@ -3854,20 +3896,6 @@
       ]
     },
     {
-      "id": "n5XdS_JwAzY",
-      "title": "Cô Dâu Ép 4 Bạn Thân Mặc Váy Phù Dâu Rẻ Tiền, Nào Ngờ Họ Bóc Trần Bộ Mặt Thật Khiến Chú Rể Hủy Hôn!",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-02T12:00:00Z",
-      "duration_seconds": 5353,
-      "thumbnail_url": "https://i.ytimg.com/vi/n5XdS_JwAzY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "AEQaqufh_rQ",
       "title": "Dựa Vào Tình Báo Thần Bí, Hắn Biết Trước Mọi Cơ Duyên, Báo Thù Huyết Hận, Đạp Đỉnh Tiên Võ!",
       "channel": "movies2",
@@ -3949,20 +3977,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "XXZH9Y8iPuk",
-      "title": "Bố Giấu 72 Nghìn Tệ Mẹ Kế Gửi Cho Con Gái, Nào Ngờ Cô Phải Dọn Khay Cơm Ở Trường Để Sống Qua Ngày!",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-02T11:00:33Z",
-      "duration_seconds": 5925,
-      "thumbnail_url": "https://i.ytimg.com/vi/XXZH9Y8iPuk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5114,20 +5128,6 @@
       ]
     },
     {
-      "id": "KRAKdfxWXxo",
-      "title": "Phần 15: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-31T16:02:12Z",
-      "duration_seconds": 24297,
-      "thumbnail_url": "https://i.ytimg.com/vi/KRAKdfxWXxo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "xho0Hrda1zs",
       "title": "Ly Cà Phê Em Quên - Bolero Parody",
       "channel": "music",
@@ -5612,20 +5612,6 @@
       "published_at": "2026-10-31T04:49:25Z",
       "duration_seconds": 9409,
       "thumbnail_url": "https://i.ytimg.com/vi/XQux5eyP7GI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "oxOlzYWsaSk",
-      "title": "Phần 10: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-31T04:02:22Z",
-      "duration_seconds": 7666,
-      "thumbnail_url": "https://i.ytimg.com/vi/oxOlzYWsaSk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -6611,20 +6597,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "SBTehnz9S8k",
-      "title": "Nhà Họ Mạnh Đuổi Thiên Kim Về Quê Với 500 Nghìn Tệ, Nào Ngờ Cô Là Con Gái Gia Tộc Tỷ Phú Giàu Có",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-10-29T12:00:03Z",
-      "duration_seconds": 7752,
-      "thumbnail_url": "https://i.ytimg.com/vi/SBTehnz9S8k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -13715,20 +13687,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "Pt6F3EVUnLI",
-      "title": "Phần 14: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-18T02:47:32Z",
-      "duration_seconds": 20766,
-      "thumbnail_url": "https://i.ytimg.com/vi/Pt6F3EVUnLI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
