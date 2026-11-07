@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T03:28:22Z",
+  "generated_at": "2026-11-07T04:30:11Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "FH7lZmmYAOU",
+      "title": "Chưa Từng Cưới Vợ, Anh Phát Hiện Bị Đăng Ký Kết Hôn Giả 5 Năm, Còn Mất 2,3 Triệu Tệ Vì Người Thân!",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-07T04:00:38Z",
+      "duration_seconds": 4601,
+      "thumbnail_url": "https://i.ytimg.com/vi/FH7lZmmYAOU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UYGjv6rwW98",
+      "title": "Tận Thế Băng Sương Tôi Chế Tạo Xe RV Bọc Thép Thành Bá Chủ Sinh Tồn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-07T04:00:30Z",
+      "duration_seconds": 8258,
+      "thumbnail_url": "https://i.ytimg.com/vi/UYGjv6rwW98/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7n-E47-Ox7I",
+      "title": "Trên đường thi, cô lọt mắt trùm xã hội đen! Tưởng lạnh lùng, ai ngờ anh cưng chiều, cô mang bầu!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-07T04:00:08Z",
+      "duration_seconds": 7837,
+      "thumbnail_url": "https://i.ytimg.com/vi/7n-E47-Ox7I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "zGM0Ylaaw84",
+      "title": "P1-3.1 | 27 GIỜ THỎA MÃN | VẠN ĐẠO TIÊN BÌNH - Đệ Tử Ngũ Linh Căn Dùng Bình Thần Âm Thầm Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T03:59:30Z",
+      "duration_seconds": 97055,
+      "thumbnail_url": "https://i.ytimg.com/vi/zGM0Ylaaw84/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "w8Lodw4QWYI",
+      "title": "P1-2 | 4 GIỜ | Luyện Đan Sư Phế Nhất Tông Môn - Đưa Thọ Nguyên Về 0 Là Ta Lại Đột Phá",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T03:30:38Z",
+      "duration_seconds": 14733,
+      "thumbnail_url": "https://i.ytimg.com/vi/w8Lodw4QWYI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "R7XcngqaerY",
+      "title": "Ai cũng cười cô lấy chồng nghèo, ai ngờ là Tổng Tài tỷ phú, cưới giả hoá thật, được cưng hết mực!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-07T03:30:07Z",
+      "duration_seconds": 6791,
+      "thumbnail_url": "https://i.ytimg.com/vi/R7XcngqaerY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Ho0Z4IKFhKg",
       "title": "Phần 3: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
@@ -9641,7 +9725,7 @@
     },
     {
       "id": "3dpdNVSfkZc",
-      "title": "[CHILL] CHỈ ĐÚT KHOAI NƯỚNG CHO NỮ ĐẾ, TA NỔ 200 NĂM TU VI | LY VIETSUB 473",
+      "title": "[CHILL S1] CHỈ ĐÚT KHOAI NƯỚNG CHO NỮ ĐẾ, TA NỔ 200 NĂM TU VI | LY VIETSUB 473",
       "channel": "movies4",
       "channel_title": "Ly VietSub",
       "published_at": "2026-10-24T16:29:17Z",
