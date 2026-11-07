@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T00:16:24Z",
+  "generated_at": "2026-11-07T01:41:36Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "8Aydcf0YRQo",
+      "title": "5,5 GIỜ | Thổ Phỉ Xưng Đế - Xuyên Vào Thời Loạn Với Hệ Thống Điển Cố Bá Nghiệp Đánh Giặc Xưng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T01:36:44Z",
+      "duration_seconds": 19926,
+      "thumbnail_url": "https://i.ytimg.com/vi/8Aydcf0YRQo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-mbawVfnotY",
+      "title": "Cường Giả Đột Phá Thất Bại Bất Ngờ Kích Hoạt Hệ Thống Định Mệnh, Một Khi Giác Ngộ Liền Vô Địch!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T01:30:30Z",
+      "duration_seconds": 21503,
+      "thumbnail_url": "https://i.ytimg.com/vi/-mbawVfnotY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-SGmDiijjIc",
+      "title": "Phần 11: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T01:14:52Z",
+      "duration_seconds": 7613,
+      "thumbnail_url": "https://i.ytimg.com/vi/-SGmDiijjIc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-rkW2GtHf90",
+      "title": "Full Version l Tưởng Anh Hận Tôi Thấu Xương, Hóa Ra Anh Lại Yêu Tôi Đến Đau Lòng l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-07T01:00:23Z",
+      "duration_seconds": 7727,
+      "thumbnail_url": "https://i.ytimg.com/vi/-rkW2GtHf90/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "bhsS7Tdh4LM",
+      "title": "P1-2 | 20 GIỜ THỎA MÃN | Ta Đàn Áp Thiên Đường Với Hệ Thống Ác Ma - Thiếu Chủ Phế Vật Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T00:35:08Z",
+      "duration_seconds": 71319,
+      "thumbnail_url": "https://i.ytimg.com/vi/bhsS7Tdh4LM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "q86dCSvWkO0",
       "title": "Mẹ Chồng Đòi Cướp Cua Bố Vợ Gửi, Nào Ngờ Con Trai Phát Hiện Bà Giấu 500 Nghìn Tệ Của Cha Suốt 20 Năm",
