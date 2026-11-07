@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T18:13:55Z",
+  "generated_at": "2026-11-07T19:24:20Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "-nsv3rszl18",
+      "title": "Phần 10: Ngục Chủ Trường Sinh: Một Niệm Trấn Cửu U",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T19:13:39Z",
+      "duration_seconds": 7411,
+      "thumbnail_url": "https://i.ytimg.com/vi/-nsv3rszl18/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4ZBH9HJWTeY",
+      "title": "Phần 2: Mặc Nhiễm Giang Hồ – Thiên Hạ Quy Tâm",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T19:06:14Z",
+      "duration_seconds": 11941,
+      "thumbnail_url": "https://i.ytimg.com/vi/4ZBH9HJWTeY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "05hhMQXvyF0",
       "title": "Phần 45: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
