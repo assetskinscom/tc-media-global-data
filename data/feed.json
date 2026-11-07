@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T07:42:13Z",
+  "generated_at": "2026-11-07T08:29:15Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "JGHCcLObyG4",
+      "title": "3,5 GIỜ | Đại Đế Xuyên Làm Ăn Mày - Hệ Thống Cường Giả Vô Địch Dùng Sức Mạnh Ép Nữ Đế Phải Phục Tùng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T08:21:14Z",
+      "duration_seconds": 12914,
+      "thumbnail_url": "https://i.ytimg.com/vi/JGHCcLObyG4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-IAMXRU6biU",
+      "title": "Một Kiếm Giết Chủ Nhân Tàn Ác, Hắn Kích Hoạt Hệ Thống Cướp Đoạt, Quét Sạch Toàn Bộ Võ Lâm!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T08:14:39Z",
+      "duration_seconds": 7640,
+      "thumbnail_url": "https://i.ytimg.com/vi/-IAMXRU6biU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "DYEjIjl84hg",
+      "title": "24 Giờ | Hàn Môn Tu Tiên Ký | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-07T08:05:20Z",
+      "duration_seconds": 86518,
+      "thumbnail_url": "https://i.ytimg.com/vi/DYEjIjl84hg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "LgDQo10vZ_0",
       "title": "4 GIỜ | Đế Quốc Suy Tàn - Thái Tử Điểm Danh - Thành Võ Thần Vô Địch Trinh Phạt Chư Thiên",
@@ -438,7 +480,7 @@
     },
     {
       "id": "-rkW2GtHf90",
-      "title": "Full Version l Tưởng Anh Hận Tôi Thấu Xương, Hóa Ra Anh Lại Yêu Tôi Đến Đau Lòng l Sora Dub",
+      "title": "Full Version 1 l Tưởng Anh Hận Tôi Thấu Xương, Hóa Ra Anh Lại Yêu Tôi Đến Đau Lòng l Sora Dub",
       "channel": "drama2",
       "channel_title": "Sora Dub",
       "published_at": "2026-11-07T01:00:23Z",
