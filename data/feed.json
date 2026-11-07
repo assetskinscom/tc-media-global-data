@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T17:15:41Z",
+  "generated_at": "2026-11-07T18:13:55Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "05hhMQXvyF0",
+      "title": "Phần 45: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T17:31:56Z",
+      "duration_seconds": 7736,
+      "thumbnail_url": "https://i.ytimg.com/vi/05hhMQXvyF0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "s7RGIMqm9LM",
+      "title": "Phần 44: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T17:30:31Z",
+      "duration_seconds": 7444,
+      "thumbnail_url": "https://i.ytimg.com/vi/s7RGIMqm9LM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6Xvl7C3U3ro",
+      "title": "Phần 24 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-07T17:19:11Z",
+      "duration_seconds": 7748,
+      "thumbnail_url": "https://i.ytimg.com/vi/6Xvl7C3U3ro/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "ny9hp6bahCM",
       "title": "Kiếm Sĩ Lang Thang Sống Ẩn Dật, Một Khi Rút Kiếm Liền Khiến Toàn Bộ Tu Tiên Giới Chấn Động!",
