@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-07T01:41:36Z",
+  "last_success_at": "2026-11-07T02:27:32Z",
   "last_full_refresh_at": "2026-11-06T04:38:09Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
     "cartoon": 3384,
-    "drama": 2143,
+    "drama": 2144,
     "music_shorts": 354,
     "music_long": 38,
     "movies": 3384
@@ -30,7 +30,7 @@
     "drama6": 221,
     "drama7": 284,
     "drama8": 300,
-    "drama9": 97
+    "drama9": 98
   },
   "sources": {
     "music": {
@@ -137,7 +137,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 97,
+      "video_count": 98,
       "sync_status": "ok",
       "error": ""
     }
