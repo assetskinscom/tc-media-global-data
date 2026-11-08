@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T11:17:42Z",
+  "generated_at": "2026-11-08T12:17:02Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -143,6 +143,76 @@
   },
   "videos": [
     {
+      "id": "k6MIc_8i8_8",
+      "title": "11,5 GIỜ THỎA MÃN | Thiên Tài Xuyên Làm Phò Mã Phế Vật - Dùng Tài Năng Điều Hành Cả Triều Đại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T12:11:06Z",
+      "duration_seconds": 40957,
+      "thumbnail_url": "https://i.ytimg.com/vi/k6MIc_8i8_8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8QYmsy6KX90",
+      "title": "Chị Kế Đào Hôn, Cô Gả Thay Cho Tổng Tài Lạnh Lùng, Nào Ngờ Anh Là Anh Họ Người Cô Yêu Suốt 5 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-08T12:00:12Z",
+      "duration_seconds": 4912,
+      "thumbnail_url": "https://i.ytimg.com/vi/8QYmsy6KX90/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Z42iSvSvsJ4",
+      "title": "Sở Hữu Dị Năng Không Gian Ta Cùng Chồng Hờ Sinh Tồn Nơi Vùng Đất Chớt | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-08T12:00:05Z",
+      "duration_seconds": 9016,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z42iSvSvsJ4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "n0NoekO34kU",
+      "title": "Cứ tưởng cô là gái quê ngày về nhà đã bắt nạt, ai ngờ cô là Nữ chiến thần có võ công tuyệt đỉnh",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-08T11:30:38Z",
+      "duration_seconds": 6368,
+      "thumbnail_url": "https://i.ytimg.com/vi/n0NoekO34kU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "RZNuzLVqbYI",
+      "title": "PHẦN 2 | Điểm Danh 5 Năm Chỉ Cho Pháp Bảo Không Có Tu Vi - Phong Chủ Thu Đồ Hoàn Trả 1 Vạn Lần Tu Vi",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T11:30:05Z",
+      "duration_seconds": 9837,
+      "thumbnail_url": "https://i.ytimg.com/vi/RZNuzLVqbYI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "PnfNzwdjO-Y",
       "title": "Phần 3: Xuyên Không Về Thập Niên 70: Gia Chủ Là Tu Tiên Giả",
       "channel": "movies3",
@@ -158,7 +228,7 @@
     },
     {
       "id": "P_-IsKB83BM",
-      "title": "Bị truy sát, nữ CEO gửi gắm chàng nghèo; anh là lính đánh thuê số 1, dẫn triệu đặc nhiệm cứu cô!",
+      "title": "Ba tiểu thư sỉ nhục thầy giáo nghèo, không ngờ anh là cao thủ võ thuật và cả ba đều yêu anh!",
       "channel": "drama3",
       "channel_title": "Drama Huyết Chiến",
       "published_at": "2026-11-08T11:00:37Z",
