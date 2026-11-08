@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T22:15:42Z",
+  "generated_at": "2026-11-08T23:15:09Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "Q_O-0NoOTBY",
+      "title": "Lãng Lãng Sơn Tiểu Trư Yêu: Xuyên Không Thành Yêu Quái Tây Du Ký (MÙA 1) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-08T23:00:35Z",
+      "duration_seconds": 9300,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q_O-0NoOTBY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-l7--zvzzVY",
+      "title": "Từng Bị Vợ Cũ Chê Bất Lực, Tần Tổng Gặp Cô Thợ May Sườn Xám, Nào Ngờ Chỉ Muốn Cưới Mình Cô Làm Vợ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-08T22:30:34Z",
+      "duration_seconds": 9464,
+      "thumbnail_url": "https://i.ytimg.com/vi/-l7--zvzzVY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "ujDI6Y7BKI4",
       "title": "Phần 5: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
