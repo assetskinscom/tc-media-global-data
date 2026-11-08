@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T15:15:30Z",
+  "generated_at": "2026-11-08T16:16:34Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "xrtX3KZpimk",
+      "title": "Vừa Gia Nhập Tiên Môn, Hắn Kích Hoạt Hệ Thống Dị Giáo, Tu Ma Càng Mạnh, Công Đức Càng Tăng!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T16:00:35Z",
+      "duration_seconds": 10054,
+      "thumbnail_url": "https://i.ytimg.com/vi/xrtX3KZpimk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "1EhqvN3pmkg",
       "title": "Xuyên Không Về Cổ Đại, Hắn Kích Hoạt Hệ Thống Triệu Hồi, Gọi Vạn Cổ Danh Tướng Chinh Phục Thiên Hạ!",
