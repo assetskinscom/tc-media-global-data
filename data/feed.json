@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T07:42:11Z",
+  "generated_at": "2026-11-08T08:28:42Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "X6-EeN-SSKw",
+      "title": "Phần 2 | 10,5 GIỜ THỎA MÃN ÍT BUFF | Tạp Dịch Ngũ Linh Căn - Thần Bí Châu Âm Thầm Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T08:05:25Z",
+      "duration_seconds": 36731,
+      "thumbnail_url": "https://i.ytimg.com/vi/X6-EeN-SSKw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PteYWxYDLTE",
+      "title": "MÙA 11 | Tượng Đất Hóa Thần | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-08T07:46:36Z",
+      "duration_seconds": 18349,
+      "thumbnail_url": "https://i.ytimg.com/vi/PteYWxYDLTE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "P8U0TQ9vJEA",
       "title": "P6 | 15 Giờ Thỏa Mãn | Hóa Thành Thần Thụ - 1 Chiếc Lá Của Ta Cũng Khiến Đại Đế Khiếp Sợ",
