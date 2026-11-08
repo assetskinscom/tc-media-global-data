@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T02:41:47Z",
+  "generated_at": "2026-11-08T03:32:47Z",
   "last_full_refresh_at": "2026-11-07T05:28:10Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "byEAv0Ehi7E",
+      "title": "Chàng Rể Bị Nhà Vợ Khinh Thường - Vô Tình Kích Hoạt Hệ Thống Đăng Nhập Trở Thành Đại Đế Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T03:31:32Z",
+      "duration_seconds": 8346,
+      "thumbnail_url": "https://i.ytimg.com/vi/byEAv0Ehi7E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4GrwNt8NMw8",
+      "title": "Sinh Tồn Đảo Hoang: Ta Dùng Hệ Thống Thao Túng Doanh Trại Toàn Mỹ Nữ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-08T03:00:39Z",
+      "duration_seconds": 9225,
+      "thumbnail_url": "https://i.ytimg.com/vi/4GrwNt8NMw8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Xf2TPzj9J3Y",
+      "title": "Một người không biết đánh võ,người kia không biết viết,vậy mà cùng nhau họ đã càn quét cả triều đình",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T03:00:06Z",
+      "duration_seconds": 15926,
+      "thumbnail_url": "https://i.ytimg.com/vi/Xf2TPzj9J3Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3SfCPHhUm0Q",
+      "title": "Cô Gái Say Rượu Nhận Nhầm Trai Đẹp, Nào Ngờ Anh Là Em Trai Bạn Thân Và Quyết Theo Đuổi Cô Đến Cùng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-08T03:00:01Z",
+      "duration_seconds": 14205,
+      "thumbnail_url": "https://i.ytimg.com/vi/3SfCPHhUm0Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "9YlPpXy3g2E",
       "title": "Phần 6 | Thần Tài Bất Bại - Phế Vật Nạp 150 Tỷ Với Siêu Năng Lực Thần Tài Cấp SSS+",
