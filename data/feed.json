@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T10:23:26Z",
+  "generated_at": "2026-11-08T11:17:42Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "PnfNzwdjO-Y",
+      "title": "Phần 3: Xuyên Không Về Thập Niên 70: Gia Chủ Là Tu Tiên Giả",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T11:02:36Z",
+      "duration_seconds": 15686,
+      "thumbnail_url": "https://i.ytimg.com/vi/PnfNzwdjO-Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "P_-IsKB83BM",
+      "title": "Bị truy sát, nữ CEO gửi gắm chàng nghèo; anh là lính đánh thuê số 1, dẫn triệu đặc nhiệm cứu cô!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-08T11:00:37Z",
+      "duration_seconds": 10385,
+      "thumbnail_url": "https://i.ytimg.com/vi/P_-IsKB83BM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "6Lrlwe1UCDk",
+      "title": "Thiếu Gia Ăn Chơi Bị Ép Cưới Để Cứu Nhà Gái Khỏi Khủng Hoảng, Nào Ngờ Anh Đã Yêu Thầm Cô 16 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-08T11:00:33Z",
+      "duration_seconds": 10008,
+      "thumbnail_url": "https://i.ytimg.com/vi/6Lrlwe1UCDk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "KUkiJ2_40zg",
+      "title": "Mạt Thế Bùng Nổ Kẻ Tàn Phế Thức Tỉnh Dị Năng Vua Súng Ống Đồ Sát Cả Bầy Zombie | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-08T11:00:13Z",
+      "duration_seconds": 4769,
+      "thumbnail_url": "https://i.ytimg.com/vi/KUkiJ2_40zg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LuxF0wn6Jrw",
+      "title": "Phần 1-2 | 4 GIỜ | Hồng Hoang Nhật Thần - Đánh Bại Mọi Đại Đế Nhưng Ta Chỉ Muốn Sống An Nhàn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T10:51:49Z",
+      "duration_seconds": 14904,
+      "thumbnail_url": "https://i.ytimg.com/vi/LuxF0wn6Jrw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "csLWCTfFzw8",
+      "title": "Full Version 1 l Cô Gái Quê Không Biết Thả Thính, Lại Khiến Tổng Tài Tự Mình Sa Lưới l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-08T10:50:10Z",
+      "duration_seconds": 8060,
+      "thumbnail_url": "https://i.ytimg.com/vi/csLWCTfFzw8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "KPouA0ifUcg",
+      "title": "Phần 2: Tiểu Sư Muội Mãn Cấp, Các Sư Huynh Đứng Vững Nhé!",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T10:25:14Z",
+      "duration_seconds": 8005,
+      "thumbnail_url": "https://i.ytimg.com/vi/KPouA0ifUcg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "ka91ojVAf-M",
       "title": "4 GIỜ | Kiếm Tiên Khổng Tử - Chàng Rể Phủ Tướng Quân Bị Coi Thường - Nào Ngờ Là Kiếm Thần Ẩn Danh",
