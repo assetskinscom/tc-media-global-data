@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T16:16:34Z",
+  "generated_at": "2026-11-08T17:14:51Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,46 @@
     }
   },
   "videos": [
+    {
+      "id": "lYRTpgkpwZQ",
+      "title": "Đại Kết Cục | Tượng Đất Hóa Thần | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-08T17:11:02Z",
+      "duration_seconds": 102,
+      "thumbnail_url": "https://i.ytimg.com/vi/lYRTpgkpwZQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": []
+    },
+    {
+      "id": "udFmqSx9_GQ",
+      "title": "Đấng Tối Cao Huyết Tẩy Vĩnh Hằng Tông, Nào Ngờ Ta Triệu Hồi Cửu Âm Đế Một Kiếm Diệt Thần!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T17:00:14Z",
+      "duration_seconds": 10050,
+      "thumbnail_url": "https://i.ytimg.com/vi/udFmqSx9_GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aicyx5qRWXY",
+      "title": "Phần 46 | BẢN CHUẨN FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T16:54:28Z",
+      "duration_seconds": 7701,
+      "thumbnail_url": "https://i.ytimg.com/vi/aicyx5qRWXY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "xrtX3KZpimk",
       "title": "Vừa Gia Nhập Tiên Môn, Hắn Kích Hoạt Hệ Thống Dị Giáo, Tu Ma Càng Mạnh, Công Đức Càng Tăng!",
@@ -2020,12 +2060,12 @@
     },
     {
       "id": "mWxBFm2w2Qc",
-      "title": "Tưởng Lấy Phải Chồng Nghèo Chỉ Biết Nhặt Rác, Nào Ngờ Anh Chính Là CEO Giàu Nhất Thành Phố!",
+      "title": "Ai Cũng Cười Cô Nghèo Lấy Chồng Nghèo, Nào Ngờ Anh Là Tỷ Phú Quyền Thế Khiến Cả Thành Phố Kính Sợ!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-06T10:00:30Z",
       "duration_seconds": 3715,
-      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/maxresdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/sddefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
