@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T06:29:03Z",
+  "generated_at": "2026-11-08T07:42:11Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "P8U0TQ9vJEA",
+      "title": "P6 | 15 Giờ Thỏa Mãn | Hóa Thành Thần Thụ - 1 Chiếc Lá Của Ta Cũng Khiến Đại Đế Khiếp Sợ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T07:11:23Z",
+      "duration_seconds": 54558,
+      "thumbnail_url": "https://i.ytimg.com/vi/P8U0TQ9vJEA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "q2OiX5-afYY",
+      "title": "[FULL S3 10H] VỢ THÀNH ĐẾ ĐÒI LY HÔN: TA NHẬN HOÀN TRẢ 1 TRIỆU LẦN TU VI | LY VIETSUB 416",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-08T07:04:38Z",
+      "duration_seconds": 39034,
+      "thumbnail_url": "https://i.ytimg.com/vi/q2OiX5-afYY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "C-acHO7MAuo",
+      "title": "Bị Mẹ Chồng Chê Không Gia Thế, Nữ Bác Sĩ Cưới Thẩm Tổng Theo Hợp Đồng, Nào Ngờ Được Anh Cưng Chiều",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-08T07:00:09Z",
+      "duration_seconds": 8306,
+      "thumbnail_url": "https://i.ytimg.com/vi/C-acHO7MAuo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "c4ezHwTCYAc",
+      "title": "Hệ Thống Sư Đồ - Đệ Tử Phế Vật Hệ Thống Thưởng Điểm Cường Hóa Khiến Ta Thành Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T06:30:03Z",
+      "duration_seconds": 7977,
+      "thumbnail_url": "https://i.ytimg.com/vi/c4ezHwTCYAc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "m2zgwCKYTis",
       "title": "Phần 8: Sư Phụ Vừa Mất, Ta Thức Tỉnh Hệ Thống Đưa Tông Môn Tàn Lụi Thành Tiên Môn",
