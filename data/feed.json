@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T08:28:42Z",
+  "generated_at": "2026-11-08T09:27:18Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "DhBfIg0s_Lc",
+      "title": "PHẦN 4 - TẬP 2 | BẢN ĐẸP | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T08:43:16Z",
+      "duration_seconds": 6391,
+      "thumbnail_url": "https://i.ytimg.com/vi/DhBfIg0s_Lc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7XbGSiw7q-s",
+      "title": "Phần 24: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T08:35:13Z",
+      "duration_seconds": 7720,
+      "thumbnail_url": "https://i.ytimg.com/vi/7XbGSiw7q-s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "X6-EeN-SSKw",
       "title": "Phần 2 | 10,5 GIỜ THỎA MÃN ÍT BUFF | Tạp Dịch Ngũ Linh Căn - Thần Bí Châu Âm Thầm Tu Luyện",
