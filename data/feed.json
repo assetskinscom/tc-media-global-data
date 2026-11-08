@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T05:29:44Z",
+  "generated_at": "2026-11-08T06:29:03Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "m2zgwCKYTis",
+      "title": "Phần 8: Sư Phụ Vừa Mất, Ta Thức Tỉnh Hệ Thống Đưa Tông Môn Tàn Lụi Thành Tiên Môn",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T06:18:38Z",
+      "duration_seconds": 9945,
+      "thumbnail_url": "https://i.ytimg.com/vi/m2zgwCKYTis/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "t0O8RsG3QNo",
+      "title": "[FULL S1] TA CÙNG 6 ĐẠO LỮ ĐI KHẮN THẾ GIAN | LY VIETSUB",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-08T05:56:27Z",
+      "duration_seconds": 19340,
+      "thumbnail_url": "https://i.ytimg.com/vi/t0O8RsG3QNo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "YSN42FQCQWw",
       "title": "Sư Tôn Là Vợ Ta - Đệ Tử Ngũ Linh Căn Nhập Môn - Nhờ Sự Phụ Tu Thành Đệ Nhất Nhân Giới",
