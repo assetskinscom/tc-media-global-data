@@ -1,25 +1,25 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-08T12:17:02Z",
+  "last_success_at": "2026-11-08T13:31:55Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3436,
+    "cartoon": 3438,
     "drama": 2167,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3436
+    "movies": 3438
   },
   "source_counts": {
     "music": 575,
-    "movies": 481,
+    "movies": 482,
     "movies2": 182,
     "movies3": 255,
     "movies4": 608,
     "movies5": 154,
-    "movies6": 589,
+    "movies6": 590,
     "movies7": 613,
     "movies8": 558,
     "drama": 124,
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 481,
+      "video_count": 482,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,7 +71,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 589,
+      "video_count": 590,
       "sync_status": "ok",
       "error": ""
     },
