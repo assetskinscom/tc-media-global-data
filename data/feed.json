@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T03:37:30Z",
+  "generated_at": "2026-11-09T04:43:33Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "XJwhE1pXUYs",
+      "title": "[FULL 16H] HỆ THỐNG CÀY TIỀN VÔ ĐỊCH, THU PHỤC TOÀN BỘ THẦN NỮ | LY VIETSUB",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-09T04:41:30Z",
+      "duration_seconds": 60111,
+      "thumbnail_url": "https://i.ytimg.com/vi/XJwhE1pXUYs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Ed3lUnc3r2Y",
+      "title": "Cô gái nghèo đi làm về vô tình cứu mạng bà cụ Chủ Tịch, được báo đáp nhận làm cháu dâu hào môn ngay!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-09T04:37:23Z",
+      "duration_seconds": 4276,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ed3lUnc3r2Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "6jWUtUb1hZw",
+      "title": "PHẦN 5 | Thiên Phú SSS+ Vô Hạn Sát Thương Độc Tố - Phế Vật Trở Thành Top 1 Server",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-09T04:25:46Z",
+      "duration_seconds": 11856,
+      "thumbnail_url": "https://i.ytimg.com/vi/6jWUtUb1hZw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Wh5p_e6v-LM",
+      "title": "Cửu Hoàng Tử Bị Cả Triều Đình Khinh Thường, Nào Ngờ Bên Trong Là Đặc Vụ Khiến Thiên Hạ Khiếp Sợ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-09T04:24:39Z",
+      "duration_seconds": 7886,
+      "thumbnail_url": "https://i.ytimg.com/vi/Wh5p_e6v-LM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Gynba47pXiQ",
+      "title": "Cưới Nhầm Lục Tổng Quyền Lực, Cô Mang Song Thai, Nào Ngờ Bị Kẻ Xấu Hãm Hại Đến Mức Phải Nhập Viện",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-09T04:00:39Z",
+      "duration_seconds": 7933,
+      "thumbnail_url": "https://i.ytimg.com/vi/Gynba47pXiQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "s3-y2G22mJY",
+      "title": "Thấy chồng ngoại tình, cô bỏ đơn ly hôn bay đi! Anh điên cuồng tìm, bệnh nặng, cô vẫn không tha!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-09T04:00:25Z",
+      "duration_seconds": 6617,
+      "thumbnail_url": "https://i.ytimg.com/vi/s3-y2G22mJY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "s2Tc1QidNqg",
+      "title": "Xuyên Đến Dị Giới Làm Chủ Thú Tộc | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-09T04:00:03Z",
+      "duration_seconds": 6763,
+      "thumbnail_url": "https://i.ytimg.com/vi/s2Tc1QidNqg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "_n66ytwqYLI",
       "title": "7 GIỜ THỎA MÃN | Mô Phỏng 100 Kiếp - Ta Dùng Hệ Thống Viết Lại Con Đường Bất Tử",
