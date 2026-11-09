@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T11:33:40Z",
+  "generated_at": "2026-11-09T12:38:38Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "8aZGhwHnHwQ",
+      "title": "6 GIỜ | Hệ Thống Đế Uy - Xuyên Làm Hoàng Đế Phế Vật - Triệu Hồi Thần Tướng Thảo Phạt Triều Đình",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-09T12:06:08Z",
+      "duration_seconds": 20498,
+      "thumbnail_url": "https://i.ytimg.com/vi/8aZGhwHnHwQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "IJYRBKyQBfk",
+      "title": "Mạt Thế Cướp Đoạt Ta Kích Hoạt Hệ Thống Võ Thần Thao Túng Cả Binh Đoàn Tông Sư | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-09T12:00:19Z",
+      "duration_seconds": 9812,
+      "thumbnail_url": "https://i.ytimg.com/vi/IJYRBKyQBfk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lkmozsI0hRY",
+      "title": "Thái Hậu Xuyên Không Thành Thiên Kim Bị Ép Gả Cho Người Thực Vật, Nào Ngờ Chồng Đã Tỉnh Từ Lâu",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-09T12:00:17Z",
+      "duration_seconds": 10490,
+      "thumbnail_url": "https://i.ytimg.com/vi/lkmozsI0hRY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9mIa21OCdDQ",
+      "title": "Biết con gái bị nhà chồng hành hạ, người mẹ giang hồ về nước tự tay lấy mạng từng người một!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-09T12:00:01Z",
+      "duration_seconds": 6112,
+      "thumbnail_url": "https://i.ytimg.com/vi/9mIa21OCdDQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "wstWMtuFreY",
       "title": "Thái tử mắc bệnh thầm kín vạn Thái Y bó tay, lại chỉ có phản ứng với nữ gói phụ nhà quê",
