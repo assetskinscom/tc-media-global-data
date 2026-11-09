@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T23:15:09Z",
+  "generated_at": "2026-11-09T00:15:47Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "kVIr0-KG4j8",
+      "title": "Phát Hiện Mình Là Thiên Kim Giả, Cô Bị Nhà Họ Hứa Đuổi Đi Và Cưới Người Đàn Ông Có Gia Thế Quyền Lực",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-09T00:00:36Z",
+      "duration_seconds": 9741,
+      "thumbnail_url": "https://i.ytimg.com/vi/kVIr0-KG4j8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9stOILTkGW4",
+      "title": "Full Version 2 l Thịnh Thiếu Kiêu Ngạo, Chỉ Cúi Đầu Trước Cô Vợ Nhỏ l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-09T00:00:23Z",
+      "duration_seconds": 10533,
+      "thumbnail_url": "https://i.ytimg.com/vi/9stOILTkGW4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Q_O-0NoOTBY",
       "title": "Lãng Lãng Sơn Tiểu Trư Yêu: Xuyên Không Thành Yêu Quái Tây Du Ký (MÙA 1) Tại hạ Lệ Phi Dũng",
