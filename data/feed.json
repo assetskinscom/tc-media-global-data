@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T06:46:30Z",
+  "generated_at": "2026-11-09T08:15:11Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "DYGGxmq3Pz4",
+      "title": "9 GIỜ THỎA MÃN | Xuyên Làm Thiếu Gia Bị Ruồng Bỏ - Dùng Tài Năng Thành Trạng Nguyên Thiên Cổ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-09T07:42:32Z",
+      "duration_seconds": 32339,
+      "thumbnail_url": "https://i.ytimg.com/vi/DYGGxmq3Pz4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "eDImQoQAYPU",
+      "title": "Phần 4: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-09T07:26:29Z",
+      "duration_seconds": 6631,
+      "thumbnail_url": "https://i.ytimg.com/vi/eDImQoQAYPU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "cjB41H7AKyA",
+      "title": "Cưới 3 Năm Mà Chưa Từng Gặp Chồng, Cô Đòi Ly Hôn, Nào Ngờ Anh Là Người Quyền Lực Nhất Việt Nam",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-09T07:00:03Z",
+      "duration_seconds": 7869,
+      "thumbnail_url": "https://i.ytimg.com/vi/cjB41H7AKyA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "PRLWT8J4FyY",
       "title": "Sư Đệ Tông Môn Sống An Nhàn - Nào Ngờ Hắn Đã Vô Địch Từ Lâu - Đánh Bại Thần Chỉ Bằng 1 Kiếm",
