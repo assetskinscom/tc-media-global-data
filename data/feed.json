@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T02:44:08Z",
+  "generated_at": "2026-11-09T03:37:30Z",
   "last_full_refresh_at": "2026-11-08T05:29:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "_n66ytwqYLI",
+      "title": "7 GIỜ THỎA MÃN | Mô Phỏng 100 Kiếp - Ta Dùng Hệ Thống Viết Lại Con Đường Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-09T03:06:36Z",
+      "duration_seconds": 25331,
+      "thumbnail_url": "https://i.ytimg.com/vi/_n66ytwqYLI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9vhrLxqkwMw",
+      "title": "Bị Bắt Cưới Quỷ Nương Tử Đạo Sĩ Bật Hệ Thống Trảm Yêu Một Đao Chém Nát Tiên Tông | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-09T03:00:29Z",
+      "duration_seconds": 9797,
+      "thumbnail_url": "https://i.ytimg.com/vi/9vhrLxqkwMw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "B9vlbTGuNHY",
+      "title": "Chồng Bỏ Mặc Vợ Mang Song Thai Bị Tai Nạn Để Chăm Nhân Tình, Nào Ngờ Cô Vẫn Còn Một Đứa Con Sống",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-09T03:00:06Z",
+      "duration_seconds": 10587,
+      "thumbnail_url": "https://i.ytimg.com/vi/B9vlbTGuNHY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "6BqSO6AsXhc",
       "title": "Cô Gái Giả Có Bạn Trai Để Né Thiếu Gia Họ Phó, Nào Ngờ Anh Vẫn Theo Đuổi Và Khiến Cô Rung Động",
