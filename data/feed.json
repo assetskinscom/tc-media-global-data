@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T06:36:12Z",
+  "generated_at": "2026-11-10T07:53:08Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "h-skl57PUkI",
+      "title": "4 GIỜ | Hồ Lô Luyện Phế Đan - Tạp Dịch Bát Linh Căn Âm Thầm Tu Thành Đại Năng Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T07:32:55Z",
+      "duration_seconds": 13459,
+      "thumbnail_url": "https://i.ytimg.com/vi/h-skl57PUkI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9p9mBs1IlT8",
+      "title": "Nữ Bác Sĩ Cưới Hợp Đồng Thẩm Tổng, Nào Ngờ Anh Chuyển Cổ Phần Cho Vợ Và Tổ Chức Đám Cưới Cực Xa Hoa",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T07:00:30Z",
+      "duration_seconds": 11247,
+      "thumbnail_url": "https://i.ytimg.com/vi/9p9mBs1IlT8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Mnyx6Qz4cOI",
       "title": "13 GIỜ THỎA MÃN | Xuyên Làm Thái Tử Phế Truất - Bộ Lộ Tài Năng Khiến Kinh Thành Trấn Động",
