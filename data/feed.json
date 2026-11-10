@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T19:33:59Z",
+  "generated_at": "2026-11-10T20:27:04Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "q50eHxioj-Q",
+      "title": "Phần 9 | Nhất Mộng Thanh Huyền, Tiểu Sư Muội Đoàn Sủng Nhất Kiếm Phá Cửu Thiên",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-10T20:10:09Z",
+      "duration_seconds": 11009,
+      "thumbnail_url": "https://i.ytimg.com/vi/q50eHxioj-Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FqY1N5gkIGs",
+      "title": "Phần 48: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T19:41:07Z",
+      "duration_seconds": 8751,
+      "thumbnail_url": "https://i.ytimg.com/vi/FqY1N5gkIGs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "UFdbIJ5A9CM",
+      "title": "Phần 48 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-10T19:39:59Z",
+      "duration_seconds": 8775,
+      "thumbnail_url": "https://i.ytimg.com/vi/UFdbIJ5A9CM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "PV_AbUM-mH8",
       "title": "Phần 5 | Kiếm Thần Trở Lại, Mười Vạn Năm Cùng Con Lừa | Luyện Kiếm 10 Vạn Năm Thành Kiếm Thần",
