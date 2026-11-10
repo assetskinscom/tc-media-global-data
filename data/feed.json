@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T09:46:34Z",
+  "generated_at": "2026-11-10T10:45:15Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "_LKAvPivPFE",
+      "title": "9 GIỜ THỎA MÃN | Xuyên Làm Ăn Mày Nào Ngờ Thành Vô Địch - Học Mọi Bí Kíp Võ Công Thông Qua Hiến Tế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T10:27:18Z",
+      "duration_seconds": 31649,
+      "thumbnail_url": "https://i.ytimg.com/vi/_LKAvPivPFE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "yqVDbVDvNvw",
+      "title": "Hoàng Hậu Mất Hết Tu Vi, Ta Nhận Nàng Làm Đệ Tử, Nào Ngờ Nàng Lại Một Lòng Yêu Ta!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-10T10:18:04Z",
+      "duration_seconds": 12903,
+      "thumbnail_url": "https://i.ytimg.com/vi/yqVDbVDvNvw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "W22RSXiqh-I",
+      "title": "Phần 9: Nhặt Được Kẻ Mù, Hắn Vác Quan Tài Trảm Chư Thần",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T10:06:18Z",
+      "duration_seconds": 7545,
+      "thumbnail_url": "https://i.ytimg.com/vi/W22RSXiqh-I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "5mJ4sOnhXzw",
+      "title": "Full | Bị Bạn Gái 3 Năm Cắm Sừng Chàng Shipper Thức Tỉnh Mắt Thần Khiến Cả Giới Hào Môn Quỳ Lạy",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-10T10:00:34Z",
+      "duration_seconds": 9067,
+      "thumbnail_url": "https://i.ytimg.com/vi/5mJ4sOnhXzw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Td9u9WzFkm8",
+      "title": "Cô Gái Cưới Nhầm Người Lạ, Nào Ngờ Anh Là Lục Tổng Tỷ Phú, Còn Mua Nhẫn 100 Triệu Tệ Tặng Vợ Mới",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T10:00:24Z",
+      "duration_seconds": 8034,
+      "thumbnail_url": "https://i.ytimg.com/vi/Td9u9WzFkm8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "T1d3AwmfThI",
+      "title": "Phần 9 | Kẻ Mù Mất Trí Nhớ 10.000 Năm, Tỉnh Lại Cõng Quan Tài Một Kiếm Trảm Chư Thần",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-10T09:57:23Z",
+      "duration_seconds": 10647,
+      "thumbnail_url": "https://i.ytimg.com/vi/T1d3AwmfThI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "2GSbp5Dqlvg",
       "title": "3 GIỜ | Ngủ 1 Năm Nhận 1 Điểm Thuộc Tính - Từ Kẻ Phế Vật Ta Nằm Im Cũng Chiến Thắng Thiên Đạo",
