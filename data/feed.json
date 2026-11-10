@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T12:36:01Z",
+  "generated_at": "2026-11-10T13:49:48Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "qOFI6UngJ54",
+      "title": "Full Version l Biết Mình Là Nữ Phụ Độc Ác, Tôi Quyết Cứu Vị Tổng Tài Đoản Mệnh l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-10T13:30:32Z",
+      "duration_seconds": 9945,
+      "thumbnail_url": "https://i.ytimg.com/vi/qOFI6UngJ54/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MMeXN8G61aU",
+      "title": "9 GIỜ THỎA MÃN | Xuyên Làm Thiếu Gia - Dùng Kiến Thức Cùng Suy Diễn Thiên Cơ Bước Vào Quan Lộ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T13:00:13Z",
+      "duration_seconds": 31517,
+      "thumbnail_url": "https://i.ytimg.com/vi/MMeXN8G61aU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "RlatL-8MU8Y",
+      "title": "Mạt Thế Đại Hồng Thủy Anh Chàng Thức Tỉnh Dị Năng Cấp SSS Thành Chúa Tể Biển Sâu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-10T13:00:10Z",
+      "duration_seconds": 7879,
+      "thumbnail_url": "https://i.ytimg.com/vi/RlatL-8MU8Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "hF-Ar_IndCk",
+      "title": "Phần 3: Trăm Tuổi Mới Được Tu Tiên, Lão Già Nhặt Hồ Lô Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T12:54:10Z",
+      "duration_seconds": 5800,
+      "thumbnail_url": "https://i.ytimg.com/vi/hF-Ar_IndCk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "QPQn6NIm2v0",
+      "title": "Xuyên không thành Vương phi bị ghẻ lạnh, cô càng trốn tránh, Vương gia càng si mê phát cuồng!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-10T12:45:29Z",
+      "duration_seconds": 7193,
+      "thumbnail_url": "https://i.ytimg.com/vi/QPQn6NIm2v0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "eRB4f9Y4yAw",
       "title": "5 GIỜ | Cổ Hoang Huyết Mạch - Tạp Dịch Ngũ Linh Căn Lại Là Thiên Tài Luyện Đan - Bậc Thầy Luyện Thể",
