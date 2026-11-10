@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T03:28:49Z",
+  "generated_at": "2026-11-10T04:32:15Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "6QKTRtONO9A",
+      "title": "4,5 GIỜ | Xuyên Làm Lính Quèn Biên Ải - Ta Dùng Tài Năng Vươn Lên Thống Lĩnh Vạn Quân",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T04:10:12Z",
+      "duration_seconds": 15552,
+      "thumbnail_url": "https://i.ytimg.com/vi/6QKTRtONO9A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vzVeOvDFcrI",
+      "title": "Chồng sắp cưới ép tôi cởi đồ cho tình đầu mặc! Tôi hủy hôn, cưới CEO nghìn tỷ thầm yêu tôi!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-10T04:00:34Z",
+      "duration_seconds": 7415,
+      "thumbnail_url": "https://i.ytimg.com/vi/vzVeOvDFcrI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "v1hnu9dC_pI",
+      "title": "Thức Tỉnh Thiên Phú Cấp Thần Pháp Sư Biến Thành Pháo Đài Bất Tử | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-10T04:00:34Z",
+      "duration_seconds": 9547,
+      "thumbnail_url": "https://i.ytimg.com/vi/v1hnu9dC_pI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "IzdT4uGXBMQ",
+      "title": "Bị Cha Ép Gả Để Lấy 500 Nghìn Tệ, Cô Vội Cưới Tài Xế Nghèo, Nào Ngờ Anh Là Tổng Tài Tập Đoàn Lục",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T04:00:15Z",
+      "duration_seconds": 8086,
+      "thumbnail_url": "https://i.ytimg.com/vi/IzdT4uGXBMQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ef-_vvBMpbk",
+      "title": "Tổng Tài tỷ phú giả nghèo thử lòng cô vợ quê, nào ngờ cô không chê mà còn hết lòng chăm sóc anh",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-10T04:00:10Z",
+      "duration_seconds": 6111,
+      "thumbnail_url": "https://i.ytimg.com/vi/ef-_vvBMpbk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9Fp-YvEGwrY",
+      "title": "Sư Huynh Lười Biếng Nào Ngờ Vô Địch Từ Lâu - Hệ Thống Đăng Nhập Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T03:43:17Z",
+      "duration_seconds": 7326,
+      "thumbnail_url": "https://i.ytimg.com/vi/9Fp-YvEGwrY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "NTANTj6ci08",
+      "title": "Giả làm gái quê để trốn xem mắt, ngờ đâu cô lại lọt mắt xanh Tổng tài, khiến anh mê mẩn!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-10T03:36:55Z",
+      "duration_seconds": 4230,
+      "thumbnail_url": "https://i.ytimg.com/vi/NTANTj6ci08/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "AYn5InpkEfM",
       "title": "Vừa Xuyên Không Đã Sờ Mông Mỹ Nhân Ta Bật Hack Thành Kiếm Tiên Vô Địch! | Đậu Đậu Vietsub",
