@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T04:32:15Z",
+  "generated_at": "2026-11-10T05:33:55Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "W69Cn-YcS58",
+      "title": "Phần 6- 7: Từ Kẻ Mất Tích Mười Năm Thành Cường Giả, Trở Về Khuấy Đảo Giới Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T04:42:35Z",
+      "duration_seconds": 16062,
+      "thumbnail_url": "https://i.ytimg.com/vi/W69Cn-YcS58/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8S4lV0GvBRU",
+      "title": "Phần 7 - Tập 1 | Tiên Nhãn - Cửu Linh Căn Sở Hữu Mắt Thần Nghịch Thiên Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T04:35:37Z",
+      "duration_seconds": 4828,
+      "thumbnail_url": "https://i.ytimg.com/vi/8S4lV0GvBRU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "6QKTRtONO9A",
       "title": "4,5 GIỜ | Xuyên Làm Lính Quèn Biên Ải - Ta Dùng Tài Năng Vươn Lên Thống Lĩnh Vạn Quân",
