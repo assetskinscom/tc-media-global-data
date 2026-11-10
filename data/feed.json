@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T10:45:15Z",
+  "generated_at": "2026-11-10T11:42:40Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "5Zp0CaTdpDs",
+      "title": "P1-3 | 10 GIỜ THỎA MÃN | Nhất Kính Thông Thiên - Thái Tử Bị Phế Truất Tu Thành Cường Giả Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T11:05:32Z",
+      "duration_seconds": 36184,
+      "thumbnail_url": "https://i.ytimg.com/vi/5Zp0CaTdpDs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BQ7h5402-k4",
+      "title": "Bị Cha Ruột Ép Gả, Cô Mang Song Thai Cưới Ông Trùm Nghìn Tỷ, Nào Ngờ Được Anh Cưng Chiều Hết Mực",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T11:00:32Z",
+      "duration_seconds": 7505,
+      "thumbnail_url": "https://i.ytimg.com/vi/BQ7h5402-k4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "QLBCsXHnBy8",
+      "title": "Cô CEO xinh đẹp từ chối thiếu gia du côn, cưới cha xứ qua đường—ai ngờ anh là sát thủ quốc tế!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-10T11:00:29Z",
+      "duration_seconds": 6658,
+      "thumbnail_url": "https://i.ytimg.com/vi/QLBCsXHnBy8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "aDf9mpu4Pcw",
+      "title": "Ai cũng muốn cưới CEO, nhưng khi biết anh tàn tật, chỉ cô gái nghèo ở bên! Cuối cùng anh cưới cô!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-10T11:00:15Z",
+      "duration_seconds": 7003,
+      "thumbnail_url": "https://i.ytimg.com/vi/aDf9mpu4Pcw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Aql02WlFqqg",
+      "title": "Bị Cửu Cục Bắt Vào Chỗ Chớt Thực Tập Sinh Bất Ngờ Mở Khóa Bí Thuật Phong Ấn Vạn Quỷ| Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-10T11:00:13Z",
+      "duration_seconds": 4882,
+      "thumbnail_url": "https://i.ytimg.com/vi/Aql02WlFqqg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "_LKAvPivPFE",
       "title": "9 GIỜ THỎA MÃN | Xuyên Làm Ăn Mày Nào Ngờ Thành Vô Địch - Học Mọi Bí Kíp Võ Công Thông Qua Hiến Tế",
