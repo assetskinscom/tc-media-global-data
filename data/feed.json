@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T01:45:21Z",
+  "generated_at": "2026-11-10T02:40:17Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "Q98WEv-tgAE",
+      "title": "Phần 25: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T02:33:37Z",
+      "duration_seconds": 7887,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q98WEv-tgAE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "GvVajOwiCJY",
+      "title": "5,5 GIỜ | Xuyên Làm Đại Tướng Quân - Thương Pháp Phạt Thần - Một Mình Chấp 30 Vạn Đại Quân",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T02:09:38Z",
+      "duration_seconds": 18811,
+      "thumbnail_url": "https://i.ytimg.com/vi/GvVajOwiCJY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vkwalLVeyM8",
+      "title": "Bị Hôn Phu Ép Xin Lỗi Tình Cũ Đang Mang Thai, Cô Hủy Hôn, Nào Ngờ Cưới Thiếu Gia Đợi Mình 16 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T02:00:32Z",
+      "duration_seconds": 11710,
+      "thumbnail_url": "https://i.ytimg.com/vi/vkwalLVeyM8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "KVa3bpl-BFs",
       "title": "Bị Lưu Đày Ra Biên Ải, Hắn Kích Hoạt Hệ Thống Đăng Nhập, Triệu Hồi Thần Tướng Đánh Bại Triệu Quân!",
