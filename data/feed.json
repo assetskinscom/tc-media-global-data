@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T16:29:10Z",
+  "generated_at": "2026-11-10T17:29:10Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "XPS6mA2M9Es",
+      "title": "PHẦN 5 - TẬP 1 | BẢN ĐẸP | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T16:58:20Z",
+      "duration_seconds": 7952,
+      "thumbnail_url": "https://i.ytimg.com/vi/XPS6mA2M9Es/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6VzwKaDXIBk",
+      "title": "Phần 5 -P3(520): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T16:38:24Z",
+      "duration_seconds": 3266,
+      "thumbnail_url": "https://i.ytimg.com/vi/6VzwKaDXIBk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Be65Ib37Qws",
+      "title": "Phần 8: Sơn Hải Hiển Thánh - Con Đường Từ Kẻ Hái Thuốc Đến Thành Chí Tôn",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T16:36:57Z",
+      "duration_seconds": 7359,
+      "thumbnail_url": "https://i.ytimg.com/vi/Be65Ib37Qws/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "zK6G8nJGLRE",
       "title": "Từ Hoàng Tử Sa Ngã Với 800 Tàn Binh, Hắn Kích Hoạt Hệ Thống, Thu Phục Thiên Kiêu, Xưng Bá Thiên Hạ!",
