@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T05:33:55Z",
-  "last_full_refresh_at": "2026-11-09T05:42:48Z",
+  "generated_at": "2026-11-10T06:36:12Z",
+  "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "Mnyx6Qz4cOI",
+      "title": "13 GIỜ THỎA MÃN | Xuyên Làm Thái Tử Phế Truất - Bộ Lộ Tài Năng Khiến Kinh Thành Trấn Động",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T06:30:38Z",
+      "duration_seconds": 45812,
+      "thumbnail_url": "https://i.ytimg.com/vi/Mnyx6Qz4cOI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "R4tkuSIJxO8",
+      "title": "Phần 47: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T06:18:48Z",
+      "duration_seconds": 7351,
+      "thumbnail_url": "https://i.ytimg.com/vi/R4tkuSIJxO8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "W69Cn-YcS58",
       "title": "Phần 6- 7: Từ Kẻ Mất Tích Mười Năm Thành Cường Giả, Trở Về Khuấy Đảo Giới Tu Tiên",
@@ -1008,20 +1036,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "B9vlbTGuNHY",
-      "title": "Chồng Bỏ Mặc Vợ Mang Song Thai Bị Tai Nạn Để Chăm Nhân Tình, Nào Ngờ Cô Vẫn Còn Một Đứa Con Sống",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-09T03:00:06Z",
-      "duration_seconds": 10587,
-      "thumbnail_url": "https://i.ytimg.com/vi/B9vlbTGuNHY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -3137,20 +3151,6 @@
       ]
     },
     {
-      "id": "Q9H_0nmD3cM",
-      "title": "[FULL S1] XUYÊN KHÔNG THÀNH ĐẠI MA ĐẦU, TA ĐẬP NÁT DÀN CON CƯNG KHÍ VẬN THIÊN ĐẠO | LY VIETSUB 1000",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-11-06T08:28:28Z",
-      "duration_seconds": 14915,
-      "thumbnail_url": "https://i.ytimg.com/vi/Q9H_0nmD3cM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "h_W01ygsCs8",
       "title": "Từng Chết Thảm Không Ai Cứu, Nay Được Gia Tộc Chống Lưng, Nàng Nghịch Thiên Đổi Mệnh Và Thức Tỉnh!",
       "channel": "movies2",
@@ -3974,20 +3974,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "85VpXvoO8n8",
-      "title": "Chồng Đưa Mẹ Con Người Khác Vào Phòng Dành Cho Con Tương Lai, Nào Ngờ Vợ Ly Hôn Và Không Quay Lại!",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T05:00:38Z",
-      "duration_seconds": 5403,
-      "thumbnail_url": "https://i.ytimg.com/vi/85VpXvoO8n8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5868,20 +5854,6 @@
       ]
     },
     {
-      "id": "QpJ5px-UBiw",
-      "title": "Phần 5 | Sơn Tặc Xuyên Không Đi Tu Tiên, Ta Dùng Võ Thần Quyết Quậy Tung Tu Tiên Giới",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-11-02T17:41:08Z",
-      "duration_seconds": 9777,
-      "thumbnail_url": "https://i.ytimg.com/vi/QpJ5px-UBiw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "LT8dJmgCG1I",
       "title": "Sàn Nhớ Em (Remix)",
       "channel": "music",
@@ -6106,20 +6078,6 @@
       ]
     },
     {
-      "id": "-k_D6Uc7WXA",
-      "title": "Phần 20 | Thái Huyền Thai Châu Truyện",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-11-02T10:44:22Z",
-      "duration_seconds": 8531,
-      "thumbnail_url": "https://i.ytimg.com/vi/-k_D6Uc7WXA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "tiDObVBCan4",
       "title": "Trọng Sinh Về Cổ Đại Thành Công Tử Ăn Chơi, Hắn Giả Ngốc Suốt Ngày Để Âm Thầm Báo Thù!",
       "channel": "movies2",
@@ -6251,7 +6209,7 @@
       "channel": "movies",
       "channel_title": "Thảo Lác ",
       "published_at": "2026-11-02T07:17:48Z",
-      "duration_seconds": 50072,
+      "duration_seconds": 50051,
       "thumbnail_url": "https://i.ytimg.com/vi/6dQi38kvhMg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
@@ -7135,20 +7093,6 @@
       "published_at": "2026-10-31T23:00:35Z",
       "duration_seconds": 15887,
       "thumbnail_url": "https://i.ytimg.com/vi/y1p3w8ACK3A/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "g9pzjIaC_qU",
-      "title": "Phần 21 | Thái Huyền Thai Châu Truyện",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-10-31T17:53:41Z",
-      "duration_seconds": 7908,
-      "thumbnail_url": "https://i.ytimg.com/vi/g9pzjIaC_qU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -8768,20 +8712,6 @@
       ]
     },
     {
-      "id": "0XI7qKOiXrc",
-      "title": "P1-3 | 14,5 Giờ Thỏa Mãn | Xuyên Làm Thái Tử Phản Diện - Mạnh Mẽ Quyết Đoán Cùng Trí Tuệ Thiên Tài",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-29T07:55:52Z",
-      "duration_seconds": 52254,
-      "thumbnail_url": "https://i.ytimg.com/vi/0XI7qKOiXrc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "REAgzzt-juQ",
       "title": "Phần 2 | Trường Sinh Bất Diệt Quyết - Thiếu Gia Phế Vật Lại Là Thiên Tài Tu Luyện Vô Địch Ẩn Danh",
       "channel": "movies",
@@ -8859,20 +8789,6 @@
       "published_at": "2026-10-29T05:00:35Z",
       "duration_seconds": 3127,
       "thumbnail_url": "https://i.ytimg.com/vi/jirA6xR1iz4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "NvotasTpIoU",
-      "title": "Phần 1-4 | 19 Giờ Thỏa Mãn | Vợ Ta Không Hề Đơn Giản - Vào Tù Chọn Vợ Nào Ngờ Toàn Người Quyền Lực",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-29T04:26:29Z",
-      "duration_seconds": 68972,
-      "thumbnail_url": "https://i.ytimg.com/vi/NvotasTpIoU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -9910,20 +9826,6 @@
       "published_at": "2026-10-27T13:00:36Z",
       "duration_seconds": 12788,
       "thumbnail_url": "https://i.ytimg.com/vi/9XzgrbQydbA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "AnhutRZb3rg",
-      "title": "[FULL 12H] BÁI NHẦM NỮ MA ĐẦU LÀM SƯ TÔN: NGÀY ÔM TIÊN TỬ BĂNG LÃNH, ĐÊM DỖ MA ĐẾ | LY VIETSUB 234",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-10-27T12:52:04Z",
-      "duration_seconds": 41057,
-      "thumbnail_url": "https://i.ytimg.com/vi/AnhutRZb3rg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -20554,20 +20456,6 @@
       ]
     },
     {
-      "id": "WVp30KlVbr4",
-      "title": "[S1] ĐỤNG VÀO HỌC TRÒ CỦA TRÙM CUỐI, PHẢN DIỆN BAY MÀU TỨC KHẮC | LY VIETSUB 184",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-10-08T13:10:07Z",
-      "duration_seconds": 8697,
-      "thumbnail_url": "https://i.ytimg.com/vi/WVp30KlVbr4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "dnTh2zhX3r8",
       "title": "Triều Đình Đầy Âm Mưu, Giang Hồ Đầy Sát Cơ, Hoàng Tử Chỉ Còn Kiếm Và Thất Đại Hung Thú",
       "channel": "movies2",
@@ -23708,20 +23596,6 @@
       ]
     },
     {
-      "id": "aMIn_RmqsZ4",
-      "title": "[S1] HỆ THỐNG MÔ PHỎNG KÉO  TU VY VỀ THỰC TẠI | LY VIETSUB 737",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-10-01T06:48:13Z",
-      "duration_seconds": 10111,
-      "thumbnail_url": "https://i.ytimg.com/vi/aMIn_RmqsZ4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "j3n1EFJl-6g",
       "title": "Phần 2 | Kiếm Thần Trở Lại, Mười Vạn Năm Cùng Con Lừa | Luyện Kiếm 10 Vạn Năm Thành Kiếm Thần",
       "channel": "movies5",
@@ -25421,20 +25295,6 @@
       ]
     },
     {
-      "id": "cP3BPXd-dwU",
-      "title": "[FULL] ÉP MA TÔN NỮ ĐẾ LÀM VỢ | LY VIETSUB 712",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-26T14:23:13Z",
-      "duration_seconds": 10386,
-      "thumbnail_url": "https://i.ytimg.com/vi/cP3BPXd-dwU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "RCYSnYTYxTI",
       "title": "Phần 1-2 | Xuyên Không Thành Nữ Phụ Pháo Hôi, Ta Dùng Độ Lầy Khuấy Đảo Tu Chân Giới",
       "channel": "movies5",
@@ -26677,20 +26537,6 @@
       "published_at": "2026-09-23T07:17:17Z",
       "duration_seconds": 20448,
       "thumbnail_url": "https://i.ytimg.com/vi/Y8BCJn0ftUI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "awpVMwRnF68",
-      "title": "[S1] CÓ TIỀN LÀ ĐỘT PHÁ: VỊ THIẾU GIA ĂN CHƠI NẠP BẠC ĐÈ BẸP MỌI TÔNG MÔN | LY VIETSUB 547",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-23T05:07:12Z",
-      "duration_seconds": 10297,
-      "thumbnail_url": "https://i.ytimg.com/vi/awpVMwRnF68/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -29971,20 +29817,6 @@
       ]
     },
     {
-      "id": "6nF40XjY_gg",
-      "title": "[FULL S1-3] 99 KIỂU CHỚT ĐỘC LẠ Ở TU TIÊN GIỚI | LY VIETSUB 739",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-15T03:56:46Z",
-      "duration_seconds": 13361,
-      "thumbnail_url": "https://i.ytimg.com/vi/6nF40XjY_gg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "WAFZoLadyT4",
       "title": "Trailer P3 | Phàm Nhân Tu Tiên Bắt Đầu Từ Tạp Dịch Ngoại Môn | Phim Tu Tiên Hay Nhất",
       "channel": "movies5",
@@ -31705,20 +31537,6 @@
       ]
     },
     {
-      "id": "VHzTddG7YI0",
-      "title": "[FULL S1-2] KIẾM TU ĐIÊN: ĐẠI SƯ HUYNH CỰ TUYỆT MA ĐẠO | LY VIETSUB 273",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-11T08:19:12Z",
-      "duration_seconds": 14117,
-      "thumbnail_url": "https://i.ytimg.com/vi/VHzTddG7YI0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "i81VSWXD_PQ",
       "title": "Xuyên Không 70 Năm Sống Tủi Nhục, Cụ Ông Thức Tỉnh Cơ Duyên Diệt Gọn Ác Bá (FULL MÙA 1)",
       "channel": "movies7",
@@ -32256,26 +32074,12 @@
       "channel": "music",
       "channel_title": "TC Music Global",
       "published_at": "2026-09-10T02:36:29Z",
-      "duration_seconds": 156,
+      "duration_seconds": 157,
       "thumbnail_url": "https://i.ytimg.com/vi/5cbZ_MTCsTk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "short",
       "categories": [
         "shorts"
-      ]
-    },
-    {
-      "id": "a2rQdJv0e7Y",
-      "title": "[FULL] NPC NỔI DẬY ĐỒ SÁT NGƯỜI XUYÊN KHÔNG | LY VIETSUB 515",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-10T02:11:10Z",
-      "duration_seconds": 11584,
-      "thumbnail_url": "https://i.ytimg.com/vi/a2rQdJv0e7Y/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -32748,20 +32552,6 @@
       "published_at": "2026-09-09T02:29:33Z",
       "duration_seconds": 7344,
       "thumbnail_url": "https://i.ytimg.com/vi/26neYSHgIS4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "VowY7pxqHAI",
-      "title": "[FULL S1-3] TA MỞ SHOP ĐA CẤP Ở TU TIÊN GIỚI | LY VIETSUB 594",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-09-09T02:06:20Z",
-      "duration_seconds": 10839,
-      "thumbnail_url": "https://i.ytimg.com/vi/VowY7pxqHAI/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -43183,20 +42973,6 @@
       ]
     },
     {
-      "id": "F4GuU7Jild4",
-      "title": "5-6 | BỒ ĐỀ XUỐNG NÚI | HỒNG HOANG CHIẾN | LY VIETSUB 265",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-08-01T04:25:30Z",
-      "duration_seconds": 907,
-      "thumbnail_url": "https://i.ytimg.com/vi/F4GuU7Jild4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "QbDF83ibWR8",
       "title": "Xuyên Không Thành Tổ Vu Đế Giang,Thức Tỉnh Hệ Thống Thống Nhất Hồng Hoang (FULL TẬP 1-92)",
       "channel": "movies7",
@@ -43897,20 +43673,6 @@
       ]
     },
     {
-      "id": "epjsEpr0tUQ",
-      "title": "[S2] TU TIÊN PHONG CÁCH 4.0 | LY VIETSUB 560",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-27T10:05:53Z",
-      "duration_seconds": 6651,
-      "thumbnail_url": "https://i.ytimg.com/vi/epjsEpr0tUQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "HtkMnrv5kRc",
       "title": "Ai cũng đợi cô bị CEO bỏ, ngủ ngoài đường – cho đến khi cô mua cả tòa nhà, cả thành phố sốc!",
       "channel": "drama4",
@@ -43932,20 +43694,6 @@
       "published_at": "2026-07-27T09:58:20Z",
       "duration_seconds": 6311,
       "thumbnail_url": "https://i.ytimg.com/vi/KTieVvj_yvw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "8hPvKo_4CNM",
-      "title": "1-4 | BỒ ĐỀ XUỐNG NÚI | HỒNG HOANG CHIẾN | LY VIETSUB 265",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-27T05:51:17Z",
-      "duration_seconds": 1779,
-      "thumbnail_url": "https://i.ytimg.com/vi/8hPvKo_4CNM/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -44030,20 +43778,6 @@
       "published_at": "2026-07-26T07:34:19Z",
       "duration_seconds": 5305,
       "thumbnail_url": "https://i.ytimg.com/vi/LKDuxlUcK10/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "H8BIzVgWqno",
-      "title": "[S1] TU TIÊN PHONG CÁCH 4.0 | LY VIETSUB 560",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-26T04:20:15Z",
-      "duration_seconds": 10575,
-      "thumbnail_url": "https://i.ytimg.com/vi/H8BIzVgWqno/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -45252,20 +44986,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "ScFNJfk-W40",
-      "title": "94-112 | BỒ ĐỀ LÃO TỔ | HỒNG HOANG CHIẾN | LY VIETSUB 644",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-18T11:52:17Z",
-      "duration_seconds": 8147,
-      "thumbnail_url": "https://i.ytimg.com/vi/ScFNJfk-W40/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -53655,20 +53375,6 @@
       ]
     },
     {
-      "id": "RTFY3NQ2s-E",
-      "title": "Mọi người cười nhạo anh là phế vật, không ngờ vừa ra tay, 3 giây tiêu diệt toàn bộ sát thủ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-30T10:00:27Z",
-      "duration_seconds": 6813,
-      "thumbnail_url": "https://i.ytimg.com/vi/RTFY3NQ2s-E/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "mggunV6mr24",
       "title": "Bị Bán Vào Ma Tông Với Giá 3 Lạng Bạc, Ta Nâng Cấp Kỹ Năng Thành Đại Ma (FULL TẬP 1-60)",
       "channel": "movies7",
@@ -53746,20 +53452,6 @@
       "published_at": "2026-05-30T03:44:29Z",
       "duration_seconds": 12799,
       "thumbnail_url": "https://i.ytimg.com/vi/EtHl7KopE-8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "wv39nh_NPrg",
-      "title": "Lao công vô tình chạm vào đùi nữ hoàng, cô lập tức quỳ xuống, ai ngờ anh là chiến thần mất tích!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-29T16:00:23Z",
-      "duration_seconds": 5185,
-      "thumbnail_url": "https://i.ytimg.com/vi/wv39nh_NPrg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -53970,20 +53662,6 @@
       "published_at": "2026-05-28T10:32:31Z",
       "duration_seconds": 3187,
       "thumbnail_url": "https://i.ytimg.com/vi/mn5IXpmceck/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "omRBc8Y-8-M",
-      "title": "Anh nghèo bị bạn gái phản bội cứu nữ CEO đang gặp nạn xe, cô ấy đem gia tài tỷ đô cầu hôn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-28T10:00:28Z",
-      "duration_seconds": 6882,
-      "thumbnail_url": "https://i.ytimg.com/vi/omRBc8Y-8-M/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -54299,20 +53977,6 @@
       ]
     },
     {
-      "id": "Bv81-o_4wX0",
-      "title": "Tên ăn mày lén nhìn các mỹ nữ tắm, tưởng sẽ bị đuổi đi, ai ngờ họ lại tranh nhau muốn cưới anh!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-26T10:00:10Z",
-      "duration_seconds": 5035,
-      "thumbnail_url": "https://i.ytimg.com/vi/Bv81-o_4wX0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "vaXCHahXcVg",
       "title": "ĐẠI SƯ HUYNH TÀ TU | HÀ NHÂN XUYÊN KHÔNG | LY VIETSUB 909",
       "channel": "movies4",
@@ -54506,20 +54170,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "2Vu6GwquHrs",
-      "title": "Người công nhân bị ném vào đống xi măng để sỉ nhục lại chính là một tỷ phú,nắm cả đế chế thương mại!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-25T10:00:04Z",
-      "duration_seconds": 8315,
-      "thumbnail_url": "https://i.ytimg.com/vi/2Vu6GwquHrs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -54873,20 +54523,6 @@
       ]
     },
     {
-      "id": "tPm_nqHuKOk",
-      "title": "Ai cũng cười nhạo cậu bé 0 điểm, đến khi cậu giải đề vô giải trong vài giây, chấn động thế giới!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-23T10:00:01Z",
-      "duration_seconds": 6541,
-      "thumbnail_url": "https://i.ytimg.com/vi/tPm_nqHuKOk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "0XsgnmXnJWQ",
       "title": "Full Version | Hợp Đồng Thuê Nhà: Thuê Luôn Trái Tim Anh | Sora Dub",
       "channel": "drama2",
@@ -55013,20 +54649,6 @@
       ]
     },
     {
-      "id": "cbpkWReLcM8",
-      "title": "Người đàn ông nghèo được thần tiên truyền pháp, làm việc thiện là có thể thực hiện mọi ước muốn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-22T10:00:32Z",
-      "duration_seconds": 5151,
-      "thumbnail_url": "https://i.ytimg.com/vi/cbpkWReLcM8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "7Sam8xY9phk",
       "title": "Cô gái bị tiểu thư giả vu oan, giày xéo lại là tiểu thư ẩn mình 15 năm, mọi người kinh ngạc!",
       "channel": "drama4",
@@ -55146,20 +54768,6 @@
       "published_at": "2026-05-21T10:51:36Z",
       "duration_seconds": 2672,
       "thumbnail_url": "https://i.ytimg.com/vi/qpSKjffH0sA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "qRiU6wqVC6Q",
-      "title": "Shipper nghèo bị khinh rẻ, không ngờ bố mất trí là tỷ phú ẩn mình - cả thiên hạ cúi đầu!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-21T10:00:25Z",
-      "duration_seconds": 5617,
-      "thumbnail_url": "https://i.ytimg.com/vi/qRiU6wqVC6Q/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -55307,20 +54915,6 @@
       ]
     },
     {
-      "id": "RWa__MIpqj4",
-      "title": "Một người đàn ông chặn một nữ CEO xinh đẹp, cảnh báo cô sắp có lở đất. Không ai tin anh… rồi…",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-20T10:00:31Z",
-      "duration_seconds": 6927,
-      "thumbnail_url": "https://i.ytimg.com/vi/RWa__MIpqj4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "_Q-yUMaCPi0",
       "title": "Cô gái bị hôn phu phản bội, lại gặp CEO say đắm theo đuổi, thành người thừa kế duy nhất của tập đoàn",
       "channel": "drama4",
@@ -55426,20 +55020,6 @@
       "published_at": "2026-05-19T11:01:18Z",
       "duration_seconds": 6287,
       "thumbnail_url": "https://i.ytimg.com/vi/tqkLWhylaCE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "ZrMHmxNYmQw",
-      "title": "Anh chàng bị nữ CEO chê cười một tay chặn xe lao tới cứu cô-cô liền mang 100 triệu đô về làm vợ anh!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-19T10:00:16Z",
-      "duration_seconds": 7027,
-      "thumbnail_url": "https://i.ytimg.com/vi/ZrMHmxNYmQw/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -55839,20 +55419,6 @@
       ]
     },
     {
-      "id": "wKWOVVB9K4Y",
-      "title": "Đám côn đồ quấy rối mỹ nữ, chàng trai ăn xiên nướng cứu cô – anh ta là ai? #action #phimhay",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-16T10:01:31Z",
-      "duration_seconds": 7484,
-      "thumbnail_url": "https://i.ytimg.com/vi/wKWOVVB9K4Y/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "JrQWBlkJiN4",
       "title": "CEO thấy vợ uy nghiêm trở lại, biết bí mật của cô. Cô định trốn, nhưng lần này anh nắm chặt cô!",
       "channel": "drama4",
@@ -55976,20 +55542,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "rGnNYmTt4Mk",
-      "title": "Kẻ ác trong tù bạo hành phạm nhân mới, không biết hắn là người thừa kế của thần,còn là trùm tù ngầm!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-15T10:01:21Z",
-      "duration_seconds": 4407,
-      "thumbnail_url": "https://i.ytimg.com/vi/rGnNYmTt4Mk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -56294,20 +55846,6 @@
       "published_at": "2026-05-13T10:00:22Z",
       "duration_seconds": 6968,
       "thumbnail_url": "https://i.ytimg.com/vi/9zWfgMZHTBE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "7B7CqHRoOVg",
-      "title": "Kẻ cướp giật đồ của mỹ nữ, bị anh bán đồ nướng tóm cổ ngay tại chỗ-hóa ra anh là chiến binh ẩn mình!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-13T10:00:08Z",
-      "duration_seconds": 7714,
-      "thumbnail_url": "https://i.ytimg.com/vi/7B7CqHRoOVg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -56868,20 +56406,6 @@
       "published_at": "2026-05-09T10:01:02Z",
       "duration_seconds": 6599,
       "thumbnail_url": "https://i.ytimg.com/vi/ZqTDT5PZeOo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "NiuF4jPpqNk",
-      "title": "Cô gái hấp hối không bác sĩ nào chữa,bỗng được gã ăn mày bên đường một mũi kim cứu sống-gã ấy là ai?",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-09T10:00:40Z",
-      "duration_seconds": 5779,
-      "thumbnail_url": "https://i.ytimg.com/vi/NiuF4jPpqNk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -57533,20 +57057,6 @@
       ]
     },
     {
-      "id": "eLl7A0fHSn0",
-      "title": "Kẻ ăn mày bị khinh rẻ bỗng trở thành thần và tỷ phú, nắm giữ sức mạnh vô địch nhất thế gian!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-05T10:01:05Z",
-      "duration_seconds": 4030,
-      "thumbnail_url": "https://i.ytimg.com/vi/eLl7A0fHSn0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "wzOvnUXTojU",
       "title": "5 năm hôn nhân, vợ lén ngoại tình với trợ lý, anh thu hồi tất cả tài sản bắt cô ta trả giá!",
       "channel": "drama5",
@@ -57694,20 +57204,6 @@
       "published_at": "2026-05-04T10:00:22Z",
       "duration_seconds": 10861,
       "thumbnail_url": "https://i.ytimg.com/vi/II9keADMqZE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "509-O1yKH0Y",
-      "title": "Người bán cơm bị côn đồ đánh bỗng thức tỉnh kiếm hồn, đánh bại tất cả kẻ bắt nạt mình!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-04T10:00:06Z",
-      "duration_seconds": 5896,
-      "thumbnail_url": "https://i.ytimg.com/vi/509-O1yKH0Y/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -57890,20 +57386,6 @@
       "published_at": "2026-05-02T11:01:26Z",
       "duration_seconds": 7139,
       "thumbnail_url": "https://i.ytimg.com/vi/vucC9w4WvMg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "y7bF_mMuxmY",
-      "title": "Anh chàng say rượu quấy rối nữ CEO,bị bảo vệ khu phố đánh quỳ. Nữ CEO trả 100 tỷ thuê anh làm vệ sĩ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-05-02T10:01:29Z",
-      "duration_seconds": 5511,
-      "thumbnail_url": "https://i.ytimg.com/vi/y7bF_mMuxmY/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -58163,20 +57645,6 @@
       ]
     },
     {
-      "id": "2lqU8oOHXWE",
-      "title": "Chàng si ngốc ngồi xe lăn bị cả làng khinh, ai ngờ là cao thủ - một tát khiến cả bọn quỳ gục!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-30T10:00:09Z",
-      "duration_seconds": 5285,
-      "thumbnail_url": "https://i.ytimg.com/vi/2lqU8oOHXWE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "3clpTLrMKMo",
       "title": "Mang Biệt Thự Hiện Đại Xuyên Không (FULL TẬP 1-61) Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -58310,20 +57778,6 @@
       "published_at": "2026-04-29T10:00:52Z",
       "duration_seconds": 7497,
       "thumbnail_url": "https://i.ytimg.com/vi/XDkg5Vb0_LI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "0eJh7_NgImE",
-      "title": "Nhân viên tội nghiệp bị xe nữ CEO đâm, lại được cô yêu - cô đòi sinh con cho anh!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-29T10:00:02Z",
-      "duration_seconds": 5684,
-      "thumbnail_url": "https://i.ytimg.com/vi/0eJh7_NgImE/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -58650,20 +58104,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "aqX_uWb9iOs",
-      "title": "Một lao công tình cờ thấy nữ CEO xinh đẹp bị ác bá ức hiếp, cứu cô rồi nhận 10 triệu đô!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-27T10:00:03Z",
-      "duration_seconds": 5713,
-      "thumbnail_url": "https://i.ytimg.com/vi/aqX_uWb9iOs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -59451,20 +58891,6 @@
       ]
     },
     {
-      "id": "jgFiUnTTVpE",
-      "title": "1-93 | BỒ ĐỀ LÃO TỔ | HỒNG HOANG CHIẾN | LY VIETSUB 644",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-04-22T11:15:05Z",
-      "duration_seconds": 33347,
-      "thumbnail_url": "https://i.ytimg.com/vi/jgFiUnTTVpE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "jqImRAAXIQA",
       "title": "Cô gái bị ép lấy chồng béo xấu, vào nhầm nhà mà tìm thấy tình yêu đích thực.",
       "channel": "drama8",
@@ -59616,20 +59042,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "6xWRVVQsBxo",
-      "title": "Trong tù ai cũng bắt nạt anh chàng gầy bé, không ngờ anh đánh bại tất cả, thành đại ca nhà tù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-21T10:00:09Z",
-      "duration_seconds": 7569,
-      "thumbnail_url": "https://i.ytimg.com/vi/6xWRVVQsBxo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -59822,20 +59234,6 @@
       "published_at": "2026-04-19T11:00:36Z",
       "duration_seconds": 6069,
       "thumbnail_url": "https://i.ytimg.com/vi/M0YGT0byQnc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "eTMtpfkKvvk",
-      "title": "Một shipper bị xe đâm, thức tỉnh mắt thần thấy trước - một đêm thành tỷ phú, cưới con gái tỷ phú!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-19T10:01:02Z",
-      "duration_seconds": 5768,
-      "thumbnail_url": "https://i.ytimg.com/vi/eTMtpfkKvvk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -60053,20 +59451,6 @@
       ]
     },
     {
-      "id": "8jFk_6nJoes",
-      "title": "Vợ ngoại tình khi chồng hôn mê, không ngờ chồng tỉnh - thịnh nộ, kẻ phản bội xong đời!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-17T10:00:25Z",
-      "duration_seconds": 4925,
-      "thumbnail_url": "https://i.ytimg.com/vi/8jFk_6nJoes/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "6mijodWXbjc",
       "title": "TẬP 11-16 | THÔNG THIÊN NỔI GIẬN | LY VIETSUB 642",
       "channel": "movies4",
@@ -60260,20 +59644,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "lXoTeeITzfE",
-      "title": "Chiến Thần Ẩn Danh Làm Nhân Viên Bảo Vệ Sống An Nhàn,Lại Bị Chị Em Nữ Đại Gia Gạ Quẹt Thẻ Và Cái Kết",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-15T10:01:17Z",
-      "duration_seconds": 6073,
-      "thumbnail_url": "https://i.ytimg.com/vi/lXoTeeITzfE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -60611,20 +59981,6 @@
       ]
     },
     {
-      "id": "-B9snJQ3jdA",
-      "title": "Chàng trai nghèo cứu nữ CEO, qua đêm với cô rồi bị đánh - không ngờ anh là Chiến Thần có Thiên Nhãn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-12T10:00:00Z",
-      "duration_seconds": 5755,
-      "thumbnail_url": "https://i.ytimg.com/vi/-B9snJQ3jdA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "O6Sm-q8sE3M",
       "title": "Ta Làm Thần Minh Ở Thế Giới Tí Hon (FULL BỘ) Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -60874,20 +60230,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "-rBoSFtnEcM",
-      "title": "Bọn côn đồ khiêu khích một công nhân nghèo,không ngờ hắn là Chiến Thần ẩn mình!Liền quỳ gối xin tha!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-10T10:00:03Z",
-      "duration_seconds": 6062,
-      "thumbnail_url": "https://i.ytimg.com/vi/-rBoSFtnEcM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -61345,20 +60687,6 @@
       ]
     },
     {
-      "id": "4Ubc7XuI8-k",
-      "title": "Kẻ cướp bắt cóc vợ người đàn ông tàn tật – ai ngờ anh ta chính là sát thủ không gì xuyên thủng được!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-07T10:00:06Z",
-      "duration_seconds": 7075,
-      "thumbnail_url": "https://i.ytimg.com/vi/4Ubc7XuI8-k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "MHWo0tosHkE",
       "title": "Full Version | Sự Trả Thù Ngọt Ngào  | Sora Dub",
       "channel": "drama2",
@@ -61677,20 +61005,6 @@
       ]
     },
     {
-      "id": "lhDMlJUxbnc",
-      "title": "Đám côn đồ làm nhục nữ phục vụ bar xinh, người đàn ông bí ẩn cứu cô - hóa ra cô là CEO tỷ phú!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-05T10:00:00Z",
-      "duration_seconds": 5340,
-      "thumbnail_url": "https://i.ytimg.com/vi/lhDMlJUxbnc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "6a2hV9WSeuA",
       "title": "Phàm Nhân Đan Tiên: Từ Đồng Tử Thử Thuốc Đến Đan Đạo Tông Sư (TẬP 1-56)Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -61855,20 +61169,6 @@
       ]
     },
     {
-      "id": "eZK8IsvqhJs",
-      "title": "Ác ma mà ai cũng khiếp sợ, chỉ vì một câu nói của đứa trẻ tuổi mà bị nhốt xuống giếng!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-04T10:00:00Z",
-      "duration_seconds": 5923,
-      "thumbnail_url": "https://i.ytimg.com/vi/eZK8IsvqhJs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Muiuvij1Ca4",
       "title": "Full Version | Hai Mảnh Đời Trầm Lặng |  Sora Dub",
       "channel": "drama2",
@@ -62002,20 +61302,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "kvlUtLmZSWE",
-      "title": "Nữ CEO xinh đẹp khinh anh bảo vệ nghèo, không biết thẻ của anh mua được cả thành phố!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-03T10:00:00Z",
-      "duration_seconds": 6582,
-      "thumbnail_url": "https://i.ytimg.com/vi/kvlUtLmZSWE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -62361,20 +61647,6 @@
       ]
     },
     {
-      "id": "r15aywjT4IE",
-      "title": "Còn một bước thành tiên,chàng trai xuống núi lị luyện-ai ngờ Mỹ nữ đỉnh cấp ai cũng muốn gả cho hắn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-04-01T10:00:00Z",
-      "duration_seconds": 6919,
-      "thumbnail_url": "https://i.ytimg.com/vi/r15aywjT4IE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "2n2I7ru_PRw",
       "title": "Họ nghĩ cô mồ côi không ai quan tâm, ai ngờ thân phận thật của cô là người thừa kế duy nhất của CEO!",
       "channel": "drama4",
@@ -62525,20 +61797,6 @@
       ]
     },
     {
-      "id": "CZ9FRAtraqE",
-      "title": "Người giao hàng nghèo cưới con gái tỷ phú tê liệt, ai ngờ một nụ hôn đã chữa khỏi bệnh cho cô!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-31T10:00:00Z",
-      "duration_seconds": 7329,
-      "thumbnail_url": "https://i.ytimg.com/vi/CZ9FRAtraqE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "aQ3Vp5qDRbU",
       "title": "Full Version | Vừa Chia Tay Nữ Tổng Tài Đã Theo Đuổi Tôi |  Sora Dub",
       "channel": "drama2",
@@ -62644,20 +61902,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "JRI3g7B_m9Q",
-      "title": "3 năm trấn Lương Sơn chống bách vạn quân, vị hôn thê phản bội - cưỡi hổ xuống núi san bằng kẻ thù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-30T10:00:56Z",
-      "duration_seconds": 6856,
-      "thumbnail_url": "https://i.ytimg.com/vi/JRI3g7B_m9Q/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -62991,20 +62235,6 @@
       ]
     },
     {
-      "id": "hcLJrY5tIkw",
-      "title": "Bảo vệ nghèo giả làm thiếu gia đi xem mắt, bị nữ CEO phát hiện - tưởng xong đời, ai ngờ cô cầu hôn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-28T10:00:27Z",
-      "duration_seconds": 6240,
-      "thumbnail_url": "https://i.ytimg.com/vi/hcLJrY5tIkw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "3H7izGocK10",
       "title": "Xuyên Không Mở Khóa Hệ Thống Cướp Đoạt: Kỹ Năng Của Ngươi Cũng Là Của Ta | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -63171,20 +62401,6 @@
       ]
     },
     {
-      "id": "Xt5lYbRQ4as",
-      "title": "Chàng trai đi dạo bị vệ sĩ đuổi, ai ngờ là thần tiên điều khiển thực phẩm-cứu nữ CEO nghiện ma túy!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-27T10:00:43Z",
-      "duration_seconds": 6858,
-      "thumbnail_url": "https://i.ytimg.com/vi/Xt5lYbRQ4as/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "8vjck8Xo-EI",
       "title": "Bị Ép Tự Bạo, Nam Chính Trọng Sinh Trực Tiếp Hắc Hóa Khiến Nữ Đế Ân Hận | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -63347,6 +62563,20 @@
       ]
     },
     {
+      "id": "CR6Y8FNOXJ8",
+      "title": "1-33 | HỖN NGUYÊN THÁNH NHÂN | HỒNG HOANG CHIẾN | LY VIETSUB 824",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T10:19:46Z",
+      "duration_seconds": 12682,
+      "thumbnail_url": "https://i.ytimg.com/vi/CR6Y8FNOXJ8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "u6cEFTP9s1k",
       "title": "Mang Hệ Thống Bắt Nạn Dân Ký Hợp Đồng Lao Động, Bất Ngờ Bị Nhân Viên ÉP Lên Làm Hoàng Đế.FULL CÓ KẾT",
       "channel": "movies7",
@@ -63358,20 +62588,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "Q4BBQpZ2ypk",
-      "title": "Chàng trai nghèo khổ bị hành hạ tình cờ tìm được chiếc gương thần,hóa thành người giàu nhất thế giới",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-26T10:00:39Z",
-      "duration_seconds": 6640,
-      "thumbnail_url": "https://i.ytimg.com/vi/Q4BBQpZ2ypk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -63415,6 +62631,20 @@
       "categories": []
     },
     {
+      "id": "qwcBulLOZgk",
+      "title": "NỮ OA GIÁNG THẾ | HỒNG HOANG CHIẾN | LY VIETSUB 360",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T04:15:06Z",
+      "duration_seconds": 39097,
+      "thumbnail_url": "https://i.ytimg.com/vi/qwcBulLOZgk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "HEc6sKUsXEA",
       "title": "Xuyên Không Dị Giới,Thức Tỉnh Hệ Thống Hoàn Thành Di Nguyện Nhận Thưởng(TẬP 83-86)Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -63443,6 +62673,20 @@
       ]
     },
     {
+      "id": "8QMV2G5ruCM",
+      "title": "15-21 | BÁI SƯ THÔNG THIÊN | HỒNG HOANG CHIẾN | LYVIETSUB 185",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T01:58:01Z",
+      "duration_seconds": 1814,
+      "thumbnail_url": "https://i.ytimg.com/vi/8QMV2G5ruCM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "vlLJ4C9srSc",
       "title": "Đi làm Shipper bắt gặp vợ ngoại tình #dramas #phim #kdrama #chinesedrama #shorts",
       "channel": "drama7",
@@ -63453,6 +62697,20 @@
       "embeddable": true,
       "kind": "short",
       "categories": []
+    },
+    {
+      "id": "veH1jBr6Qts",
+      "title": "HỒNG HOANG ĐAN SƯ | HỒNG HOANG CHIẾN | LY VIETSUB 750",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T12:15:07Z",
+      "duration_seconds": 4880,
+      "thumbnail_url": "https://i.ytimg.com/vi/veH1jBr6Qts/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
     },
     {
       "id": "rWvjDZEGG-g",
@@ -63511,6 +62769,20 @@
       ]
     },
     {
+      "id": "y7NksGCuxXA",
+      "title": "MA THẦN THƠI GIAN | HỒNG HOANG CHIẾN | LY VIETSUB 700",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T10:45:06Z",
+      "duration_seconds": 6313,
+      "thumbnail_url": "https://i.ytimg.com/vi/y7NksGCuxXA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "vxY-hOEQN3k",
       "title": "Xuyên không tới thế giới tu tiên,nhờ hệ thông một phàm nhân đã vô địch từ đầu",
       "channel": "movies8",
@@ -63518,6 +62790,20 @@
       "published_at": "2026-03-25T10:37:44Z",
       "duration_seconds": 2419,
       "thumbnail_url": "https://i.ytimg.com/vi/vxY-hOEQN3k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "K1Sv4mCdXjo",
+      "title": "TẬP 1-3 | UY CHẤN TIỆT GIÁO | HỒNG HOANG CHIẾN | LY VIETSUB",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T10:15:03Z",
+      "duration_seconds": 1165,
+      "thumbnail_url": "https://i.ytimg.com/vi/K1Sv4mCdXjo/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -63564,6 +62850,20 @@
       "kind": "regular",
       "categories": [
         "drama"
+      ]
+    },
+    {
+      "id": "mJMV7TP9cbc",
+      "title": "HỖN ĐỘN MA VIÊN | HỒNG HOANG CHIẾN | LY VIETSUB 565",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T04:15:03Z",
+      "duration_seconds": 2017,
+      "thumbnail_url": "https://i.ytimg.com/vi/mJMV7TP9cbc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
       ]
     },
     {
@@ -63712,20 +63012,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "FxQOwHiWnzQ",
-      "title": "Trước hôn lễ bị vợ chưa cưới phản bội! Chú rể tuyên bố hủy hôn, một nữ CEO xinh đẹp bỗng cầu hôn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-23T10:00:21Z",
-      "duration_seconds": 4794,
-      "thumbnail_url": "https://i.ytimg.com/vi/FxQOwHiWnzQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -63989,20 +63275,6 @@
       ]
     },
     {
-      "id": "oxxBnVEwURU",
-      "title": "Rể hờ nghèo bị vợ phản bội, thức tỉnh hệ thống - tiêu tiền cho gái khác là được tỷ phú, vợ hối hận!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-21T10:01:13Z",
-      "duration_seconds": 7208,
-      "thumbnail_url": "https://i.ytimg.com/vi/oxxBnVEwURU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Ht3wh94LAY0",
       "title": "Phần 1  | Biệt Đội Cứu Thế |  Sora Dub",
       "channel": "drama2",
@@ -64108,20 +63380,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "agH_ZNNFiDg",
-      "title": "Đứa trẻ sinh ra đã biết đi - 20 năm sau thành Chiến Thần vô địch khiến thiên hạ run sợ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-20T10:00:03Z",
-      "duration_seconds": 8624,
-      "thumbnail_url": "https://i.ytimg.com/vi/agH_ZNNFiDg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -64233,20 +63491,6 @@
       "categories": []
     },
     {
-      "id": "hRDHmHCEvqM",
-      "title": "Anh về quê, thấy vợ con bị giam cầm -lập tức hủy diệt sào huyệt băng đảng! Hóa ra anh là Chiến Thần!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-19T10:01:11Z",
-      "duration_seconds": 3041,
-      "thumbnail_url": "https://i.ytimg.com/vi/hRDHmHCEvqM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "9cJBb4H1vCM",
       "title": "Xuyên Không Làm Thầy Bói: Sáng Bày Sạp Xem Quẻ Tích Điểm, Tối Xách Đao Đi Săn Yêu Quái (23-24-25)",
       "channel": "movies7",
@@ -64328,20 +63572,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "BdY_lsq0g4E",
-      "title": "Vua chiến tranh về hưu, con gái bị bắt cóc - hắn đột nhập giải cứu, một tay san bằng sào huyệt!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-18T10:00:15Z",
-      "duration_seconds": 5656,
-      "thumbnail_url": "https://i.ytimg.com/vi/BdY_lsq0g4E/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -64495,20 +63725,6 @@
       ]
     },
     {
-      "id": "0C9Y6EmZ-Ec",
-      "title": "Chàng trai đỡ cô gái rơi từ trời, đuổi kẻ bắt nạt - hóa ra anh là thần tiên chuyển thế!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-17T10:00:00Z",
-      "duration_seconds": 9012,
-      "thumbnail_url": "https://i.ytimg.com/vi/0C9Y6EmZ-Ec/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "bGtddaZfVlk",
       "title": "Tổng Tài mất đời trai vì nữ bác sĩ! 😱#phim #shorts",
       "channel": "drama7",
@@ -64596,20 +63812,6 @@
       "published_at": "2026-03-16T10:01:24Z",
       "duration_seconds": 9606,
       "thumbnail_url": "https://i.ytimg.com/vi/mTKOqUibs0I/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "LsR-0uNDZVo",
-      "title": "Một người đàn ông cứu một mỹ nữ bị quấy rối,chọc giận bọn xấu-không ngờ anh là lính đặc chủng về hưu",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-16T10:00:37Z",
-      "duration_seconds": 3304,
-      "thumbnail_url": "https://i.ytimg.com/vi/LsR-0uNDZVo/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -64720,20 +63922,6 @@
       "published_at": "2026-03-15T12:02:08Z",
       "duration_seconds": 8534,
       "thumbnail_url": "https://i.ytimg.com/vi/Ds6eCKm6RUA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "jYvgGBeStMk",
-      "title": "Anh nghèo được ăn mày cứu, có siêu năng lực sao chép - một đêm giàu sang, kỳ trân dị bảo đầy tay!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-15T10:01:04Z",
-      "duration_seconds": 6045,
-      "thumbnail_url": "https://i.ytimg.com/vi/jYvgGBeStMk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -64945,20 +64133,6 @@
       ]
     },
     {
-      "id": "_oo6M7eXtP4",
-      "title": "Shipper bị làm nhục được phù thủy ban phước - giá toàn cầu sụp, thành tỷ phú, mỹ nữ theo đuổi!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-13T10:00:59Z",
-      "duration_seconds": 5936,
-      "thumbnail_url": "https://i.ytimg.com/vi/_oo6M7eXtP4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "UnTuLLYsFqg",
       "title": "Xuyên Không Thành Cường Giả Vô Địch, Nhưng Bị Hệ Thống Ép Làm Liếm Cẩu (Tập 1-54)",
       "channel": "movies7",
@@ -65022,20 +64196,6 @@
       "published_at": "2026-03-12T11:30:53Z",
       "duration_seconds": 8649,
       "thumbnail_url": "https://i.ytimg.com/vi/zHjBT20KPoM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "zqrYeHI-MR0",
-      "title": "Anh nghèo có siêu năng lực,tỏ tình nữ CEO băng giá-càng sốc càng thưởng lớn,một đêm thành siêu giàu!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-12T10:01:38Z",
-      "duration_seconds": 6811,
-      "thumbnail_url": "https://i.ytimg.com/vi/zqrYeHI-MR0/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -65130,20 +64290,6 @@
       "published_at": "2026-03-11T11:00:23Z",
       "duration_seconds": 7261,
       "thumbnail_url": "https://i.ytimg.com/vi/HX3trYGW7EU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "dxMuHVUoQ7o",
-      "title": "Cậu bé tuổi này sở hữu thân thể bất tử,dù bị bom nổ hay trúng đạn vẫn có thể tái sinh,anh ta là ai",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-11T10:01:05Z",
-      "duration_seconds": 8799,
-      "thumbnail_url": "https://i.ytimg.com/vi/dxMuHVUoQ7o/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -65347,20 +64493,6 @@
       ]
     },
     {
-      "id": "RBNUwvsXLd8",
-      "title": "Nam nhân tẩu hỏa, mỹ nữ hiến thân cứu - thức tỉnh thần công, quét sạch cao thủ, vô địch thiên hạ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-08T10:00:44Z",
-      "duration_seconds": 7748,
-      "thumbnail_url": "https://i.ytimg.com/vi/RBNUwvsXLd8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "knoooRIOuF8",
       "title": "Đỉnh Cấp Kiếm Tôn Giả Mù, Vợ Là Ma Tôn, Con Gái Là Yêu Nghiệt: Cả Gia Đình Ta Quậy Tung Tiên Giới",
       "channel": "movies7",
@@ -65414,20 +64546,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "niT8jH-PQQs",
-      "title": "Chàng trai thần bí làm bảo vệ,hóa ra là thuốc giải mệnh của nữ CEO-Nàng mang tỷ phú gia sản cầu hôn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-07T10:01:08Z",
-      "duration_seconds": 6346,
-      "thumbnail_url": "https://i.ytimg.com/vi/niT8jH-PQQs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -65879,20 +64997,6 @@
       ]
     },
     {
-      "id": "vkay6Z7g5bA",
-      "title": "Tiểu nam hài tuổi bị Thần y đời trước nhập thể! Cứu tỷ phú, vực dậy gia tộc,kẻ ác quỳ lạy van xin!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-02T10:01:19Z",
-      "duration_seconds": 4802,
-      "thumbnail_url": "https://i.ytimg.com/vi/vkay6Z7g5bA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "iPwW6LOoYiw",
       "title": "Cô gái bị bạn phản bội mất trí nhớ,nhờ tài kinh doanh tiếp quản công ty,kết hôn với bạn trai phi côn",
       "channel": "drama4",
@@ -65954,20 +65058,6 @@
       "published_at": "2026-03-01T11:01:00Z",
       "duration_seconds": 6111,
       "thumbnail_url": "https://i.ytimg.com/vi/XTgeGYuBsFo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "bukAL8FNzSM",
-      "title": "Vợ chê chồng bất tài, ngoại tình với thiếu gia nhà giàu - không ngờ chồng là trùm xã hội đen!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-03-01T10:00:48Z",
-      "duration_seconds": 4109,
-      "thumbnail_url": "https://i.ytimg.com/vi/bukAL8FNzSM/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -66101,20 +65191,6 @@
       ]
     },
     {
-      "id": "brUtJ2VUGQc",
-      "title": "Anh nghèo bị hại chết, trọng sinh thành lão - mỗi ngày tỏ tình gái đẹp là có tiền tỷ và trẻ lại!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-27T12:48:00Z",
-      "duration_seconds": 6467,
-      "thumbnail_url": "https://i.ytimg.com/vi/brUtJ2VUGQc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "7U6CTEUWQYM",
       "title": "Chịu tù thay 3 năm, ra tù tôi lập tức trả thù, xé toang mặt nạ giả dối của thiên kim giả!",
       "channel": "drama8",
@@ -66232,20 +65308,6 @@
       "published_at": "2026-02-26T11:00:16Z",
       "duration_seconds": 6606,
       "thumbnail_url": "https://i.ytimg.com/vi/BDVpWomOWyw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "2hFfQkmKhdA",
-      "title": "Thằng ngốc sống sót hóa ra là Chiến Thần vô địch - Bốn chị dâu đều muốn gả cho hắn! #phimhay",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-26T10:00:04Z",
-      "duration_seconds": 5737,
-      "thumbnail_url": "https://i.ytimg.com/vi/2hFfQkmKhdA/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -66377,20 +65439,6 @@
       ]
     },
     {
-      "id": "NcVtjLXwZ5A",
-      "title": "Nữ hoàng giới siêu giàu quỳ lạy ăn mày đường phố – Hóa ra là Bá chủ tối cao thế giới!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-24T10:00:37Z",
-      "duration_seconds": 5995,
-      "thumbnail_url": "https://i.ytimg.com/vi/NcVtjLXwZ5A/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "2lxheD6uUM0",
       "title": "Phần 1 | Phía Sau Em Vẫn Luôn Có Anh |  Sora Dub",
       "channel": "drama2",
@@ -66447,20 +65495,6 @@
       ]
     },
     {
-      "id": "Stz8hNPLAlg",
-      "title": "Sát thủ đỉnh cao ẩn thân 18 năm nuôi con gái, bị kẻ thù bắt cóc ức hiếp -Hắn trở về tận diệt tất cả!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-23T10:00:42Z",
-      "duration_seconds": 4808,
-      "thumbnail_url": "https://i.ytimg.com/vi/Stz8hNPLAlg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "eKn8_6FYHVU",
       "title": "Full Version | Cái Giá Của Sự Phản Bội |  Sora Dub",
       "channel": "drama2",
@@ -66496,20 +65530,6 @@
       "published_at": "2026-02-22T11:00:49Z",
       "duration_seconds": 6055,
       "thumbnail_url": "https://i.ytimg.com/vi/XtrJcXUHrk0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "xKL_YvjmSIY",
-      "title": "Chàng trai nghèo trộm nhìn cô gái tắm,bất ngờ có được sức mạnh chiến thần,cưới được tiểu thư tỷ phú!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-22T10:01:27Z",
-      "duration_seconds": 8562,
-      "thumbnail_url": "https://i.ytimg.com/vi/xKL_YvjmSIY/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -66559,20 +65579,6 @@
       ]
     },
     {
-      "id": "m0ldz4FRD2w",
-      "title": "Người thợ dùng thân đỡ viên đạn bay, cứu con gái thủ phú! Hóa ra anh là vô địch Chiến Thần!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-21T10:01:06Z",
-      "duration_seconds": 7680,
-      "thumbnail_url": "https://i.ytimg.com/vi/m0ldz4FRD2w/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "PsDgAgLlll4",
       "title": "Chủ Tịch Xuyên Không Làm Huyện Lệnh Mở Sòng Bạc, Bán Vé Số, Bắt Hoàng Đế Xếp Hàng (TẬP 1-51)",
       "channel": "movies7",
@@ -66608,20 +65614,6 @@
       "published_at": "2026-02-20T10:00:28Z",
       "duration_seconds": 6684,
       "thumbnail_url": "https://i.ytimg.com/vi/AazCPuj83Eo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "BIZ8h6-PB5g",
-      "title": "Ác bá truy sát nữ CEO, không ngờ đụng trúng Chiến Thần múa Đao Đồ Long - Xong đời cả lũ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-20T10:00:14Z",
-      "duration_seconds": 9175,
-      "thumbnail_url": "https://i.ytimg.com/vi/BIZ8h6-PB5g/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -66723,20 +65715,6 @@
       "embeddable": true,
       "kind": "short",
       "categories": []
-    },
-    {
-      "id": "WneirXmS2JU",
-      "title": "Thiên tài kiếm thuật bị đầu độc thành chậm chạp, lại được mãng xà nhận làm chủ, bắt đầu báo thù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-18T10:00:48Z",
-      "duration_seconds": 9466,
-      "thumbnail_url": "https://i.ytimg.com/vi/WneirXmS2JU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
     },
     {
       "id": "6-qVy2ZnwQE",
@@ -66862,20 +65840,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "EkO8RT2H_0w",
-      "title": "Cha cấm con tập võ để giữ mạng, nào ngờ con trộm luyện thành võ lâm đệ nhất! #kungfu",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-16T10:00:19Z",
-      "duration_seconds": 7107,
-      "thumbnail_url": "https://i.ytimg.com/vi/EkO8RT2H_0w/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -67213,20 +66177,6 @@
       "categories": []
     },
     {
-      "id": "9qQAwARnMX4",
-      "title": "Học sinh phổ thông bình thường hóa ra là Vua thế giới,sức chiến đấu bá đạo, giới quyền quý kinh hãi!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-12T10:00:12Z",
-      "duration_seconds": 5276,
-      "thumbnail_url": "https://i.ytimg.com/vi/9qQAwARnMX4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "LSun-uWoYmM",
       "title": "Xuyên Không Làm Thái Giám Giả: Từ Tù Nhân Thành Trùm Đông Xưởng | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -67519,20 +66469,6 @@
       ]
     },
     {
-      "id": "Xn2hFtRW0jQ",
-      "title": "Tiểu thư khinh chồng vệ sĩ, không ngờ anh là Chiến Thần Kim Long diệt hết kẻ thù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-07T10:00:47Z",
-      "duration_seconds": 5751,
-      "thumbnail_url": "https://i.ytimg.com/vi/Xn2hFtRW0jQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "_9ieJwv_w_Q",
       "title": "Bé Gái 3 Tuổi Xuống Núi Tìm Mẹ, Tiện Tay Diệt Luôn Cả Tông Môn Kẻ Thù (FULL BỘ) | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -67699,20 +66635,6 @@
       ]
     },
     {
-      "id": "omoM1SpvBTU",
-      "title": "Nữ CEO sỉ nhục nhân viên vệ sinh, không ngờ anh là thủ lĩnh đặc công, còn con trai là tỷ phú số một！",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-05T10:01:14Z",
-      "duration_seconds": 6094,
-      "thumbnail_url": "https://i.ytimg.com/vi/omoM1SpvBTU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "B_LODANYGX0",
       "title": "FULL BỘ | Thần Thoại Lôi Đài: Liên Minh Thần Thoại Âu Mỹ Hy Lạp đối đầu Thần Thoại Trung Quốc",
       "channel": "movies7",
@@ -67858,20 +66780,6 @@
       "published_at": "2026-02-03T10:20:03Z",
       "duration_seconds": 1519,
       "thumbnail_url": "https://i.ytimg.com/vi/4BxwDBvVdgk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "xIDFOM5_fmo",
-      "title": "Nữ CEO từ chối chàng trai nghèo, nhưng anh đã giải nguy cho cô. Giờ cô hối hận cầu xin tha thứ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-02-03T10:01:24Z",
-      "duration_seconds": 4322,
-      "thumbnail_url": "https://i.ytimg.com/vi/xIDFOM5_fmo/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -68143,20 +67051,6 @@
       ]
     },
     {
-      "id": "bjnx0qCjSYc",
-      "title": "Bắt gian bạn gái, hệ thống thần hào kích hoạt – thành tỷ phú, vô số mỹ nữ đuổi theo!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-29T10:01:01Z",
-      "duration_seconds": 6939,
-      "thumbnail_url": "https://i.ytimg.com/vi/bjnx0qCjSYc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "FD1hGTMUP9Y",
       "title": "Người chồng luôn coi thường cô gái giao đồ ăn, cho đến khi người cha tỷ phú đón cô về thừa kế gia sả",
       "channel": "drama4",
@@ -68210,20 +67104,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "Nv8IOpoHCu0",
-      "title": "Ác bá gây sự trước sạp thịt lợn, không ngờ anh hàng thịt là đại ca xã hội đen! 3 giây quật ngã hết!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-28T10:00:36Z",
-      "duration_seconds": 5844,
-      "thumbnail_url": "https://i.ytimg.com/vi/Nv8IOpoHCu0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -68297,20 +67177,6 @@
       ]
     },
     {
-      "id": "o9LHti7ayy0",
-      "title": "Tên bị chế giễu ở tang lễ lộ thân phận thật – Người thuần rồng, Chủ nhân thế giới!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-27T10:01:18Z",
-      "duration_seconds": 4476,
-      "thumbnail_url": "https://i.ytimg.com/vi/o9LHti7ayy0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "3kxdZNDXjRI",
       "title": "Cô gái bị thiên kim giả bắt nạt, nào ngờ cô lại là Vợ Chủ Tịch giả dạng để thử lòng họ",
       "channel": "drama4",
@@ -68362,20 +67228,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "EmLni-_SIWE",
-      "title": "Các vua quyền Anh AI chế nhạo cậu bé tuổi, nhưng cậu một quyền đánh ngã tất cả đối thủ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-26T10:00:16Z",
-      "duration_seconds": 4118,
-      "thumbnail_url": "https://i.ytimg.com/vi/EmLni-_SIWE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -68516,20 +67368,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "ErJIAUuUEDs",
-      "title": "Ác ma định luyện cô gái thành đan dược,không ngờ cha cô là Chiến Thần!Khiến ác ma tan thành mây khói",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-24T10:00:31Z",
-      "duration_seconds": 6163,
-      "thumbnail_url": "https://i.ytimg.com/vi/ErJIAUuUEDs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -68757,20 +67595,6 @@
       ]
     },
     {
-      "id": "lIK6L1uUsyM",
-      "title": "Giả chết thử lòng, ai cũng chê tôi, không ngờ tôi sở hữu tài sản tỷ đô! Họ hối hận vô cùng.",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-21T10:01:12Z",
-      "duration_seconds": 5911,
-      "thumbnail_url": "https://i.ytimg.com/vi/lIK6L1uUsyM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Sy096ncPLz4",
       "title": "Tổng Tài vì tình cũ mà vứt bỏ cô, tới khi cô trở thành phu nhân hào môn thì điên cuồng theo đuổi.",
       "channel": "drama4",
@@ -68932,20 +67756,6 @@
       "published_at": "2026-01-19T13:00:47Z",
       "duration_seconds": 6207,
       "thumbnail_url": "https://i.ytimg.com/vi/O538u9b2wg0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "4DSdon4IwaY",
-      "title": "Ác bá ức hiếp bà lão và bé gái nhặt rác, Chiến Thần Tốc Độ Hiện Ra Như Chớp–1 Giây Quét Sạch Cả Bọn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-19T10:00:10Z",
-      "duration_seconds": 6772,
-      "thumbnail_url": "https://i.ytimg.com/vi/4DSdon4IwaY/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -69439,20 +68249,6 @@
       "categories": []
     },
     {
-      "id": "OMyXHJPNV8A",
-      "title": "Thiếu gia đâm chết người đàn ông nghèo–hóa ra là con Chiến Thần! Ngài diệt sạch cả họ trong 3 giây!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-13T10:00:40Z",
-      "duration_seconds": 3467,
-      "thumbnail_url": "https://i.ytimg.com/vi/OMyXHJPNV8A/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "V2KoPPYuuN0",
       "title": "Vợ Của Tổng Tài Chuẩn Bị Vả Mặt Rồi",
       "channel": "drama5",
@@ -69614,20 +68410,6 @@
       "published_at": "2026-01-10T12:47:39Z",
       "duration_seconds": 7987,
       "thumbnail_url": "https://i.ytimg.com/vi/4q9uZKcrK4U/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "cvCB2Jejkuc",
-      "title": "Vợ ngoại tình, chồng tàn tật có siêu năng lực, chơi cổ phiếu 3 giờ kiếm 10 triệu đô, nữ CEO cầu hôn!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-10T10:01:04Z",
-      "duration_seconds": 6722,
-      "thumbnail_url": "https://i.ytimg.com/vi/cvCB2Jejkuc/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -70249,20 +69031,6 @@
       ]
     },
     {
-      "id": "d6sWV_5rdPw",
-      "title": "Trai nghèo bị bạn gái chê, ba CEO xinh đuổi theo, hóa ra anh là con trai thủ phú！#phim",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-02T10:00:58Z",
-      "duration_seconds": 6509,
-      "thumbnail_url": "https://i.ytimg.com/vi/d6sWV_5rdPw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "E-Lz3YhSr1o",
       "title": "Xuyên Không Giả Làm Thái Giám,Ta Có Hệ Thống Sao Chép Thiên Phú | FULL BỘ | tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -70302,20 +69070,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "GPQhgJpPYRc",
-      "title": "Nữ thừa kế mang thai trước hôn nhân bị chế giễu.Họ không biết cha đứa bé chính là tỷ phú Chiến Thần!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2026-01-01T12:00:25Z",
-      "duration_seconds": 4810,
-      "thumbnail_url": "https://i.ytimg.com/vi/GPQhgJpPYRc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -70442,20 +69196,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "xHarkJmBG8U",
-      "title": "Shipper bị vợ sắp cưới khinh thường, bất ngờ nhận hộp phép thuật, tu tiên thành tỷ phú!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-31T10:01:39Z",
-      "duration_seconds": 4926,
-      "thumbnail_url": "https://i.ytimg.com/vi/xHarkJmBG8U/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -70678,20 +69418,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "j00OlKbm4C4",
-      "title": "Mẹ bị bắt cóc, vợ ngoại tình,ai ngờ anh chính là người thừa kế tỷ phú đang tìm kiếm!Họ tiêu đời rồi!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-28T10:01:18Z",
-      "duration_seconds": 8117,
-      "thumbnail_url": "https://i.ytimg.com/vi/j00OlKbm4C4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -71473,20 +70199,6 @@
       ]
     },
     {
-      "id": "ns1i1AxoZM4",
-      "title": "Tảng đá 10 ngàn tấn bất khả xâm, cậu bé tuổi hôn mê dùng một tay đập nát. Hắn là ai? #phimhay",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-18T10:01:16Z",
-      "duration_seconds": 5759,
-      "thumbnail_url": "https://i.ytimg.com/vi/ns1i1AxoZM4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "KwaMg7iMR38",
       "title": "Xuyên Không Đến Thế Giới Hồng Lâu Mộng, Thức Tỉnh Hệ Thống Bắt Tội Phạm (TẬP 48) taihalephidung",
       "channel": "movies7",
@@ -71554,20 +70266,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "FJ8x1WBQKuA",
-      "title": "Sau 60 năm thiên giới trở về, anh cứu cô gái bị truy sát...chủ mưu lại là chắt ruột của mình! #phim",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-17T10:00:20Z",
-      "duration_seconds": 5198,
-      "thumbnail_url": "https://i.ytimg.com/vi/FJ8x1WBQKuA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -71722,20 +70420,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "UtvNCCO9xHI",
-      "title": "Kẻ ăn xin được nữ CEO xinh đẹp bố thí,hóa ra là Thần Tài!Những kẻ từng làm nhục anh ta giờ trắng tay",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-15T10:00:52Z",
-      "duration_seconds": 5190,
-      "thumbnail_url": "https://i.ytimg.com/vi/UtvNCCO9xHI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -72017,20 +70701,6 @@
       ]
     },
     {
-      "id": "u_l0gHM5ttI",
-      "title": "Xuống núi cầu hôn bị chê, cứu người bị chế giễu. Không ngờ ta chém thần vô địch, mọi người hối hận!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-10T10:03:00Z",
-      "duration_seconds": 6311,
-      "thumbnail_url": "https://i.ytimg.com/vi/u_l0gHM5ttI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "yFpjgGd7jF4",
       "title": "xuyên không qua hồng hoang mở màn anh đã có trận chiến với thiên đạo phần 2",
       "channel": "movies8",
@@ -72070,20 +70740,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "SoWklnSaGt4",
-      "title": "Một chàng trai nghèo dùng máu mình cứu con gái tỷ phú giàu nhất, lập tức được cầu hôn. #phim #drama",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-09T10:00:47Z",
-      "duration_seconds": 6966,
-      "thumbnail_url": "https://i.ytimg.com/vi/SoWklnSaGt4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -72185,20 +70841,6 @@
       ]
     },
     {
-      "id": "bd8YNcVjCR0",
-      "title": "Người đàn ông cứu nữ vương hắc giáo khỏi thuốc tình, được truyền công lực hóa thành Chiến Thần!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-07T10:01:04Z",
-      "duration_seconds": 6956,
-      "thumbnail_url": "https://i.ytimg.com/vi/bd8YNcVjCR0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "QJu_GP_OHas",
       "title": "Tưởng ăn xin mà khinh thường đuổi đi, ai ngờ là cha chồng Tỷ Phú giả dạng để thử lòng! tiêu đời rồi!",
       "channel": "drama6",
@@ -72220,20 +70862,6 @@
       "published_at": "2025-12-06T11:15:02Z",
       "duration_seconds": 6105,
       "thumbnail_url": "https://i.ytimg.com/vi/CnAGw0xDUCE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "xNtjF391nbI",
-      "title": "Một thanh niên trộm thi thể từ nhà tù, suýt mất mạng,nhưng được huấn luyện thành Chiến Thần trả thù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-06T10:01:40Z",
-      "duration_seconds": 6783,
-      "thumbnail_url": "https://i.ytimg.com/vi/xNtjF391nbI/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -72337,20 +70965,6 @@
       "categories": []
     },
     {
-      "id": "AfCToi2ABPQ",
-      "title": "Bị vợ sắp cưới phản bội, nợ 200 triệu. Bất ngờ nhận hệ thống thần cấp, kiếm ngay 1 tỷ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-04T10:00:16Z",
-      "duration_seconds": 7374,
-      "thumbnail_url": "https://i.ytimg.com/vi/AfCToi2ABPQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "51QRGXRWzGE",
       "title": "Để thử lòng cô vợ hám tiền, tỷ phú che giấu thân phận ở rể suốt 5 năm và cái kết",
       "channel": "drama6",
@@ -72404,20 +71018,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "JkX03W82ur4",
-      "title": "Người phỏng vấn chê bai ứng viên,nào ngờ tỷ phú nhất định phải thuê:anh ấy chính là hacker đỉnh cao!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-03T10:00:37Z",
-      "duration_seconds": 5723,
-      "thumbnail_url": "https://i.ytimg.com/vi/JkX03W82ur4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -72512,20 +71112,6 @@
       "published_at": "2025-12-01T10:01:47Z",
       "duration_seconds": 8689,
       "thumbnail_url": "https://i.ytimg.com/vi/yINuhfy0cCI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "7-pEAW5hTCo",
-      "title": "Chiến Thần trọng thương, địch lợi dụng cơ hội, nào ngờ anh đang giương kế \"dụ địch\"!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-12-01T10:00:20Z",
-      "duration_seconds": 5729,
-      "thumbnail_url": "https://i.ytimg.com/vi/7-pEAW5hTCo/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -72659,20 +71245,6 @@
       ]
     },
     {
-      "id": "7MBxWAe3UNc",
-      "title": "Người đẹp chê anh là đồ nghèo trong buổi hẹn hò, không ngờ anh chính là tỷ phú giàu nhất thế giới!!!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-29T10:00:10Z",
-      "duration_seconds": 6995,
-      "thumbnail_url": "https://i.ytimg.com/vi/7MBxWAe3UNc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "rlMxJCr1Euk",
       "title": "Mẹ bị bắt nạt, con trai thông minh giúp mẹ đập ả tiểu tam 1 trận nhớ đời và cái kết",
       "channel": "drama5",
@@ -72768,20 +71340,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "mRtKRCU27ZA",
-      "title": "Người phụ nữ bị ám sắp hại gia đình, may nhờ Chiến Thần dùng bùa hộ mệnh cứu nguy!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-27T10:01:22Z",
-      "duration_seconds": 5282,
-      "thumbnail_url": "https://i.ytimg.com/vi/mRtKRCU27ZA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -72965,20 +71523,6 @@
       "categories": []
     },
     {
-      "id": "ijAj-n1Jj_o",
-      "title": "Một cô gái bị quấy rối trong bar được người đàn ông bí ẩn giải cứu. Anh ta là ai?",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-24T10:01:10Z",
-      "duration_seconds": 5045,
-      "thumbnail_url": "https://i.ytimg.com/vi/ijAj-n1Jj_o/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "dzudoUB5sHQ",
       "title": "Cô gái tưởng mình cưới phải chồng nghèo, không ngờ anh ta lại là người giàu nhất thế giới",
       "channel": "drama5",
@@ -73004,20 +71548,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "g_95ocjCY_4",
-      "title": "Chàng shipper gặp tiên, vô tình đoạt được sức mạnh thời gian, khiến đối thủ già nua trong chớp mắt!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-23T10:01:08Z",
-      "duration_seconds": 7328,
-      "thumbnail_url": "https://i.ytimg.com/vi/g_95ocjCY_4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -73060,20 +71590,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "cV32oE7mLJk",
-      "title": "Vị thần chiến tranh ẩn mình nhiều năm,khi biết tin cháu gái bị bắt nạt,ngay dẫn đại quân đi trả thù!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-22T10:01:06Z",
-      "duration_seconds": 5667,
-      "thumbnail_url": "https://i.ytimg.com/vi/cV32oE7mLJk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -73406,20 +71922,6 @@
       "published_at": "2025-11-17T10:01:26Z",
       "duration_seconds": 7381,
       "thumbnail_url": "https://i.ytimg.com/vi/tE2JpEVcs5Y/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "Do5N8sDJh00",
-      "title": "Tù nhân bị ngược đãi, ai ngờ hóa ra y thần! Dùng Cây Kim Định Sinh Tử Khiến Kẻ Thù Khiếp Sợ!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-17T10:00:18Z",
-      "duration_seconds": 9827,
-      "thumbnail_url": "https://i.ytimg.com/vi/Do5N8sDJh00/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -73889,20 +72391,6 @@
       ]
     },
     {
-      "id": "mAFSDDY7KBs",
-      "title": "Thái tử thất thế làm shipper! Giúp bà lão đoạt lại túi xách và khuất phục kẻ bắt nạt!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-10T10:01:15Z",
-      "duration_seconds": 6299,
-      "thumbnail_url": "https://i.ytimg.com/vi/mAFSDDY7KBs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "gkp03nqI2i4",
       "title": "Từ phàm nhân nghich thiên thành tu tiên giả I phần 1",
       "channel": "movies8",
@@ -73924,20 +72412,6 @@
       "published_at": "2025-11-10T05:00:32Z",
       "duration_seconds": 8104,
       "thumbnail_url": "https://i.ytimg.com/vi/JoGWJ3qISwE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "U35kzhIovY0",
-      "title": "Ông lão từng bị ngược đãi giờ đây trẻ lại, hóa thành chiến thần tuấn tú! Bọn họ tiêu đời rồi!",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-09T10:00:48Z",
-      "duration_seconds": 8065,
-      "thumbnail_url": "https://i.ytimg.com/vi/U35kzhIovY0/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -74054,20 +72528,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "zCZDdW7HZVU",
-      "title": "Lũ côn đồ hành hạ mẹ, nhưng không biết con trai bà là Chiến Thần bất khả chiến bại !",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-11-07T10:01:45Z",
-      "duration_seconds": 4867,
-      "thumbnail_url": "https://i.ytimg.com/vi/zCZDdW7HZVU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -74893,20 +73353,6 @@
       ]
     },
     {
-      "id": "7FLk94fbt68",
-      "title": "Bị bạn thân và bạn gái phản bội, tôi tiết lộ thân phận tỷ phú và hủy hôn trước mặt tất cả！",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-10-21T10:00:10Z",
-      "duration_seconds": 4323,
-      "thumbnail_url": "https://i.ytimg.com/vi/7FLk94fbt68/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "gC1s8aX0Ajw",
       "title": "hán sở kiêu hùng : trọng sinh thành hạng vũ trong trận chiến cai hạ và cú lừa tứ diện sở ca",
       "channel": "movies8",
@@ -75361,20 +73807,6 @@
       "embeddable": true,
       "kind": "short",
       "categories": []
-    },
-    {
-      "id": "gB64StPTofY",
-      "title": "Người nhà quê bị chê cười trong bữa tiệc, hóa ra lại là con trai của tỷ phú!Giật mình cả hội trường！",
-      "channel": "drama3",
-      "channel_title": "Drama Huyết Chiến",
-      "published_at": "2025-10-12T10:01:00Z",
-      "duration_seconds": 5370,
-      "thumbnail_url": "https://i.ytimg.com/vi/gB64StPTofY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
     },
     {
       "id": "pYGEDnXkbso",
