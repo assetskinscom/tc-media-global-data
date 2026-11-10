@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T23:22:02Z",
+  "generated_at": "2026-11-10T00:14:31Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "u1ziJMW21eY",
+      "title": "Bạn Trai Cá Cược Tán Đổ Hoa Khôi Rồi Ruồng Bỏ, Nào Ngờ Cô Cưới Vị Tổng Tài Đã Yêu Thầm Mình 10 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-10T00:00:37Z",
+      "duration_seconds": 7836,
+      "thumbnail_url": "https://i.ytimg.com/vi/u1ziJMW21eY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "B95DmlIfsHI",
       "title": "Bị Cha Ép Gả Cho Gã Vũ Phu, Cô Cưới Người Từng Cứu Mình, Nào Ngờ Anh Là Người Giàu Nhất Tô Thành",
