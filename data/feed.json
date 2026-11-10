@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T00:14:31Z",
+  "generated_at": "2026-11-10T01:45:21Z",
   "last_full_refresh_at": "2026-11-09T05:42:48Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "KVa3bpl-BFs",
+      "title": "Bị Lưu Đày Ra Biên Ải, Hắn Kích Hoạt Hệ Thống Đăng Nhập, Triệu Hồi Thần Tướng Đánh Bại Triệu Quân!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-10T01:30:30Z",
+      "duration_seconds": 7203,
+      "thumbnail_url": "https://i.ytimg.com/vi/KVa3bpl-BFs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "YlmNt-BeGfw",
+      "title": "7,5 GIỜ | Thập Linh Vấn Đạo - Đệ Tử Tạp Dịch 10 Linh Căn - Sở Hữu Ngọc Thần Âm Thầm Thành Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-10T01:08:31Z",
+      "duration_seconds": 26877,
+      "thumbnail_url": "https://i.ytimg.com/vi/YlmNt-BeGfw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "JjArxZh-pAQ",
+      "title": "Phần 1: Phàm Nhân Tu Tiên Ký (Hành Trình Tu Tiên Của Kẻ Hàn Môn).",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T00:23:14Z",
+      "duration_seconds": 32528,
+      "thumbnail_url": "https://i.ytimg.com/vi/JjArxZh-pAQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "u1ziJMW21eY",
       "title": "Bạn Trai Cá Cược Tán Đổ Hoa Khôi Rồi Ruồng Bỏ, Nào Ngờ Cô Cưới Vị Tổng Tài Đã Yêu Thầm Mình 10 Năm",
