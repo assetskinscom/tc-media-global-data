@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T06:38:40Z",
+  "generated_at": "2026-11-11T07:56:12Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "bVQtv77l1ww",
+      "title": "3 GIỜ | Đại Đế Ngủ Say Vạn Năm - Làm Phàm Nhân Sống An Nhàn Nào Ngờ Bị Các Tông Môn Coi Thường",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T07:30:50Z",
+      "duration_seconds": 10069,
+      "thumbnail_url": "https://i.ytimg.com/vi/bVQtv77l1ww/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "MvbFIq11BZc",
+      "title": "Bị Cha Ruột Ép Nhường Cả Cửa Hàng, Anh Giao Hết Rồi Mở Nhà Máy, Nào Ngờ Cả Nhà Phá Sản Lại Quỳ Xin",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T07:30:21Z",
+      "duration_seconds": 7511,
+      "thumbnail_url": "https://i.ytimg.com/vi/MvbFIq11BZc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "aPZAmit4lSw",
+      "title": "Trọng Sinh Để Cứu Gia Tộc Diệt Vong, Ta Quỳ 3 Ngày Cầu Xin Quyền Thần, Nghịch Chuyển Thiên Mệnh!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-11T07:11:47Z",
+      "duration_seconds": 18807,
+      "thumbnail_url": "https://i.ytimg.com/vi/aPZAmit4lSw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "StqFUL1bd0E",
       "title": "8 GIỜ THỎA MÃN  | Từ Người Hầu Thành Võ Thánh - Hệ Thống Rèn Luyện Kỹ Năng Âm Thầm Học Tuyệt Kỹ",
