@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T07:56:12Z",
+  "generated_at": "2026-11-11T08:47:58Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "-SKSlxZJifo",
+      "title": "P1-6 BẢN ĐẸP | 51 GIỜ THỎA MÃN | Hóa Thành Thần Thụ - 1 Chiếc Lá Cũng Khiến Đại Đế Khiếp Sợ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T08:21:31Z",
+      "duration_seconds": 184510,
+      "thumbnail_url": "https://i.ytimg.com/vi/-SKSlxZJifo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "bVQtv77l1ww",
       "title": "3 GIỜ | Đại Đế Ngủ Say Vạn Năm - Làm Phàm Nhân Sống An Nhàn Nào Ngờ Bị Các Tông Môn Coi Thường",
