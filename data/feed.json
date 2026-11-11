@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T08:47:58Z",
+  "generated_at": "2026-11-11T09:48:21Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "1koQrY7qVuI",
+      "title": "Thần Phật Biến Mất,Yêu Ma Hoành Hành,Ta Thức Tỉnh Cây Thần Trước Ngực, Một Đường Trảm Yêu Thành Thần",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-11T09:42:08Z",
+      "duration_seconds": 18571,
+      "thumbnail_url": "https://i.ytimg.com/vi/1koQrY7qVuI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "2rxNNywmamM",
+      "title": "P1-2 | 28 GIỜ THỎA MÃN | Xuyên Làm Tạp Dịch Đào Mỏ - Hệ Thống Max Cấp Mọi Chỉ Số Tu Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T09:20:15Z",
+      "duration_seconds": 98710,
+      "thumbnail_url": "https://i.ytimg.com/vi/2rxNNywmamM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "QJiy1cKXEGo",
+      "title": "Vợ Đòi Ly Hôn Để Bên Thanh Mai Trúc Mã, Giang Thần Đồng Ý Ngay, Khiến Cô Thua Kiện Mất 13 Triệu Tệ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T09:00:27Z",
+      "duration_seconds": 4403,
+      "thumbnail_url": "https://i.ytimg.com/vi/QJiy1cKXEGo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "-SKSlxZJifo",
       "title": "P1-6 BẢN ĐẸP | 51 GIỜ THỎA MÃN | Hóa Thành Thần Thụ - 1 Chiếc Lá Cũng Khiến Đại Đế Khiếp Sợ",
@@ -680,7 +722,7 @@
       "channel": "drama7",
       "channel_title": "Nghiện Hoa Ngữ",
       "published_at": "2026-11-10T12:45:29Z",
-      "duration_seconds": 7193,
+      "duration_seconds": 7179,
       "thumbnail_url": "https://i.ytimg.com/vi/QPQn6NIm2v0/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
