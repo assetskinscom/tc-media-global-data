@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T12:50:32Z",
+  "generated_at": "2026-11-11T14:04:02Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "puC15_4JOis",
+      "title": "4 GIỜ | Thiếu Chủ Bị Hủy Hôn - Hệ Thống Mỗi Ngày Tăng 1 Cấp - Ta Nằm Im Bất Bại Trong Giới Tu Tiên",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T14:01:18Z",
+      "duration_seconds": 13779,
+      "thumbnail_url": "https://i.ytimg.com/vi/puC15_4JOis/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "708MBrLFykA",
+      "title": "Phần 5-P4(575): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-11T13:34:37Z",
+      "duration_seconds": 2889,
+      "thumbnail_url": "https://i.ytimg.com/vi/708MBrLFykA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zFQRWyudYXo",
+      "title": "Đệ Tử Tông Môn Phế Vật - Hệ Thống Chỉ Cần Tiêu Lịch Thạch Cũng Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T13:25:48Z",
+      "duration_seconds": 8625,
+      "thumbnail_url": "https://i.ytimg.com/vi/zFQRWyudYXo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "fQsH1GPJj4A",
       "title": "12 GIỜ THỎA MÃN | Xuyên Về Huyện Nghèo - Hệ Thống Bách Khoa Toàn Thư - Vươn Lên Thành Đại Đế",
