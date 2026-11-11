@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T14:04:02Z",
+  "generated_at": "2026-11-11T15:27:30Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "-2hG6UeQ96g",
+      "title": "FULL BỘ CÓ KẾT | 24 GIỜ THỎA MÃN | Xuyên Game Tu Tiên, Chỉ Mình Ta Có Thể Nạp Thẻ Vô Hạn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T14:49:35Z",
+      "duration_seconds": 85227,
+      "thumbnail_url": "https://i.ytimg.com/vi/-2hG6UeQ96g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "puC15_4JOis",
       "title": "4 GIỜ | Thiếu Chủ Bị Hủy Hôn - Hệ Thống Mỗi Ngày Tăng 1 Cấp - Ta Nằm Im Bất Bại Trong Giới Tu Tiên",
