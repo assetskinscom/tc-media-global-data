@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T22:35:37Z",
+  "generated_at": "2026-11-11T23:30:28Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "a460N9zIhcQ",
+      "title": "Phần 26: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-11T23:17:53Z",
+      "duration_seconds": 8639,
+      "thumbnail_url": "https://i.ytimg.com/vi/a460N9zIhcQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "i2GhL91Y5Gg",
+      "title": "Ta Có Thể Sao Chép Thuộc Tính (MÙA 1) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-11T23:00:17Z",
+      "duration_seconds": 16577,
+      "thumbnail_url": "https://i.ytimg.com/vi/i2GhL91Y5Gg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "zM1CDvZQRSI",
       "title": "Chồng Đòi Ly Hôn Khi Vợ Báo Thất Nghiệp, Nào Ngờ Cô Là Nữ Tổng Tài Đã Âm Thầm Nâng Đỡ Anh 3 Năm",
