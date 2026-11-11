@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T04:38:28Z",
+  "generated_at": "2026-11-11T05:37:46Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "XGk0WdEKG3c",
+      "title": "Toàn Dân Sinh Tồn Thức Tỉnh Thiên Phú SSS Tôi Một Mình Cân Cả Thành Phố Zombie | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-11T05:00:14Z",
+      "duration_seconds": 7335,
+      "thumbnail_url": "https://i.ytimg.com/vi/XGk0WdEKG3c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Ira2hfxN6rQ",
+      "title": "[FULL 29H] VÔ TÌNH CƯỚI 5 VỢ KHI LƯU ĐÀI BIÊN ẢI | LY VIETSUB 1463",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-11T04:42:22Z",
+      "duration_seconds": 104426,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ira2hfxN6rQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bPnSOHCWuFA",
+      "title": "Phần 7 | Vĩnh Dạ Ma Đế - Con Rể Linh Căn Phế Vật, Hệ Thống Hoàn Trả 1 Triệu Lần Tu Vi",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T04:42:03Z",
+      "duration_seconds": 10705,
+      "thumbnail_url": "https://i.ytimg.com/vi/bPnSOHCWuFA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "3_6cX-jl8Dw",
       "title": "5,5 GIỜ | Cha Ta Là Thiên Đạo - Đệ Tử Không Linh Căn - Kiên Trì Tu Luyện Ta Vẫn Trở Lên Bất Bại",
@@ -536,7 +578,7 @@
     },
     {
       "id": "qOFI6UngJ54",
-      "title": "Full Version l Biết Mình Là Nữ Phụ Độc Ác, Tôi Quyết Cứu Vị Tổng Tài Đoản Mệnh l Sora Dub",
+      "title": "Full Version 1 l Biết Mình Là Nữ Phụ Độc Ác, Tôi Quyết Cứu Vị Tổng Tài Đoản Mệnh l Sora Dub",
       "channel": "drama2",
       "channel_title": "Sora Dub",
       "published_at": "2026-11-10T13:30:32Z",
