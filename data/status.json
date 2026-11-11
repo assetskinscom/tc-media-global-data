@@ -1,36 +1,36 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-11T10:48:55Z",
+  "last_success_at": "2026-11-11T11:45:09Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3503,
-    "drama": 2080,
+    "cartoon": 3506,
+    "drama": 2083,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3503
+    "movies": 3506
   },
   "source_counts": {
     "music": 575,
-    "movies": 497,
+    "movies": 498,
     "movies2": 193,
-    "movies3": 275,
+    "movies3": 276,
     "movies4": 601,
     "movies5": 159,
-    "movies6": 607,
+    "movies6": 608,
     "movies7": 618,
     "movies8": 558,
     "drama": 125,
     "drama2": 312,
-    "drama3": 240,
+    "drama3": 241,
     "drama4": 314,
     "drama5": 338,
     "drama6": 224,
-    "drama7": 287,
+    "drama7": 288,
     "drama8": 306,
-    "drama9": 99
+    "drama9": 100
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 497,
+      "video_count": 498,
       "sync_status": "ok",
       "error": ""
     },
@@ -53,7 +53,7 @@
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 275,
+      "video_count": 276,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,7 +71,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 607,
+      "video_count": 608,
       "sync_status": "ok",
       "error": ""
     },
@@ -101,7 +101,7 @@
     },
     "drama3": {
       "handle": "@PHC-q3q",
-      "video_count": 240,
+      "video_count": 241,
       "sync_status": "ok",
       "error": ""
     },
@@ -125,7 +125,7 @@
     },
     "drama7": {
       "handle": "@nghienhoangu",
-      "video_count": 287,
+      "video_count": 288,
       "sync_status": "ok",
       "error": ""
     },
@@ -137,7 +137,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 99,
+      "video_count": 100,
       "sync_status": "ok",
       "error": ""
     }
