@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T23:16:03Z",
+  "generated_at": "2026-11-11T00:15:13Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -143,8 +143,22 @@
   },
   "videos": [
     {
+      "id": "t3mTkzzoEBo",
+      "title": "Say Rượu Qua Đêm Với Sếp Tổng, Cô Uống Nhầm Thuốc Hết Hạn Rồi Mang Thai, Nào Ngờ Anh Đòi Cưới Ngay",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T00:00:20Z",
+      "duration_seconds": 8552,
+      "thumbnail_url": "https://i.ytimg.com/vi/t3mTkzzoEBo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
       "id": "YvdctaWq4rg",
-      "title": "Phần 5: Nghịch Đồ Cầu Tiên",
+      "title": "Phần 5(130): Nghịch Đồ Cầu Tiên",
       "channel": "movies3",
       "channel_title": "Não Phẳng Tu Tiên",
       "published_at": "2026-11-10T23:09:29Z",
