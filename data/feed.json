@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T01:44:49Z",
+  "generated_at": "2026-11-11T02:29:44Z",
   "last_full_refresh_at": "2026-11-10T06:36:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "obqZH8VjoFk",
+      "title": "9 GIỜ THỎA MÃN | Lục Hoàng Tử Ẩn Mình 10 Năm - Hắn Không Còn Giấu Diếm Tài Năng Và Sức Mạnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T02:02:48Z",
+      "duration_seconds": 32497,
+      "thumbnail_url": "https://i.ytimg.com/vi/obqZH8VjoFk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0a8C_dYbUcg",
+      "title": "Xuyên Không Tu Tiên, Hắn Kích Hoạt Hệ Thống Thức Tỉnh Đạo Thể Bẩm Sinh, Đạp Lên Đỉnh Trường Sinh",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-11T02:00:28Z",
+      "duration_seconds": 18931,
+      "thumbnail_url": "https://i.ytimg.com/vi/0a8C_dYbUcg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "X6WpTHd8nPY",
+      "title": "Bị Cha Cấm Yêu Kẻ Thù Nhà Họ Kỷ, Cô Đòi Chia Tay, Nào Ngờ Tổng Tài Đến Tiệm Hoa Van Xin Được Cưới",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T02:00:10Z",
+      "duration_seconds": 7432,
+      "thumbnail_url": "https://i.ytimg.com/vi/X6WpTHd8nPY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Z9A9Paao4CY",
       "title": "PHẦN 4 | 4,5 GIỜ | VẠN ĐẠO TIÊN BÌNH - Đệ Tử Ngũ Linh Căn Dùng Bình Thần Âm Thầm Tu Luyện",
