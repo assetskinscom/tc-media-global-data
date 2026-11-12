@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T22:26:10Z",
+  "generated_at": "2026-11-12T23:22:52Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "9b9DHyhyJc8",
+      "title": "Chồng Dọa Cắt Hết Tiền Nếu Ly Hôn, Vợ Trọng Sinh Tự Kiếm Tiền Khiến Anh Lo Sợ Mất Cô Mãi Mãi",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T22:30:18Z",
+      "duration_seconds": 13729,
+      "thumbnail_url": "https://i.ytimg.com/vi/9b9DHyhyJc8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "YikrLNUqf4Q",
       "title": "P1-2 | 9,5 GIỜ THỎA MÃN | Bàn Long Thần Ấn - Ai Nói Đệ Tử Tạp Dịch Phế Linh Căn Không Thể Tu Tiên",
