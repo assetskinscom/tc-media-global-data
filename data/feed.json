@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T09:48:38Z",
+  "generated_at": "2026-11-12T10:51:11Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "oX8uSyysD-Q",
+      "title": "Hệ Thống 1 TRIỆU Lần Chí Mạng - Thiếu Chủ Phế Vật Ngào Ngờ Một Mình Nghiền Ép Cả Tông Môn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T10:25:54Z",
+      "duration_seconds": 8832,
+      "thumbnail_url": "https://i.ytimg.com/vi/oX8uSyysD-Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uhz_uTL48Nk",
+      "title": "Cưới Nhầm Kẻ Lang Thang Hóa Ra Là Chiến Thần Tuyệt Mật | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-12T10:00:03Z",
+      "duration_seconds": 22691,
+      "thumbnail_url": "https://i.ytimg.com/vi/uhz_uTL48Nk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Dj2xTHIM5rY",
       "title": "P2 | TỔNG 20 GIỜ THỎA MÃN |  Đệ Tử Nhập Môn Phế Linh Căn - Ta Có Thần Tháp Vạn Lần Tu Luyện",
@@ -1964,7 +1992,7 @@
     },
     {
       "id": "JjArxZh-pAQ",
-      "title": "Phần 1: Phàm Nhân Tu Tiên Ký (Hành Trình Tu Tiên Của Kẻ Hàn Môn).",
+      "title": "Phần 1: Hàn Môn Tu Tiên Ký",
       "channel": "movies3",
       "channel_title": "Não Phẳng Tu Tiên",
       "published_at": "2026-11-10T00:23:14Z",
