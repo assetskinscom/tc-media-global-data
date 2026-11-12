@@ -1,36 +1,36 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-12T11:47:54Z",
+  "last_success_at": "2026-11-12T12:52:38Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3524,
-    "drama": 2094,
+    "cartoon": 3529,
+    "drama": 2096,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3524
+    "movies": 3529
   },
   "source_counts": {
     "music": 575,
-    "movies": 513,
+    "movies": 514,
     "movies2": 191,
-    "movies3": 272,
+    "movies3": 274,
     "movies4": 603,
     "movies5": 159,
-    "movies6": 614,
-    "movies7": 619,
+    "movies6": 615,
+    "movies7": 620,
     "movies8": 558,
     "drama": 126,
     "drama2": 314,
     "drama3": 242,
     "drama4": 314,
     "drama5": 339,
-    "drama6": 225,
+    "drama6": 226,
     "drama7": 288,
     "drama8": 307,
-    "drama9": 104
+    "drama9": 105
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 513,
+      "video_count": 514,
       "sync_status": "ok",
       "error": ""
     },
@@ -53,7 +53,7 @@
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 272,
+      "video_count": 274,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,13 +71,13 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 614,
+      "video_count": 615,
       "sync_status": "ok",
       "error": ""
     },
     "movies7": {
       "handle": "@taihalephidung",
-      "video_count": 619,
+      "video_count": 620,
       "sync_status": "ok",
       "error": ""
     },
@@ -119,7 +119,7 @@
     },
     "drama6": {
       "handle": "@ccapdramas",
-      "video_count": 225,
+      "video_count": 226,
       "sync_status": "ok",
       "error": ""
     },
@@ -137,7 +137,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 104,
+      "video_count": 105,
       "sync_status": "ok",
       "error": ""
     }
