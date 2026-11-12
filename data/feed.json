@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T23:30:28Z",
+  "generated_at": "2026-11-12T00:33:11Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "blbUTJ3tmpk",
+      "title": "Nuôi Bạn Gái Học Thạc Sĩ 5 Năm, Anh Bị Cô Đá Theo Sếp Giàu, Nào Ngờ Là Thiếu Gia Thất Lạc 23 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T00:00:14Z",
+      "duration_seconds": 8464,
+      "thumbnail_url": "https://i.ytimg.com/vi/blbUTJ3tmpk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "a460N9zIhcQ",
       "title": "Phần 26: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
