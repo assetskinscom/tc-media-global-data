@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T07:58:18Z",
+  "generated_at": "2026-11-12T08:54:16Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "fCEo7HLs_io",
+      "title": "Phần 6 | TỔNG 40 GIỜ XEM | Đặc Nhiệm Vũ Trang Xuyên Tống, Đánh Giặc Lập Đại Chiến Công",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T08:51:27Z",
+      "duration_seconds": 27812,
+      "thumbnail_url": "https://i.ytimg.com/vi/fCEo7HLs_io/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aEf57-DhaC0",
+      "title": "Full Version l Đêm Tân Hôn Bị Phản Bội, Tôi Quay Sang Gả Cho Đốc Quân Quyền Thế l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-12T08:07:47Z",
+      "duration_seconds": 2830,
+      "thumbnail_url": "https://i.ytimg.com/vi/aEf57-DhaC0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "7qsEp1g-QRk",
+      "title": "PHẦN 2 | 4,5 GIỜ | Đội Quân Tỷ Người, Phế Vật Thức Tỉnh Cấp SSS+ Trở Thành Bất Bại Trên Chiến Trường",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T08:06:45Z",
+      "duration_seconds": 15520,
+      "thumbnail_url": "https://i.ytimg.com/vi/7qsEp1g-QRk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "iuUtbLBXzS4",
       "title": "PHẦN 2 | Tử Tù Mồ Côi - Nào Ngờ Là Thiếu Gia Mất Tích - Kích Hoạt Hệ Thống Thành Chiến Thần",
