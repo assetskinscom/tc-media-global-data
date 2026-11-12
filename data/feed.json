@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T04:39:13Z",
+  "generated_at": "2026-11-12T05:40:04Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "y1KN-X6Wuw4",
+      "title": "Tận Thế Toàn Cầu Ta Thức Tỉnh Thiên Phú Thợ Sửa Chữa Thần Cấp Bá Chủ Mọi Phó Bản! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-12T05:30:21Z",
+      "duration_seconds": 17487,
+      "thumbnail_url": "https://i.ytimg.com/vi/y1KN-X6Wuw4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1t5BQXecDvk",
+      "title": "[UPDATE S7] XUYÊN PHẢN DIỆN CƯỚP 6 ĐẠO LỮ CỦA KHÍ VẬN CHI TỬ | LY VIETSUB 558",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-12T04:56:00Z",
+      "duration_seconds": 11202,
+      "thumbnail_url": "https://i.ytimg.com/vi/1t5BQXecDvk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "DO7H_7N5_No",
       "title": "P1-2 | 9,5 GIỜ THỎA MÃN | Bàn Long Thần Ấn - Ai Nói Đệ Tử Tạp Dịch Phế Linh Căn Không Thể Tu Tiên",
