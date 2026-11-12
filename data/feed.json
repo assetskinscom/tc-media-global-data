@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T00:33:11Z",
+  "generated_at": "2026-11-12T01:56:47Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "h4FOc0ATztw",
+      "title": "Phần 4: Ngũ Hành Phế Căn, Nghịch Mệnh Thành Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-12T01:40:09Z",
+      "duration_seconds": 6273,
+      "thumbnail_url": "https://i.ytimg.com/vi/h4FOc0ATztw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kKwCk9BEyiI",
+      "title": "Phần 10 FULL |  19 Giờ Thỏa Mãn | Tạp Dịch Ngụy Linh Căn, Nhưng Bùa Chú Của Ta Mạnh Gấp 10 Lần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T01:19:29Z",
+      "duration_seconds": 66916,
+      "thumbnail_url": "https://i.ytimg.com/vi/kKwCk9BEyiI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "blbUTJ3tmpk",
       "title": "Nuôi Bạn Gái Học Thạc Sĩ 5 Năm, Anh Bị Cô Đá Theo Sếp Giàu, Nào Ngờ Là Thiếu Gia Thất Lạc 23 Năm",
