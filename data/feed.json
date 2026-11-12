@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T06:41:44Z",
+  "generated_at": "2026-11-12T07:58:18Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "iuUtbLBXzS4",
+      "title": "PHẦN 2 | Tử Tù Mồ Côi - Nào Ngờ Là Thiếu Gia Mất Tích - Kích Hoạt Hệ Thống Thành Chiến Thần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T07:27:42Z",
+      "duration_seconds": 10759,
+      "thumbnail_url": "https://i.ytimg.com/vi/iuUtbLBXzS4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Di8KcSOah9k",
+      "title": "Bắt Gặp Bạn Trai Mua Túi Cho Tiểu Tam Ngày Kỷ Niệm, Cô Chia Tay, Nào Ngờ Tổng Tài Đã Chờ Cô 3 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T06:45:30Z",
+      "duration_seconds": 4617,
+      "thumbnail_url": "https://i.ytimg.com/vi/Di8KcSOah9k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "JIpGQVEdG8s",
       "title": "7 GIỜ THỎA MÃN | Thiếu Chủ Phế Truất - Hệ Thống Bất Bại - Nghiền Nát Tất Cả Bằng Sức Mạnh Tuyệt Đối",
