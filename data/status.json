@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-12T08:54:16Z",
+  "last_success_at": "2026-11-12T09:48:38Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3517,
-    "drama": 2089,
+    "cartoon": 3518,
+    "drama": 2090,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3517
+    "movies": 3518
   },
   "source_counts": {
     "music": 575,
-    "movies": 509,
+    "movies": 510,
     "movies2": 191,
     "movies3": 271,
     "movies4": 603,
@@ -30,7 +30,7 @@
     "drama6": 225,
     "drama7": 288,
     "drama8": 307,
-    "drama9": 102
+    "drama9": 103
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 509,
+      "video_count": 510,
       "sync_status": "ok",
       "error": ""
     },
@@ -137,7 +137,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 102,
+      "video_count": 103,
       "sync_status": "ok",
       "error": ""
     }
