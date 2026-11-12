@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T01:56:47Z",
+  "generated_at": "2026-11-12T02:43:06Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "4TQRoyl0M1w",
+      "title": "9,5 GIỜ THỎA MÃN | Con Rơi Tể Tướng - Không Che Giấu Tài Năng - Dùng Kiến Thức Đánh Bại Thiên Tài",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T02:16:45Z",
+      "duration_seconds": 34146,
+      "thumbnail_url": "https://i.ytimg.com/vi/4TQRoyl0M1w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "p-Djqm4jnZY",
+      "title": "Hai Anh Trai Khinh Em Gái Nghèo, Còn Tranh Đất Của Mẹ Già, Nào Ngờ Cô Là Chủ Tịch Tập Đoàn Tỷ Đô",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T02:15:39Z",
+      "duration_seconds": 10121,
+      "thumbnail_url": "https://i.ytimg.com/vi/p-Djqm4jnZY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WpAfJqo-t1s",
+      "title": "[FULL S1-2] CỨU NỮ ĐẾ, NÀNG TÌM TA VẠN KIẾP | LY VIETSUB 1658",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-12T01:59:58Z",
+      "duration_seconds": 35449,
+      "thumbnail_url": "https://i.ytimg.com/vi/WpAfJqo-t1s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "RYYJX_OHANo",
+      "title": "Phần 1: Rời Tông Làm Tán Tu, Ngươi Khóc Làm Cái Gì Chứ?",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-12T01:59:21Z",
+      "duration_seconds": 8891,
+      "thumbnail_url": "https://i.ytimg.com/vi/RYYJX_OHANo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "h4FOc0ATztw",
       "title": "Phần 4: Ngũ Hành Phế Căn, Nghịch Mệnh Thành Tiên",
