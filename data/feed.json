@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T03:33:26Z",
+  "generated_at": "2026-11-12T04:39:13Z",
   "last_full_refresh_at": "2026-11-11T06:38:40Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "DO7H_7N5_No",
+      "title": "P1-2 | 9,5 GIỜ THỎA MÃN | Bàn Long Thần Ấn - Ai Nói Đệ Tử Tạp Dịch Phế Linh Căn Không Thể Tu Tiên",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T04:30:39Z",
+      "duration_seconds": 33915,
+      "thumbnail_url": "https://i.ytimg.com/vi/DO7H_7N5_No/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "z4iC1vyUrSc",
+      "title": "Full | Toàn Cầu Biến Dị Thành Quái Vật Ta Gom Đồ Kích Hoạt Vòng Quay Thần Cấp Càn Quét Mạt Thế",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-12T04:30:34Z",
+      "duration_seconds": 18112,
+      "thumbnail_url": "https://i.ytimg.com/vi/z4iC1vyUrSc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "fA3hHmGHTok",
+      "title": "5 GIỜ | Phế Vật Kích Hoạt Thiên Phú SSS+ Hợp Thể Vô Hạn - Ta Đánh Bại Cả Thần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-12T04:09:25Z",
+      "duration_seconds": 18252,
+      "thumbnail_url": "https://i.ytimg.com/vi/fA3hHmGHTok/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0PP5xpKXOl4",
+      "title": "Ông ghét cháu, nhưng cô câu cá lớn bằng cần đồ chơi 2 tệ! Ông đổi mặt, cưng chiều, cho hết gia sản!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-12T04:00:39Z",
+      "duration_seconds": 6497,
+      "thumbnail_url": "https://i.ytimg.com/vi/0PP5xpKXOl4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "jvgf2VViGBU",
+      "title": "Thiên Kim Dùng Nước Hoa Quyến Rũ Thiếu Gia Để Cứu Nhà Phá Sản, Nào Ngờ Nhầm Chú Quyền Lực Của Anh",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T04:00:35Z",
+      "duration_seconds": 6951,
+      "thumbnail_url": "https://i.ytimg.com/vi/jvgf2VViGBU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "CJ8-DoSR-oI",
+      "title": "Cô gái bị hạ thuốc vào nhầm phòng Tổng Tài, ai ngờ sau đêm đó mang thai người thừa kế tập đoàn tỷ đô",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-12T04:00:22Z",
+      "duration_seconds": 6694,
+      "thumbnail_url": "https://i.ytimg.com/vi/CJ8-DoSR-oI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Yww4YtonwWE",
       "title": "PHẦN 6 | Thiên Phú SSS+ Vô Hạn Sát Thương Độc Tố - Phế Vật Trở Thành Top 1 Server",
