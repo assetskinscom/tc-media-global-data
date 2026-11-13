@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T12:41:59Z",
+  "generated_at": "2026-11-13T13:54:31Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "yUDsc0T1LzY",
+      "title": "5 GIỜ | Ấm Càn Khôn Luyện Hóa Vạn Vật - Từ Phế Vật Thành Tuyệt Thế Cao Thủ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T13:31:39Z",
+      "duration_seconds": 16904,
+      "thumbnail_url": "https://i.ytimg.com/vi/yUDsc0T1LzY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7dl75zn9O80",
+      "title": "7,5 GIỜ THỎA MÃN | Xuyên Không Đã Làm Đại La Kim Tiên - Muốn Sống An Nhàn Nào Ngờ Thay Đổi Tam Giới",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T13:08:18Z",
+      "duration_seconds": 27368,
+      "thumbnail_url": "https://i.ytimg.com/vi/7dl75zn9O80/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "YkWAx7M-ykg",
+      "title": "Full | Sinh Tồn Trên Không Ta Sở Hữu Phi Cơ Cấp Truyền Thuyết Một Mình Càn Quét Bầu Trời Tận Thế",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-13T13:00:22Z",
+      "duration_seconds": 4989,
+      "thumbnail_url": "https://i.ytimg.com/vi/YkWAx7M-ykg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LNrDktAS8Uo",
+      "title": "Phần 5 -P6(685): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-13T12:46:17Z",
+      "duration_seconds": 3232,
+      "thumbnail_url": "https://i.ytimg.com/vi/LNrDktAS8Uo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "3ymkxZxlrgE",
       "title": "Full Version l 8 Năm Thầm Yêu, Cuối Cùng Tổng Tài Cũng Thuộc Về Tôi l Sora Dub",
