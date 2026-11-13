@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T10:49:34Z",
+  "generated_at": "2026-11-13T11:44:52Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "RFuptmS913Y",
+      "title": "Phần 1-2 | Tạp Dịch Phế Linh Căn - Nào Ngờ Ta Có Thể Nâng Cấp Vạn Vật Thành Cực Phẩm",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T11:21:26Z",
+      "duration_seconds": 16397,
+      "thumbnail_url": "https://i.ytimg.com/vi/RFuptmS913Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Y_AQ_fTFNbA",
+      "title": "Toàn Dân Gặp Nạn: Ta Cùng Mỹ Nữ  Xây Đế Chế Riêng Trên Đảo Hoang | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-13T11:00:35Z",
+      "duration_seconds": 10813,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y_AQ_fTFNbA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "WGhwuu1l4Tw",
+      "title": "Cả Nhà Tưởng Ông Nội Sắp Chết Vì Bị Đầu Độc, Nào Ngờ Cháu Gái 6 Tuổi Chữa Khỏi Và Lật Tẩy Kẻ Ác",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-13T11:00:13Z",
+      "duration_seconds": 7468,
+      "thumbnail_url": "https://i.ytimg.com/vi/WGhwuu1l4Tw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UQi3HXzFMgk",
+      "title": "Nữ tổng tài bị truy sát,chàng trai nghèo xe máy cứu cô và được thuê làm vệ sĩ với giá 10 triệu USD!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-13T11:00:00Z",
+      "duration_seconds": 6613,
+      "thumbnail_url": "https://i.ytimg.com/vi/UQi3HXzFMgk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "QmDq14iYz9A",
       "title": "Cả Nhà Cùng Xuyên Không: Ta Thành Lưu Dân, Cha Đã Là Hầu Gia (TẬP 1-473) Tại hạ Lệ Phi Dũng",
