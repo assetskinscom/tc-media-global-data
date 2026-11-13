@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T11:44:52Z",
+  "generated_at": "2026-11-13T12:41:59Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "3ymkxZxlrgE",
+      "title": "Full Version l 8 Năm Thầm Yêu, Cuối Cùng Tổng Tài Cũng Thuộc Về Tôi l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-13T12:20:35Z",
+      "duration_seconds": 4287,
+      "thumbnail_url": "https://i.ytimg.com/vi/3ymkxZxlrgE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "bjnRapOYh4k",
+      "title": "PHẦN 5 - TẬP 3 | BẢN ĐẸP | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T12:11:24Z",
+      "duration_seconds": 13883,
+      "thumbnail_url": "https://i.ytimg.com/vi/bjnRapOYh4k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "JEXKfAoaDQI",
+      "title": "Bị Chê Ăn Chơi Lười Biếng, Chàng Trai Bất Ngờ Cưới Cô Gái Kén Chồng, Khiến Cả Hai Gia Đình Sững Sờ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-13T12:00:38Z",
+      "duration_seconds": 8329,
+      "thumbnail_url": "https://i.ytimg.com/vi/JEXKfAoaDQI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "e7HjNwVHJBw",
+      "title": "Ai cũng sợ quản lý, chỉ thực tập sinh dám bênh bà cụ! Bà là bà nội tổng tài, bảo cưới cô!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-13T12:00:16Z",
+      "duration_seconds": 7166,
+      "thumbnail_url": "https://i.ytimg.com/vi/e7HjNwVHJBw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "pqW1iizG6Fs",
+      "title": "Bị vợ sát hại ném xuống sông, chàng trai vô tình biến thành Cá Chép Thần quay về báo thù điên cuồng!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-13T12:00:11Z",
+      "duration_seconds": 6370,
+      "thumbnail_url": "https://i.ytimg.com/vi/pqW1iizG6Fs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "X5JSeYuFIec",
+      "title": "Tận Thế Sương Mù Ta Luyện Hóa Quái Vật Thành Tiên Khí | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-13T12:00:06Z",
+      "duration_seconds": 6388,
+      "thumbnail_url": "https://i.ytimg.com/vi/X5JSeYuFIec/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "RFuptmS913Y",
       "title": "Phần 1-2 | Tạp Dịch Phế Linh Căn - Nào Ngờ Ta Có Thể Nâng Cấp Vạn Vật Thành Cực Phẩm",
