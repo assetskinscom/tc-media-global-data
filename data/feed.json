@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T07:56:37Z",
+  "generated_at": "2026-11-13T08:50:09Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "hnqG6qaQbSA",
+      "title": "5 GIỜ | Cả Gia Tộc Độc Thân - Lão Tổ Đại Đế Bất Bại 10 Vạn Năm Trở Về Dạy Dỗ Và Bảo Vệ Tộc Nhân",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T08:38:13Z",
+      "duration_seconds": 17359,
+      "thumbnail_url": "https://i.ytimg.com/vi/hnqG6qaQbSA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "53kIsIrFYHA",
       "title": "PHẦN 3 | 5 GIỜ | Hệ Thống Đại Bạo Quân - Thái Tử Phế Vật Tu Luyện Thành Tu Vi Vô Địch",
