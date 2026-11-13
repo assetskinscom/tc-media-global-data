@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T05:39:11Z",
+  "generated_at": "2026-11-13T06:39:35Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "84OuUDygQWY",
+      "title": "PHẦN 1-2 | 6,5 GIỜ | Xuyên Làm Thiếu Gia Bị Hủy Hôn - Nào Ngờ Là Thiên Tài Tuyệt Thế Vô Song",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T06:30:20Z",
+      "duration_seconds": 23500,
+      "thumbnail_url": "https://i.ytimg.com/vi/84OuUDygQWY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "vc3jxtDkec8",
       "title": "Sinh Tồn Hoang Đảo Thức Tỉnh Hệ Thống Bàn Tay Vàng Vả Mặt Phú Nhị Đại | Đậu Đậu Vietsub",
