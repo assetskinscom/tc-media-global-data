@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T16:33:51Z",
+  "generated_at": "2026-11-13T17:32:20Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "QJb2THUEiSM",
+      "title": "Phần 27 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-13T17:26:45Z",
+      "duration_seconds": 9805,
+      "thumbnail_url": "https://i.ytimg.com/vi/QJb2THUEiSM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZlmaiCUQEoQ",
+      "title": "Phần 5-P3(616): Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-13T17:07:39Z",
+      "duration_seconds": 11121,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZlmaiCUQEoQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "P0yczCGGIt4",
+      "title": "Phần 9-10: Phàm Nhân Bách Thế Thư - Luân Hồi Trăm Kiếp",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-13T16:33:58Z",
+      "duration_seconds": 24949,
+      "thumbnail_url": "https://i.ytimg.com/vi/P0yczCGGIt4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "yUDsc0T1LzY",
       "title": "5 GIỜ | Ấm Càn Khôn Luyện Hóa Vạn Vật - Từ Phế Vật Thành Tuyệt Thế Cao Thủ",
