@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-13T00:23:40Z",
+  "last_success_at": "2026-11-13T01:51:03Z",
   "last_full_refresh_at": "2026-11-12T06:41:44Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3532,
+    "cartoon": 3535,
     "drama": 2099,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3532
+    "movies": 3535
   },
   "source_counts": {
     "music": 575,
-    "movies": 516,
+    "movies": 518,
     "movies2": 191,
-    "movies3": 275,
+    "movies3": 276,
     "movies4": 603,
     "movies5": 159,
     "movies6": 615,
@@ -41,19 +41,19 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 516,
+      "video_count": 518,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
       "video_count": 191,
-      "sync_status": "error",
-      "error": "YouTube API playlistItems returned HTTP 500: backendError"
+      "sync_status": "ok",
+      "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 275,
+      "video_count": 276,
       "sync_status": "ok",
       "error": ""
     },
