@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T10:22:24Z",
+  "generated_at": "2026-11-14T11:17:23Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,118 @@
     }
   },
   "videos": [
+    {
+      "id": "j854WRLwR1E",
+      "title": "8 GIỜ THỎA MÃN | 1 Giây 1 Vạn Năm Tu Luyện - Đệ Tử Phế Linh Căn Âm Thầm Tu Thành Bất Tử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T11:02:57Z",
+      "duration_seconds": 28802,
+      "thumbnail_url": "https://i.ytimg.com/vi/j854WRLwR1E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "02T0PNd2xAY",
+      "title": "[FULL 9H] TA CHỈ MUỐN Ở ẨN CHĂM CON, SAO BỐ VỢ LẠI LÀ HOÀNG ĐẾ ĐƯƠNG TRIỀU? | LY VIETSUB 1541",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-14T11:00:35Z",
+      "duration_seconds": 35297,
+      "thumbnail_url": "https://i.ytimg.com/vi/02T0PNd2xAY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "iLrOf4lfQJw",
+      "title": "Cô gái ngoan chỉ sống 3 tháng khiến \"trùm trường\" đáng sợ nhất trường bỗng dịu dàng lạ thường!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-14T11:00:29Z",
+      "duration_seconds": 8419,
+      "thumbnail_url": "https://i.ytimg.com/vi/iLrOf4lfQJw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "dKysG0p48MY",
+      "title": "Mẹ Chồng Lừa Con Dâu Ăn Tôm Dù Biết Cô Dị Ứng Nặng, Nào Ngờ Suýt Hại Con Trai Đang Chờ Ghép Tủy",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-14T11:00:27Z",
+      "duration_seconds": 4716,
+      "thumbnail_url": "https://i.ytimg.com/vi/dKysG0p48MY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Td9-EuBhzJ0",
+      "title": "Tổng tài thấy chồng ngoại tình, cầu hôn gã thợ khóa nghèo — hắn là thợ khóa số 1 giàu tỷ đô!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-14T11:00:21Z",
+      "duration_seconds": 6115,
+      "thumbnail_url": "https://i.ytimg.com/vi/Td9-EuBhzJ0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "3HOMRMMYJI0",
+      "title": "Full Mùa 3 | Thức Tỉnh Hệ Thống Thần Hào Ta Càng Tiêu Cho Mỹ Nữ Càng Giàu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-14T11:00:06Z",
+      "duration_seconds": 9362,
+      "thumbnail_url": "https://i.ytimg.com/vi/3HOMRMMYJI0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "TJVDCLNHeTo",
+      "title": "Phần 16: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T10:58:53Z",
+      "duration_seconds": 17459,
+      "thumbnail_url": "https://i.ytimg.com/vi/TJVDCLNHeTo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4vHMddkVG-k",
+      "title": "Phần 8: Vừa Phi Thăng Đã Bị Truy Sát, Ta Dùng Thọ Nguyên Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T10:37:33Z",
+      "duration_seconds": 7752,
+      "thumbnail_url": "https://i.ytimg.com/vi/4vHMddkVG-k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QFL0G8n15Q0",
       "title": "16 GIỜ THỎA MÃN | Xuyên Làm Quan Huyện Nghèo - Lương Thực Vô Hạn Cùng Hệ Thống Quay Thưởng",
