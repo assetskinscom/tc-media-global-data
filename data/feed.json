@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T23:22:35Z",
+  "generated_at": "2026-11-14T00:17:19Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "HTsPBu4uzxc",
+      "title": "Bị Bạn Gái Bỏ Vì Nghèo, Anh Kích Hoạt Hệ Thống Giảm Giá 100 Triệu Lần, Sau Một Đêm Thành Tỷ Phú",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-14T00:00:32Z",
+      "duration_seconds": 9202,
+      "thumbnail_url": "https://i.ytimg.com/vi/HTsPBu4uzxc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Kp3TB9C1800",
       "title": "Bị Chôn Hơn 2.000 Năm, Ta Hóa Bộ Xương Biết Nuốt Pháp Lực (MÙA 1) Tại hạ Lệ Phi Dũng",
