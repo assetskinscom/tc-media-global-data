@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T11:17:23Z",
+  "generated_at": "2026-11-14T12:17:22Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,104 @@
     }
   },
   "videos": [
+    {
+      "id": "qRsuS5uBRk8",
+      "title": "Xuyên Không Thời Loạn, Thức Tỉnh Hệ Thống Ghép Nhóm, Mỗi Người Thêm 100 Cân Sức Mạnh | FULL MÙA 2",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-14T12:12:45Z",
+      "duration_seconds": 13472,
+      "thumbnail_url": "https://i.ytimg.com/vi/qRsuS5uBRk8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1xbUa5yLslo",
+      "title": "Chiến Thần ẩn danh làm thợ may đồ để sống an nhàn, ai ngờ bị đám côn đồ quấy rối đòi tiền bảo kê!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-14T12:00:28Z",
+      "duration_seconds": 5318,
+      "thumbnail_url": "https://i.ytimg.com/vi/1xbUa5yLslo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ppCuZFeH8Gs",
+      "title": "Trọng Sinh Thành Ngự Quỷ Sư Mạnh Nhất | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-14T12:00:22Z",
+      "duration_seconds": 9120,
+      "thumbnail_url": "https://i.ytimg.com/vi/ppCuZFeH8Gs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "m4NOULdbUMI",
+      "title": "Em Dâu Đuổi Chị Chồng Khỏi Nhà, Nào Ngờ Căn Nhà Mua Bằng 600 Nghìn Tệ Của Chị, Giấy Tờ Bị Giả Mạo",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-14T12:00:17Z",
+      "duration_seconds": 4408,
+      "thumbnail_url": "https://i.ytimg.com/vi/m4NOULdbUMI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "mZf3gGugMBU",
+      "title": "5 GIỜ | Thất Hoàng Tử Về Thăm Nhà Bị Coi Thường - Nào Ngờ Hắn Là Chiến Thần Uy Trấn Thiên Hạ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T11:54:20Z",
+      "duration_seconds": 16871,
+      "thumbnail_url": "https://i.ytimg.com/vi/mZf3gGugMBU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "E5Prp785Q9o",
+      "title": "Phần 4 -P4(350): Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T11:35:12Z",
+      "duration_seconds": 6224,
+      "thumbnail_url": "https://i.ytimg.com/vi/E5Prp785Q9o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7FtG_tLweiw",
+      "title": "Thằng ăn mày lang thang, ai ngờ bị nữ Tổng Tài ế chồng hốt về ép cưới!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-14T11:30:37Z",
+      "duration_seconds": 4348,
+      "thumbnail_url": "https://i.ytimg.com/vi/7FtG_tLweiw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "j854WRLwR1E",
       "title": "8 GIỜ THỎA MÃN | 1 Giây 1 Vạn Năm Tu Luyện - Đệ Tử Phế Linh Căn Âm Thầm Tu Thành Bất Tử",
