@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T06:30:21Z",
+  "generated_at": "2026-11-14T07:44:05Z",
   "last_full_refresh_at": "2026-11-13T07:56:37Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "WOfUZDN4nLU",
+      "title": "Bị Trai Giàu Sỉ Nhục Thậm Tệ Khi Xem Mắt, Cô Cưới Người Lạ Ngay, Nào Ngờ Anh Là Tổng Tài Nghìn Tỷ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-14T07:00:12Z",
+      "duration_seconds": 7397,
+      "thumbnail_url": "https://i.ytimg.com/vi/WOfUZDN4nLU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "cTieyJ5C6hI",
+      "title": "Phần 4: Xuyên Không Về Thập Niên 70: Gia Chủ Là Tu Tiên Giả",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T06:50:00Z",
+      "duration_seconds": 14871,
+      "thumbnail_url": "https://i.ytimg.com/vi/cTieyJ5C6hI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mBgbmiRA6iM",
+      "title": "P1-3 | 8,5 GIỜ THỎA MÃN | Thái Tử Điểm Danh 5 Năm - Ai Cũng Nghĩ Phế Vật Nào Ngờ Đã Vô Địch Từ Lâu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T06:46:28Z",
+      "duration_seconds": 30325,
+      "thumbnail_url": "https://i.ytimg.com/vi/mBgbmiRA6iM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "mbCCD7ahTdY",
       "title": "Full | Bị Vu Oan Cướp Bí Cảnh Ta Kích Hoạt Hệ Thống Điểm Danh Trở Thành Khắc Tinh Của Cả Tông Môn",
