@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T08:29:58Z",
+  "generated_at": "2026-11-14T09:26:30Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "RVyhURpP-GQ",
+      "title": "Phần 4: Xuyên Không Về Thập Niên 70 Gia Chủ Là Tu Tiên Giả",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T09:17:43Z",
+      "duration_seconds": 17602,
+      "thumbnail_url": "https://i.ytimg.com/vi/RVyhURpP-GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "a5cZ-Be7Of0",
+      "title": "P1-2 | 8 GIỜ THỎA MÃN | Xuyên Làm Thái Tử Phế Vật - Dùng Kiến Thức Thiên Tài Viết Lại Lịch Sử",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T08:44:09Z",
+      "duration_seconds": 29299,
+      "thumbnail_url": "https://i.ytimg.com/vi/a5cZ-Be7Of0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Kz_oe3uN2Rw",
       "title": "P1-2 | 7 GIỜ THỎA MÃN | Pháp Sư Phế Vật Kích Hoạt Thiên Phú Cấp SSS+, Nâng Cấp Kỹ Năng Chỉ Tốn 1 Xu",
