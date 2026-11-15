@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T14:25:40Z",
+  "generated_at": "2026-11-15T15:21:08Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "uL3J6KvnbH0",
+      "title": "Phần 3: Cả Môn Phái Đều Là Pháo Hôi, Chỉ Có Tiểu Sư Đệ Là Kẻ Gây Họa",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-15T15:11:01Z",
+      "duration_seconds": 11078,
+      "thumbnail_url": "https://i.ytimg.com/vi/uL3J6KvnbH0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "xa5gcl16RWo",
       "title": "14,5 GIỜ THỎA MÃN | Xuyên Làm Tạp Dịch Chiến Trường - Dùng Kiến Thức Thành Chiến Lược Gia Số 1",
