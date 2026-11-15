@@ -1,36 +1,36 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-15T10:24:40Z",
+  "last_success_at": "2026-11-15T11:19:51Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 3556,
-    "drama": 2116,
+    "cartoon": 3559,
+    "drama": 2119,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 3556
+    "movies": 3559
   },
   "source_counts": {
     "music": 575,
-    "movies": 513,
+    "movies": 514,
     "movies2": 191,
-    "movies3": 273,
+    "movies3": 274,
     "movies4": 606,
     "movies5": 159,
-    "movies6": 633,
+    "movies6": 634,
     "movies7": 627,
     "movies8": 559,
     "drama": 127,
-    "drama2": 318,
-    "drama3": 244,
+    "drama2": 319,
+    "drama3": 245,
     "drama4": 316,
     "drama5": 341,
     "drama6": 228,
     "drama7": 289,
     "drama8": 312,
-    "drama9": 106
+    "drama9": 107
   },
   "sources": {
     "music": {
@@ -41,7 +41,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 513,
+      "video_count": 514,
       "sync_status": "ok",
       "error": ""
     },
@@ -53,7 +53,7 @@
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 273,
+      "video_count": 274,
       "sync_status": "ok",
       "error": ""
     },
@@ -71,7 +71,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 633,
+      "video_count": 634,
       "sync_status": "ok",
       "error": ""
     },
@@ -95,13 +95,13 @@
     },
     "drama2": {
       "handle": "@SoraDub28",
-      "video_count": 318,
+      "video_count": 319,
       "sync_status": "ok",
       "error": ""
     },
     "drama3": {
       "handle": "@PHC-q3q",
-      "video_count": 244,
+      "video_count": 245,
       "sync_status": "ok",
       "error": ""
     },
@@ -137,7 +137,7 @@
     },
     "drama9": {
       "handle": "@trieuvyreview",
-      "video_count": 106,
+      "video_count": 107,
       "sync_status": "ok",
       "error": ""
     }

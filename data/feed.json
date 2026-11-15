@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T10:24:40Z",
+  "generated_at": "2026-11-15T11:19:51Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "akLRniZAvUw",
+      "title": "Phần 1: Hàn Nguyệt Tiên Duyên- Bị Chê Là Phế Vật, Ta Lại Được Nữ Phong Chủ Phá Lệ Thu Nhận",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-15T11:05:03Z",
+      "duration_seconds": 16768,
+      "thumbnail_url": "https://i.ytimg.com/vi/akLRniZAvUw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dLHYVA6_oIM",
+      "title": "Gã nhặt rác nghèo có đôi mắt nhìn thấu giá trị vạn vật,nhờ đó cứu con gái tỷ phú lật ngược đời mình!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-15T11:00:36Z",
+      "duration_seconds": 10833,
+      "thumbnail_url": "https://i.ytimg.com/vi/dLHYVA6_oIM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ItZrxEQqqgg",
+      "title": "Thần Cấp Hàng Rong Ta Dùng Ẩm Thực Chinh Phục Giới Siêu Giàu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-15T11:00:18Z",
+      "duration_seconds": 8704,
+      "thumbnail_url": "https://i.ytimg.com/vi/ItZrxEQqqgg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "EERgnuJij18",
+      "title": "Cô Dâu Bịt Mắt Nhận Nhầm Tình Cũ Ngay Ngày Cưới, Nào Ngờ Chú Rể Hủy Hôn Và Bán Luôn Cả Căn Nhà Cưới",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-15T11:00:06Z",
+      "duration_seconds": 4219,
+      "thumbnail_url": "https://i.ytimg.com/vi/EERgnuJij18/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_KeAnCyys-E",
+      "title": "Full Version l Thiếu Soái Giả Vờ Trượt Chân, Ai Ngờ Lại Tự Rơi Vào Lưới Tình l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-15T10:48:22Z",
+      "duration_seconds": 6027,
+      "thumbnail_url": "https://i.ytimg.com/vi/_KeAnCyys-E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "V2NlZhztv9c",
+      "title": "Phần 1-10 | 25 GIỜ THỎA MÃN | Sư Thúc Đã Sống Triệu Năm - Pháp Bảo Của Sư Thúc Hơi Kỳ Lạ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-15T10:30:23Z",
+      "duration_seconds": 88934,
+      "thumbnail_url": "https://i.ytimg.com/vi/V2NlZhztv9c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "xQq1vEVN250",
       "title": "Sinh Tồn Hoang Đảo Cùng Sếp Nữ Hống Hách | Đậu Đậu Vietsub",
