@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T22:17:01Z",
+  "generated_at": "2026-11-15T23:19:40Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "fKHWdZXZfKg",
+      "title": "Mùa 1+2 | Vạn Cổ Đệ Nhất Tông: Bắt Đầu Từ Điểm Danh Triệu Hồi | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-15T23:00:27Z",
+      "duration_seconds": 21690,
+      "thumbnail_url": "https://i.ytimg.com/vi/fKHWdZXZfKg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tef2syIySjo",
+      "title": "Con Trai Xấu Hổ Vì Mẹ Bán Rong, Để Người Khác Nhận Làm Mẹ Trong Lễ Cưới, Nào Ngờ Bà Nắm 30% Cổ Phần",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-15T22:30:38Z",
+      "duration_seconds": 8570,
+      "thumbnail_url": "https://i.ytimg.com/vi/tef2syIySjo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "cymkQws-RhI",
       "title": "Phần 1-2 | Sinh Tồn Đường Cao Tốc, Top 1 Quyết Đi Đến Tận Cùng Con Đường",
