@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T05:33:31Z",
+  "generated_at": "2026-11-15T06:33:52Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "Z9vne2_3FN4",
+      "title": "5 GIỜ | Bị Cướp Võ Thần Cốt - Hệ Thống Cổ Trùng Cùng Bình Đen Dung Hợp - Âm Thầm Trở Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-15T06:30:21Z",
+      "duration_seconds": 16860,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z9vne2_3FN4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "3gQYvt1lr3s",
       "title": "Sinh Tồn Nơi Hoang Dã Tôi Thức Tỉnh Hệ Thống Bá Đạo Thành Chúa Tể Rừng Sâu | Đậu Đậu Vietsub",
