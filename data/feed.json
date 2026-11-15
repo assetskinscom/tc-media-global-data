@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T06:33:52Z",
+  "generated_at": "2026-11-15T07:47:20Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "4aY59GSyGag",
+      "title": "P1-2| 5,5 GIỜ | Thái Cổ Thần Tông - Vừa Kích Hoạt Nhận Ngay Tu Vi Đại Đế - Mở Đại Lễ Bao Nhận Thưởng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-15T07:30:43Z",
+      "duration_seconds": 19022,
+      "thumbnail_url": "https://i.ytimg.com/vi/4aY59GSyGag/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gwS6t4YsV0o",
+      "title": "Vợ Cùng Phó Tổng Xé Thư Mời Tiệc Của Chồng Kỹ Sư, Nào Ngờ Anh Là Thiếu Gia Tỷ Phú Nắm Quyền Rút Vốn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-15T06:45:31Z",
+      "duration_seconds": 6060,
+      "thumbnail_url": "https://i.ytimg.com/vi/gwS6t4YsV0o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Z9vne2_3FN4",
       "title": "5 GIỜ | Bị Cướp Võ Thần Cốt - Hệ Thống Cổ Trùng Cùng Bình Đen Dung Hợp - Âm Thầm Trở Thành Bất Bại",
