@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T04:36:09Z",
+  "generated_at": "2026-11-15T05:33:31Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "3gQYvt1lr3s",
+      "title": "Sinh Tồn Nơi Hoang Dã Tôi Thức Tỉnh Hệ Thống Bá Đạo Thành Chúa Tể Rừng Sâu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-15T05:00:32Z",
+      "duration_seconds": 9103,
+      "thumbnail_url": "https://i.ytimg.com/vi/3gQYvt1lr3s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "bQcd21epl7E",
       "title": "4,5 GIỜ | Lục Hoàng Tử Bị Phế Truất - Dùng Hệ Thống Thành Tuyệt Thế Cường Giả Lúc Nào Không Hay",
