@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T23:15:00Z",
+  "generated_at": "2026-11-15T00:15:07Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "o-LvE1Q0fxw",
+      "title": "Vừa Nghe Nhà Trai Phá Sản, Nhà Gái Trở Mặt Đòi Hủy Cưới, Nào Ngờ Cô Bạn Mang 180 Nghìn Tệ Đến Cứu",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-15T00:15:09Z",
+      "duration_seconds": 7404,
+      "thumbnail_url": "https://i.ytimg.com/vi/o-LvE1Q0fxw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-Osj-Vx13oM",
+      "title": "Full Version 3-End | Bảo Bối Tình Cũ À , Lần Này Em Đừng Hòng Trốn Thoát | Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-15T00:00:06Z",
+      "duration_seconds": 7910,
+      "thumbnail_url": "https://i.ytimg.com/vi/-Osj-Vx13oM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "YG3FVYske34",
       "title": "Làm Ruộng Được Mùa Rớt Đầy Phần Thưởng, Ta Từ Kẻ Phàm Tục Ẩn Nhẫn Tu Thành Tiên (FULL TẬP 1-147)",
