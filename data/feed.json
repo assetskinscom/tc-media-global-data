@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T02:41:49Z",
+  "generated_at": "2026-11-15T03:33:09Z",
   "last_full_refresh_at": "2026-11-14T08:29:58Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "s0hHwkLMSy8",
+      "title": "10 GIỜ THỎA MÃN | Xuyên Làm Chàng Rể Bị Nữ Đế Lừa Làm Quan - Nào Ngờ Văn Võ Song Toàn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-15T03:27:53Z",
+      "duration_seconds": 35099,
+      "thumbnail_url": "https://i.ytimg.com/vi/s0hHwkLMSy8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "OT2cGh65ys8",
+      "title": "Full Mùa 1+2+3 |  Kẻ Ăn Bám Thành Bậc Thầy Lữ Khách: Càn Quét Phó Bản Tận Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-15T03:00:28Z",
+      "duration_seconds": 26471,
+      "thumbnail_url": "https://i.ytimg.com/vi/OT2cGh65ys8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "i33UMf0Ry5w",
+      "title": "Con Nuôi Bị Nhà Giàu Lấy Máu Suốt 18 Năm Rồi Ép Gả Cho Tổng Tài Tàn Tật, Nào Ngờ Cô Là Thần Y",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-15T03:00:26Z",
+      "duration_seconds": 8543,
+      "thumbnail_url": "https://i.ytimg.com/vi/i33UMf0Ry5w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "nbrvR5MjS4s",
       "title": "16,5 GIỜ THỎA MÃN | Đệ Tử Tư Chất Phế Vật - Ta Có Thần Cấp Linh Thú Giúp Ta Tu Thành Vô Địch",
