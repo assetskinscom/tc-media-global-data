@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T07:19:21Z",
-  "last_full_refresh_at": "2026-11-15T08:42:05Z",
+  "generated_at": "2026-11-16T10:05:23Z",
+  "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "RqvRUS1BuRM",
+      "title": "Đấm Gục Dị Năng Giả Bằng Một Tay Tôi Vẫn Phải Làm Trợ Lý Cho Nữ Thần Trường Học | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-16T10:00:05Z",
+      "duration_seconds": 10912,
+      "thumbnail_url": "https://i.ytimg.com/vi/RqvRUS1BuRM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gxSzDA1Jhvo",
+      "title": "Thiên Kim 3 Tuổi Bị Chú Ruột Lừa Đảo , Nào Ngờ Nhờ Muông Thú Vạch Mặt Kẻ Ác Và Cứu Cả Gia Tộc Họ Cố",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T09:45:04Z",
+      "duration_seconds": 5018,
+      "thumbnail_url": "https://i.ytimg.com/vi/gxSzDA1Jhvo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "4fGpiwRAQvA",
+      "title": "7 GIỜ THỎA MÃN | Tạp Dịch Ngũ Linh Căn - Âm Thầm Nâng Cấp Linh Căn Vô Hạn Tu Thành Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T09:41:46Z",
+      "duration_seconds": 24380,
+      "thumbnail_url": "https://i.ytimg.com/vi/4fGpiwRAQvA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ptBHVYzVz8g",
+      "title": "8 GIỜ THỎA MÃN | Lính Quèn Nơi Biên Ải - Nào Ngờ Là Thiên Tài Võ Học Âm Thầm Trở Thành Đại Tướng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T08:43:30Z",
+      "duration_seconds": 27713,
+      "thumbnail_url": "https://i.ytimg.com/vi/ptBHVYzVz8g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "N87nlwqtRiY",
+      "title": "P1-2 | 6,5 GIỜ | Cậu Bé Nghèo Nào Ngờ Là Đại Đế Tái Sinh - Thức Tỉnh Thần Lực Nghiền Ép Cả Giáo Phái",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T07:35:35Z",
+      "duration_seconds": 22906,
+      "thumbnail_url": "https://i.ytimg.com/vi/N87nlwqtRiY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "YBZ038bb84k",
       "title": "Con Trai Ép Mẹ Giao Nhà Và Tiệm Vải Cho Nhà Vợ Ngay Lễ Cưới, Nào Ngờ Mẹ Là Chủ Tịch Giấu Thân Phận",
@@ -2422,20 +2492,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "HPEYnqFDUkI",
-      "title": "Phần 1: Trấn Áp Chư Thiên Bắt Đầu Từ Việc Liên Kết Hệ Thống Phản Phái",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-12T23:36:39Z",
-      "duration_seconds": 21311,
-      "thumbnail_url": "https://i.ytimg.com/vi/HPEYnqFDUkI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -77818,7 +77874,7 @@
       "channel": "movies8",
       "channel_title": "ThánhTăng",
       "published_at": "2025-09-02T10:05:36Z",
-      "duration_seconds": 4947,
+      "duration_seconds": 4948,
       "thumbnail_url": "https://i.ytimg.com/vi/VipFtjwUdfU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
