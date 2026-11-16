@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T05:09:55Z",
+  "generated_at": "2026-11-16T07:19:21Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "YBZ038bb84k",
+      "title": "Con Trai Ép Mẹ Giao Nhà Và Tiệm Vải Cho Nhà Vợ Ngay Lễ Cưới, Nào Ngờ Mẹ Là Chủ Tịch Giấu Thân Phận",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T07:15:05Z",
+      "duration_seconds": 6772,
+      "thumbnail_url": "https://i.ytimg.com/vi/YBZ038bb84k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "XTqlQI1GB5s",
+      "title": "P1-2 | 4,5 GIỜ | Thái Tử Lưu Đày - Nào Ngờ Thành Bạo Chúa Vô Song Với Kiến Thức Thiên Tài",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T06:30:02Z",
+      "duration_seconds": 16087,
+      "thumbnail_url": "https://i.ytimg.com/vi/XTqlQI1GB5s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "ACAaIyiRFEM",
       "title": "Phần 1-2 | 7 GIỜ THỎA MÃN | Đệ Tử Phế Linh Căn - Hệ Thống Sao Chép Thần Cấp Tu Thành Vô Địch",
