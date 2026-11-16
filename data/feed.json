@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T10:05:23Z",
+  "generated_at": "2026-11-16T11:48:49Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,90 @@
     }
   },
   "videos": [
+    {
+      "id": "_iBvgUnhthQ",
+      "title": "PHẦN 2 | Xuyên Làm Thiếu Gia Phế Vật - Dùng Tài Năng Trỗi Dậy Khiến Hoàng Đế Đập Bàn Khen Hay",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T11:31:47Z",
+      "duration_seconds": 8647,
+      "thumbnail_url": "https://i.ytimg.com/vi/_iBvgUnhthQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zQ0Rjm4NRYY",
+      "title": "Mạt Thế Dị Biến Thức Tỉnh Bộ Não Thao Túng Cả Bầy Quái Vật | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-16T11:00:34Z",
+      "duration_seconds": 7411,
+      "thumbnail_url": "https://i.ytimg.com/vi/zQ0Rjm4NRYY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "nqR917NEMDY",
+      "title": "Nữ tổng tài ngồi nhầm bàn khi xem mắt, lại yêu chàng nghèo - chiến thần bí ẩn với gia sản nghìn tỷ!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-16T11:00:22Z",
+      "duration_seconds": 4474,
+      "thumbnail_url": "https://i.ytimg.com/vi/nqR917NEMDY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ZbBo1DMha4g",
+      "title": "Tổng Tài Yêu Nữ Thực Tập Sinh, Nào Ngờ Cô Từ Chối Dựa Vào Anh Và Quyết Tự Mua Nhà Bằng Năng Lực",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T11:00:13Z",
+      "duration_seconds": 10247,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZbBo1DMha4g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-0yiMd_0F_I",
+      "title": "5,5 GIỜ | Bị Nữ Thánh Nhân Hủy Hôn - Thiếu Chủ Phế Vật Kích Hoạt Đế Thể Bất Bại Tu Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T10:45:34Z",
+      "duration_seconds": 19126,
+      "thumbnail_url": "https://i.ytimg.com/vi/-0yiMd_0F_I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "K4g_2mnhjrQ",
+      "title": "Bị chồng phản bội đuổi khỏi nhà, Vợ nghèo lộ thân phận thiên kim Tỷ Phú, khiến hắn trắng tay!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-16T10:23:19Z",
+      "duration_seconds": 6398,
+      "thumbnail_url": "https://i.ytimg.com/vi/K4g_2mnhjrQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "RqvRUS1BuRM",
       "title": "Đấm Gục Dị Năng Giả Bằng Một Tay Tôi Vẫn Phải Làm Trợ Lý Cho Nữ Thần Trường Học | Đậu Đậu Vietsub",
