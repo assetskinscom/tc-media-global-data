@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T20:28:56Z",
+  "generated_at": "2026-11-16T21:29:29Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "ft9UXxiPD1Q",
+      "title": "Phần 28 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-16T20:36:51Z",
+      "duration_seconds": 9534,
+      "thumbnail_url": "https://i.ytimg.com/vi/ft9UXxiPD1Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "J6pxnLUMRyI",
       "title": "Phần 6 | Trảm Thần Quan, Ta Chết Đi Sống Lại, Thức Tỉnh Thần Tai Chi Thể",
