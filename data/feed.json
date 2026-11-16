@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T00:31:50Z",
+  "generated_at": "2026-11-16T02:06:22Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,62 @@
     }
   },
   "videos": [
+    {
+      "id": "3_yPkAn15po",
+      "title": "Chồng Cưới Tiểu Tam Mạo Danh Thiên Tài Chip, Nào Ngờ Vợ Cũ Là Chủ Nhân Sáng Chế Khiến Hắn Phá Sản",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T02:00:12Z",
+      "duration_seconds": 3938,
+      "thumbnail_url": "https://i.ytimg.com/vi/3_yPkAn15po/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "nq9KaVGeKDU",
+      "title": "P1-3 | 10 GIỜ THỎA MÃN | Sư Đệ Ngũ Linh Căn - Cả Tông Môn Là Bia Đỡ Đạn - Chỉ Có Sư Đệ Là Nguy Hiểm",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T01:54:41Z",
+      "duration_seconds": 36099,
+      "thumbnail_url": "https://i.ytimg.com/vi/nq9KaVGeKDU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_qgW_UE_9KU",
+      "title": "[FULL 17H] BỊ TỪ HÔN, TA THU PHỤC LUÔN MẸ VỢ LÀM NÔ TỲ! | LY VIETSUB 1292",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-16T01:37:14Z",
+      "duration_seconds": 60002,
+      "thumbnail_url": "https://i.ytimg.com/vi/_qgW_UE_9KU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "t2ykixxyXpA",
+      "title": "3,5 GIỜ | Đệ Tử Phế Nhất Tông Môn - Hệ Thống Diệt Tà Tu - Vô Tình Ta Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T00:58:08Z",
+      "duration_seconds": 12714,
+      "thumbnail_url": "https://i.ytimg.com/vi/t2ykixxyXpA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "8e53iijRyzk",
       "title": "Full Version 1 l Xuyên Thành Phản Diện Trẻ Trâu, Tôi Vội Lấy Lòng Nữ Chính Để Giữ Mạng l Sora Dub",
