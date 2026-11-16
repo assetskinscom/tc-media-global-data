@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T02:06:22Z",
+  "generated_at": "2026-11-16T05:09:55Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,160 @@
     }
   },
   "videos": [
+    {
+      "id": "ACAaIyiRFEM",
+      "title": "Phần 1-2 | 7 GIỜ THỎA MÃN | Đệ Tử Phế Linh Căn - Hệ Thống Sao Chép Thần Cấp Tu Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T05:06:45Z",
+      "duration_seconds": 25024,
+      "thumbnail_url": "https://i.ytimg.com/vi/ACAaIyiRFEM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0HQmsqxnMDM",
+      "title": "Sinh Tồn Tận Thế Thức Tỉnh Thiên Phú Cấp SSS Cùng Hoa Khôi Càn Quét Phó Bản | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-16T05:00:09Z",
+      "duration_seconds": 9065,
+      "thumbnail_url": "https://i.ytimg.com/vi/0HQmsqxnMDM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zpCkdm5W5J4",
+      "title": "Xuyên thành yêu phi bướng bỉnh, ai ngờ Bạo Quân sủng cô điên cuồng, vì cô mà giải tán hậu cung!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-16T04:01:57Z",
+      "duration_seconds": 12423,
+      "thumbnail_url": "https://i.ytimg.com/vi/zpCkdm5W5J4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "is8OiUom3ec",
+      "title": "Cô Gái Nghèo Thuê Bạn Trai Giá 500 Tệ Một Ngày, Nào Ngờ Anh Là Tổng Tài Còn Cô Là Thiên Kim Tỷ Phú",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T04:00:39Z",
+      "duration_seconds": 7567,
+      "thumbnail_url": "https://i.ytimg.com/vi/is8OiUom3ec/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9o8TYC9bfEQ",
+      "title": "Cô vào tù thay em trai, sinh con bị chê cười! Nào ngờ cha bé là thừa kế nghìn tỷ, cô được cưng chiều",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-16T04:00:18Z",
+      "duration_seconds": 6521,
+      "thumbnail_url": "https://i.ytimg.com/vi/9o8TYC9bfEQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "wA-5o3xpdiw",
+      "title": "Mạt Thế Trọng Sinh Ta Thức Tỉnh Dị Năng Điều Khiển Binh Đoàn Zombie Mỹ Nữ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-16T04:00:02Z",
+      "duration_seconds": 9735,
+      "thumbnail_url": "https://i.ytimg.com/vi/wA-5o3xpdiw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Bym-7B9WR7I",
+      "title": "9 GIỜ THỎA MÃN | Siêu Chàng Rể - Tân Hôn Bị Nhốt Vào Chuồng Ngựa - Kiến Thức Trấn Động Kinh Thành",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T03:58:08Z",
+      "duration_seconds": 32484,
+      "thumbnail_url": "https://i.ytimg.com/vi/Bym-7B9WR7I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "VE-uwURGbZ8",
+      "title": "Cô gái nghèo dùng thân cứu Tổng Tài bị trúng thuốc, nào ngờ 1 phát mang thai đôi, lập tức cưới!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-16T03:30:32Z",
+      "duration_seconds": 9428,
+      "thumbnail_url": "https://i.ytimg.com/vi/VE-uwURGbZ8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "PYbHlNuAn3Q",
+      "title": "5 GIỜ | Phế Vật Kích Hoạt SSS+ Ta Có Thể Rèn Mọi Thứ Trở Thành Thần Cấp - Bất Bại Trên Chiến Trường",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T03:28:48Z",
+      "duration_seconds": 17410,
+      "thumbnail_url": "https://i.ytimg.com/vi/PYbHlNuAn3Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "DQPRnlu0y2A",
+      "title": "Full | Tận Thế Zombie Tôi  Rút Cạn Vốn Tích Trữ Trăm Triệu Vật Tư Xây Pháo Đài Bất Khả Xâm Phạm",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-16T03:00:19Z",
+      "duration_seconds": 22764,
+      "thumbnail_url": "https://i.ytimg.com/vi/DQPRnlu0y2A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6GGmDDQdesE",
+      "title": "P1-3 | 7 GIỜ | Sống Quy Ẩn An Nhàn Câu Cá - Nữ Đế Lại Dẫn 10 Vạn Thiết Kỵ Đến Cầu Hôn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-16T02:47:13Z",
+      "duration_seconds": 24380,
+      "thumbnail_url": "https://i.ytimg.com/vi/6GGmDDQdesE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "3_yPkAn15po",
       "title": "Chồng Cưới Tiểu Tam Mạo Danh Thiên Tài Chip, Nào Ngờ Vợ Cũ Là Chủ Nhân Sáng Chế Khiến Hắn Phá Sản",
