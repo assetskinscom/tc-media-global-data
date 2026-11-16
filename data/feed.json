@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T22:28:03Z",
+  "generated_at": "2026-11-16T23:24:47Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "VuBd5uKwvvQ",
+      "title": "Danh Vọng Thành Đạo: Phân Thân Của Ta Rải Khắp Thế Giới (MÙA 1) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-16T23:00:28Z",
+      "duration_seconds": 12345,
+      "thumbnail_url": "https://i.ytimg.com/vi/VuBd5uKwvvQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Y1ZOTyjf2sE",
+      "title": "CEO Từng Bỏ Rơi Bạn Gái 8 Năm Rồi Trở Về Cưới Chị Cô, Nào Ngờ Anh Chỉ Yêu Một Mình Cô Suốt 12 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T22:30:14Z",
+      "duration_seconds": 14880,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y1ZOTyjf2sE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "ft9UXxiPD1Q",
       "title": "Phần 28 | Thái Huyền Thai Châu Truyện",
