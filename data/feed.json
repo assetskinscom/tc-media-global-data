@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T23:19:40Z",
+  "generated_at": "2026-11-16T00:31:50Z",
   "last_full_refresh_at": "2026-11-15T08:42:05Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "8e53iijRyzk",
+      "title": "Full Version 1 l Xuyên Thành Phản Diện Trẻ Trâu, Tôi Vội Lấy Lòng Nữ Chính Để Giữ Mạng l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-16T00:00:09Z",
+      "duration_seconds": 8930,
+      "thumbnail_url": "https://i.ytimg.com/vi/8e53iijRyzk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "GsiVnpAwU4U",
+      "title": "Cô Gái Mang Thai Bị Đuổi Khỏi Nhà, Nào Ngờ 5 Năm Sau Phát Hiện Con Trai Vẫn Sống Bên Vị Tổng Tài Ấy",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T00:00:08Z",
+      "duration_seconds": 5415,
+      "thumbnail_url": "https://i.ytimg.com/vi/GsiVnpAwU4U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "fKHWdZXZfKg",
       "title": "Mùa 1+2 | Vạn Cổ Đệ Nhất Tông: Bắt Đầu Từ Điểm Danh Triệu Hồi | Tại hạ Lệ Phi Dũng",
