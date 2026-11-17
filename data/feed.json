@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T03:43:45Z",
+  "generated_at": "2026-11-17T04:41:16Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "JGMEpTCyGfI",
+      "title": "6,5 GIỜ | Thiếu Gia Phế Vật Sau 1 Đêm Hóa Chiến Thần - Dùng Võ Thuật Hạ Gục Mọi Võ Tướng Quân Doanh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T04:28:00Z",
+      "duration_seconds": 22903,
+      "thumbnail_url": "https://i.ytimg.com/vi/JGMEpTCyGfI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_GlHnA7O7Wk",
+      "title": "Full Mùa 2 | Sở Hữu Hệ Thống Cường Hóa Vô Hạn Tôi Khiến Nữ Lãnh Chúa Tinh Linh Tranh Giành",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T04:00:30Z",
+      "duration_seconds": 8125,
+      "thumbnail_url": "https://i.ytimg.com/vi/_GlHnA7O7Wk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9ZaqvrdNoeY",
+      "title": "Cô Gái Cưới Anh Tài Xế Ngay Sau Buổi Xem Mắt, Nào Ngờ Chồng Là CEO Thịnh Viễn Khiến Cả Nhà Sững Sờ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T04:00:17Z",
+      "duration_seconds": 13742,
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZaqvrdNoeY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "kpMRZphnzDQ",
+      "title": "Cô bán bánh bao đấm gục bao công, tổng tài đứng hình! Thấy vết bớt, nhận ra con gái mất tích 20 năm!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-17T04:00:05Z",
+      "duration_seconds": 6019,
+      "thumbnail_url": "https://i.ytimg.com/vi/kpMRZphnzDQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "V_m3EntZZt0",
+      "title": "8 GIỜ THỎA MÃN | SSS+ 1 Tỷ Đòn Tấn Công 1 Giây - Thần Thánh Cũng Không Thể Chịu Nổi",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T03:52:40Z",
+      "duration_seconds": 29121,
+      "thumbnail_url": "https://i.ytimg.com/vi/V_m3EntZZt0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "IBr-OWk0RuI",
       "title": "Nghe tin vợ bị mẹ con tiểu tam hại chết, chiến thần trở về chôn sống họ để báo thù!",
