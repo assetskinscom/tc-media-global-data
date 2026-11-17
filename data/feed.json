@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T07:59:08Z",
+  "generated_at": "2026-11-17T08:55:48Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "MNi2QHoqY2Q",
+      "title": "Phần 7-8 | Hệ Thống Vô Hạn Thọ Nguyên Đổi Lấy Bảo Vật, Phàm Nhân Tu Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T08:27:56Z",
+      "duration_seconds": 17866,
+      "thumbnail_url": "https://i.ytimg.com/vi/MNi2QHoqY2Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "ViPu4_RZB2Y",
       "title": "17,5 GIỜ THỎA MÃN | Hoàng Đế Giả Nghèo Dạy Cháu - Nào Ngờ Nó Là Thiên Tài Xuyên Không Có Hệ Thống",
