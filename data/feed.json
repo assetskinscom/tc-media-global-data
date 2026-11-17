@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T04:41:16Z",
+  "generated_at": "2026-11-17T05:40:02Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "__oo8vfmWYQ",
+      "title": "Sinh Tồn Hoang Đảo Cùng Dàn Tiểu Thư Vô Ơn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T05:00:03Z",
+      "duration_seconds": 10036,
+      "thumbnail_url": "https://i.ytimg.com/vi/__oo8vfmWYQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "JGMEpTCyGfI",
       "title": "6,5 GIỜ | Thiếu Gia Phế Vật Sau 1 Đêm Hóa Chiến Thần - Dùng Võ Thuật Hạ Gục Mọi Võ Tướng Quân Doanh",
