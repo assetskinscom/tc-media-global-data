@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T08:55:48Z",
+  "generated_at": "2026-11-17T09:52:47Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "V5ESpsyqMU0",
+      "title": "CEO Đòi Ly Hôn Vì Tình Cũ Mang Thai, Nào Ngờ Vợ Bỏ Đi Khiến Anh Hối Hận Và Điên Cuồng Níu Kéo Cô",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T09:45:05Z",
+      "duration_seconds": 9774,
+      "thumbnail_url": "https://i.ytimg.com/vi/V5ESpsyqMU0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "wREX_iVXc0o",
+      "title": "3,5 GIỜ | Trưởng Lão Phế Tu Vi - Hệ Thống Thu Đồ Hoàn Trả 10 Lần Tu Vi - Vạn Điểm Thuộc Tính",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T09:27:02Z",
+      "duration_seconds": 12132,
+      "thumbnail_url": "https://i.ytimg.com/vi/wREX_iVXc0o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "MNi2QHoqY2Q",
       "title": "Phần 7-8 | Hệ Thống Vô Hạn Thọ Nguyên Đổi Lấy Bảo Vật, Phàm Nhân Tu Thành Đại Đế",
