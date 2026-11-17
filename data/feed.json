@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T00:25:13Z",
+  "generated_at": "2026-11-17T01:56:20Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "zMaYYJwJTJE",
+      "title": "P1-3 | 32 GIỜ THỎA MÃN | Xuyên Làm Tạp Dịch Đào Mỏ - Hệ Thống Max Cấp Mọi Chỉ Số Tu Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T01:51:30Z",
+      "duration_seconds": 115318,
+      "thumbnail_url": "https://i.ytimg.com/vi/zMaYYJwJTJE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "N7AGfdjFYZU",
+      "title": "P1-2 | 6,5 GIỜ | Nữ Đế Trọng Sinh Bái Sư Tôn Phế Vật - Nào Ngờ Ngài Đã Vô Địch Từ Rất Lâu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T00:51:53Z",
+      "duration_seconds": 22287,
+      "thumbnail_url": "https://i.ytimg.com/vi/N7AGfdjFYZU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "iEF7yF-9oSo",
       "title": "CEO Tỷ Phú Giấu Thân Phận Làm Tài Xế Đi Xem Mắt, Nào Ngờ Cô Giáo Chẳng Chê Nghèo Lại Còn Yêu Anh",
