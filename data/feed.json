@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T06:42:27Z",
+  "generated_at": "2026-11-17T07:59:08Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "ViPu4_RZB2Y",
+      "title": "17,5 GIỜ THỎA MÃN | Hoàng Đế Giả Nghèo Dạy Cháu - Nào Ngờ Nó Là Thiên Tài Xuyên Không Có Hệ Thống",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T07:29:16Z",
+      "duration_seconds": 62049,
+      "thumbnail_url": "https://i.ytimg.com/vi/ViPu4_RZB2Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "fACQPUQ7MgI",
       "title": "P1-2 | 5 GIỜ | Nghịch Chuyển Nhân Quả - Đệ Tử Luyện Khí Nhưng Đại Đế Cũng Phải Cúi Đầu Van Xin",
