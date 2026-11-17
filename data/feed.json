@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T23:24:47Z",
+  "generated_at": "2026-11-17T00:25:13Z",
   "last_full_refresh_at": "2026-11-16T10:05:23Z",
   "channels": {
     "music": {
@@ -142,6 +142,20 @@
     }
   },
   "videos": [
+    {
+      "id": "iEF7yF-9oSo",
+      "title": "CEO Tỷ Phú Giấu Thân Phận Làm Tài Xế Đi Xem Mắt, Nào Ngờ Cô Giáo Chẳng Chê Nghèo Lại Còn Yêu Anh",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T00:00:19Z",
+      "duration_seconds": 2588,
+      "thumbnail_url": "https://i.ytimg.com/vi/iEF7yF-9oSo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "VuBd5uKwvvQ",
       "title": "Danh Vọng Thành Đạo: Phân Thân Của Ta Rải Khắp Thế Giới (MÙA 1) Tại hạ Lệ Phi Dũng",
