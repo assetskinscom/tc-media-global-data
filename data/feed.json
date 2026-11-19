@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T00:44:20Z",
+  "generated_at": "2026-11-19T07:58:27Z",
   "last_full_refresh_at": "2026-11-19T00:44:20Z",
   "channels": {
     "music": {
@@ -142,6 +142,244 @@
     }
   },
   "videos": [
+    {
+      "id": "ygI4_oMNX_Q",
+      "title": "3 GIỜ | Tạp Dịch Tông Môn Đăng Nhập Vô Địch - Ta Khiến Các Thiên Tài Tuyệt Thế Phải Khuất Phục",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T07:33:47Z",
+      "duration_seconds": 10998,
+      "thumbnail_url": "https://i.ytimg.com/vi/ygI4_oMNX_Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZjkgXYCTW80",
+      "title": "[S4-5] TRÓI ĐỊNH HỆ THỐNG ĐẠI ÁC NHÂN: TA CÀNG LÀM LOẠN, THÌ THIÊN HẠ CÀNG THÍCH",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-19T07:04:46Z",
+      "duration_seconds": 32189,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZjkgXYCTW80/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "88KPO5sOXEo",
+      "title": "Phần 29: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-19T06:34:10Z",
+      "duration_seconds": 10150,
+      "thumbnail_url": "https://i.ytimg.com/vi/88KPO5sOXEo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "eZMH8TilDEg",
+      "title": "6 GIỜ | Hệ Thống Công Đức 300 Năm - Ta Bước Vào Cảnh Giới Thần Chuyển Lật Đổ Ma Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T06:30:22Z",
+      "duration_seconds": 22156,
+      "thumbnail_url": "https://i.ytimg.com/vi/eZMH8TilDEg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "as6BmLflse0",
+      "title": "PHẦN 5 - TẬP 4 | BẢN ĐẸP | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T05:17:27Z",
+      "duration_seconds": 2001,
+      "thumbnail_url": "https://i.ytimg.com/vi/as6BmLflse0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6r2P_YzADaM",
+      "title": "Con Rể Ép Mẹ Vợ Vào Viện Dưỡng Lão Để Cướp Nhà 6 Triệu Tệ, Nào Ngờ Bà Phát Hiện Bảo Hiểm 3 Triệu Tệ",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-19T05:00:26Z",
+      "duration_seconds": 5703,
+      "thumbnail_url": "https://i.ytimg.com/vi/6r2P_YzADaM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Z-y34RjmdTU",
+      "title": "Đại Tu Sĩ Tái Sinh: Nuôi Rồng Thành Chó Đại Náo Dị Giới | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-19T05:00:16Z",
+      "duration_seconds": 14535,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z-y34RjmdTU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Yw-EpF-gvVQ",
+      "title": "PHẦN 3 | 4 GIỜ | Thiếu Chủ Bị Gia Tộc Ruồng Bỏ - Kích Hoạt Hệ Thống Thành Ma Thần Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T04:23:43Z",
+      "duration_seconds": 14238,
+      "thumbnail_url": "https://i.ytimg.com/vi/Yw-EpF-gvVQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "RcTeON_2POQ",
+      "title": "Tận Thế Sương Mù: Thức Tỉnh Tiên Sư, Ta Luyện Vạn Quỷ Thành Pháp Khí Bá Đạo | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-19T04:00:27Z",
+      "duration_seconds": 11350,
+      "thumbnail_url": "https://i.ytimg.com/vi/RcTeON_2POQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KUy9BzZJHUI",
+      "title": "Ép cưới chú hơn 12 tuổi, tưởng chỉ là hợp đồng! Ai ngờ yêu cô 8 năm, cưới xong cưng chiều hết mực!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-19T04:00:27Z",
+      "duration_seconds": 10133,
+      "thumbnail_url": "https://i.ytimg.com/vi/KUy9BzZJHUI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "JBSvLvI-_PI",
+      "title": "Chồng Cưới Tình Cũ Ngày Đầy Tháng Con, Nào Ngờ Vợ Là Tiểu Thư Hào Môn Có Ba Anh Trai Quyền Lực",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-19T04:00:15Z",
+      "duration_seconds": 5186,
+      "thumbnail_url": "https://i.ytimg.com/vi/JBSvLvI-_PI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "OmDBHZzuotE",
+      "title": "P1-7 BẢN ĐẸP | 53 Giờ Thỏa Mãn | Hóa Thành Thần Thụ - 1 Chiếc Lá Của Ta Cũng Khiến Đại Đế Khiếp Sợ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T03:56:52Z",
+      "duration_seconds": 191274,
+      "thumbnail_url": "https://i.ytimg.com/vi/OmDBHZzuotE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-3NSKWkI4Mo",
+      "title": "9 GIỜ THỎA MÃN | Hoàng Tử Vô Dụng Nào Ngờ Là Thiên Tài Quân Sự Xuyên Không - Hoàng Đề Cũng Khiếp Sợ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T03:05:05Z",
+      "duration_seconds": 31085,
+      "thumbnail_url": "https://i.ytimg.com/vi/-3NSKWkI4Mo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "645nfktoSh8",
+      "title": "Thức Tỉnh Dị Năng Cấp F Bị Khinh Bỉ Ai Ngờ Triệu Hồi Toàn Ma Nữ Cực Phẩm | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-19T03:00:28Z",
+      "duration_seconds": 8261,
+      "thumbnail_url": "https://i.ytimg.com/vi/645nfktoSh8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mo-TokvbgGA",
+      "title": "9 GIỜ THỎA MÃN | Hoàng Đế Điểm Danh - Một Bước Thành Cường Giả - Triệu Hồi Thần Tướng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T02:05:38Z",
+      "duration_seconds": 31336,
+      "thumbnail_url": "https://i.ytimg.com/vi/mo-TokvbgGA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Na0jx-QtbB0",
+      "title": "Mẹ Chồng Bắt Con Dâu Ăn Cơm Thừa Dưới Đất, Nào Ngờ Cô Đòi Ly Hôn Và Đòi Lại Tiền Nuôi Cả Nhà 10 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-19T02:00:15Z",
+      "duration_seconds": 8469,
+      "thumbnail_url": "https://i.ytimg.com/vi/Na0jx-QtbB0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "msvaUCC6Ae8",
+      "title": "PHẦN CUỐI - TẬP 2 | FULL BỘ | Xuyên Game Tu Tiên, Chỉ Mình Ta Có Thể Nạp Thẻ Vô Hạn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-19T01:08:46Z",
+      "duration_seconds": 19863,
+      "thumbnail_url": "https://i.ytimg.com/vi/msvaUCC6Ae8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "BchAWkbFd5Q",
       "title": "Cô Gái Tưởng Cưới Nhầm Người Sau Buổi Xem Mắt, Nào Ngờ Anh Là Sếp Mới Và Đã Âm Thầm Chọn Cô Làm Vợ",
