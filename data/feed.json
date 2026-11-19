@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T17:11:39Z",
+  "generated_at": "2026-11-19T23:49:55Z",
   "last_full_refresh_at": "2026-11-19T00:44:20Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "uYF7MGrQ5-4",
+      "title": "Thiếu Gia Nói Chia Tay Nữ Phi Công, Nào Ngờ Anh Chính Là Khách VIP Trên Chuyến Bay Quốc Tế Của Cô",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-19T22:45:31Z",
+      "duration_seconds": 13340,
+      "thumbnail_url": "https://i.ytimg.com/vi/uYF7MGrQ5-4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "K-4uTD5Bnlo",
+      "title": "Tập 231-260: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-19T20:18:56Z",
+      "duration_seconds": 7783,
+      "thumbnail_url": "https://i.ytimg.com/vi/K-4uTD5Bnlo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "rIWG3wgSHdk",
       "title": "Phần 39 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
