@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T23:49:55Z",
-  "last_full_refresh_at": "2026-11-19T00:44:20Z",
+  "generated_at": "2026-11-20T05:27:17Z",
+  "last_full_refresh_at": "2026-11-20T05:27:17Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -142,6 +142,202 @@
     }
   },
   "videos": [
+    {
+      "id": "i2-XEO5rDlg",
+      "title": "Sở Hữu Đội Ngũ Toàn Siêu Dị Năng Ta Thức Tỉnh Cấp F1 Càn Quét Giải Đấu Thiên Khung | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T05:00:23Z",
+      "duration_seconds": 10244,
+      "thumbnail_url": "https://i.ytimg.com/vi/i2-XEO5rDlg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "beQPlaOz3mk",
+      "title": "Cô Vợ Hợp Đồng Được Em Trai Chồng Yêu Thầm, Nào Ngờ Anh Đã Yêu Cô Từ Thời Đại Học Mà Không Dám Nói",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T05:00:13Z",
+      "duration_seconds": 2262,
+      "thumbnail_url": "https://i.ytimg.com/vi/beQPlaOz3mk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ybH7lUkZyKM",
+      "title": "5,5 GIỜ | Ta Đã Trở Thành Thần Chỉ Muốn Sống An Nhàn - Sao Hệ Thống Vẫn Bắt Ta Thu Đồ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T04:20:48Z",
+      "duration_seconds": 19523,
+      "thumbnail_url": "https://i.ytimg.com/vi/ybH7lUkZyKM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "h5nARkMrdEw",
+      "title": "Tận Thế Bùng Nổ: Dẫn Bạn Cùng Bàn Xinh Đẹp Phá Vòng Vây Xác Sống | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T04:00:23Z",
+      "duration_seconds": 6062,
+      "thumbnail_url": "https://i.ytimg.com/vi/h5nARkMrdEw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uIQUOJcyAlg",
+      "title": "Cô Gái Trả Hết Nợ Rồi Chia Tay Thiếu Gia, Nào Ngờ Anh Tìm Đến Trường Bay Và Quyết Không Buông Tay",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T04:00:11Z",
+      "duration_seconds": 10444,
+      "thumbnail_url": "https://i.ytimg.com/vi/uIQUOJcyAlg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "LAPM93Nbm54",
+      "title": "Cô đau vì bị thương, anh lại chăm tình cũ! Cô tỉnh ngộ, bỏ đi xa, để anh khổ sở tìm khắp nơi!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-20T04:00:03Z",
+      "duration_seconds": 5357,
+      "thumbnail_url": "https://i.ytimg.com/vi/LAPM93Nbm54/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "FXrzMXSzrgU",
+      "title": "7 GIỜ THỎA MÃN | Cửu Chuyển Huyền Công - Chỉ Mình Ta Chọn Tu Tiên Cấp Độ Địa Ngục",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T03:48:41Z",
+      "duration_seconds": 24138,
+      "thumbnail_url": "https://i.ytimg.com/vi/FXrzMXSzrgU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9zLHS1YS0_s",
+      "title": "Bị hôn phu phản bội, cô cưới đại Tổng Tài lạnh lùng, ai ngờ được cưng chiều hết mực!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-20T03:30:34Z",
+      "duration_seconds": 10454,
+      "thumbnail_url": "https://i.ytimg.com/vi/9zLHS1YS0_s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "KxVdQYY7twA",
+      "title": "Dị Biến Tột Cùng: Kẻ Thức Tỉnh Máu Thần Chống Lại Quân Đoàn Thanh Tẩy | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T03:00:09Z",
+      "duration_seconds": 10733,
+      "thumbnail_url": "https://i.ytimg.com/vi/KxVdQYY7twA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "pIPmZlZkmaY",
+      "title": "12 GIỜ THỎA MÃN | Thường Dân Thành Hoàng Đế - Thiên Tài Võ Thuật Thống Lĩnh Vạn Thiết Kỵ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T02:57:07Z",
+      "duration_seconds": 42395,
+      "thumbnail_url": "https://i.ytimg.com/vi/pIPmZlZkmaY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "O6dAiUzWISI",
+      "title": "CEO Tưởng Vợ Hợp Đồng Muốn Ly Hôn Vì Tình Cũ, Nào Ngờ Cô Đã Yêu Anh Từ Lâu Và Cả Hai Cùng Giấu Kín",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T02:00:33Z",
+      "duration_seconds": 7311,
+      "thumbnail_url": "https://i.ytimg.com/vi/O6dAiUzWISI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "YIw6nJ7v3p0",
+      "title": "13 GIỜ THỎA MÃN | Lão Tổ Xuất Quan Còn 3 Ngày Thọ Nguyên - Kích Hoạt Hệ Thống Phục Hưng Gia Tộc",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T01:52:48Z",
+      "duration_seconds": 45890,
+      "thumbnail_url": "https://i.ytimg.com/vi/YIw6nJ7v3p0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vS84x9ve0-I",
+      "title": "9,5 GIỜ | Xuyên Làm Sai Dịch Nha Môn - Có Sách Thần Thành Thiên Tài Tu Luyện Chiến Thần Diệt Yêu Ma",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T01:00:51Z",
+      "duration_seconds": 33137,
+      "thumbnail_url": "https://i.ytimg.com/vi/vS84x9ve0-I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aHwAHATFlBY",
+      "title": "Con Nuôi Bị Nhà Giàu Gạt Bỏ Khi Con Ruột Trở Về, Nào Ngờ Cô Đã Bí Mật Cưới CEO Quyền Lực Nổi Tiếng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T00:00:21Z",
+      "duration_seconds": 7079,
+      "thumbnail_url": "https://i.ytimg.com/vi/aHwAHATFlBY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "uYF7MGrQ5-4",
       "title": "Thiếu Gia Nói Chia Tay Nữ Phi Công, Nào Ngờ Anh Chính Là Khách VIP Trên Chuyến Bay Quốc Tế Của Cô",
@@ -812,20 +1008,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "YjCf7Q9Ri0A",
-      "title": "Anh chồng vệ sĩ có võ công cao cường của nữ Tỷ phú, hóa ra là Đế Tôn thế giới ẩn danh!",
-      "channel": "drama7",
-      "channel_title": "Nghiện Hoa Ngữ",
-      "published_at": "2026-11-18T12:53:03Z",
-      "duration_seconds": 8927,
-      "thumbnail_url": "https://i.ytimg.com/vi/YjCf7Q9Ri0A/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -1946,20 +2128,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "Y1ZOTyjf2sE",
-      "title": "CEO Từng Bỏ Rơi Bạn Gái 8 Năm Rồi Trở Về Cưới Chị Cô, Nào Ngờ Anh Chỉ Yêu Một Mình Cô Suốt 12 Năm",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-16T22:30:14Z",
-      "duration_seconds": 14880,
-      "thumbnail_url": "https://i.ytimg.com/vi/Y1ZOTyjf2sE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -4718,20 +4886,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "7qsEp1g-QRk",
-      "title": "PHẦN 2 | 4,5 GIỜ | Đội Quân Tỷ Người, Phế Vật Thức Tỉnh Cấp SSS+ Trở Thành Bất Bại Trên Chiến Trường",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-12T08:06:45Z",
-      "duration_seconds": 15520,
-      "thumbnail_url": "https://i.ytimg.com/vi/7qsEp1g-QRk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -8294,7 +8448,7 @@
       "channel": "drama8",
       "channel_title": "Nhà Hát Drama Alice",
       "published_at": "2026-11-06T04:00:15Z",
-      "duration_seconds": 4933,
+      "duration_seconds": 4809,
       "thumbnail_url": "https://i.ytimg.com/vi/sx7p65o6XMU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
@@ -13899,20 +14053,6 @@
       "published_at": "2026-10-28T02:00:06Z",
       "duration_seconds": 7981,
       "thumbnail_url": "https://i.ytimg.com/vi/Zga7VEIV_r4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "xd2carNS-38",
-      "title": "Full Version l Mười Bốn Năm Chờ Một Người, Tôi Chọn Yêu Người Biết Trân Trọng l Sora Dub",
-      "channel": "drama2",
-      "channel_title": "Sora Dub",
-      "published_at": "2026-10-28T01:00:03Z",
-      "duration_seconds": 3139,
-      "thumbnail_url": "https://i.ytimg.com/vi/xd2carNS-38/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -28638,20 +28778,6 @@
       ]
     },
     {
-      "id": "y5lOkBi5Ft8",
-      "title": "Đội Quân Tỷ Người, Phế Vật Thức Tỉnh Cấp SSS+ Trở Thành Bất Bại Trên Chiến Trường",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-09-27T01:58:16Z",
-      "duration_seconds": 7218,
-      "thumbnail_url": "https://i.ytimg.com/vi/y5lOkBi5Ft8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "tASwRrQzPqM",
       "title": "Velocity Lights — Official Album Release (Original EDM Collection)",
       "channel": "music",
@@ -37926,12 +38052,12 @@
       "channel": "music",
       "channel_title": "TC Music Global",
       "published_at": "2026-09-04T11:05:50Z",
-      "duration_seconds": 180,
+      "duration_seconds": 181,
       "thumbnail_url": "https://i.ytimg.com/vi/sSJtbExGWH4/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "short",
+      "kind": "regular",
       "categories": [
-        "shorts"
+        "music"
       ]
     },
     {
