@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T14:22:03Z",
+  "generated_at": "2026-11-20T21:58:05Z",
   "last_full_refresh_at": "2026-11-20T05:27:17Z",
   "channels": {
     "music": {
@@ -142,6 +142,48 @@
     }
   },
   "videos": [
+    {
+      "id": "kJDwL-xPV3k",
+      "title": "Phần 10 | Phế Vật Tạp Dịch Ngũ Linh Căn, Ta Có Thần Thụ Luyện Phế Dược Thành Bảo Đan",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-20T19:52:48Z",
+      "duration_seconds": 13975,
+      "thumbnail_url": "https://i.ytimg.com/vi/kJDwL-xPV3k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "GpgPOyLIILg",
+      "title": "Phần 7 | Ai Nói Công Tử Ăn Chơi Không Thể Làm Trạng Nguyên",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-20T18:37:14Z",
+      "duration_seconds": 8175,
+      "thumbnail_url": "https://i.ytimg.com/vi/GpgPOyLIILg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "U-CK7U8jZ7o",
+      "title": "Phần 10 | 4,5 GIỜ  |  Phế Vật Ngũ Hành Tạp Linh Căn, Ta Có Thần Thụ Luyện Phế Dược Thành Bảo Đan",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T17:55:52Z",
+      "duration_seconds": 16275,
+      "thumbnail_url": "https://i.ytimg.com/vi/U-CK7U8jZ7o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "z6iTg_mqY6s",
       "title": "5 GIỜ | Thiếu Gia Phủ Tướng Quân Chỉ Muốn Ăn Chơi - Nào Ngờ Là Thiên Tài Tuyệt Thế Xuyên Không",
