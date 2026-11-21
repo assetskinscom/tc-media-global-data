@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T18:37:12Z",
+  "generated_at": "2026-11-21T23:35:38Z",
   "last_full_refresh_at": "2026-11-21T11:47:29Z",
   "channels": {
     "music": {
@@ -142,6 +142,34 @@
     }
   },
   "videos": [
+    {
+      "id": "lwN9kATfdEA",
+      "title": "[FULL 21H] VỢ THÀNH ĐẾ ĐÒI LY HÔN: TA NHẬN HOÀN TRẢ 1 TRIỆU LẦN TU VI | LY VIETSUB 416",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-21T23:34:49Z",
+      "duration_seconds": 43196,
+      "thumbnail_url": "https://i.ytimg.com/vi/lwN9kATfdEA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "FjIXM28dtcA",
+      "title": "Tổng Tài Đào Hoa Bị Bạn Gái Chia Tay, Nào Ngờ Anh Theo Đuổi Đến Tận Cả Đoàn Phim Rồi Quỳ Lau Giày",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-21T22:45:21Z",
+      "duration_seconds": 7642,
+      "thumbnail_url": "https://i.ytimg.com/vi/FjIXM28dtcA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "9B1sdzCY6bQ",
       "title": "Phần 31 | Thái Huyền Thai Châu Truyện",
