@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T23:35:38Z",
+  "generated_at": "2026-11-22T03:30:14Z",
   "last_full_refresh_at": "2026-11-21T11:47:29Z",
   "channels": {
     "music": {
@@ -143,8 +143,120 @@
   },
   "videos": [
     {
+      "id": "fGBRG-3Wq48",
+      "title": "Nữ CEO nhất quyết đòi trao cái ngàn vàng cho gã shipper nghèo, hoá ra anh là Tỷ phú ẩn danh!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-22T03:30:21Z",
+      "duration_seconds": 4357,
+      "thumbnail_url": "https://i.ytimg.com/vi/fGBRG-3Wq48/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "i6Y8Hj8h4oQ",
+      "title": "Cô gái nghèo bị mẹ kế đuổi khỏi nhà, ai ngờ được Tổng Tài cứu đem về làm vợ vì một lí do!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-22T03:30:11Z",
+      "duration_seconds": 5666,
+      "thumbnail_url": "https://i.ytimg.com/vi/i6Y8Hj8h4oQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Y6Wk_fXmfrc",
+      "title": "Sở Hữu Gen Thức Tỉnh: Ta Biến Dị Thành Tuyệt Đỉnh Võ Thần | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-22T03:00:02Z",
+      "duration_seconds": 11319,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y6Wk_fXmfrc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KFsLqpSsJE4",
+      "title": "P1-5 | 51 GIỜ THỎA MÃN | VẠN ĐẠO TIÊN BÌNH - Đệ Tử Ngũ Linh Căn Dùng Bình Thần Âm Thầm Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T02:33:33Z",
+      "duration_seconds": 182677,
+      "thumbnail_url": "https://i.ytimg.com/vi/KFsLqpSsJE4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bFRdVFafLz0",
+      "title": "Cô Gái Đi Xem Mắt Ngồi Nhầm Bàn Rồi Cưới Luôn Người Lạ, Nào Ngờ Anh Là CEO Thầm Yêu Cô Hơn 10 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T02:00:27Z",
+      "duration_seconds": 7400,
+      "thumbnail_url": "https://i.ytimg.com/vi/bFRdVFafLz0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "mOp8us9W_Ks",
+      "title": "3 GIỜ | 10 Vạn Kim Đan - Đệ Tử 500 Không Phá Cảnh - Nào Ngờ Hắn Đã Vô Địch Từ Lâu Trấn Áp Thiên Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T01:53:56Z",
+      "duration_seconds": 11402,
+      "thumbnail_url": "https://i.ytimg.com/vi/mOp8us9W_Ks/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "p3mt9hkM5VU",
+      "title": "Phần 7 - Tập 2 | Tiên Nhãn - Cửu Linh Căn Sở Hữu Mắt Thần Nghịch Thiên Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T00:51:42Z",
+      "duration_seconds": 9878,
+      "thumbnail_url": "https://i.ytimg.com/vi/p3mt9hkM5VU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lMVf6PJ0N0I",
+      "title": "Mẹ Đơn Thân Bị Bạn Trai Bỏ Rơi Ngày Đăng Ký Kết Hôn, Nào Ngờ Cưới Người Lạ Là CEO, Bố Ruột Của Con",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T00:00:12Z",
+      "duration_seconds": 7288,
+      "thumbnail_url": "https://i.ytimg.com/vi/lMVf6PJ0N0I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
       "id": "lwN9kATfdEA",
-      "title": "[FULL 21H] VỢ THÀNH ĐẾ ĐÒI LY HÔN: TA NHẬN HOÀN TRẢ 1 TRIỆU LẦN TU VI | LY VIETSUB 416",
+      "title": "[FULL S4] VỢ THÀNH ĐẾ ĐÒI LY HÔN: TA NHẬN HOÀN TRẢ 1 TRIỆU LẦN TU VI | LY VIETSUB 416",
       "channel": "movies4",
       "channel_title": "Ly VietSub",
       "published_at": "2026-11-21T23:34:49Z",
