@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T11:59:12Z",
+  "generated_at": "2026-11-22T19:20:33Z",
   "last_full_refresh_at": "2026-11-22T11:59:12Z",
   "channels": {
     "music": {
@@ -142,6 +142,76 @@
     }
   },
   "videos": [
+    {
+      "id": "bR1uDw9er8s",
+      "title": "Phần 32 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-22T18:34:16Z",
+      "duration_seconds": 9381,
+      "thumbnail_url": "https://i.ytimg.com/vi/bR1uDw9er8s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BACvVy_ddoo",
+      "title": "7,5 GIỜ | Xuyên Làm Thái Tử Phu Quân Bị Coi Thường - Dùng Kiến Thức Giành Lấy Quyền Lực Tối Thượng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T13:30:23Z",
+      "duration_seconds": 26210,
+      "thumbnail_url": "https://i.ytimg.com/vi/BACvVy_ddoo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0jK99IpiUuE",
+      "title": "Tiểu Sư Đệ Tông Môn - Hắn Mới Là Kẻ Mạnh Nhất - Hệ Thống Lựa Chọn Thần Cấp Mặc Nhiên Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T12:48:08Z",
+      "duration_seconds": 9224,
+      "thumbnail_url": "https://i.ytimg.com/vi/0jK99IpiUuE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "v3WBU19wo7E",
+      "title": "Sinh Tồn Khu Dân Cư: Xây Nơi Trú Ẩn Bằng Từ Khóa | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-22T12:00:37Z",
+      "duration_seconds": 13448,
+      "thumbnail_url": "https://i.ytimg.com/vi/v3WBU19wo7E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oNbfOfbiRYM",
+      "title": "Cô Vợ Chờ Ly Hôn Để Nhận 50 Triệu Từ CEO Lạnh Lùng, Nào Ngờ Anh Ghen Điên Cuồng Khi Cô Muốn Rời Đi",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T12:00:02Z",
+      "duration_seconds": 4690,
+      "thumbnail_url": "https://i.ytimg.com/vi/oNbfOfbiRYM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "V8u9qkypH1A",
       "title": "17 GIỜ THỎA MÃN | Xuyên Về Cổ Đại - Dùng Kiến Thức Hiện Đại Làm Cố Vấn Quân Sự Dẹp Loạn Biên Ải",
