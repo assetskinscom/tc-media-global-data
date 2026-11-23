@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T02:14:46Z",
+  "generated_at": "2026-11-23T08:14:32Z",
   "last_full_refresh_at": "2026-11-23T02:14:46Z",
   "channels": {
     "music": {
@@ -148,6 +148,242 @@
     }
   },
   "videos": [
+    {
+      "id": "-iHO1mh2fV8",
+      "title": "P1-8 | 25 GIỜ THỎA MÃN | Vạn Hóa Thần Đỉnh - Tạp Dịch Ngũ Linh Căn Âm Thầm Tu Luyện Bằng Phế Đan",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-23T07:38:39Z",
+      "duration_seconds": 89988,
+      "thumbnail_url": "https://i.ytimg.com/vi/-iHO1mh2fV8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_zGsJK1jkhg",
+      "title": "FULL 57-61 | Đấu La : Võ Hồn Tà Hỏa Phượng Hoàng bắt đầu cưỡng ép Thủy Băng Nhi.",
+      "channel": "movies9",
+      "channel_title": "EH-Vietsub",
+      "published_at": "2026-11-23T07:00:27Z",
+      "duration_seconds": 1135,
+      "thumbnail_url": "https://i.ytimg.com/vi/_zGsJK1jkhg/sddefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "cVLUUkU6s-g",
+      "title": "3 GIỜ | Xuyên Không Thành Thái Tử Đã Bị Lưu Đày - Hệ Thống Triệu Hồi Thần Tướng Cùng Vạn Kỵ Binh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-23T06:40:07Z",
+      "duration_seconds": 10908,
+      "thumbnail_url": "https://i.ytimg.com/vi/cVLUUkU6s-g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7YvJQA4mxPU",
+      "title": "Nữ CEO Đem Chồng Ra Cá Cược Ly Hôn Suốt 8 Năm Với Bạn Bè, Ai Ngờ Anh Ký Thật Và Kiện Cô Mất Cả Nhà",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-23T05:00:37Z",
+      "duration_seconds": 4478,
+      "thumbnail_url": "https://i.ytimg.com/vi/7YvJQA4mxPU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "a-rvvlD_f0Y",
+      "title": "KHẮC TINH TÀ HỒN SƯ – THIÊN ĐẠO LƯU XUYÊN QUA VẠN NĂM SAU | FULL TẬP 1–59 | HOẠT HÌNH 3D",
+      "channel": "movies9",
+      "channel_title": "EH-Vietsub",
+      "published_at": "2026-11-23T05:00:35Z",
+      "duration_seconds": 8116,
+      "thumbnail_url": "https://i.ytimg.com/vi/a-rvvlD_f0Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "6gHjGE2RbVw",
+      "title": "Sinh Tồn Trên Hoang Đảo Cùng Tiểu Thư Sành Điệu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-23T05:00:06Z",
+      "duration_seconds": 5208,
+      "thumbnail_url": "https://i.ytimg.com/vi/6gHjGE2RbVw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LOcszwukp0g",
+      "title": "Cả Tộc Tu Luyện, Ta Ngồi Hưởng Tu Vi | Hệ Thống Gia Tộc Trỗi Dậy!",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-23T04:30:38Z",
+      "duration_seconds": 9270,
+      "thumbnail_url": "https://i.ytimg.com/vi/LOcszwukp0g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0hxF_F3zRfw",
+      "title": "Chàng Rể Phế Vật Lại Là Thiên Đế Vô Địch Sống Ẩn Danh - Loạt Đại Đế Gặp Ta Đều Phải Khuất Phục",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-23T04:18:36Z",
+      "duration_seconds": 7991,
+      "thumbnail_url": "https://i.ytimg.com/vi/0hxF_F3zRfw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KmDdg7DGkVQ",
+      "title": "KẺ SĂN LÙNG SIÊU PHÀM GIẢ | FULL TẬP 15-17 | HOẠT HÌNH 3D TRUNG QUỐC #fulltap #reviewphim",
+      "channel": "movies9",
+      "channel_title": "EH-Vietsub",
+      "published_at": "2026-11-23T04:15:04Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://i.ytimg.com/vi/KmDdg7DGkVQ/sddefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": []
+    },
+    {
+      "id": "Iw4hURmLggo",
+      "title": "Cô đưa con 5 tuổi về nước tìm cha mất tích nhiều năm, không ngờ ông là đại gia sở hữu nghìn tỷ!",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-23T04:00:24Z",
+      "duration_seconds": 4406,
+      "thumbnail_url": "https://i.ytimg.com/vi/Iw4hURmLggo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "a6PC_Xt2Gog",
+      "title": "Biến Phế Thành Bảo: Ta Cày Nát Thế Giới Sinh Tồn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-23T04:00:13Z",
+      "duration_seconds": 13446,
+      "thumbnail_url": "https://i.ytimg.com/vi/a6PC_Xt2Gog/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "l2aE9btDJ1E",
+      "title": "Chị Gái Chê Thiếu Gia Béo Xấu Đẩy Em Đi Gả Thay, Nào Ngờ Anh Là CEO Đẹp Trai Khiến Chị Hối Hận Mãi",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-23T04:00:06Z",
+      "duration_seconds": 7876,
+      "thumbnail_url": "https://i.ytimg.com/vi/l2aE9btDJ1E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "eB0fNOHdgW0",
+      "title": "[FULL 6H] TẠP DỊCH QUÈN CHINH PHỤC NỮ ĐẾ | LY VIETSUB 3564",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-23T03:34:01Z",
+      "duration_seconds": 23430,
+      "thumbnail_url": "https://i.ytimg.com/vi/eB0fNOHdgW0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ZkHlNzvEUw8",
+      "title": "P1-3 | 7 GIỜ | Lục Hoàng Tử Phế Vật Nào Ngờ Là Chiến Thần Ẩn Mình - Càng Đánh Càng Mạnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-23T03:29:41Z",
+      "duration_seconds": 25208,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZkHlNzvEUw8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "k7dkMnqruHY",
+      "title": "Đại Ca Tâm Thần Càn Quét Tận Thế Quỷ Dị | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-23T03:00:32Z",
+      "duration_seconds": 12521,
+      "thumbnail_url": "https://i.ytimg.com/vi/k7dkMnqruHY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "QD_oxvepZO0",
+      "title": "ĐẤU LA – VÕ HỒN CỦA TA LÀ LAM NGÂN HOÀNG VÀ VẠN HỒN PHIÊN | FULL TẬP 1–8 | HOẠT HÌNH 3D",
+      "channel": "movies9",
+      "channel_title": "EH-Vietsub",
+      "published_at": "2026-11-23T03:00:04Z",
+      "duration_seconds": 4924,
+      "thumbnail_url": "https://i.ytimg.com/vi/QD_oxvepZO0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vR3F8zUlhxo",
+      "title": "P1-2 | 4,5 GIỜ| Đệ Tử Hạ Phẩm Linh Căn - Hệ Thống Đốt Thọ Nguyên Giúp Ta Tu Thành Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-23T02:28:06Z",
+      "duration_seconds": 15882,
+      "thumbnail_url": "https://i.ytimg.com/vi/vR3F8zUlhxo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "NiaF-qbThVY",
       "title": "Bị Hôn Phu Bỏ Rơi Ngày Cầu Hôn, Cô Gái Cưới Anh Thợ Bốc Gạch, Nào Ngờ Anh Là CEO Tỷ Phú Yêu Thầm",
@@ -736,7 +972,7 @@
     },
     {
       "id": "47_eQdIG6wo",
-      "title": "FULL TẬP 38-40 | XUYÊN KHÔNG ĐẤU LA – THÀNH THIÊN TẦM TẬT, TA TRỞ THÀNH CHA ĐƯỜNG TAM | HOẠT HÌNH 3D",
+      "title": "FULL TẬP 38-41 | XUYÊN KHÔNG ĐẤU LA – THÀNH THIÊN TẦM TẬT, TA TRỞ THÀNH CHA ĐƯỜNG TAM | HOẠT HÌNH 3D",
       "channel": "movies9",
       "channel_title": "EH-Vietsub",
       "published_at": "2026-11-22T03:00:02Z",
