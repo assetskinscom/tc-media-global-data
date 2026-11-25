@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T09:10:17Z",
+  "generated_at": "2026-11-25T19:35:45Z",
   "last_full_refresh_at": "2026-11-25T09:10:17Z",
   "channels": {
     "music": {
@@ -148,6 +148,300 @@
     }
   },
   "videos": [
+    {
+      "id": "q1Y2W2kv2Ac",
+      "title": "14 GIỜ THỎA MÃN | Đại Hoàng Tử - Chiến Binh Vô Song - Phế Vật Hấp Thu Oán Khí Tu Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T13:57:22Z",
+      "duration_seconds": 49699,
+      "thumbnail_url": "https://i.ytimg.com/vi/q1Y2W2kv2Ac/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "V6rPc2KzqiY",
+      "title": "4,5 GIỜ | 100 Tuổi Phế Linh Căn - Hệ Thống Hậu Duệ Phản Hồi - Con Cháu Tăng Tu Vi Phản Hồi Gấp Vạn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T13:30:47Z",
+      "duration_seconds": 15368,
+      "thumbnail_url": "https://i.ytimg.com/vi/V6rPc2KzqiY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "I0ZJh9lnLtM",
+      "title": "Gấp 10 Lần Trang Bị - Phế Vật Nhưng Ta Trang Bị Vật Phẩm Nhiều Gấp 10 Lần - Bất Bại Không Đối Thủ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T13:07:32Z",
+      "duration_seconds": 7625,
+      "thumbnail_url": "https://i.ytimg.com/vi/I0ZJh9lnLtM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "JLBpETfytlo",
+      "title": "Tôi Cùng Nữ Hoàng Zombie Sinh Tồn Thời Tận Thế | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-25T13:00:19Z",
+      "duration_seconds": 7455,
+      "thumbnail_url": "https://i.ytimg.com/vi/JLBpETfytlo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "hHknWAN_tr0",
+      "title": "KẺ SĂN LÙNG SIÊU PHÀM GIẢ | FULL TẬP 20-21 | HOẠT HÌNH 3D TRUNG QUỐC",
+      "channel": "movies9",
+      "channel_title": "EH-Vietsub",
+      "published_at": "2026-11-25T12:52:24Z",
+      "duration_seconds": 473,
+      "thumbnail_url": "https://i.ytimg.com/vi/hHknWAN_tr0/sddefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ehtR5HSQASE",
+      "title": "Phần 6-P4 (881-940): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-25T12:43:46Z",
+      "duration_seconds": 2692,
+      "thumbnail_url": "https://i.ytimg.com/vi/ehtR5HSQASE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "--10-3y2jfw",
+      "title": "1 đêm với CEO, cô lỡ mang thai rồi bỏ trốn, ai ngờ anh yêu cô say đắm, lục tung thành phố tìm cô",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-25T12:22:53Z",
+      "duration_seconds": 8368,
+      "thumbnail_url": "https://i.ytimg.com/vi/--10-3y2jfw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "yw1qjHAp9Yw",
+      "title": "Ông nội bá đạo sở hữu hệ thống chi tiêu, càng cho cháu nhiều tiền càng trẻ lại, nữ CEO xin giống!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-25T12:00:37Z",
+      "duration_seconds": 5639,
+      "thumbnail_url": "https://i.ytimg.com/vi/yw1qjHAp9Yw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "D3R-Po49d9M",
+      "title": "5 GIỜ | Nha Dịch Quèn Nào Ngờ Là Thế Tử Lưu Lạc - Âm Thầm Tu Luyện Thành Cao Thủ Võ Thuật",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T12:00:22Z",
+      "duration_seconds": 17128,
+      "thumbnail_url": "https://i.ytimg.com/vi/D3R-Po49d9M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1r6aJpOLmyU",
+      "title": "Kích Hoạt Hệ Thống Nhặt Xác: Một Đao Phá Vạn Quân Lật Đổ Quyền Gia | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-25T12:00:12Z",
+      "duration_seconds": 6486,
+      "thumbnail_url": "https://i.ytimg.com/vi/1r6aJpOLmyU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "iJYAkozObhs",
+      "title": "Phần 2(1-450): Truyền Thuyết Tà Đỉnh Vô Sỉ-Bị Coi Là Phế Vật, Ta Dựa Vào Ma Đỉnh Để Nghịch Thiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-25T11:46:11Z",
+      "duration_seconds": 23027,
+      "thumbnail_url": "https://i.ytimg.com/vi/iJYAkozObhs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "N-LfXhxLk4A",
+      "title": "Bạn Trai Cưới Người Khác, Cô Gái Lấy Cha Nuôi Của Anh Để Trả Đũa, Nào Ngờ Mình Là Tiểu Thư Hào Môn",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-25T11:08:34Z",
+      "duration_seconds": 8674,
+      "thumbnail_url": "https://i.ytimg.com/vi/N-LfXhxLk4A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "p7r6RD7g8cU",
+      "title": "P1-2 | 8 GIỜ THỎA MÃN | Vừa Bị Vợ Ly Hôn - Thiếu Gia Phế Vật Lột Xác Thành Thiên Tài Số 1 Kinh Thành",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T11:07:34Z",
+      "duration_seconds": 28412,
+      "thumbnail_url": "https://i.ytimg.com/vi/p7r6RD7g8cU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "TZwNtWlVLZ8",
+      "title": "Ăn mày xuống núi cầu hôn, vợ chưa cưới bị liệt—anh thật ra là thần y ẩn danh,một kim bạc chữa khỏi!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-25T11:00:28Z",
+      "duration_seconds": 7637,
+      "thumbnail_url": "https://i.ytimg.com/vi/TZwNtWlVLZ8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "UcSJRVuLGAg",
+      "title": "Âm Sinh Tử Xuất Thế: Trận Chiến Cổ Mộ Và Ác Ma Bất Tử | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-25T11:00:07Z",
+      "duration_seconds": 9825,
+      "thumbnail_url": "https://i.ytimg.com/vi/UcSJRVuLGAg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "sP_Dxevh0cI",
+      "title": "Siêu Năng Cấp X - Biến Phế Thành Bảo - Người Khác Rút Vũ Khí Còn Tôi Nhặt Rác Trở Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T10:28:24Z",
+      "duration_seconds": 11317,
+      "thumbnail_url": "https://i.ytimg.com/vi/sP_Dxevh0cI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BnsydUkpupk",
+      "title": "Chủ Tịch Đuổi Nữ Thiên Tài AI Sau Khi Gọi Vốn 10 Tỷ, Nào Ngờ Hơn 30 Bằng Sáng Chế Đều Thuộc Về Cô",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-25T10:00:37Z",
+      "duration_seconds": 6689,
+      "thumbnail_url": "https://i.ytimg.com/vi/BnsydUkpupk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Sxeji9EPwCk",
+      "title": "Tiểu tam vênh váo đến nhà nhận nhầm vợ cả là mẹ chồng, bị dạy đến khóc thét, chồng phá sản bị đuổi!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-25T10:00:14Z",
+      "duration_seconds": 4972,
+      "thumbnail_url": "https://i.ytimg.com/vi/Sxeji9EPwCk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "sp3sTZrx55o",
+      "title": "Trùng Sinh Sinh Tồn Cao Tốc Tôi Gom Sạch Vật Tư Tối Thượng Trừng Trị Kẻ Chơi Bẩn! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-25T10:00:06Z",
+      "duration_seconds": 12484,
+      "thumbnail_url": "https://i.ytimg.com/vi/sp3sTZrx55o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "wsEtUthrYSg",
+      "title": "8 GIỜ THỎA MÃN | Vạn Pháp Thiên Thư - Thiếu Gia Phế Vật Vào Nhà Lao 3 Năm, Bước Ra Trở Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-25T09:28:13Z",
+      "duration_seconds": 29264,
+      "thumbnail_url": "https://i.ytimg.com/vi/wsEtUthrYSg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gK6QtnlZJZI",
+      "title": "Phần 49: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-25T09:19:59Z",
+      "duration_seconds": 7260,
+      "thumbnail_url": "https://i.ytimg.com/vi/gK6QtnlZJZI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "CPJCUxP3KkQ",
       "title": "Thiếu Chủ Ngũ Linh Căn - Kích Hoạt Hệ Thống Gia Tộc - Nằm Im Nhận Về Tu Vi Của Toàn Bộ Tộc Nhân",
