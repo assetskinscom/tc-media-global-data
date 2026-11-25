@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T15:39:20Z",
+  "generated_at": "2026-11-25T00:07:07Z",
   "last_full_refresh_at": "2026-11-24T04:58:53Z",
   "channels": {
     "music": {
@@ -148,6 +148,104 @@
     }
   },
   "videos": [
+    {
+      "id": "C05y8U80abg",
+      "title": "Chồng Coi Vợ 30 Năm Chỉ Là Sống Tạm Bợ, Nào Ngờ Bà Xách Vali Đi Du Lịch Một Mình Khiến Ông Đổi Khác",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-25T00:00:24Z",
+      "duration_seconds": 6607,
+      "thumbnail_url": "https://i.ytimg.com/vi/C05y8U80abg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "w3ugQUpRdbg",
+      "title": "Xuyên Không Làm Thái Giám Giả, Ta Dùng Hệ Thống Vạn Hoa Nắm Quyền Đông Xưởng!",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-24T23:00:03Z",
+      "duration_seconds": 18636,
+      "thumbnail_url": "https://i.ytimg.com/vi/w3ugQUpRdbg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Ccrx1gRQsLA",
+      "title": "Bố Mẹ Bán Chị Gái Lấy 8 Vạn Tệ, Nào Ngờ 10 Năm Sau Em Gái Cứu Chị Và Phát Hiện Vòng Ngọc 13 Triệu Đô",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-24T22:45:38Z",
+      "duration_seconds": 4596,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ccrx1gRQsLA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "jT3ZZpjiOVg",
+      "title": "Phần 5-P5(677-1000): Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-24T22:10:50Z",
+      "duration_seconds": 17847,
+      "thumbnail_url": "https://i.ytimg.com/vi/jT3ZZpjiOVg/hqdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jzETKZvVLSQ",
+      "title": "Phần 6-P3 (676-885): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-24T18:47:24Z",
+      "duration_seconds": 10392,
+      "thumbnail_url": "https://i.ytimg.com/vi/jzETKZvVLSQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9nWBztkPZxE",
+      "title": "Phần 49 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-24T17:49:22Z",
+      "duration_seconds": 7363,
+      "thumbnail_url": "https://i.ytimg.com/vi/9nWBztkPZxE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "j4hfm4ho8g0",
+      "title": "Phần 49 | BẢN ĐẸP FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-24T17:10:48Z",
+      "duration_seconds": 8518,
+      "thumbnail_url": "https://i.ytimg.com/vi/j4hfm4ho8g0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QAAr-tyOOmU",
       "title": "6,5 GIỜ | Xuyên Làm Lính Quèn - Dùng Khả Năng Tiên Tri Vươn Lên Làm Thống Lĩnh Vạn Quân",
@@ -2160,7 +2258,7 @@
     },
     {
       "id": "EzIiu9fgim4",
-      "title": "Nữ sát thủ giết hụt trai nghèo! Anh hạ sát cô, thành trùm mafia và lộ thân phận điệp viên!",
+      "title": "Kẻ ăn mày đánh bại cả băng đảng,cứu mỹ nhân là con gái tỷ phú,rồi trở thành trùm giang hồ giàu nhất!",
       "channel": "drama3",
       "channel_title": "Drama Huyết Chiến",
       "published_at": "2026-11-21T11:00:27Z",
