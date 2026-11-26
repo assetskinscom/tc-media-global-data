@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T19:35:45Z",
+  "generated_at": "2026-11-26T02:27:09Z",
   "last_full_refresh_at": "2026-11-25T09:10:17Z",
   "channels": {
     "music": {
@@ -148,6 +148,90 @@
     }
   },
   "videos": [
+    {
+      "id": "8em7CgIPWM4",
+      "title": "17 GIỜ THỎA MÃN | Đại Hoàng Tử Bị Hãm Hại - Trùng Sinh Lấy Lại Tất Cả Những Gì Đã Mất",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T02:19:04Z",
+      "duration_seconds": 61278,
+      "thumbnail_url": "https://i.ytimg.com/vi/8em7CgIPWM4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "KNvfEhwpXe8",
+      "title": "Sinh Tồn Tầng Lầu Từ Bới Rác Thành Bá Chủ Vạch Trần Âm Mưu Đứng Sau Hệ Thống | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-26T02:00:26Z",
+      "duration_seconds": 9961,
+      "thumbnail_url": "https://i.ytimg.com/vi/KNvfEhwpXe8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "i2EjY6qvQXM",
+      "title": "6,5 GIỜ | Ngọc Nuốt Hồn - Tạp Dịch Ngũ Linh Căn - Vô Tình Sở Hữu Ngọc Thần Nghịch Thiên Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T01:21:08Z",
+      "duration_seconds": 22838,
+      "thumbnail_url": "https://i.ytimg.com/vi/i2EjY6qvQXM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "HioBCGZ3RoU",
+      "title": "Tình Đầu Bỏ CEO Vì Tiền Bỗng Quay Lại, Nào Ngờ Anh Chỉ Yêu Cô Vợ Nghèo Cưới Theo Hợp Đồng 3 Tháng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-26T01:00:05Z",
+      "duration_seconds": 8364,
+      "thumbnail_url": "https://i.ytimg.com/vi/HioBCGZ3RoU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-bDxLY3LMl8",
+      "title": "Nữ Kiểm Soát Không Lưu Cưới Cơ Trưởng Từng Yêu Thầm Nhiều Năm, Nào Ngờ Tình Địch Vu Oan Cướp Chồng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-25T23:00:22Z",
+      "duration_seconds": 9207,
+      "thumbnail_url": "https://i.ytimg.com/vi/-bDxLY3LMl8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "B13f2DWWbM8",
+      "title": "4 Giờ | Xuyên Không Thành Hứa Tiên, Ta Tu Tiên Để Thay Đổi Số Mệnh Bạch Xà!",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-25T23:00:16Z",
+      "duration_seconds": 16028,
+      "thumbnail_url": "https://i.ytimg.com/vi/B13f2DWWbM8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "q1Y2W2kv2Ac",
       "title": "14 GIỜ THỎA MÃN | Đại Hoàng Tử - Chiến Binh Vô Song - Phế Vật Hấp Thu Oán Khí Tu Thành Bất Bại",
