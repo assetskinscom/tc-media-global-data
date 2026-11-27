@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T20:32:14Z",
+  "generated_at": "2026-11-27T03:16:03Z",
   "last_full_refresh_at": "2026-11-26T11:29:26Z",
   "channels": {
     "music": {
@@ -148,6 +148,90 @@
     }
   },
   "videos": [
+    {
+      "id": "qea0dwnMBfY",
+      "title": "Phần 7 (1-300): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-27T03:14:41Z",
+      "duration_seconds": 14274,
+      "thumbnail_url": "https://i.ytimg.com/vi/qea0dwnMBfY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8GBtjUZcmuQ",
+      "title": "3 GIỜ | Càn Khôn Nghiên - Phế Vật Thức Tỉnh Âm Dương Thần Tàng - Âm Thầm Bước Lên Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T02:20:52Z",
+      "duration_seconds": 10987,
+      "thumbnail_url": "https://i.ytimg.com/vi/8GBtjUZcmuQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lG5uVwI2Jmo",
+      "title": "CEO Giả Nghèo Làm Shipper Lừa Bạn Gái 1 Năm, Nào Ngờ Cô Là Thiên Kim Và Cưới CEO Đã Yêu Cô 15 Năm",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T02:00:05Z",
+      "duration_seconds": 5311,
+      "thumbnail_url": "https://i.ytimg.com/vi/lG5uVwI2Jmo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WEbeSJ_xH1c",
+      "title": "Cứu Lão Ăn Mày Nhận Ngay Giáng Long Thập Bát Chưởng - Hệ Thống Kỳ Duyên Một Bước Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T01:20:30Z",
+      "duration_seconds": 11835,
+      "thumbnail_url": "https://i.ytimg.com/vi/WEbeSJ_xH1c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3h8ZXkirjFI",
+      "title": "Con Rể Chê Mẹ Vợ Trồng Rau, Nào Ngờ Bà Thu Hồi 17 Bằng Sáng Chế Khiến Anh Phải Bồi Thường 10 Tỷ Đồng",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T00:00:08Z",
+      "duration_seconds": 6179,
+      "thumbnail_url": "https://i.ytimg.com/vi/3h8ZXkirjFI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "8020Czljwe4",
+      "title": "CEO Tỷ Phú Giả Nghèo 3 Năm Thử Lòng Vợ, Nào Ngờ Khi Mang 99 Xe Cưới Đến Đón, Cô Đã Qua Đời Vì Bệnh",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-26T22:45:25Z",
+      "duration_seconds": 5524,
+      "thumbnail_url": "https://i.ytimg.com/vi/8020Czljwe4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "fz0jX--93a0",
       "title": "3,5 GIỜ | Đệ Tử Phế Nhất Tông Môn - Hệ Thống Thần Hào - Càng Tiêu Linh Thạch Ta Càng Mạnh Mẽ",
