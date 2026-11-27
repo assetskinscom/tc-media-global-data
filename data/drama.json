@@ -1,6 +1,174 @@
 {
-  "generated_at": "2026-11-27T03:16:03Z",
+  "generated_at": "2026-11-27T13:07:38Z",
   "videos": [
+    {
+      "id": "u8jw8WQsenY",
+      "title": "Bị đem tế thần, tên phế vật bất ngờ bộc phát sức mạnh cứu chị gái, khuynh đảo triều đình và mỹ nhân!",
+      "channel": "drama7",
+      "channel_title": "Nghiện Hoa Ngữ",
+      "published_at": "2026-11-27T12:23:10Z",
+      "duration_seconds": 7763,
+      "thumbnail_url": "https://i.ytimg.com/vi/u8jw8WQsenY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "P3OeZOZf8k8",
+      "title": "Tưởng cô là gái quê nên ra mặt khinh thường, ai ngờ lại là vợ của Tổng Tài lạnh lùng, toang rồi!",
+      "channel": "drama6",
+      "channel_title": "CCAP Dramas",
+      "published_at": "2026-11-27T12:00:23Z",
+      "duration_seconds": 3915,
+      "thumbnail_url": "https://i.ytimg.com/vi/P3OeZOZf8k8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "xdu56jw1u_M",
+      "title": "Nữ Giám Đốc Lương 100K Trọng Sinh Giả Nghèo, Nào Ngờ Anh Trai Phải Trông Mộ, Chị Dâu Đi Làm Lao Công",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T12:00:10Z",
+      "duration_seconds": 5188,
+      "thumbnail_url": "https://i.ytimg.com/vi/xdu56jw1u_M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ntLCKOGtyOE",
+      "title": "Nữ CEO trúng thuốc lỡ trao cái ngàn vàng cho thằng phục vụ, ai ngờ anh là Tỷ phú giả dạng!",
+      "channel": "drama5",
+      "channel_title": "CCAP Say Hi",
+      "published_at": "2026-11-27T11:30:39Z",
+      "duration_seconds": 4039,
+      "thumbnail_url": "https://i.ytimg.com/vi/ntLCKOGtyOE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Op7yGzTHJIo",
+      "title": "Phi tần đẹp dan díu với thị vệ, không biết rằng — hắn biết tàng hình, nhờ đó thành đế vương mới!",
+      "channel": "drama3",
+      "channel_title": "Drama Huyết Chiến",
+      "published_at": "2026-11-27T11:00:25Z",
+      "duration_seconds": 7931,
+      "thumbnail_url": "https://i.ytimg.com/vi/Op7yGzTHJIo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "BdQ0NXgMnZA",
+      "title": "Cô Phục Vụ Bị Đuổi Việc Vì Giúp Ông Lão, Nào Ngờ Con Trai Ông Là CEO Đã Tìm Cô Suốt 12 Năm Để Cưới",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T11:00:11Z",
+      "duration_seconds": 4618,
+      "thumbnail_url": "https://i.ytimg.com/vi/BdQ0NXgMnZA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "bx8Q61hyi9E",
+      "title": "Bị ép gả thay cho CEO ngốc, ai ngờ gái quê là thần y tài giỏi, cùng chồng giả ngây lật kèo trả thù!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-27T10:00:19Z",
+      "duration_seconds": 8797,
+      "thumbnail_url": "https://i.ytimg.com/vi/bx8Q61hyi9E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "pCyLfC6jlyE",
+      "title": "Cô Gái Nhờ CEO Trông Cặp Song Sinh 7 Ngày, Nào Ngờ Anh Hủy Hôn Với Thiên Kim Rồi Cầu Hôn Mẹ Hai Bé",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T09:30:19Z",
+      "duration_seconds": 4974,
+      "thumbnail_url": "https://i.ytimg.com/vi/pCyLfC6jlyE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "h7a_7QeUT3Q",
+      "title": "Shipper Bị Vợ Ngoại Tình Ép Ly Hôn, Nào Ngờ Anh Cứu Ông Nội Nữ CEO Rồi Cưới Cô, Vợ Cũ Phải Cầu Xin",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T07:00:22Z",
+      "duration_seconds": 4086,
+      "thumbnail_url": "https://i.ytimg.com/vi/h7a_7QeUT3Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "RauCakgcrz8",
+      "title": "Gặp lại sau 3 năm, anh bắt cô cởi đồ trước mặt mọi người!Ai cũng chờ xem cô bẽ mặt, anh lại không nỡ",
+      "channel": "drama8",
+      "channel_title": "Nhà Hát Drama Alice",
+      "published_at": "2026-11-27T04:00:33Z",
+      "duration_seconds": 5857,
+      "thumbnail_url": "https://i.ytimg.com/vi/RauCakgcrz8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WNA0cbBJ3jU",
+      "title": "Bà Thím 50 Tuổi Nhập Hồn Thành Thiên Kim Hào Môn, Nào Ngờ Bà Vạch Trần Chú Ruột Và Đưa Hắn Vào Tù",
+      "channel": "drama9",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T04:00:25Z",
+      "duration_seconds": 4791,
+      "thumbnail_url": "https://i.ytimg.com/vi/WNA0cbBJ3jU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "SS3b4qFdWhU",
+      "title": "Là tổng tài giàu nhất nước nhưng giả tàn tật thử lòng vợ, nào ngờ cô không chê bai còn chăm sóc anh!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-27T04:00:17Z",
+      "duration_seconds": 6848,
+      "thumbnail_url": "https://i.ytimg.com/vi/SS3b4qFdWhU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "lG5uVwI2Jmo",
       "title": "CEO Giả Nghèo Làm Shipper Lừa Bạn Gái 1 Năm, Nào Ngờ Cô Là Thiên Kim Và Cưới CEO Đã Yêu Cô 15 Năm",
@@ -1269,20 +1437,6 @@
       "published_at": "2026-11-16T10:23:19Z",
       "duration_seconds": 6398,
       "thumbnail_url": "https://i.ytimg.com/vi/K4g_2mnhjrQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "gxSzDA1Jhvo",
-      "title": "Thiên Kim 3 Tuổi Bị Chú Ruột Lừa Đảo , Nào Ngờ Nhờ Muông Thú Vạch Mặt Kẻ Ác Và Cứu Cả Gia Tộc Họ Cố",
-      "channel": "drama9",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-16T09:45:04Z",
-      "duration_seconds": 5018,
-      "thumbnail_url": "https://i.ytimg.com/vi/gxSzDA1Jhvo/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -23172,20 +23326,6 @@
       ]
     },
     {
-      "id": "CGrXGYbgf48",
-      "title": "Cưới “người tàn tật” chỉ vì tức giận… cô gái không ngờ anh là \"Bá Chủ Thế Giới\" ẩn mình!",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2026-01-27T12:00:31Z",
-      "duration_seconds": 7820,
-      "thumbnail_url": "https://i.ytimg.com/vi/CGrXGYbgf48/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "eyPuwpQCi8k",
       "title": "Người giàu nhất giả làm thực tập sinh nghèo, để thử lòng cô vợ kết hôn chớp nhoáng nào ngờ...",
       "channel": "drama5",
@@ -25062,20 +25202,6 @@
       ]
     },
     {
-      "id": "yvZ-zZVNwNI",
-      "title": "Để thử lòng tình 1 đêm, Tỷ Phú giả nghèo làm bảo vệ và cái kết",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-24T12:01:58Z",
-      "duration_seconds": 6345,
-      "thumbnail_url": "https://i.ytimg.com/vi/yvZ-zZVNwNI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "kht_HpbhFb8",
       "title": "Anh Shipper tông trúng xe của nữ CEO vô tình khai mở mắt Thần, trở thành Tỷ phú nhờ giám định cổ vật",
       "channel": "drama7",
@@ -25209,20 +25335,6 @@
       "published_at": "2025-11-21T03:30:45Z",
       "duration_seconds": 2680,
       "thumbnail_url": "https://i.ytimg.com/vi/pGv1rR6NmS8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "Y8OLuCUN4iA",
-      "title": "Lọ Lem bị ép gả cho một CEO ngốc nghếch, nào ngờ anh chỉ giả vờ, sau cưới cưng chiều cô tận trời.",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-20T11:30:39Z",
-      "duration_seconds": 8502,
-      "thumbnail_url": "https://i.ytimg.com/vi/Y8OLuCUN4iA/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -25384,20 +25496,6 @@
       ]
     },
     {
-      "id": "8vkFGXW4UBg",
-      "title": "CEO độc thân 30 năm, nhưng lại yêu \"nữ tạp vụ\" từ cái nhìn đầu tiên, kết hôn ngay lập tức!",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-15T12:00:17Z",
-      "duration_seconds": 6660,
-      "thumbnail_url": "https://i.ytimg.com/vi/8vkFGXW4UBg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "EjONgzccsTo",
       "title": "Tiến sĩ xuyên không thành chàng trai bất tài, dùng văn chương chinh phục quyền lực và mỹ nữ",
       "channel": "drama7",
@@ -25482,20 +25580,6 @@
       ]
     },
     {
-      "id": "DvKs_xbLwZU",
-      "title": "Cô gái tội nghiệp bị ép gả thay cho CEO độc ác, không ngờ chỉ sau đêm tân hôn, anh đã nghiện cô!",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-13T12:00:34Z",
-      "duration_seconds": 8470,
-      "thumbnail_url": "https://i.ytimg.com/vi/DvKs_xbLwZU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "hvAkaE4KKok",
       "title": "Xuyên không thành Tiểu công chúa bị gia đình nghe tiếng lòng, dùng hệ thống diệt gian thần cứu nước",
       "channel": "drama7",
@@ -25531,20 +25615,6 @@
       "published_at": "2025-11-13T05:06:28Z",
       "duration_seconds": 10241,
       "thumbnail_url": "https://i.ytimg.com/vi/ADw5zjgIlnE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "5-PRPh9o5Ys",
-      "title": "Tổng tài đau khổ vì mất mẹ, không ngờ gặp được cô gái khiến anh muốn sống tiếp",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-12T12:00:19Z",
-      "duration_seconds": 6442,
-      "thumbnail_url": "https://i.ytimg.com/vi/5-PRPh9o5Ys/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -25615,20 +25685,6 @@
       "published_at": "2025-11-11T03:30:42Z",
       "duration_seconds": 7144,
       "thumbnail_url": "https://i.ytimg.com/vi/pva-O2CMpCI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "cMCdulUmRQE",
-      "title": "Cô gái tội nghiệp bị kẻ xấu bắt nạt nhưng CEO đã cứu cô và tiết lộ cô là vợ của tỷ phú!",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-11-10T12:01:18Z",
-      "duration_seconds": 9186,
-      "thumbnail_url": "https://i.ytimg.com/vi/cMCdulUmRQE/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -26084,20 +26140,6 @@
       ]
     },
     {
-      "id": "8cltyYEFMbs",
-      "title": "Kẻ ăn xin bị mọi người chế nhạo hoá ra là Cơ Thần Bi-A, ngay cả nữ CEO đẹp nhất cũng muốn cưới anh",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-10-18T12:00:17Z",
-      "duration_seconds": 6058,
-      "thumbnail_url": "https://i.ytimg.com/vi/8cltyYEFMbs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "ngOrvii5B-M",
       "title": "A chàng nghèo nhận nuôi bégái 6 tuổi bị đuổi khỏi nhà, ai ngờ chỉ 3 giây côbé giúp A lời 5 triệu USD",
       "channel": "drama4",
@@ -26371,20 +26413,6 @@
       "published_at": "2025-10-07T04:01:12Z",
       "duration_seconds": 9418,
       "thumbnail_url": "https://i.ytimg.com/vi/zBF4gACzbO0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "BbUUQWnPL6E",
-      "title": "Bé gái 5 tuổi bị cả gia tộc truy sát phải trốn vào rừng, 18 năm sau trở về đòi lại tài sản",
-      "channel": "drama6",
-      "channel_title": "CCAP Dramas",
-      "published_at": "2025-10-06T12:00:18Z",
-      "duration_seconds": 5519,
-      "thumbnail_url": "https://i.ytimg.com/vi/BbUUQWnPL6E/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
