@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-27T13:07:38Z",
+  "generated_at": "2026-11-27T22:20:12Z",
   "last_full_refresh_at": "2026-11-27T13:07:38Z",
   "channels": {
     "music": {
@@ -148,6 +148,34 @@
     }
   },
   "videos": [
+    {
+      "id": "FWVWEwhnb3A",
+      "title": "Phần 3: Hàn Môn Tu Tiên Ký",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-27T14:14:59Z",
+      "duration_seconds": 30077,
+      "thumbnail_url": "https://i.ytimg.com/vi/FWVWEwhnb3A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tsRpI7Ckh58",
+      "title": "6 GIỜ | Võ Lâm Quá Nguy Hiểm - Ta Trở Thành Bất Khả Chiến Bại Trước Khi Xuống Núi",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T13:29:28Z",
+      "duration_seconds": 20650,
+      "thumbnail_url": "https://i.ytimg.com/vi/tsRpI7Ckh58/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QkX5GQmcl4A",
       "title": "Luyện Khí 3 Vạn Tầng - Phong Chủ Phế Vật Nào Ngờ Hắn Đã Bất Bại Từ Lâu",
@@ -360,7 +388,7 @@
     },
     {
       "id": "bx8Q61hyi9E",
-      "title": "Bị ép gả thay cho CEO ngốc, ai ngờ gái quê là thần y tài giỏi, cùng chồng giả ngây lật kèo trả thù!",
+      "title": "Gái quê gả thay gả cho thiếu gia trí tuệ như trẻ 5 tuổi,ai ngờ anh là tỷ phú ẩn danh,giúp cô trả thù",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-27T10:00:19Z",
